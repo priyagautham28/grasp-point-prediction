@@ -1,6 +1,7 @@
 
-# Exclude entire data folder (pixmo datasets are large)
-data/
+# Exclude data subsets v1 and v2
+data/pixmo_subset/
+data/pixmo_subset_v2/
 
 # Exclude figures
 figures/
