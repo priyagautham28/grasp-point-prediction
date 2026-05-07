@@ -25,9 +25,6 @@ __pycache__/
 *.pt
 *.h5
 *.pkl
-*.jpg
-*.jpeg
-*.png
 *.zip
 *.tar
 *.gz
