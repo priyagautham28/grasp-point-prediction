@@ -1,0 +1,2564 @@
+[
+  {
+    "id": 403,
+    "label": "apple",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 54.82142857142858,
+        "y": 43.214285714285715
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/apple_2.jpg",
+    "image_url": "https://img.freepik.com/premium-vector/food-basket-flat-vector-illustration-food-basket-hand-drawing-isolated-vector-illustration_501705-688.jpg"
+  },
+  {
+    "id": 413,
+    "label": "apple",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 75.95238095238095,
+        "y": 62.897290063566416
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/apple_12.jpg",
+    "image_url": "https://lh4.googleusercontent.com/-6rUSxM5uw9M/Tq9nJUX_jjI/AAAAAAAAcGM/nrdoE6isvvM/s800/IMG_3472-2.jpg"
+  },
+  {
+    "id": 404,
+    "label": "apple",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 2.547703810881462,
+        "y": 91.27682847860167
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/apple_3.jpg",
+    "image_url": "https://pbs.twimg.com/media/E8IMw_8WYAE8yjO.jpg"
+  },
+  {
+    "id": 418,
+    "label": "apple",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 60.416666666666664,
+        "y": 47.05951201712269
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/apple_17.jpg",
+    "image_url": "http://babiesandbiscuits.com/wp-content/uploads/2012/11/DSC_0013.jpg"
+  },
+  {
+    "id": 4,
+    "label": "backpack",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 79.34523809523809,
+        "y": 31.349206349206348
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/backpack_5.jpg",
+    "image_url": "https://d3e1m60ptf1oym.cloudfront.net/e18e13a6-26ce-4fe0-bd94-fbf4637675b0/F36780-FR-01_uxga.jpg"
+  },
+  {
+    "id": 9,
+    "label": "backpack",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 52.8387831462502,
+        "y": 55.806084268748975
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/backpack_10.jpg",
+    "image_url": "https://dalberg.com/wp-content/uploads/2020/01/refugee.jpg"
+  },
+  {
+    "id": 15,
+    "label": "backpack",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 49.642857142857146,
+        "y": 50.29718663320565
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/backpack_16.jpg",
+    "image_url": "https://tombraiders.net/stella/walks/TR3walk/screenshots/river-ganges-49.jpg"
+  },
+  {
+    "id": 7,
+    "label": "backpack",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 67.55555555555556,
+        "y": 72.58333333333333
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/backpack_8.jpg",
+    "image_url": "https://pbs.twimg.com/media/DEpk9zHXUAMN4ZC.jpg"
+  },
+  {
+    "id": 36,
+    "label": "bag",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 57.91666666666667,
+        "y": 39.95947315096251
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bag_17.jpg",
+    "image_url": "https://kikumarogaming.com/wp-content/uploads/2020/04/%E5%8B%87%E8%80%85%E3%81%A8%E5%A7%AB%E5%90%9B-%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%A2%E3%83%AA%E3%83%BC%E3%82%B6%E3%83%9E%E3%82%A4%E3%83%9A%E3%83%BC%E3%82%B8%E4%B8%8A%E9%99%90%E8%A7%A3%E6%94%BE%E5%BE%8C.png"
+  },
+  {
+    "id": 27,
+    "label": "bag",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 45.357142857142854,
+        "y": 73.20857603172635
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bag_8.jpg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/qjsEccxEvhTi7ZHdh7OpVA/l.jpg"
+  },
+  {
+    "id": 37,
+    "label": "bag",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 26.2193709400134,
+        "y": 73.72747828945832
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bag_18.jpg",
+    "image_url": "http://4.bp.blogspot.com/-XaVJLrr0XvQ/UURoq-0FsaI/AAAAAAAACrE/puUNycuJvrU/s1600/IMG_0971.jpg"
+  },
+  {
+    "id": 21,
+    "label": "bag",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 41.97580289460833,
+        "y": 40.61716029184102
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bag_2.jpg",
+    "image_url": "https://3.bp.blogspot.com/-ndxAhSljJtk/T9SaYxObftI/AAAAAAAACO0/fso13oK1dS8/s1600/IMG_2005.JPG"
+  },
+  {
+    "id": 760,
+    "label": "basket",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 63.39285714285714,
+        "y": 57.97619047619048
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/basket_19.jpg",
+    "image_url": "https://i.etsystatic.com/iap/673194/4022414528/iap_300x300.4022414528_avrijeld.jpg?version=0"
+  },
+  {
+    "id": 745,
+    "label": "basket",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 27.24625907356582,
+        "y": 40.54984358483132
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/basket_4.jpg",
+    "image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/claude-monet-still-life-with-a-honeydew-melon-aesthetics-store.jpg"
+  },
+  {
+    "id": 755,
+    "label": "basket",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 34.10039425281668,
+        "y": 92.79952491710793
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/basket_14.jpg",
+    "image_url": "https://shop.muji.com/jp/wp-content/uploads/sites/247/2019/04/21160714/dssdfzsrfd1.jpg"
+  },
+  {
+    "id": 761,
+    "label": "basket",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 37.901057389353525,
+        "y": 80.97523960343776
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/basket_20.jpg",
+    "image_url": "https://pleated-jeans.com/wp-content/uploads/2015/07/11134025_287110721459373_2966246575715967013_o-1-1024x1024.jpg"
+  },
+  {
+    "id": 426,
+    "label": "book",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 26.657516548343395,
+        "y": 71.57939096941315
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/book_5.jpg",
+    "image_url": "https://i.etsystatic.com/13118339/r/il/bc83ed/3433320625/il_fullxfull.3433320625_czgp.jpg"
+  },
+  {
+    "id": 428,
+    "label": "book",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 82.45327526764652,
+        "y": 24.352798856263057
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/book_7.jpg",
+    "image_url": "https://www.oldscrolls.com/assets/images/product/31305_4.jpg"
+  },
+  {
+    "id": 438,
+    "label": "book",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 27.300109039502836,
+        "y": 45.90576446808136
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/book_17.jpg",
+    "image_url": "https://i.ytimg.com/vi/qi-83I6Ji4o/maxresdefault.jpg"
+  },
+  {
+    "id": 440,
+    "label": "book",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 89.99951758406097,
+        "y": 82.75166576625249
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/book_19.jpg",
+    "image_url": "http://1.bp.blogspot.com/-6r_JBH7zUTg/TrMKDfoW7uI/AAAAAAABzX8/0vCwg6RilC0/s1600/DSC_0099.JPG"
+  },
+  {
+    "id": 449,
+    "label": "bottle",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 78.01175441608265,
+        "y": 48.914692400707644
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bottle_8.jpg",
+    "image_url": "https://3.bp.blogspot.com/-MifKEE4ASpg/Ui7cj4vkEdI/AAAAAAAAF1k/chqgRQLt-ec/s640/DEMAQUILANTE+BIFASICO+ABALO+COSMETICOS.JPG"
+  },
+  {
+    "id": 459,
+    "label": "bottle",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 17.261904761904763,
+        "y": 43.01587301587302
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bottle_18.jpg",
+    "image_url": "https://2.bp.blogspot.com/-DIBll2nfT0g/W2bYwI7vw-I/AAAAAAABldo/XxzYQ7UiypAF1hCjxdftlkEVDoR8WEfsACLcBGAs/s640/July%2Btosses.jpg"
+  },
+  {
+    "id": 458,
+    "label": "bottle",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 52.785326882846014,
+        "y": 67.95948719069118
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bottle_17.jpg",
+    "image_url": "https://www.essentialoilswithbetsy.com/wp-content/uploads/2022/11/Buy-doTERRA-Lemon-Eucalyptus-15-ml.jpg"
+  },
+  {
+    "id": 457,
+    "label": "bottle",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 24.10812703953473,
+        "y": 27.57325657092301
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bottle_16.jpg",
+    "image_url": "https://piximus.net/media/21080/first-aid-kit-for-broken-hearts-4.jpg"
+  },
+  {
+    "id": 480,
+    "label": "bowl",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 2.989883368773761,
+        "y": 94.01749331672247
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bowl_19.jpg",
+    "image_url": "https://fashionisers.com/wp-content/uploads/2020/11/homemade-salt-scrub-recipes-main-image-fashionisers-1160x720.jpg"
+  },
+  {
+    "id": 479,
+    "label": "bowl",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 56.19047619047619,
+        "y": 74.84298539667861
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bowl_18.jpg",
+    "image_url": "http://3.bp.blogspot.com/-r5uihaV9e78/TxydIun183I/AAAAAAAABho/u8CIHnMhwTg/s640/Jean-Francois-De-Witte-Forks-580x560.jpg"
+  },
+  {
+    "id": 475,
+    "label": "bowl",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 53.035714285714285,
+        "y": 52.64270613107822
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bowl_14.jpg",
+    "image_url": "https://epicureandculture.com/wp-content/uploads/2017/12/Syria-Kousa-Mahshi3-840x473.jpg"
+  },
+  {
+    "id": 463,
+    "label": "bowl",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 89.87701337522313,
+        "y": 40.111800253559295
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bowl_2.jpg",
+    "image_url": "https://reluctantentertainer.com/wp-content/uploads/2021/10/Cream-Cheese-Mascarpone-Frostings-600x900.jpeg"
+  },
+  {
+    "id": 42,
+    "label": "calculator",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 53.273809523809526,
+        "y": 61.111111111111114
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/calculator_3.jpg",
+    "image_url": "https://i.ytimg.com/vi/t7a6gjKHTWg/hqdefault.jpg"
+  },
+  {
+    "id": 46,
+    "label": "calculator",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 66.66026195279726,
+        "y": 64.2434106424341
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/calculator_7.jpg",
+    "image_url": "https://www.asiaone.com/sites/default/files/original_images/Jul2016/20160722_Reuters_Cancer.jpg"
+  },
+  {
+    "id": 44,
+    "label": "calculator",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 66.36904761904762,
+        "y": 50.476190476190474
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/calculator_5.jpg",
+    "image_url": "https://fastly.4sqi.net/img/general/600x600/14273878__bDlIzjPDsff2NzBEZMh9MRFgLOFz7ENX2H4XEkgw-w.jpg"
+  },
+  {
+    "id": 59,
+    "label": "calculator",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 23.461512583014024,
+        "y": 83.03364090973085
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/calculator_20.jpg",
+    "image_url": "https://akmofficial.github.io/SetupGallery/images/SecondSection/3SS.jpg"
+  },
+  {
+    "id": 61,
+    "label": "charger",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 46.54761904761905,
+        "y": 50.44963005122368
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/charger_2.jpg",
+    "image_url": "https://how-then.com/wp-content/uploads/2023/12/TT-768x753.png"
+  },
+  {
+    "id": 78,
+    "label": "charger",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 46.287338645789646,
+        "y": 70.73140422510208
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/charger_19.jpg",
+    "image_url": "http://www.fhs.swiss/pictures/17626/Frederique_Constant_E-Strap.jpg"
+  },
+  {
+    "id": 67,
+    "label": "charger",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 89.01601471027362,
+        "y": 56.113775289686544
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/charger_8.jpg",
+    "image_url": "https://thumbs.dreamstime.com/z/ecology-green-car-9349957.jpg"
+  },
+  {
+    "id": 70,
+    "label": "charger",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 20.297619047619047,
+        "y": 92.38095238095238
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/charger_11.jpg",
+    "image_url": "https://carex.com/cdn/shop/files/ACRL-9100_Web_Images-08_394x.jpg?v=1692992847"
+  },
+  {
+    "id": 491,
+    "label": "cup",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 61.13095238095239,
+        "y": 36.779696276263785
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/cup_10.jpg",
+    "image_url": "https://www.sydneymarkets.com.au/recipes/images/tomato-capsicum-and-chilli-relish.jpg"
+  },
+  {
+    "id": 495,
+    "label": "cup",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 51.612113421781515,
+        "y": 69.19154144285035
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/cup_14.jpg",
+    "image_url": "https://media.sketchfab.com/models/6500f74a44114a03b1697a8f403e7e88/thumbnails/541c3143ea7b47e98098cc1ba069c7fb/cf7f825d021a425e9df034a6ff63cb40.jpeg"
+  },
+  {
+    "id": 500,
+    "label": "cup",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 66.50290885585002,
+        "y": 81.48648454452699
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/cup_19.jpg",
+    "image_url": "https://media.13newsnow.com/assets/WVEC/images/374267087/374267087_1140x641.jpg"
+  },
+  {
+    "id": 490,
+    "label": "cup",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 0.8630952380952381,
+        "y": 6.666666666666667
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/cup_9.jpg",
+    "image_url": "https://essentialhealthcolonics.co.uk/wp-content/uploads/2015/05/salmon-and-raw-veg-food-on-the-go.jpg"
+  },
+  {
+    "id": 873,
+    "label": "earbuds",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 40.05952380952381,
+        "y": 52.73809523809524
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/earbuds_12.jpg",
+    "image_url": "https://i1.sndcdn.com/artworks-ZTpxqEXOJAVO3ugb-Ejocag-t500x500.jpg"
+  },
+  {
+    "id": 872,
+    "label": "earbuds",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 53.05554685643173,
+        "y": 41.255203960146204
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/earbuds_11.jpg",
+    "image_url": "https://www.tech21century.com/wp-content/uploads/2020/05/screenshot-www.ebay_.com-2020.05.jpg"
+  },
+  {
+    "id": 879,
+    "label": "egg",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 60.93889442406457,
+        "y": 57.02013123509977
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/egg_6.jpg",
+    "image_url": "https://1.bp.blogspot.com/-y81ud-HlMTs/UwDodObgxoI/AAAAAAAAA1k/owBfCSm_FF0/s1600/Stitchy+Bear+TMS.jpg"
+  },
+  {
+    "id": 893,
+    "label": "egg",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 62.03666331986062,
+        "y": 38.561803241821266
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/egg_20.jpg",
+    "image_url": "http://3.bp.blogspot.com/-RsptwoSzEmA/UfGVd-x31RI/AAAAAAAAAuo/qBo_iVmIywM/s1600/IMG_4183.JPG"
+  },
+  {
+    "id": 888,
+    "label": "egg",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 72.02380952380952,
+        "y": 36.03174603174603
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/egg_15.jpg",
+    "image_url": "https://image.slidesharecdn.com/lecture4lifecycleofplants-110811092750-phpapp01/95/lecture4-life-cycle-of-plants-15-728.jpg?cb=1313054975"
+  },
+  {
+    "id": 892,
+    "label": "egg",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 52.85833345257286,
+        "y": 36.40042370078636
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/egg_19.jpg",
+    "image_url": "http://3.bp.blogspot.com/-RsptwoSzEmA/UfGVd-x31RI/AAAAAAAAAuo/qBo_iVmIywM/s1600/IMG_4183.JPG"
+  },
+  {
+    "id": 517,
+    "label": "fork",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 7.8732913530537605,
+        "y": 45.99559192868694
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/fork_16.jpg",
+    "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/44/cb/53/photo5jpg.jpg"
+  },
+  {
+    "id": 520,
+    "label": "fork",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 82.61904761904762,
+        "y": 92.5
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/fork_19.jpg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/vaxncgZDZOwHXoOjOJNvoA/348s.jpg"
+  },
+  {
+    "id": 507,
+    "label": "fork",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 89.1028824400944,
+        "y": 38.46321686437829
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/fork_6.jpg",
+    "image_url": "https://homewithhollyj.com/wp-content/uploads/2023/04/Chambray-Blue-and-White-Spring-Tablescape-16-768x960.jpg"
+  },
+  {
+    "id": 521,
+    "label": "fork",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 82.82809313672838,
+        "y": 73.649839957079
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/fork_20.jpg",
+    "image_url": "https://belview.ie/wp-content/uploads/2019/04/french-toast-belview-eggs.jpg"
+  },
+  {
+    "id": 825,
+    "label": "glove",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 48.333333333333336,
+        "y": 41.747517161831425
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/glove_4.jpg",
+    "image_url": "https://lh3.googleusercontent.com/ItakAg3JxeJoBxeGhINoLgnVWt5TUdMo5jgSov72ziLvuiNLlVYbdiKh03ad-bU-gSnGLLUjoSBdDys7tdhTVngLCXRptIsUWRZdkNT9XD8qm5YysufCNFdS-oVKFYWXb2Yy7-ED6lXbjsEeuYuwj7L-TZ-rNX7wEmTxjvHyB0FxqlAbhjb5Zn3IIPr-ZfZyCzIC1q0SV6mfZadXrbcIG21zxaYCQFxVUcX4Brkdmd327bqYOkS6UzvtGuPqyCo0gmtuwnW5iV-9u-d6VM_ZzVmmMSHNZszSu3071v1Ewd2R7sYEvvInFspxDEfSe_5wJ6PhWYlxBxH97T5EC-LJQadCdtFIEowS1BVOl3fScmPZBlby9POLDXPFfyBNliQHiLv4u7kj7yStqThRI3JJnbVeneRAUIR0vVRNgqoBYHdyi-p--HuHAyQCGhvZmxF_YWcl6yTX5HjjB81Fb_iikI_NsRxxuFSNZ2qzHuMum-0TZN2HcfdIAqTkF4aZzZGEBEFA2xDdaz6hg0CCkPZp4dExmMs-5QJWOnHe4d-y1tOmES0z8IApDAr5PcpMxkupEu6idSzh0jogV50I0zlkrqVKHXaD2mAzBjo4byo_=w697-h930-no"
+  },
+  {
+    "id": 829,
+    "label": "glove",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 18.712434383932056,
+        "y": 27.521985970060797
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/glove_8.jpg",
+    "image_url": "https://frank-zy-dou.github.io/projects/Tore/figs/fig_hand_mesh.png"
+  },
+  {
+    "id": 841,
+    "label": "glove",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 30.940533828037765,
+        "y": 73.60693875651023
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/glove_20.jpg",
+    "image_url": "https://www.thierrynoir.com/wp-content/uploads/2020/11/Thierry-Noir-Sydney-Australia-17-1536x1024.jpg"
+  },
+  {
+    "id": 827,
+    "label": "glove",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 53.41216106080419,
+        "y": 76.3963963963964
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/glove_6.jpg",
+    "image_url": "http://assets1.ignimgs.com/vid/thumbnails/2012/08/13/5b2d86ff19e188a7335eef9bd4ca7982-1344900213/frame_0000_1280w.jpg"
+  },
+  {
+    "id": 84,
+    "label": "hairbrush",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 51.66666666666667,
+        "y": 56.716424851190474
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/hairbrush_5.jpg",
+    "image_url": "https://media.fds.fi/product_image/350/12Kent_AK.jpg"
+  },
+  {
+    "id": 101,
+    "label": "headphones",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 92.73809523809524,
+        "y": 25.1984133039202
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/headphones_17.jpg",
+    "image_url": "https://riverdalehub.ca/wp-content/uploads/2023/06/natalie-plociennik-600.jpg"
+  },
+  {
+    "id": 89,
+    "label": "headphones",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 93.89895053649454,
+        "y": 40.94577106475513
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/headphones_5.jpg",
+    "image_url": "http://dubvlive.com/blog/wp-content/uploads/2014/04/DJSchemes.jpg"
+  },
+  {
+    "id": 91,
+    "label": "headphones",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 31.476189749581472,
+        "y": 56.07142857142857
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/headphones_7.jpg",
+    "image_url": "https://azcd.harveynorman.com.au/media/wysiwyg/product/featured/ERKI44B/ERKI44B_2.png"
+  },
+  {
+    "id": 85,
+    "label": "headphones",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 75.47620322644939,
+        "y": 26.071435941320605
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/headphones_1.jpg",
+    "image_url": "https://i.ytimg.com/vi/AlzAru-5XSU/hqdefault.jpg"
+  },
+  {
+    "id": 105,
+    "label": "highlighter",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 33.751145336581814,
+        "y": 55.191171104055
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/highlighter_1.jpg",
+    "image_url": "https://1.bp.blogspot.com/-_O1nLuhL2wY/TzbNjT7s8qI/AAAAAAAAAx0/ZvcO8RWpXPg/s1600/075.JPG"
+  },
+  {
+    "id": 110,
+    "label": "jar",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 15.416666666666668,
+        "y": 42.26190476190476
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/jar_2.jpg",
+    "image_url": "https://img.freepik.com/premium-vector/food-basket-flat-vector-illustration-food-basket-hand-drawing-isolated-vector-illustration_501705-688.jpg"
+  },
+  {
+    "id": 117,
+    "label": "jar",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 96.41729919477761,
+        "y": 16.406466512702078
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/jar_9.jpg",
+    "image_url": "https://i0.wp.com/theupcycledfamily.com/wp-content/uploads/2017/10/image-1.jpeg?resize=5184%2C3456&is-pending-load=1#038;ssl=1"
+  },
+  {
+    "id": 109,
+    "label": "jar",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 8.67589211553229,
+        "y": 47.864961978774964
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/jar_1.jpg",
+    "image_url": "https://1.bp.blogspot.com/_v4ER3wuVcok/S_-wn0BgT-I/AAAAAAAAESg/bDwzY9mWhYE/s1600/weekday+mornings+014.jpg"
+  },
+  {
+    "id": 114,
+    "label": "jar",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 17.142857142857142,
+        "y": 13.975223094056163
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/jar_6.jpg",
+    "image_url": "https://cdn.pixabay.com/photo/2014/08/11/22/41/pasta-416097_640.jpg"
+  },
+  {
+    "id": 132,
+    "label": "kettle",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 93.26198468915877,
+        "y": 67.18568248034069
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/kettle_4.jpg",
+    "image_url": "https://2.bp.blogspot.com/_XjxWYRria_Q/TUrWgU3TggI/AAAAAAAAAlo/hRyHXMLhJMY/s1600/cabinet+trim+001.jpg"
+  },
+  {
+    "id": 133,
+    "label": "kettle",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 57.581018518518526,
+        "y": 7.253086419753087
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/kettle_5.jpg",
+    "image_url": "https://responsibleeatingandliving.com/wp-content/uploads/2018/05/12may2018-spoon-rest-930am.jpg"
+  },
+  {
+    "id": 143,
+    "label": "kettle",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 82.61904761904762,
+        "y": 49.549657871079646
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/kettle_15.jpg",
+    "image_url": "https://assets-global.website-files.com/5d5418be2086e778643257ee/653a982a8547689371da6e40_tseen-ja-main-header-mobile-p-500.jpg"
+  },
+  {
+    "id": 139,
+    "label": "kettle",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 46.89962325979444,
+        "y": 50.55474988532407
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/kettle_11.jpg",
+    "image_url": "https://images.gamersyde.com/image_stream-39934-3881_0002.jpg"
+  },
+  {
+    "id": 165,
+    "label": "keyboard",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 24.45238022577195,
+        "y": 67.83477150408854
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keyboard_17.jpg",
+    "image_url": "https://i.dailymail.co.uk/1s/2020/03/31/14/26633554-8172099-image-a-3_1585662848847.jpg"
+  },
+  {
+    "id": 153,
+    "label": "keyboard",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 19.107022520334123,
+        "y": 65.7808974680371
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keyboard_5.jpg",
+    "image_url": "https://chusugi.jp/wp-content/uploads/2022/11/17083483292844-1.jpg"
+  },
+  {
+    "id": 157,
+    "label": "keyboard",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 51.01190476190476,
+        "y": 78.0952380952381
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keyboard_9.jpg",
+    "image_url": "https://i.ebayimg.com/images/g/~zkAAOSwOkNkVFsq/s-l500.jpg"
+  },
+  {
+    "id": 155,
+    "label": "keyboard",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 41.683754853505214,
+        "y": 62.231141313346505
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keyboard_7.jpg",
+    "image_url": "https://wallpaperaccess.com/full/9628795.jpg"
+  },
+  {
+    "id": 533,
+    "label": "keys",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 46.30952380952381,
+        "y": 68.69747552297456
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keys_12.jpg",
+    "image_url": "https://theithacan.org/wp-content/uploads/2012/10/Park-Ambulance-SS.jpg"
+  },
+  {
+    "id": 536,
+    "label": "keys",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 23.359785653266133,
+        "y": 62.23131136348824
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keys_15.jpg",
+    "image_url": "https://i.etsystatic.com/19606030/c/2104/1672/0/35/il/f2165f/3132521719/il_500x500.3132521719_c9st.jpg"
+  },
+  {
+    "id": 523,
+    "label": "keys",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 65.71428571428571,
+        "y": 81.81338956246705
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keys_2.jpg",
+    "image_url": "https://www.myabandonware.com/media/screenshots/k/krystals-of-zong-6wx/krystals-of-zong_8.png"
+  },
+  {
+    "id": 530,
+    "label": "keys",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 59.82142857142857,
+        "y": 92.85714285714286
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keys_9.jpg",
+    "image_url": "https://www.pro-touring.com/attachment.php?attachmentid=73513&stc=1&d=1364261557"
+  },
+  {
+    "id": 547,
+    "label": "knife",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 48.82936750139509,
+        "y": 38.529411764705884
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/knife_6.jpg",
+    "image_url": "https://s3.amazonaws.com/images.gearjunkie.com/uploads/2022/12/MAGSTONEWALL_DIAGRAM_GREY_0a30153f-b293-4b14-9a77-86d02df3b273-294x119.jpg"
+  },
+  {
+    "id": 556,
+    "label": "knife",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 43.51190476190476,
+        "y": 77.46031746031747
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/knife_15.jpg",
+    "image_url": "https://nicolive.cdn.nimg.jp/tsthumb/thumbnail/220722/10/17/pg23009845838444_800_450.jpg"
+  },
+  {
+    "id": 542,
+    "label": "knife",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 41.54333586897461,
+        "y": 78.8269753298005
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/knife_1.jpg",
+    "image_url": "https://reluctantentertainer.com/wp-content/uploads/2021/10/Cream-Cheese-Mascarpone-Frostings-600x900.jpeg"
+  },
+  {
+    "id": 561,
+    "label": "knife",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 47.22707242038746,
+        "y": 11.247890111169315
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/knife_20.jpg",
+    "image_url": "http://www.beefnbrand.ca/sites/default/files/gallery/gallery_0002_whatsapp_image_2022-06-18_at_11.00.54_pm.jpeg.jpg"
+  },
+  {
+    "id": 169,
+    "label": "laptop",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 28.804363372841436,
+        "y": 67.43846098834298
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/laptop_1.jpg",
+    "image_url": "http://www.alanlawphotography.co.uk/wp-content/uploads/2014/05/maker-heights-wedding-photographer-92.jpg"
+  },
+  {
+    "id": 171,
+    "label": "laptop",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 73.33333333333333,
+        "y": 85.94848533938118
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/laptop_3.jpg",
+    "image_url": "https://i.dailymail.co.uk/1s/2021/08/25/12/47081177-9925455-image-a-47_1629889219409.jpg"
+  },
+  {
+    "id": 175,
+    "label": "laptop",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 55.95269443499844,
+        "y": 52.99932879767978
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/laptop_7.jpg",
+    "image_url": "https://cdn.phenompeople.com/CareerConnectResources/pp/CIGNUS/images/About_Us_Photo_3-1674244909294.png"
+  },
+  {
+    "id": 188,
+    "label": "laptop",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 38.154761904761905,
+        "y": 24.50400278454577
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/laptop_20.jpg",
+    "image_url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/a7051523988075.5632c30074fa7.jpg"
+  },
+  {
+    "id": 562,
+    "label": "marker",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 80.0324118802007,
+        "y": 40.682640923978624
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/marker_1.jpg",
+    "image_url": "https://thumbs.dreamstime.com/z/decryption-word-cloud-concept-grey-background-90690575.jpg"
+  },
+  {
+    "id": 568,
+    "label": "marker",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 23.214285714285715,
+        "y": 20.476190476190474
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/marker_7.jpg",
+    "image_url": "https://www.ncwoodworker.net/forums/index.php?attachments/ff182d27-f6fc-47da-b98d-18554f5f1766-jpeg.192634/"
+  },
+  {
+    "id": 576,
+    "label": "marker",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 40.131919342042245,
+        "y": 29.789536891411377
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/marker_15.jpg",
+    "image_url": "https://nadiacolburn.com/wp-content/uploads/2020/11/IMG_1950-scaled-e1604964041517-1536x1152.jpg"
+  },
+  {
+    "id": 578,
+    "label": "marker",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 45.080235905515366,
+        "y": 31.165539415787723
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/marker_17.jpg",
+    "image_url": "https://www.troxelcustomhomes.com/wp-content/uploads/2016/04/signing.jpg"
+  },
+  {
+    "id": 192,
+    "label": "mouse",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 64.65194306412243,
+        "y": 56.080894300218695
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mouse_4.jpg",
+    "image_url": "https://wallpaperaccess.com/full/9628795.jpg"
+  },
+  {
+    "id": 201,
+    "label": "mouse",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 39.0095841375101,
+        "y": 50.14763860708336
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mouse_13.jpg",
+    "image_url": "https://bravebooks.us/cdn/shop/files/S4B1-Cover.webp?v=1712952479&width=1946"
+  },
+  {
+    "id": 202,
+    "label": "mouse",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 61.03753923667197,
+        "y": 77.0781237225621
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mouse_14.jpg",
+    "image_url": "https://www.devicemag.com/wp-content/uploads/2023/04/macbook-air-as-second-monitor-1.jpg"
+  },
+  {
+    "id": 198,
+    "label": "mouse",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 53.825306612871735,
+        "y": 65.8371861588539
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mouse_10.jpg",
+    "image_url": "https://images-cdn.9gag.com/photo/aREBZDQ_700b.jpg"
+  },
+  {
+    "id": 586,
+    "label": "mug",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 12.202380952380953,
+        "y": 73.535842210541
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mug_5.jpg",
+    "image_url": "https://i.etsystatic.com/22711898/r/il/5ac8be/3842427261/il_794xN.3842427261_h21j.jpg"
+  },
+  {
+    "id": 591,
+    "label": "mug",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 7.792208535330635,
+        "y": 22.177128261990017
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mug_10.jpg",
+    "image_url": "https://pds.exblog.jp/pds/1/201204/01/34/d0106134_22585276.jpg"
+  },
+  {
+    "id": 584,
+    "label": "mug",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 15.29761904761905,
+        "y": 98.45238095238096
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mug_3.jpg",
+    "image_url": "https://i.etsystatic.com/14710836/r/il/302047/4180325703/il_600x600.4180325703_oyyg.jpg"
+  },
+  {
+    "id": 590,
+    "label": "mug",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 65.21428426106772,
+        "y": 79.34009605212667
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mug_9.jpg",
+    "image_url": "https://i.imgflip.com/3t3c1x.jpg"
+  },
+  {
+    "id": 227,
+    "label": "notebook",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 1.0119047619047619,
+        "y": 19.047619047619047
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/notebook_19.jpg",
+    "image_url": "https://d33wubrfki0l68.cloudfront.net/e174b63ea445d199862b86c4c751837d301c387b/1323f/breweries/white-mountain-brewing-food-and-drink.jpg"
+  },
+  {
+    "id": 224,
+    "label": "notebook",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 15.186389198680683,
+        "y": 96.89200016868385
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/notebook_16.jpg",
+    "image_url": "https://open-book.ca/var/site/storage/images/news/watercolour-illustrator-qin-leng-shares-her-dreamy-and-inspiring-workspace/36014-1-eng-CA/Watercolour-Illustrator-Qin-Leng-Shares-her-Dreamy-and-Inspiring-Workspace.jpg"
+  },
+  {
+    "id": 214,
+    "label": "notebook",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 55.47619047619048,
+        "y": 25.015633680455206
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/notebook_6.jpg",
+    "image_url": "https://assets.entrepreneur.com/images/misc/1524769020_4.jpg"
+  },
+  {
+    "id": 215,
+    "label": "notebook",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 80.01152177069216,
+        "y": 92.59418487548828
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/notebook_7.jpg",
+    "image_url": "https://i.ytimg.com/vi/vpNdX6fqSHU/maxresdefault.jpg"
+  },
+  {
+    "id": 243,
+    "label": "onion",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 45.09636895109391,
+        "y": 13.468250283727992
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/onion_15.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5c8d3100523958b54f14021d/9c68c4e1-9708-4777-8e40-7f13f980f336/IMG_7495.jpg"
+  },
+  {
+    "id": 248,
+    "label": "onion",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 71.68442084406608,
+        "y": 24.24427182485885
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/onion_20.jpg",
+    "image_url": "https://cdn-fastly.foodtalkdaily.com/media/2020/10/27/6268804/hearty-bison-chili-bowl-for-the-win.jpg?size=720x845&nocrop=1"
+  },
+  {
+    "id": 244,
+    "label": "onion",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 54.333332606724326,
+        "y": 65.50854791570461
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/onion_16.jpg",
+    "image_url": "https://www.ashcroftfamilytable.com/wp-content/uploads/2021/12/IMG_3044-520x347.png"
+  },
+  {
+    "id": 235,
+    "label": "onion",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 63.182043912066945,
+        "y": 65.11029060753492
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/onion_7.jpg",
+    "image_url": "https://onionworld.net/wp-content/uploads/2018/11/Onions-500x382.jpg"
+  },
+  {
+    "id": 790,
+    "label": "pan",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 55.65878274429446,
+        "y": 7.601351253389008
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pan_9.jpg",
+    "image_url": "https://i0.wp.com/catwillmadeit.com/wp-content/uploads/2021/05/Pesto-Tomato-Basil-Spaghetti-Final-Pic-edited.jpg?w=1536&ssl=1"
+  },
+  {
+    "id": 785,
+    "label": "pan",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 22.321428571428573,
+        "y": 53.125
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pan_4.jpg",
+    "image_url": "https://pbs.twimg.com/media/EzQPr5pVIAEgwF5.jpg"
+  },
+  {
+    "id": 801,
+    "label": "pan",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 73.66985848391293,
+        "y": 58.2936408456589
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pan_20.jpg",
+    "image_url": "https://timelesstreasuretrove.com/wp-content/uploads/2018/03/adding-saute-mushrooms.jpg"
+  },
+  {
+    "id": 798,
+    "label": "pan",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 78.73375173450428,
+        "y": 90.1479181802625
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pan_17.jpg",
+    "image_url": "https://tailgating-challenge.com/wp-content/uploads/2022/01/bacon-up-bacon-grease-review.jpg"
+  },
+  {
+    "id": 612,
+    "label": "pen",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 58.42874562528703,
+        "y": 46.126126126126124
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pen_11.jpg",
+    "image_url": "https://cdn.abcotvs.com/dip/images/11575071_021722-wpvi-tarhonda-hiv-530-video-vid.jpg"
+  },
+  {
+    "id": 608,
+    "label": "pen",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 89.12197993274134,
+        "y": 63.78516527189942
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pen_7.jpg",
+    "image_url": "https://i.etsystatic.com/18221639/r/il/2bcb56/3906590686/il_fullxfull.3906590686_a6tc.jpg"
+  },
+  {
+    "id": 619,
+    "label": "pen",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 91.99062613430303,
+        "y": 82.80036780391524
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pen_18.jpg",
+    "image_url": "https://i.pinimg.com/originals/5f/42/f7/5f42f78fde8366b4caa4440cdcf46645.jpg"
+  },
+  {
+    "id": 604,
+    "label": "pen",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 44.094619841965866,
+        "y": 85.30363488162487
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pen_3.jpg",
+    "image_url": "https://pbs.twimg.com/media/D1UlAOiX0AAHq_0.jpg"
+  },
+  {
+    "id": 640,
+    "label": "phone",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 57.10937766524717,
+        "y": 20.279358083202695
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/phone_19.jpg",
+    "image_url": "https://frank-zy-dou.github.io/projects/Tore/figs/fig_hand_mesh.png"
+  },
+  {
+    "id": 635,
+    "label": "phone",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 12.257817723366466,
+        "y": 57.081622877030725
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/phone_14.jpg",
+    "image_url": "https://1.bp.blogspot.com/-pnLHeEYY-DQ/V3soz4dMFGI/AAAAAAAAExI/OkGww4HaByYigMDY_VWh3qyGiR6e-U2CgCLcB/s1600/DaegwallyeongSheepranch.jpg"
+  },
+  {
+    "id": 639,
+    "label": "phone",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 10.833333333333334,
+        "y": 96.85714285714285
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/phone_18.jpg",
+    "image_url": "https://d39lxsrz40jt15.cloudfront.net/downloads/EDG2012/asset_2208__p1712mnmil1126rnl1k701ns41qnh1l_w600_h0.png"
+  },
+  {
+    "id": 629,
+    "label": "phone",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 67.85714285714286,
+        "y": 58.25345161798222
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/phone_8.jpg",
+    "image_url": "https://cdn.staticneo.com/ew/thumb/d/db/NEO_177.jpg/730px-NEO_177.jpg"
+  },
+  {
+    "id": 646,
+    "label": "plate",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 79.34523809523809,
+        "y": 80.0
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/plate_5.jpg",
+    "image_url": "http://1.bp.blogspot.com/_UhfpS7d2mJE/TOIWeCW07SI/AAAAAAAAAkQ/O7nakVtLF-w/s280/100_2795.JPG"
+  },
+  {
+    "id": 652,
+    "label": "plate",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 85.51710886586713,
+        "y": 21.098238673824998
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/plate_11.jpg",
+    "image_url": "https://hungryforever.net/wp-content/uploads/2017/01/Aval-Dosa-Recipe.jpg"
+  },
+  {
+    "id": 655,
+    "label": "plate",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 17.455357142857142,
+        "y": 89.52659970238095
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/plate_14.jpg",
+    "image_url": "https://lh3.googleusercontent.com/ofu5EvxAHphmw-i-uHVSz9q1R7yBJZ_8ZvYQoUACYg4E2aINPkSXTYuB0lUBG67dz2hyuGWO=w768-h768-n-no-v1"
+  },
+  {
+    "id": 649,
+    "label": "plate",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 6.164294109964738,
+        "y": 38.60341027723002
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/plate_8.jpg",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPasyPG44TpWedEAhQokbZYeNW47d-A7i4l7jeh=w1080-h608-p-no-v0"
+  },
+  {
+    "id": 773,
+    "label": "pot",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 23.19047655378069,
+        "y": 87.57142850330898
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pot_12.jpg",
+    "image_url": "https://thesmartlocal.com/wp-content/uploads/2015/04/images_easyblog_images_465_BKK-FOOD-3723.jpg"
+  },
+  {
+    "id": 768,
+    "label": "pot",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 88.84079277398402,
+        "y": 75.27449227314392
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pot_7.jpg",
+    "image_url": "https://i.etsystatic.com/13118339/r/il/bc83ed/3433320625/il_fullxfull.3433320625_czgp.jpg"
+  },
+  {
+    "id": 765,
+    "label": "pot",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 57.59523664202008,
+        "y": 88.28125
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pot_4.jpg",
+    "image_url": "https://media.karousell.com/media/photos/products/2022/10/1/reverted_monstera_albo_1664635726_d981b4fb.jpg"
+  },
+  {
+    "id": 778,
+    "label": "pot",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 23.765675750884498,
+        "y": 73.7344548891441
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pot_17.jpg",
+    "image_url": "https://farolito.com/wp-content/uploads/2021/02/nav_sister_property_2_4l.jpg"
+  },
+  {
+    "id": 253,
+    "label": "remote",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 76.9588752019973,
+        "y": 93.44002826598712
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/remote_5.jpg",
+    "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/eb/6b/79/auction-eats.jpg"
+  },
+  {
+    "id": 254,
+    "label": "remote",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 73.86904761904762,
+        "y": 74.022392671145
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/remote_6.jpg",
+    "image_url": "https://i.imgflip.com/5vrrbh.jpg"
+  },
+  {
+    "id": 266,
+    "label": "remote",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 21.845238095238095,
+        "y": 77.23615712257454
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/remote_18.jpg",
+    "image_url": "https://geeksvalley.com/wp-content/uploads/2017/04/light.gif"
+  },
+  {
+    "id": 264,
+    "label": "remote",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 11.071428571428571,
+        "y": 15.089285714285714
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/remote_16.jpg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/U6D1FnaVTo3UvAt-8c1O0w/o.jpg"
+  },
+  {
+    "id": 278,
+    "label": "scissor",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 23.335840690446968,
+        "y": 67.21424549549549
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/scissor_10.jpg",
+    "image_url": "https://i.ytimg.com/vi/fvGwN2wnWI4/maxresdefault.jpg"
+  },
+  {
+    "id": 282,
+    "label": "scissor",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 35.08199245515436,
+        "y": 35.678391959798994
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/scissor_14.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/589a107cd1758ec323bf0fe3/1508697400353-L8FKKN3GEQYDNMJB50Y8/AWEXXX160415-00091-01.jpg"
+  },
+  {
+    "id": 276,
+    "label": "scissor",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 78.70301429086105,
+        "y": 2.8694037020431695
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/scissor_8.jpg",
+    "image_url": "https://pennstatehealthnews.org/wp-content/uploads/2020/11/Tripletownaces.jpg"
+  },
+  {
+    "id": 271,
+    "label": "scissor",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 56.425254696885276,
+        "y": 55.0163132475768
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/scissor_3.jpg",
+    "image_url": "https://1.bp.blogspot.com/-B_t8dTy3kZM/Xuf7sFKAStI/AAAAAAAASIE/tao3TmyBfg8E1YLnvKNF5uIr7iv0NI6TQCLcBGAsYHQ/s320/20200615_143930_resized.jpg"
+  },
+  {
+    "id": 665,
+    "label": "shoe",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 48.51190476190476,
+        "y": 90.88510140511718
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/shoe_4.jpg",
+    "image_url": "https://1.bp.blogspot.com/-7-7idsaSLTo/VWz9WyfeMZI/AAAAAAACEGk/440Wn9mJC5U/s800/Disney%2BTomorrowland%2Bfilm%2Bcostumes.jpg"
+  },
+  {
+    "id": 679,
+    "label": "shoe",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 94.09523736862909,
+        "y": 91.40894874582372
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/shoe_18.jpg",
+    "image_url": "https://hongkonghustle.com/wp-content/uploads/2015/07/boogie-playboys-hong-kong-hk-rockabilly-band.jpg"
+  },
+  {
+    "id": 668,
+    "label": "shoe",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 36.391394063150386,
+        "y": 96.97918200944396
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/shoe_7.jpg",
+    "image_url": "https://www.kwn.ne.jp/61890/img/06.jpg"
+  },
+  {
+    "id": 670,
+    "label": "shoe",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 64.88095238095238,
+        "y": 93.21428571428572
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/shoe_9.jpg",
+    "image_url": "https://capitollium.fbitsstatic.net/img/p/vestido-frente-unica-cetim-tiras-pink-147724/267067-3.jpg?w=800&h=800&v=no-change"
+  },
+  {
+    "id": 802,
+    "label": "sock",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 43.03204563595938,
+        "y": 63.41602350362842
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/sock_1.jpg",
+    "image_url": "https://bit.ly/3oAxIvt"
+  },
+  {
+    "id": 812,
+    "label": "sock",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 14.317488680260478,
+        "y": 77.17472472049678
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/sock_11.jpg",
+    "image_url": "https://yt3.ggpht.com/a/AATXAJxD9cV8w1OGhIlcsJ0iZnxDW8twCqpsHIaAvQ=s900-c-k-c0xffffffff-no-rj-mo"
+  },
+  {
+    "id": 814,
+    "label": "sock",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 4.583333333333333,
+        "y": 43.839285714285715
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/sock_13.jpg",
+    "image_url": "https://2.bp.blogspot.com/-j060x_QBBvQ/WMWiBfZ0MdI/AAAAAAABvDg/Kfg1iSKsYVQExgntZhHR4wdEwhrjpx2lACLcB/s1600/cute-dogs-168-07.jpg"
+  },
+  {
+    "id": 804,
+    "label": "sock",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 62.45238167898995,
+        "y": 65.82539634099082
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/sock_3.jpg",
+    "image_url": "https://i.nextmedia.com.au/Galleries/20191117080931_GettyImages-1188153505.jpg"
+  },
+  {
+    "id": 896,
+    "label": "spatula",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 31.372549019607842,
+        "y": 34.778601256536625
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spatula_3.jpg",
+    "image_url": "https://content.instructables.com/FSL/ERKD/GJ7MULNI/FSLERKDGJ7MULNI.jpg?auto=webp&frame=1"
+  },
+  {
+    "id": 907,
+    "label": "spatula",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 30.696303888283904,
+        "y": 77.72094750978655
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spatula_14.jpg",
+    "image_url": "https://f.ptcdn.info/728/080/000/rvcwfz13vcnDWrZ5BwLKl-o.jpg"
+  },
+  {
+    "id": 906,
+    "label": "spatula",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 93.98268472580683,
+        "y": 52.82726302831253
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spatula_13.jpg",
+    "image_url": "https://media.istockphoto.com/id/1474617080/photo/fresh-marbled-wagyu-beef-ribeye-steak-on-wooden-board.jpg?s=612x612&w=0&k=20&c=4HYHpHZoGtVItDPcIRvsSDhVxpKVQ563RxshS4D9twk="
+  },
+  {
+    "id": 897,
+    "label": "spatula",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 43.67724827357701,
+        "y": 71.11647634966094
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spatula_4.jpg",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDXEqHfaNqlvTDHUaZvDdbjdRmvy7G6rp7HdXatbAikEE1AOVpDeNsLAImqCTaN6BU8uoYg68v8KQvXFRu5rcg4waTgvq6cbtXVDwWLgO-YcDenl0uYNYLM5ANnZE5pmCDz8E06DIAL1Ey4XiH7qeOGZ0-f1hyphenhyphenRZZMWUfurKgMAIENEoEoIgTewgfDJc4/s16000-rw/baked-spaghetti-main-recipesmymomgaveme.com.jpg"
+  },
+  {
+    "id": 697,
+    "label": "spoon",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 69.82142857142857,
+        "y": 23.606667318681627
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spoon_16.jpg",
+    "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/2f/02/21/photo2jpg.jpg"
+  },
+  {
+    "id": 692,
+    "label": "spoon",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 21.641108487803017,
+        "y": 32.559068046736215
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spoon_11.jpg",
+    "image_url": "https://i0.wp.com/www.clarkandmiller.com/wp-content/uploads/2018/04/tablespoon-teaspoon.png?resize=300%2C169&ssl=1"
+  },
+  {
+    "id": 695,
+    "label": "spoon",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 22.706985607542247,
+        "y": 31.006483327690205
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spoon_14.jpg",
+    "image_url": "https://content.instructables.com/FSL/ERKD/GJ7MULNI/FSLERKDGJ7MULNI.jpg?auto=webp&frame=1"
+  },
+  {
+    "id": 691,
+    "label": "spoon",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 37.662398721183536,
+        "y": 80.48800869056572
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spoon_10.jpg",
+    "image_url": "http://www.mitsuwakai-nara.jp/il20210610173427/img/image1.JPG"
+  },
+  {
+    "id": 301,
+    "label": "stapler",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 93.05646143336979,
+        "y": 88.8438849103584
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/stapler_15.jpg",
+    "image_url": "https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/TVSeries/Scandal_192452700-SCD._V399424282_SX1080_.jpg"
+  },
+  {
+    "id": 292,
+    "label": "stapler",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 56.78828493422685,
+        "y": 34.17152131672043
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/stapler_6.jpg",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjplmGUe0-Yj1KwWUND587zRuAF37kYZVLc4_627Qh0HqJNmWlQHsvkUHmJhq_bpkcfLLpuyjxbI5eQbmilGfUs6XsgsrTeIVLjagvnUZZLLoh6r_ZLSeFVB1Jxw9VNIEwbS-WG5g3Bx-CEPvKlOmfn096EdRtoXj0WoKeyNcQNBnJZ1ggvrGS5xw3U4noU/s320/PXL_20231111_174205365.jpg"
+  },
+  {
+    "id": 293,
+    "label": "stapler",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 33.46706037950438,
+        "y": 50.811395729290844
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/stapler_7.jpg",
+    "image_url": "https://www.med.unc.edu/medicine/rheumatology-allergy-immunology/wp-content/uploads/sites/1286/2022/03/xraywide.jpeg"
+  },
+  {
+    "id": 846,
+    "label": "t-shirt",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 59.282106672014514,
+        "y": 60.68044026683794
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/t-shirt_5.jpg",
+    "image_url": "https://media.istockphoto.com/id/184858331/photo/lumber-industry-harvesting.jpg?s=612x612&w=0&k=20&c=Az5z5NbZFEH4ayENEeHn-7qHBhLuy83IJc9oEXbRbqU="
+  },
+  {
+    "id": 843,
+    "label": "t-shirt",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 23.297809800877285,
+        "y": 58.271575062766566
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/t-shirt_2.jpg",
+    "image_url": "https://renopedia.sg/wp-content/uploads/2020/02/Interior-Design-Singapore-Modern-Scandinavian-Resort-Vibe-Free-Space-Intent-e1581238225284.jpg"
+  },
+  {
+    "id": 860,
+    "label": "t-shirt",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 56.05446564067663,
+        "y": 92.499679166202
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/t-shirt_19.jpg",
+    "image_url": "https://i.ytimg.com/vi/MKVtZFxzIm0/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ad4GgAKAD4oCDAgAEAEYZSBMKEUwDw==&rs=AOn4CLAgEss0UtZxCntmmCVFO6ibtHmLuQ"
+  },
+  {
+    "id": 849,
+    "label": "t-shirt",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 31.50402447947848,
+        "y": 47.795299018149365
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/t-shirt_8.jpg",
+    "image_url": "https://s2-vogue.glbimg.com/HmO6lvHBYI0jpR98vvQfX_kmxFY=/0x0:598x334/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_5dfbcf92c1a84b20a5da5024d398ff2f/internal_photos/bs/2022/F/6/kVMnYVTQy1qTegtN7Vtw/2016-03-26-deborah-secco.jpg"
+  },
+  {
+    "id": 316,
+    "label": "tape",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 95.122152389436,
+        "y": 33.63547553390134
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tape_15.jpg",
+    "image_url": "https://billykfishing.com/wp-content/uploads/2019/07/IMG_8357.jpg"
+  },
+  {
+    "id": 302,
+    "label": "tape",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 5.529864537233562,
+        "y": 45.341494344022514
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tape_1.jpg",
+    "image_url": "http://www.hinterlandmusic.net/pics/cr1.jpg"
+  },
+  {
+    "id": 317,
+    "label": "tape",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 81.30952380952381,
+        "y": 46.34920634920635
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tape_16.jpg",
+    "image_url": "https://www.finishing.com/38/3836-2a.jpg"
+  },
+  {
+    "id": 318,
+    "label": "tape",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 89.6293907866809,
+        "y": 88.7843874911827
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tape_17.jpg",
+    "image_url": "https://garyfarrelly.com/wp-content/uploads/2013/06/3B-copy.jpg"
+  },
+  {
+    "id": 720,
+    "label": "tomato",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 79.70238095238096,
+        "y": 36.7816091954023
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tomato_19.jpg",
+    "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/16/40/61/58/photo3jpg.jpg"
+  },
+  {
+    "id": 712,
+    "label": "tomato",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 75.73901864980984,
+        "y": 11.95921195921196
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tomato_11.jpg",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/5d83b16afdd7d1538b697422/1581437462212-8DN6XE1K8TMJO228MCW2/Adjustments.jpeg"
+  },
+  {
+    "id": 706,
+    "label": "tomato",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 40.32925883769651,
+        "y": 58.487982712261434
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tomato_5.jpg",
+    "image_url": "https://d2gqo3h0psesgi.cloudfront.net/auto/quillami-fast-food-q8tckp7g-food3.jpg"
+  },
+  {
+    "id": 719,
+    "label": "tomato",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 46.13095238095239,
+        "y": 60.317460317460316
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tomato_18.jpg",
+    "image_url": "https://i0.wp.com/wpdash.medianewsgroup.com/wp-content/uploads/2021/06/OCR-L-RECIPE-WREC-0620-02-HORIZ.jpg?fit=620%2C9999px&ssl=1"
+  },
+  {
+    "id": 327,
+    "label": "toothbrush",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 15.203568752016109,
+        "y": 13.789330090469768
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/toothbrush_6.jpg",
+    "image_url": "https://lh6.googleusercontent.com/-KzvJRf0u78U/TWu6xrBYNhI/AAAAAAAAAQg/7Iq8Yh_Bj7U/s1600/cabinets_before_2.jpg"
+  },
+  {
+    "id": 337,
+    "label": "toothbrush",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 41.99088721628672,
+        "y": 50.77115516445608
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/toothbrush_16.jpg",
+    "image_url": "https://i.dailymail.co.uk/i/pix/2018/01/29/13/48B4220500000578-0-image-a-11_1517232825149.jpg"
+  },
+  {
+    "id": 333,
+    "label": "toothbrush",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 11.873752187156688,
+        "y": 9.10425780328135
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/toothbrush_12.jpg",
+    "image_url": "https://thumbs.dreamstime.com/z/simple-white-clock-bathroom-concept-life-routine-97499787.jpg"
+  },
+  {
+    "id": 325,
+    "label": "toothbrush",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 28.98809523809524,
+        "y": 31.471352008398256
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/toothbrush_4.jpg",
+    "image_url": "https://1.bp.blogspot.com/_4wM6hM6AElc/TBA9wpoMiFI/AAAAAAAABwY/xgV1LRHxIh0/s1600/Two+Toothbrushes.jpg"
+  },
+  {
+    "id": 730,
+    "label": "tray",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 49.76190476190476,
+        "y": 51.316964285714285
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tray_9.jpg",
+    "image_url": "https://fastly.4sqi.net/img/general/600x600/cS4wTv-kMazh9QU83SGXlNYk6aN3drU1_H8NX7sFYQk.jpg"
+  },
+  {
+    "id": 739,
+    "label": "tray",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 73.09523809523809,
+        "y": 71.19047619047619
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tray_18.jpg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/BYsEN253ASETZqxnsBo1TQ/348s.jpg"
+  },
+  {
+    "id": 722,
+    "label": "tray",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 86.72619047619048,
+        "y": 16.607142857142858
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tray_1.jpg",
+    "image_url": "http://static1.squarespace.com/static/55b8f403e4b0948b72b9043c/55bc1c8ee4b033c7f7a01884/607072fb5cd2705b5f832a2a/1617998467087/Spring+focaccia+unbaked.jpg?format=1500w"
+  },
+  {
+    "id": 741,
+    "label": "tray",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 31.24458903358096,
+        "y": 4.562365214029948
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tray_20.jpg",
+    "image_url": "https://s3-media0.fl.yelpcdn.com/bphoto/kJtVI17w_7KB5GvwtT4m8g/348s.jpg"
+  },
+  {
+    "id": 349,
+    "label": "umbrella",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 45.0,
+        "y": 27.504481073117283
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/umbrella_8.jpg",
+    "image_url": "https://3.bp.blogspot.com/_QMuDihPPyPA/R01w-2OwI9I/AAAAAAAAC-U/X27Hg_RGSCU/w366-h640/Untitled-1+copy.jpg"
+  },
+  {
+    "id": 346,
+    "label": "umbrella",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 58.17354164847989,
+        "y": 50.67296032198097
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/umbrella_5.jpg",
+    "image_url": "https://newengland.com/wp-content/uploads/legacy_media_photos/6189.jpg"
+  },
+  {
+    "id": 342,
+    "label": "umbrella",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 37.003678593226766,
+        "y": 4.593604593604594
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/umbrella_1.jpg",
+    "image_url": "https://www.curateddisplays.com/cdn/shop/files/6F775EAF-2046-4EA7-BBEA-10DE5696D041.jpg?v=1712801544&width=1946"
+  },
+  {
+    "id": 347,
+    "label": "umbrella",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 39.25388938665798,
+        "y": 61.26263854626316
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/umbrella_6.jpg",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7a/41/a4/the-dinosaur-at-the-entrance.jpg?w=1200&h=1200&s=1"
+  },
+  {
+    "id": 368,
+    "label": "wallet",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 29.56071328417545,
+        "y": 90.48609048609049
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/wallet_7.jpg",
+    "image_url": "http://1.bp.blogspot.com/-5aYzYGqrJ7A/TXQBc3WLnCI/AAAAAAAACd4/E5V4DwixubU/s1600/Vegas2011%2B118.jpg"
+  },
+  {
+    "id": 370,
+    "label": "wallet",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 61.368232362035194,
+        "y": 52.64174881866383
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/wallet_9.jpg",
+    "image_url": "https://f77b645ba407818940af-2ab05dac8f2a6accd3150a9b33a4b632.ssl.cf2.rackcdn.com/product-original-86908-38283-1364447763-94a0b3978d527b765103e516f3893813"
+  },
+  {
+    "id": 374,
+    "label": "wallet",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 17.753424605775148,
+        "y": 70.59911767857389
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/wallet_13.jpg",
+    "image_url": "http://www.rw-ux.com/uploads/1/6/3/5/16356942/unity-app-map_orig.jpg"
+  },
+  {
+    "id": 380,
+    "label": "wallet",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 75.4497346423921,
+        "y": 55.23809523809524
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/wallet_19.jpg",
+    "image_url": "https://di2ponv0v5otw.cloudfront.net/posts/2020/08/17/5f3a7e7267bd918edcefbdbb/s_5f3a7e7367bd918edcefbdc5.jpg"
+  },
+  {
+    "id": 400,
+    "label": "watch",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 55.0320962508005,
+        "y": 30.859708297183374
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/watch_19.jpg",
+    "image_url": "https://news.cgtn.com/news/2023-07-03/China-clinch-three-titles-at-WTT-Zagreb-1l8DUahz572/img/0d3e3a6885ad4a88b586fa1e35d5c91c/0d3e3a6885ad4a88b586fa1e35d5c91c.jpeg"
+  },
+  {
+    "id": 383,
+    "label": "watch",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 73.96946220249032,
+        "y": 77.33338949548632
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/watch_2.jpg",
+    "image_url": "https://uk.moyens.net/wp-content/uploads/2022/03/1646340978_243_How-to-Add-Apps-to-Samsung-Galaxy-Watch-4.jpg"
+  },
+  {
+    "id": 401,
+    "label": "watch",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 83.88888404482887,
+        "y": 42.633928772138084
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/watch_20.jpg",
+    "image_url": "https://uploads-ssl.webflow.com/6152424b79717f0ff803939c/6183fd5a0030791c55d3b847_Post%20picture%20compressed.jpg"
+  },
+  {
+    "id": 399,
+    "label": "watch",
+    "collection_method": "pointing",
+    "count": null,
+    "points": [
+      {
+        "x": 67.93060225121404,
+        "y": 44.578509482484705
+      }
+    ],
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/watch_18.jpg",
+    "image_url": "https://en.chessbase.com/Portals/4/files/news/2013/misc/masterfischer13-04.jpg"
+  }
+]
