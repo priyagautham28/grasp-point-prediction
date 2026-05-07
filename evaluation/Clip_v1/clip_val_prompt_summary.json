@@ -1,0 +1,20 @@
+[
+  {
+    "template": "point",
+    "mean_error": 326.78481767759564,
+    "mean_normalized_error": 0.2244519726775956,
+    "success_rate": 0.08196721311475409,
+    "detection_rate": 1.0,
+    "num_samples": 183,
+    "num_valid": 183
+  },
+  {
+    "template": "grasp",
+    "mean_error": 327.1739203934426,
+    "mean_normalized_error": 0.22484630601092903,
+    "success_rate": 0.08196721311475409,
+    "detection_rate": 1.0,
+    "num_samples": 183,
+    "num_valid": 183
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "split": "val",
+  "best_prompt": "hold the {label}.",
+  "success_rate": 0.6785714285714286,
+  "per_prompt_error": {
+    "hold the {label}.": 11.071493190397897,
+    "pick up the {label}.": 12.294354405728402,
+    "{label}.": 12.487223933971968,
+    "point to where you would grasp this {label}.": 12.689179349999021,
+    "point to the {label}.": 13.695178965433056,
+    "grasp the {label}.": 14.702994893919927
+  },
+  "per_category_error": {
+    "stapler": 0.6261365904411638,
+    "watch": 0.8307210788313167,
+    "mouse": 1.190902103007144,
+    "umbrella": 1.3474980358187314,
+    "headphones": 3.7557823064389675,
+    "calculator": 5.23321595799412,
+    "toothbrush": 5.6645228126531855,
+    "wallet": 7.184795867352228,
+    "keyboard": 10.386689735879935,
+    "kettle": 12.83949955198668,
+    "jar": 19.222958556805104,
+    "scissor": 26.627802308915317,
+    "backpack": 31.38734272287358,
+    "charger": 40.97253093251166,
+    "highlighter": null
+  },
+  "prompt_sensitivity": null,
+  "prompt_consistency": null
+}

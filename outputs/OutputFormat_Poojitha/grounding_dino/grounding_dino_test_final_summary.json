@@ -1,0 +1,29 @@
+{
+  "split": "test",
+  "best_prompt": "hold the {label}.",
+  "success_rate": 0.3023255813953488,
+  "per_prompt_error": {
+    "hold the {label}.": 25.09159847819696
+  },
+  "per_category_error": {
+    "remote": 1.2912121506320169,
+    "keyboard": 5.720279676629231,
+    "laptop": 6.175038745392996,
+    "mouse": 10.521355120621049,
+    "toothbrush": 15.719019377506655,
+    "umbrella": 15.827235407971623,
+    "wallet": 16.075066855106094,
+    "scissor": 16.385261245717857,
+    "bag": 19.702089553234497,
+    "notebook": 19.900286150622385,
+    "kettle": 22.42242600655684,
+    "charger": 24.261950711793872,
+    "stapler": 27.72810437652264,
+    "onion": 45.88555751374285,
+    "jar": 53.42835950700129,
+    "calculator": 53.9626641273336,
+    "backpack": 64.04424282527275
+  },
+  "prompt_sensitivity": null,
+  "prompt_consistency": null
+}

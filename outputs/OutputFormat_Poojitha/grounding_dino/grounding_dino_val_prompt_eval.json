@@ -1,0 +1,3212 @@
+[
+  {
+    "template": "{label}.",
+    "mean_error": 12.487223933971968,
+    "mean_normalized_error": 0.08829800721906535,
+    "success_rate": 0.5357142857142857,
+    "detection_rate": 0.8214285714285714,
+    "details": [
+      {
+        "id": 981761,
+        "label": "wallet",
+        "prompt": "wallet.",
+        "filename": "wallet_14.jpg",
+        "gt_point": [
+          37.142857142857146,
+          77.1881461061337
+        ],
+        "pred_point": [
+          40.17775344848633,
+          75.94686126708984
+        ],
+        "error": 3.2789317342964415,
+        "normalized_error": 0.023185548643687805,
+        "score": 0.5420504808425903,
+        "best_label": "wallet",
+        "status": "ok"
+      },
+      {
+        "id": 322777,
+        "label": "watch",
+        "prompt": "watch.",
+        "filename": "watch_1.jpg",
+        "gt_point": [
+          73.96946220249032,
+          77.33338949548632
+        ],
+        "pred_point": [
+          74.44737243652344,
+          78.14855194091797
+        ],
+        "error": 0.944929060922449,
+        "normalized_error": 0.006681657467185,
+        "score": 0.6118139028549194,
+        "best_label": "watch",
+        "status": "ok"
+      },
+      {
+        "id": 658554,
+        "label": "calculator",
+        "prompt": "calculator.",
+        "filename": "calculator_14.jpg",
+        "gt_point": [
+          66.9047619047619,
+          18.194056919642858
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 642624,
+        "label": "charger",
+        "prompt": "charger.",
+        "filename": "charger_4.jpg",
+        "gt_point": [
+          43.392857142857146,
+          88.09523809523809
+        ],
+        "pred_point": [
+          48.47972869873047,
+          47.36564636230469
+        ],
+        "error": 41.04602147475745,
+        "normalized_error": 0.29023920125529645,
+        "score": 0.46730515360832214,
+        "best_label": "charger",
+        "status": "ok"
+      },
+      {
+        "id": 663464,
+        "label": "kettle",
+        "prompt": "kettle.",
+        "filename": "kettle_6.jpg",
+        "gt_point": [
+          81.359129406157,
+          80.48249457196029
+        ],
+        "pred_point": [
+          81.69989776611328,
+          79.7351303100586
+        ],
+        "error": 0.8213895357523809,
+        "normalized_error": 0.005808101107261787,
+        "score": 0.3512610197067261,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1148190,
+        "label": "highlighter",
+        "prompt": "highlighter.",
+        "filename": "highlighter_5.jpg",
+        "gt_point": [
+          94.77283349322313,
+          64.12991326813065
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 422567,
+        "label": "headphones",
+        "prompt": "headphones.",
+        "filename": "headphones_15.jpg",
+        "gt_point": [
+          44.42489102942552,
+          16.930680833421313
+        ],
+        "pred_point": [
+          49.642677307128906,
+          14.837879180908203
+        ],
+        "error": 5.621841221909886,
+        "normalized_error": 0.03975242050766546,
+        "score": 0.8886299133300781,
+        "best_label": "headphones",
+        "status": "ok"
+      },
+      {
+        "id": 446368,
+        "label": "headphones",
+        "prompt": "headphones.",
+        "filename": "headphones_18.jpg",
+        "gt_point": [
+          84.78591723590448,
+          54.2578964765484
+        ],
+        "pred_point": [
+          83.68063354492188,
+          52.62207794189453
+        ],
+        "error": 1.9742235057608986,
+        "normalized_error": 0.013959868285014105,
+        "score": 0.6705919504165649,
+        "best_label": "headphones",
+        "status": "ok"
+      },
+      {
+        "id": 422898,
+        "label": "toothbrush",
+        "prompt": "toothbrush.",
+        "filename": "toothbrush_3.jpg",
+        "gt_point": [
+          74.95215085814691,
+          79.28662420382166
+        ],
+        "pred_point": [
+          76.78534698486328,
+          85.24555206298828
+        ],
+        "error": 6.234538982022598,
+        "normalized_error": 0.04408484791760054,
+        "score": 0.8629621863365173,
+        "best_label": "toothbrush",
+        "status": "ok"
+      },
+      {
+        "id": 394323,
+        "label": "backpack",
+        "prompt": "backpack.",
+        "filename": "backpack_14.jpg",
+        "gt_point": [
+          67.55555555555556,
+          72.58333333333333
+        ],
+        "pred_point": [
+          37.56349563598633,
+          63.9700813293457
+        ],
+        "error": 31.204357292892606,
+        "normalized_error": 0.2206481264437226,
+        "score": 0.3307316303253174,
+        "best_label": "backpack",
+        "status": "ok"
+      },
+      {
+        "id": 1341155,
+        "label": "stapler",
+        "prompt": "stapler.",
+        "filename": "stapler_7.jpg",
+        "gt_point": [
+          60.297619047619044,
+          35.0432080305287
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 348097,
+        "label": "scissor",
+        "prompt": "scissor.",
+        "filename": "scissor_0.jpg",
+        "gt_point": [
+          46.40818050893542,
+          6.53708852173252
+        ],
+        "pred_point": [
+          24.206628799438477,
+          50.29090118408203
+        ],
+        "error": 49.064296344503404,
+        "normalized_error": 0.3469369665934469,
+        "score": 0.45047527551651,
+        "best_label": "scissor",
+        "status": "ok"
+      },
+      {
+        "id": 397021,
+        "label": "jar",
+        "prompt": "jar.",
+        "filename": "jar_19.jpg",
+        "gt_point": [
+          52.13562307353589,
+          29.979909442561997
+        ],
+        "pred_point": [
+          51.060157775878906,
+          45.06550216674805
+        ],
+        "error": 15.123879131053089,
+        "normalized_error": 0.10694197491413349,
+        "score": 0.729117214679718,
+        "best_label": "jar",
+        "status": "ok"
+      },
+      {
+        "id": 416826,
+        "label": "kettle",
+        "prompt": "kettle.",
+        "filename": "kettle_2.jpg",
+        "gt_point": [
+          66.72619047619047,
+          41.904761904761905
+        ],
+        "pred_point": [
+          66.76266479492188,
+          44.12989807128906
+        ],
+        "error": 2.2254347772890424,
+        "normalized_error": 0.015736200221094558,
+        "score": 0.5463703870773315,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1541859,
+        "label": "scissor",
+        "prompt": "scissor.",
+        "filename": "scissor_13.jpg",
+        "gt_point": [
+          35.08199245515436,
+          35.678391959798994
+        ],
+        "pred_point": [
+          39.101707458496094,
+          34.735618591308594
+        ],
+        "error": 4.12879191576856,
+        "normalized_error": 0.029194967617481457,
+        "score": 0.6196701526641846,
+        "best_label": "scissor",
+        "status": "ok"
+      },
+      {
+        "id": 728980,
+        "label": "wallet",
+        "prompt": "wallet.",
+        "filename": "wallet_8.jpg",
+        "gt_point": [
+          61.368232362035194,
+          52.64174881866383
+        ],
+        "pred_point": [
+          49.21931076049805,
+          48.9881706237793
+        ],
+        "error": 12.686407934835712,
+        "normalized_error": 0.08970645079621156,
+        "score": 0.8902697563171387,
+        "best_label": "wallet",
+        "status": "ok"
+      },
+      {
+        "id": 327798,
+        "label": "mouse",
+        "prompt": "mouse.",
+        "filename": "mouse_2.jpg",
+        "gt_point": [
+          26.488095238095237,
+          34.579893152015536
+        ],
+        "pred_point": [
+          25.434785842895508,
+          35.005462646484375
+        ],
+        "error": 1.1360310575007455,
+        "normalized_error": 0.008032952643973018,
+        "score": 0.791584849357605,
+        "best_label": "mouse",
+        "status": "ok"
+      },
+      {
+        "id": 473405,
+        "label": "calculator",
+        "prompt": "calculator.",
+        "filename": "calculator_6.jpg",
+        "gt_point": [
+          26.25,
+          84.17826586642829
+        ],
+        "pred_point": [
+          26.951459884643555,
+          85.46588134765625
+        ],
+        "error": 1.466285423377747,
+        "normalized_error": 0.010368203660253927,
+        "score": 0.6317065358161926,
+        "best_label": "calculator",
+        "status": "ok"
+      },
+      {
+        "id": 330286,
+        "label": "keyboard",
+        "prompt": "keyboard.",
+        "filename": "keyboard_11.jpg",
+        "gt_point": [
+          13.093451168518937,
+          11.200203075140152
+        ],
+        "pred_point": [
+          23.217586517333984,
+          10.092520713806152
+        ],
+        "error": 10.184550414165168,
+        "normalized_error": 0.07201564661192451,
+        "score": 0.5664648413658142,
+        "best_label": "keyboard",
+        "status": "ok"
+      },
+      {
+        "id": 1478303,
+        "label": "stapler",
+        "prompt": "stapler.",
+        "filename": "stapler_8.jpg",
+        "gt_point": [
+          34.206346784319194,
+          22.316284658021875
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 404152,
+        "label": "umbrella",
+        "prompt": "umbrella.",
+        "filename": "umbrella_18.jpg",
+        "gt_point": [
+          45.0,
+          27.504481073117283
+        ],
+        "pred_point": [
+          44.58665466308594,
+          28.7589168548584
+        ],
+        "error": 1.3207820531395205,
+        "normalized_error": 0.009339339462444458,
+        "score": 0.7069802284240723,
+        "best_label": "umbrella",
+        "status": "ok"
+      },
+      {
+        "id": 1147708,
+        "label": "kettle",
+        "prompt": "kettle.",
+        "filename": "kettle_16.jpg",
+        "gt_point": [
+          86.72619047619048,
+          24.642857142857146
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 1056768,
+        "label": "kettle",
+        "prompt": "kettle.",
+        "filename": "kettle_15.jpg",
+        "gt_point": [
+          2.1026854590598703,
+          62.92142387536012
+        ],
+        "pred_point": [
+          50.00690841674805,
+          52.21232223510742
+        ],
+        "error": 49.086653091433625,
+        "normalized_error": 0.3470950526670432,
+        "score": 0.5017383694648743,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 353201,
+        "label": "jar",
+        "prompt": "jar.",
+        "filename": "jar_15.jpg",
+        "gt_point": [
+          55.35714285714286,
+          50.95238095238095
+        ],
+        "pred_point": [
+          66.95762634277344,
+          71.0412368774414
+        ],
+        "error": 23.197700333896247,
+        "normalized_error": 0.16403251214031472,
+        "score": 0.7757595777511597,
+        "best_label": "jar",
+        "status": "ok"
+      },
+      {
+        "id": 1176349,
+        "label": "wallet",
+        "prompt": "wallet.",
+        "filename": "wallet_16.jpg",
+        "gt_point": [
+          89.52380952380953,
+          16.964285714285715
+        ],
+        "pred_point": [
+          85.856201171875,
+          21.39737319946289
+        ],
+        "error": 5.753576078867169,
+        "normalized_error": 0.040683926614396806,
+        "score": 0.5156502723693848,
+        "best_label": "wallet",
+        "status": "ok"
+      },
+      {
+        "id": 596595,
+        "label": "calculator",
+        "prompt": "calculator.",
+        "filename": "calculator_11.jpg",
+        "gt_point": [
+          77.5,
+          58.72788339803082
+        ],
+        "pred_point": [
+          76.03147888183594,
+          66.46636962890625
+        ],
+        "error": 7.876594503133754,
+        "normalized_error": 0.055695933858225626,
+        "score": 0.3570000231266022,
+        "best_label": "calculator",
+        "status": "ok"
+      },
+      {
+        "id": 735540,
+        "label": "kettle",
+        "prompt": "kettle.",
+        "filename": "kettle_8.jpg",
+        "gt_point": [
+          51.978581689956904,
+          35.24443864002438
+        ],
+        "pred_point": [
+          55.39268112182617,
+          34.39674377441406
+        ],
+        "error": 3.51776478392348,
+        "normalized_error": 0.024874353333315228,
+        "score": 0.5311826467514038,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 378934,
+        "label": "calculator",
+        "prompt": "calculator.",
+        "filename": "calculator_1.jpg",
+        "gt_point": [
+          49.28571428571429,
+          69.28571171663252
+        ],
+        "pred_point": [
+          49.1632080078125,
+          78.59607696533203
+        ],
+        "error": 9.3111698301533,
+        "normalized_error": 0.06583991327680992,
+        "score": 0.35759371519088745,
+        "best_label": "calculator",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "template": "point to the {label}.",
+    "mean_error": 13.695178965433056,
+    "mean_normalized_error": 0.09683953916021079,
+    "success_rate": 0.5714285714285714,
+    "detection_rate": 0.9285714285714286,
+    "details": [
+      {
+        "id": 981761,
+        "label": "wallet",
+        "prompt": "point to the wallet.",
+        "filename": "wallet_14.jpg",
+        "gt_point": [
+          37.142857142857146,
+          77.1881461061337
+        ],
+        "pred_point": [
+          40.195579528808594,
+          75.99517822265625
+        ],
+        "error": 3.2775440905040094,
+        "normalized_error": 0.023175736520332803,
+        "score": 0.46927306056022644,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 322777,
+        "label": "watch",
+        "prompt": "point to the watch.",
+        "filename": "watch_1.jpg",
+        "gt_point": [
+          73.96946220249032,
+          77.33338949548632
+        ],
+        "pred_point": [
+          74.39447784423828,
+          77.798095703125
+        ],
+        "error": 0.6297559980142405,
+        "normalized_error": 0.0044530473668877146,
+        "score": 0.5396988391876221,
+        "best_label": "the watch",
+        "status": "ok"
+      },
+      {
+        "id": 658554,
+        "label": "calculator",
+        "prompt": "point to the calculator.",
+        "filename": "calculator_14.jpg",
+        "gt_point": [
+          66.9047619047619,
+          18.194056919642858
+        ],
+        "pred_point": [
+          66.22288513183594,
+          16.05767250061035
+        ],
+        "error": 2.242564844152943,
+        "normalized_error": 0.01585732808551099,
+        "score": 0.4777456521987915,
+        "best_label": "calculator",
+        "status": "ok"
+      },
+      {
+        "id": 642624,
+        "label": "charger",
+        "prompt": "point to the charger.",
+        "filename": "charger_4.jpg",
+        "gt_point": [
+          43.392857142857146,
+          88.09523809523809
+        ],
+        "pred_point": [
+          48.584739685058594,
+          47.399723052978516
+        ],
+        "error": 41.02536491496755,
+        "normalized_error": 0.2900931373202622,
+        "score": 0.40861135721206665,
+        "best_label": "the charger",
+        "status": "ok"
+      },
+      {
+        "id": 663464,
+        "label": "kettle",
+        "prompt": "point to the kettle.",
+        "filename": "kettle_6.jpg",
+        "gt_point": [
+          81.359129406157,
+          80.48249457196029
+        ],
+        "pred_point": [
+          81.75749206542969,
+          78.79219055175781
+        ],
+        "error": 1.736614945947864,
+        "normalized_error": 0.012279722045896443,
+        "score": 0.5754106640815735,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1148190,
+        "label": "highlighter",
+        "prompt": "point to the highlighter.",
+        "filename": "highlighter_5.jpg",
+        "gt_point": [
+          94.77283349322313,
+          64.12991326813065
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 422567,
+        "label": "headphones",
+        "prompt": "point to the headphones.",
+        "filename": "headphones_15.jpg",
+        "gt_point": [
+          44.42489102942552,
+          16.930680833421313
+        ],
+        "pred_point": [
+          49.6602783203125,
+          14.816925048828125
+        ],
+        "error": 5.645992525491013,
+        "normalized_error": 0.03992319601303256,
+        "score": 0.7060359120368958,
+        "best_label": "the headphones",
+        "status": "ok"
+      },
+      {
+        "id": 446368,
+        "label": "headphones",
+        "prompt": "point to the headphones.",
+        "filename": "headphones_18.jpg",
+        "gt_point": [
+          84.78591723590448,
+          54.2578964765484
+        ],
+        "pred_point": [
+          83.69549560546875,
+          52.59389114379883
+        ],
+        "error": 1.989456518901729,
+        "normalized_error": 0.014067581953911954,
+        "score": 0.4700758159160614,
+        "best_label": "headphones",
+        "status": "ok"
+      },
+      {
+        "id": 422898,
+        "label": "toothbrush",
+        "prompt": "point to the toothbrush.",
+        "filename": "toothbrush_3.jpg",
+        "gt_point": [
+          74.95215085814691,
+          79.28662420382166
+        ],
+        "pred_point": [
+          76.73768615722656,
+          84.68092346191406
+        ],
+        "error": 5.682133752555777,
+        "normalized_error": 0.040178753080411536,
+        "score": 0.7724267244338989,
+        "best_label": "toothbrush",
+        "status": "ok"
+      },
+      {
+        "id": 394323,
+        "label": "backpack",
+        "prompt": "point to the backpack.",
+        "filename": "backpack_14.jpg",
+        "gt_point": [
+          67.55555555555556,
+          72.58333333333333
+        ],
+        "pred_point": [
+          37.48472213745117,
+          63.94005584716797
+        ],
+        "error": 31.288359269563017,
+        "normalized_error": 0.2212421101170898,
+        "score": 0.35854238271713257,
+        "best_label": "backpack",
+        "status": "ok"
+      },
+      {
+        "id": 1341155,
+        "label": "stapler",
+        "prompt": "point to the stapler.",
+        "filename": "stapler_7.jpg",
+        "gt_point": [
+          60.297619047619044,
+          35.0432080305287
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 348097,
+        "label": "scissor",
+        "prompt": "point to the scissor.",
+        "filename": "scissor_0.jpg",
+        "gt_point": [
+          46.40818050893542,
+          6.53708852173252
+        ],
+        "pred_point": [
+          36.723045349121094,
+          38.42301940917969
+        ],
+        "error": 33.324381529097806,
+        "normalized_error": 0.23563896158072786,
+        "score": 0.32961559295654297,
+        "best_label": "point",
+        "status": "ok"
+      },
+      {
+        "id": 397021,
+        "label": "jar",
+        "prompt": "point to the jar.",
+        "filename": "jar_19.jpg",
+        "gt_point": [
+          52.13562307353589,
+          29.979909442561997
+        ],
+        "pred_point": [
+          51.08990478515625,
+          45.46369171142578
+        ],
+        "error": 15.519053407884059,
+        "normalized_error": 0.10973627902311017,
+        "score": 0.6635969281196594,
+        "best_label": "jar",
+        "status": "ok"
+      },
+      {
+        "id": 416826,
+        "label": "kettle",
+        "prompt": "point to the kettle.",
+        "filename": "kettle_2.jpg",
+        "gt_point": [
+          66.72619047619047,
+          41.904761904761905
+        ],
+        "pred_point": [
+          66.66131591796875,
+          43.89894485473633
+        ],
+        "error": 1.9952375214184954,
+        "normalized_error": 0.014108459814728575,
+        "score": 0.6902684569358826,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1541859,
+        "label": "scissor",
+        "prompt": "point to the scissor.",
+        "filename": "scissor_13.jpg",
+        "gt_point": [
+          35.08199245515436,
+          35.678391959798994
+        ],
+        "pred_point": [
+          65.04232025146484,
+          58.6552848815918
+        ],
+        "error": 37.756573439477066,
+        "normalized_error": 0.2669792911342212,
+        "score": 0.37437742948532104,
+        "best_label": "scissor",
+        "status": "ok"
+      },
+      {
+        "id": 728980,
+        "label": "wallet",
+        "prompt": "point to the wallet.",
+        "filename": "wallet_8.jpg",
+        "gt_point": [
+          61.368232362035194,
+          52.64174881866383
+        ],
+        "pred_point": [
+          49.248470306396484,
+          48.87929916381836
+        ],
+        "error": 12.690337967697117,
+        "normalized_error": 0.08973424032507742,
+        "score": 0.5978365540504456,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 327798,
+        "label": "mouse",
+        "prompt": "point to the mouse.",
+        "filename": "mouse_2.jpg",
+        "gt_point": [
+          26.488095238095237,
+          34.579893152015536
+        ],
+        "pred_point": [
+          25.408193588256836,
+          35.01375198364258
+        ],
+        "error": 1.1637944162417397,
+        "normalized_error": 0.008229269236315737,
+        "score": 0.584305465221405,
+        "best_label": "the mouse",
+        "status": "ok"
+      },
+      {
+        "id": 473405,
+        "label": "calculator",
+        "prompt": "point to the calculator.",
+        "filename": "calculator_6.jpg",
+        "gt_point": [
+          26.25,
+          84.17826586642829
+        ],
+        "pred_point": [
+          26.935104370117188,
+          85.48173522949219
+        ],
+        "error": 1.4725467226293834,
+        "normalized_error": 0.01041247773185263,
+        "score": 0.6299939155578613,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 330286,
+        "label": "keyboard",
+        "prompt": "point to the keyboard.",
+        "filename": "keyboard_11.jpg",
+        "gt_point": [
+          13.093451168518937,
+          11.200203075140152
+        ],
+        "pred_point": [
+          23.36431121826172,
+          9.634747505187988
+        ],
+        "error": 10.389476190604448,
+        "normalized_error": 0.07346469067352585,
+        "score": 0.5400233268737793,
+        "best_label": "keyboard",
+        "status": "ok"
+      },
+      {
+        "id": 1478303,
+        "label": "stapler",
+        "prompt": "point to the stapler.",
+        "filename": "stapler_8.jpg",
+        "gt_point": [
+          34.206346784319194,
+          22.316284658021875
+        ],
+        "pred_point": [
+          35.180519104003906,
+          22.54023551940918
+        ],
+        "error": 0.9995812791138298,
+        "normalized_error": 0.007068107008085121,
+        "score": 0.42325612902641296,
+        "best_label": "stapler",
+        "status": "ok"
+      },
+      {
+        "id": 404152,
+        "label": "umbrella",
+        "prompt": "point to the umbrella.",
+        "filename": "umbrella_18.jpg",
+        "gt_point": [
+          45.0,
+          27.504481073117283
+        ],
+        "pred_point": [
+          44.75924301147461,
+          28.58989906311035
+        ],
+        "error": 1.1117993044804886,
+        "normalized_error": 0.007861608275166406,
+        "score": 0.5537216067314148,
+        "best_label": "umbrella",
+        "status": "ok"
+      },
+      {
+        "id": 1147708,
+        "label": "kettle",
+        "prompt": "point to the kettle.",
+        "filename": "kettle_16.jpg",
+        "gt_point": [
+          86.72619047619048,
+          24.642857142857146
+        ],
+        "pred_point": [
+          87.77259063720703,
+          19.334529876708984
+        ],
+        "error": 5.410479704624653,
+        "normalized_error": 0.03825786888612281,
+        "score": 0.5119333863258362,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1056768,
+        "label": "kettle",
+        "prompt": "point to the kettle.",
+        "filename": "kettle_15.jpg",
+        "gt_point": [
+          2.1026854590598703,
+          62.92142387536012
+        ],
+        "pred_point": [
+          49.98607635498047,
+          51.28694152832031
+        ],
+        "error": 49.2765731769418,
+        "normalized_error": 0.34843799047050683,
+        "score": 0.7094048261642456,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 353201,
+        "label": "jar",
+        "prompt": "point to the jar.",
+        "filename": "jar_15.jpg",
+        "gt_point": [
+          55.35714285714286,
+          50.95238095238095
+        ],
+        "pred_point": [
+          46.0260009765625,
+          71.74079132080078
+        ],
+        "error": 22.78657961277249,
+        "normalized_error": 0.1611254496423856,
+        "score": 0.45661911368370056,
+        "best_label": "jar",
+        "status": "ok"
+      },
+      {
+        "id": 1176349,
+        "label": "wallet",
+        "prompt": "point to the wallet.",
+        "filename": "wallet_16.jpg",
+        "gt_point": [
+          89.52380952380953,
+          16.964285714285715
+        ],
+        "pred_point": [
+          85.92517852783203,
+          21.169736862182617
+        ],
+        "error": 5.534978095117245,
+        "normalized_error": 0.039138205447764036,
+        "score": 0.4683671295642853,
+        "best_label": "wallet",
+        "status": "ok"
+      },
+      {
+        "id": 596595,
+        "label": "calculator",
+        "prompt": "point to the calculator.",
+        "filename": "calculator_11.jpg",
+        "gt_point": [
+          77.5,
+          58.72788339803082
+        ],
+        "pred_point": [
+          41.171905517578125,
+          28.389211654663086
+        ],
+        "error": 47.3303869342281,
+        "normalized_error": 0.33467637557375857,
+        "score": 0.4276217222213745,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 735540,
+        "label": "kettle",
+        "prompt": "point to the kettle.",
+        "filename": "kettle_8.jpg",
+        "gt_point": [
+          51.978581689956904,
+          35.24443864002438
+        ],
+        "pred_point": [
+          55.17280578613281,
+          29.501556396484375
+        ],
+        "error": 6.571435567010982,
+        "normalized_error": 0.0464670665156393,
+        "score": 0.45737364888191223,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 378934,
+        "label": "calculator",
+        "prompt": "point to the calculator.",
+        "filename": "calculator_1.jpg",
+        "gt_point": [
+          49.28571428571429,
+          69.28571171663252
+        ],
+        "pred_point": [
+          49.18830871582031,
+          78.50885009765625
+        ],
+        "error": 9.223651371821587,
+        "normalized_error": 0.06522106432315646,
+        "score": 0.40424486994743347,
+        "best_label": "calculator",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "template": "point to where you would grasp this {label}.",
+    "mean_error": 12.689179349999021,
+    "mean_normalized_error": 0.08972604766076614,
+    "success_rate": 0.6071428571428571,
+    "detection_rate": 0.9285714285714286,
+    "details": [
+      {
+        "id": 981761,
+        "label": "wallet",
+        "prompt": "point to where you would grasp this wallet.",
+        "filename": "wallet_14.jpg",
+        "gt_point": [
+          37.142857142857146,
+          77.1881461061337
+        ],
+        "pred_point": [
+          40.21036148071289,
+          76.03240966796875
+        ],
+        "error": 3.2780052490471645,
+        "normalized_error": 0.023178997403663474,
+        "score": 0.3896372318267822,
+        "best_label": "this wallet",
+        "status": "ok"
+      },
+      {
+        "id": 322777,
+        "label": "watch",
+        "prompt": "point to where you would grasp this watch.",
+        "filename": "watch_1.jpg",
+        "gt_point": [
+          73.96946220249032,
+          77.33338949548632
+        ],
+        "pred_point": [
+          74.43058776855469,
+          77.81798553466797
+        ],
+        "error": 0.6689340409491764,
+        "normalized_error": 0.004730077965216823,
+        "score": 0.5155696868896484,
+        "best_label": "this watch",
+        "status": "ok"
+      },
+      {
+        "id": 658554,
+        "label": "calculator",
+        "prompt": "point to where you would grasp this calculator.",
+        "filename": "calculator_14.jpg",
+        "gt_point": [
+          66.9047619047619,
+          18.194056919642858
+        ],
+        "pred_point": [
+          66.2389907836914,
+          16.04238510131836
+        ],
+        "error": 2.2523200471486278,
+        "normalized_error": 0.01592630778741199,
+        "score": 0.40679359436035156,
+        "best_label": "calculator",
+        "status": "ok"
+      },
+      {
+        "id": 642624,
+        "label": "charger",
+        "prompt": "point to where you would grasp this charger.",
+        "filename": "charger_4.jpg",
+        "gt_point": [
+          43.392857142857146,
+          88.09523809523809
+        ],
+        "pred_point": [
+          48.578548431396484,
+          47.5560417175293
+        ],
+        "error": 40.869521027575516,
+        "normalized_error": 0.2889911546244484,
+        "score": 0.39823490381240845,
+        "best_label": "this charger",
+        "status": "ok"
+      },
+      {
+        "id": 663464,
+        "label": "kettle",
+        "prompt": "point to where you would grasp this kettle.",
+        "filename": "kettle_6.jpg",
+        "gt_point": [
+          81.359129406157,
+          80.48249457196029
+        ],
+        "pred_point": [
+          81.73497009277344,
+          78.61869049072266
+        ],
+        "error": 1.9013243025306217,
+        "normalized_error": 0.013444393075541853,
+        "score": 0.5606397390365601,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1148190,
+        "label": "highlighter",
+        "prompt": "point to where you would grasp this highlighter.",
+        "filename": "highlighter_5.jpg",
+        "gt_point": [
+          94.77283349322313,
+          64.12991326813065
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 422567,
+        "label": "headphones",
+        "prompt": "point to where you would grasp this headphones.",
+        "filename": "headphones_15.jpg",
+        "gt_point": [
+          44.42489102942552,
+          16.930680833421313
+        ],
+        "pred_point": [
+          49.653690338134766,
+          14.852849006652832
+        ],
+        "error": 5.626518892152589,
+        "normalized_error": 0.03978549663115316,
+        "score": 0.6401565074920654,
+        "best_label": "this headphones",
+        "status": "ok"
+      },
+      {
+        "id": 446368,
+        "label": "headphones",
+        "prompt": "point to where you would grasp this headphones.",
+        "filename": "headphones_18.jpg",
+        "gt_point": [
+          84.78591723590448,
+          54.2578964765484
+        ],
+        "pred_point": [
+          83.71986389160156,
+          52.618568420410156
+        ],
+        "error": 1.9554718566211464,
+        "normalized_error": 0.013827274102362608,
+        "score": 0.3842993676662445,
+        "best_label": "headphones",
+        "status": "ok"
+      },
+      {
+        "id": 422898,
+        "label": "toothbrush",
+        "prompt": "point to where you would grasp this toothbrush.",
+        "filename": "toothbrush_3.jpg",
+        "gt_point": [
+          74.95215085814691,
+          79.28662420382166
+        ],
+        "pred_point": [
+          76.7365493774414,
+          84.70889282226562
+        ],
+        "error": 5.708337528570634,
+        "normalized_error": 0.04036404175753953,
+        "score": 0.6995154023170471,
+        "best_label": "toothbrush",
+        "status": "ok"
+      },
+      {
+        "id": 394323,
+        "label": "backpack",
+        "prompt": "point to where you would grasp this backpack.",
+        "filename": "backpack_14.jpg",
+        "gt_point": [
+          67.55555555555556,
+          72.58333333333333
+        ],
+        "pred_point": [
+          37.50628662109375,
+          63.95972442626953
+        ],
+        "error": 31.262203671813808,
+        "normalized_error": 0.22105716211174528,
+        "score": 0.3322284519672394,
+        "best_label": "backpack",
+        "status": "ok"
+      },
+      {
+        "id": 1341155,
+        "label": "stapler",
+        "prompt": "point to where you would grasp this stapler.",
+        "filename": "stapler_7.jpg",
+        "gt_point": [
+          60.297619047619044,
+          35.0432080305287
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 348097,
+        "label": "scissor",
+        "prompt": "point to where you would grasp this scissor.",
+        "filename": "scissor_0.jpg",
+        "gt_point": [
+          46.40818050893542,
+          6.53708852173252
+        ],
+        "pred_point": [
+          24.319583892822266,
+          50.23997497558594
+        ],
+        "error": 48.967832633398224,
+        "normalized_error": 0.346254865150838,
+        "score": 0.3727688789367676,
+        "best_label": "scissor",
+        "status": "ok"
+      },
+      {
+        "id": 397021,
+        "label": "jar",
+        "prompt": "point to where you would grasp this jar.",
+        "filename": "jar_19.jpg",
+        "gt_point": [
+          52.13562307353589,
+          29.979909442561997
+        ],
+        "pred_point": [
+          51.077884674072266,
+          45.757415771484375
+        ],
+        "error": 15.81292169182029,
+        "normalized_error": 0.1118142415865798,
+        "score": 0.5846540927886963,
+        "best_label": "this jar",
+        "status": "ok"
+      },
+      {
+        "id": 416826,
+        "label": "kettle",
+        "prompt": "point to where you would grasp this kettle.",
+        "filename": "kettle_2.jpg",
+        "gt_point": [
+          66.72619047619047,
+          41.904761904761905
+        ],
+        "pred_point": [
+          66.69740295410156,
+          43.947509765625
+        ],
+        "error": 2.042950310997692,
+        "normalized_error": 0.014445840185336341,
+        "score": 0.6253902912139893,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1541859,
+        "label": "scissor",
+        "prompt": "point to where you would grasp this scissor.",
+        "filename": "scissor_13.jpg",
+        "gt_point": [
+          35.08199245515436,
+          35.678391959798994
+        ],
+        "pred_point": [
+          65.07772064208984,
+          58.6413459777832
+        ],
+        "error": 37.77619641553395,
+        "normalized_error": 0.26711804652859006,
+        "score": 0.4429108798503876,
+        "best_label": "scissor",
+        "status": "ok"
+      },
+      {
+        "id": 728980,
+        "label": "wallet",
+        "prompt": "point to where you would grasp this wallet.",
+        "filename": "wallet_8.jpg",
+        "gt_point": [
+          61.368232362035194,
+          52.64174881866383
+        ],
+        "pred_point": [
+          49.252864837646484,
+          48.88414001464844
+        ],
+        "error": 12.684705905775491,
+        "normalized_error": 0.08969441563330897,
+        "score": 0.5882807970046997,
+        "best_label": "this wallet",
+        "status": "ok"
+      },
+      {
+        "id": 327798,
+        "label": "mouse",
+        "prompt": "point to where you would grasp this mouse.",
+        "filename": "mouse_2.jpg",
+        "gt_point": [
+          26.488095238095237,
+          34.579893152015536
+        ],
+        "pred_point": [
+          25.4332332611084,
+          35.060394287109375
+        ],
+        "error": 1.1591425618988986,
+        "normalized_error": 0.008196375658806586,
+        "score": 0.5152143239974976,
+        "best_label": "this mouse",
+        "status": "ok"
+      },
+      {
+        "id": 473405,
+        "label": "calculator",
+        "prompt": "point to where you would grasp this calculator.",
+        "filename": "calculator_6.jpg",
+        "gt_point": [
+          26.25,
+          84.17826586642829
+        ],
+        "pred_point": [
+          26.929973602294922,
+          85.54544067382812
+        ],
+        "error": 1.5269329172174693,
+        "normalized_error": 0.010797046201814297,
+        "score": 0.5642253756523132,
+        "best_label": "this calculator",
+        "status": "ok"
+      },
+      {
+        "id": 330286,
+        "label": "keyboard",
+        "prompt": "point to where you would grasp this keyboard.",
+        "filename": "keyboard_11.jpg",
+        "gt_point": [
+          13.093451168518937,
+          11.200203075140152
+        ],
+        "pred_point": [
+          23.341001510620117,
+          9.754535675048828
+        ],
+        "error": 10.349020914401455,
+        "normalized_error": 0.07317862867214674,
+        "score": 0.5183161497116089,
+        "best_label": "keyboard",
+        "status": "ok"
+      },
+      {
+        "id": 1478303,
+        "label": "stapler",
+        "prompt": "point to where you would grasp this stapler.",
+        "filename": "stapler_8.jpg",
+        "gt_point": [
+          34.206346784319194,
+          22.316284658021875
+        ],
+        "pred_point": [
+          35.20932388305664,
+          22.567888259887695
+        ],
+        "error": 1.034052422233162,
+        "normalized_error": 0.0073118547986344385,
+        "score": 0.4511445164680481,
+        "best_label": "stapler",
+        "status": "ok"
+      },
+      {
+        "id": 404152,
+        "label": "umbrella",
+        "prompt": "point to where you would grasp this umbrella.",
+        "filename": "umbrella_18.jpg",
+        "gt_point": [
+          45.0,
+          27.504481073117283
+        ],
+        "pred_point": [
+          44.696502685546875,
+          28.537521362304688
+        ],
+        "error": 1.076700679509503,
+        "normalized_error": 0.007613423517893332,
+        "score": 0.5289631485939026,
+        "best_label": "umbrella",
+        "status": "ok"
+      },
+      {
+        "id": 1147708,
+        "label": "kettle",
+        "prompt": "point to where you would grasp this kettle.",
+        "filename": "kettle_16.jpg",
+        "gt_point": [
+          86.72619047619048,
+          24.642857142857146
+        ],
+        "pred_point": [
+          87.79545593261719,
+          19.372493743896484
+        ],
+        "error": 5.377737013782312,
+        "normalized_error": 0.03802634309883367,
+        "score": 0.47848033905029297,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1056768,
+        "label": "kettle",
+        "prompt": "point to where you would grasp this kettle.",
+        "filename": "kettle_15.jpg",
+        "gt_point": [
+          2.1026854590598703,
+          62.92142387536012
+        ],
+        "pred_point": [
+          49.98324966430664,
+          49.42913055419922
+        ],
+        "error": 49.74525682084549,
+        "normalized_error": 0.351752084298862,
+        "score": 0.7053189873695374,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 353201,
+        "label": "jar",
+        "prompt": "point to where you would grasp this jar.",
+        "filename": "jar_15.jpg",
+        "gt_point": [
+          55.35714285714286,
+          50.95238095238095
+        ],
+        "pred_point": [
+          46.03907775878906,
+          71.74602508544922
+        ],
+        "error": 22.786003715703007,
+        "normalized_error": 0.16112137743515464,
+        "score": 0.41842374205589294,
+        "best_label": "jar",
+        "status": "ok"
+      },
+      {
+        "id": 1176349,
+        "label": "wallet",
+        "prompt": "point to where you would grasp this wallet.",
+        "filename": "wallet_16.jpg",
+        "gt_point": [
+          89.52380952380953,
+          16.964285714285715
+        ],
+        "pred_point": [
+          85.94422149658203,
+          21.184064865112305
+        ],
+        "error": 5.533534725767907,
+        "normalized_error": 0.03912799928521729,
+        "score": 0.44195640087127686,
+        "best_label": "wallet",
+        "status": "ok"
+      },
+      {
+        "id": 596595,
+        "label": "calculator",
+        "prompt": "point to where you would grasp this calculator.",
+        "filename": "calculator_11.jpg",
+        "gt_point": [
+          77.5,
+          58.72788339803082
+        ],
+        "pred_point": [
+          76.0584716796875,
+          66.48919677734375
+        ],
+        "error": 7.894048752496219,
+        "normalized_error": 0.05581935403907282,
+        "score": 0.38773277401924133,
+        "best_label": "this calculator",
+        "status": "ok"
+      },
+      {
+        "id": 735540,
+        "label": "kettle",
+        "prompt": "point to where you would grasp this kettle.",
+        "filename": "kettle_8.jpg",
+        "gt_point": [
+          51.978581689956904,
+          35.24443864002438
+        ],
+        "pred_point": [
+          55.36964416503906,
+          34.311187744140625
+        ],
+        "error": 3.517139430757704,
+        "normalized_error": 0.02486993141867366,
+        "score": 0.5153377652168274,
+        "best_label": "kettle",
+        "status": "ok"
+      },
+      {
+        "id": 378934,
+        "label": "calculator",
+        "prompt": "point to where you would grasp this calculator.",
+        "filename": "calculator_1.jpg",
+        "gt_point": [
+          49.28571428571429,
+          69.28571171663252
+        ],
+        "pred_point": [
+          49.185447692871094,
+          78.39701080322266
+        ],
+        "error": 9.111849571426466,
+        "normalized_error": 0.0644305062110739,
+        "score": 0.4088016450405121,
+        "best_label": "calculator",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "template": "grasp the {label}.",
+    "mean_error": 14.702994893919927,
+    "mean_normalized_error": 0.10396587393241964,
+    "success_rate": 0.6071428571428571,
+    "detection_rate": 0.9642857142857143,
+    "details": [
+      {
+        "id": 981761,
+        "label": "wallet",
+        "prompt": "grasp the wallet.",
+        "filename": "wallet_14.jpg",
+        "gt_point": [
+          37.142857142857146,
+          77.1881461061337
+        ],
+        "pred_point": [
+          40.18733215332031,
+          76.11344909667969
+        ],
+        "error": 3.2285925734270013,
+        "normalized_error": 0.02282959702358759,
+        "score": 0.6037815809249878,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 322777,
+        "label": "watch",
+        "prompt": "grasp the watch.",
+        "filename": "watch_1.jpg",
+        "gt_point": [
+          73.96946220249032,
+          77.33338949548632
+        ],
+        "pred_point": [
+          74.40538024902344,
+          78.10608673095703
+        ],
+        "error": 0.887179922761502,
+        "normalized_error": 0.006273309395172155,
+        "score": 0.8172998428344727,
+        "best_label": "the watch",
+        "status": "ok"
+      },
+      {
+        "id": 658554,
+        "label": "calculator",
+        "prompt": "grasp the calculator.",
+        "filename": "calculator_14.jpg",
+        "gt_point": [
+          66.9047619047619,
+          18.194056919642858
+        ],
+        "pred_point": [
+          66.20350646972656,
+          16.069337844848633
+        ],
+        "error": 2.237452381842068,
+        "normalized_error": 0.015821177517825188,
+        "score": 0.7257569432258606,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 642624,
+        "label": "charger",
+        "prompt": "grasp the charger.",
+        "filename": "charger_4.jpg",
+        "gt_point": [
+          43.392857142857146,
+          88.09523809523809
+        ],
+        "pred_point": [
+          48.512168884277344,
+          47.490909576416016
+        ],
+        "error": 40.92577211540654,
+        "normalized_error": 0.2893889098809928,
+        "score": 0.45366936922073364,
+        "best_label": "the charger",
+        "status": "ok"
+      },
+      {
+        "id": 663464,
+        "label": "kettle",
+        "prompt": "grasp the kettle.",
+        "filename": "kettle_6.jpg",
+        "gt_point": [
+          81.359129406157,
+          80.48249457196029
+        ],
+        "pred_point": [
+          81.72645568847656,
+          79.43400573730469
+        ],
+        "error": 1.1109743007568351,
+        "normalized_error": 0.007855774617891411,
+        "score": 0.7764566540718079,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1148190,
+        "label": "highlighter",
+        "prompt": "grasp the highlighter.",
+        "filename": "highlighter_5.jpg",
+        "gt_point": [
+          94.77283349322313,
+          64.12991326813065
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 422567,
+        "label": "headphones",
+        "prompt": "grasp the headphones.",
+        "filename": "headphones_15.jpg",
+        "gt_point": [
+          44.42489102942552,
+          16.930680833421313
+        ],
+        "pred_point": [
+          49.62391662597656,
+          14.954343795776367
+        ],
+        "error": 5.561992493526657,
+        "normalized_error": 0.03932922609081373,
+        "score": 0.8755117058753967,
+        "best_label": "the headphones",
+        "status": "ok"
+      },
+      {
+        "id": 446368,
+        "label": "headphones",
+        "prompt": "grasp the headphones.",
+        "filename": "headphones_18.jpg",
+        "gt_point": [
+          84.78591723590448,
+          54.2578964765484
+        ],
+        "pred_point": [
+          83.7109603881836,
+          52.6446533203125
+        ],
+        "error": 1.9385793202258954,
+        "normalized_error": 0.013707825831997382,
+        "score": 0.572799801826477,
+        "best_label": "the headphones",
+        "status": "ok"
+      },
+      {
+        "id": 422898,
+        "label": "toothbrush",
+        "prompt": "grasp the toothbrush.",
+        "filename": "toothbrush_3.jpg",
+        "gt_point": [
+          74.95215085814691,
+          79.28662420382166
+        ],
+        "pred_point": [
+          76.78343200683594,
+          84.65775299072266
+        ],
+        "error": 5.674738725873958,
+        "normalized_error": 0.04012646234527384,
+        "score": 0.7826437950134277,
+        "best_label": "the toothbrush",
+        "status": "ok"
+      },
+      {
+        "id": 394323,
+        "label": "backpack",
+        "prompt": "grasp the backpack.",
+        "filename": "backpack_14.jpg",
+        "gt_point": [
+          67.55555555555556,
+          72.58333333333333
+        ],
+        "pred_point": [
+          37.39248275756836,
+          64.14374542236328
+        ],
+        "error": 31.321521670036443,
+        "normalized_error": 0.22147660369964164,
+        "score": 0.37539225816726685,
+        "best_label": "the backpack",
+        "status": "ok"
+      },
+      {
+        "id": 1341155,
+        "label": "stapler",
+        "prompt": "grasp the stapler.",
+        "filename": "stapler_7.jpg",
+        "gt_point": [
+          60.297619047619044,
+          35.0432080305287
+        ],
+        "pred_point": [
+          55.853416442871094,
+          66.83204650878906
+        ],
+        "error": 32.097992584111665,
+        "normalized_error": 0.22696708218700873,
+        "score": 0.3626428544521332,
+        "best_label": "the stapler",
+        "status": "ok"
+      },
+      {
+        "id": 348097,
+        "label": "scissor",
+        "prompt": "grasp the scissor.",
+        "filename": "scissor_0.jpg",
+        "gt_point": [
+          46.40818050893542,
+          6.53708852173252
+        ],
+        "pred_point": [
+          24.335689544677734,
+          50.23562240600586
+        ],
+        "error": 48.95668076776524,
+        "normalized_error": 0.3461760095527184,
+        "score": 0.39840421080589294,
+        "best_label": "the scissor",
+        "status": "ok"
+      },
+      {
+        "id": 397021,
+        "label": "jar",
+        "prompt": "grasp the jar.",
+        "filename": "jar_19.jpg",
+        "gt_point": [
+          52.13562307353589,
+          29.979909442561997
+        ],
+        "pred_point": [
+          51.07194900512695,
+          45.47727966308594
+        ],
+        "error": 15.533830209624583,
+        "normalized_error": 0.1098407667902599,
+        "score": 0.8224210143089294,
+        "best_label": "the jar",
+        "status": "ok"
+      },
+      {
+        "id": 416826,
+        "label": "kettle",
+        "prompt": "grasp the kettle.",
+        "filename": "kettle_2.jpg",
+        "gt_point": [
+          66.72619047619047,
+          41.904761904761905
+        ],
+        "pred_point": [
+          66.72400665283203,
+          44.00056076049805
+        ],
+        "error": 2.0957995958690616,
+        "normalized_error": 0.014819541062470392,
+        "score": 0.8367747068405151,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1541859,
+        "label": "scissor",
+        "prompt": "grasp the scissor.",
+        "filename": "scissor_13.jpg",
+        "gt_point": [
+          35.08199245515436,
+          35.678391959798994
+        ],
+        "pred_point": [
+          39.228965759277344,
+          34.72785568237305
+        ],
+        "error": 4.254515100769509,
+        "normalized_error": 0.03008396478414687,
+        "score": 0.40834999084472656,
+        "best_label": "the scissor",
+        "status": "ok"
+      },
+      {
+        "id": 728980,
+        "label": "wallet",
+        "prompt": "grasp the wallet.",
+        "filename": "wallet_8.jpg",
+        "gt_point": [
+          61.368232362035194,
+          52.64174881866383
+        ],
+        "pred_point": [
+          49.236026763916016,
+          49.045806884765625
+        ],
+        "error": 12.653901209520821,
+        "normalized_error": 0.08947659353716828,
+        "score": 0.9163063764572144,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 327798,
+        "label": "mouse",
+        "prompt": "grasp the mouse.",
+        "filename": "mouse_2.jpg",
+        "gt_point": [
+          26.488095238095237,
+          34.579893152015536
+        ],
+        "pred_point": [
+          25.411758422851562,
+          35.091026306152344
+        ],
+        "error": 1.1915344169342703,
+        "normalized_error": 0.008425420662313816,
+        "score": 0.6708008050918579,
+        "best_label": "the mouse",
+        "status": "ok"
+      },
+      {
+        "id": 473405,
+        "label": "calculator",
+        "prompt": "grasp the calculator.",
+        "filename": "calculator_6.jpg",
+        "gt_point": [
+          26.25,
+          84.17826586642829
+        ],
+        "pred_point": [
+          26.938858032226562,
+          85.5897216796875
+        ],
+        "error": 1.5705812897920466,
+        "normalized_error": 0.011105686804166702,
+        "score": 0.7618082165718079,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 330286,
+        "label": "keyboard",
+        "prompt": "grasp the keyboard.",
+        "filename": "keyboard_11.jpg",
+        "gt_point": [
+          13.093451168518937,
+          11.200203075140152
+        ],
+        "pred_point": [
+          23.390899658203125,
+          9.829621315002441
+        ],
+        "error": 10.388259320100753,
+        "normalized_error": 0.07345608609967595,
+        "score": 0.5579910278320312,
+        "best_label": "the keyboard",
+        "status": "ok"
+      },
+      {
+        "id": 1478303,
+        "label": "stapler",
+        "prompt": "grasp the stapler.",
+        "filename": "stapler_8.jpg",
+        "gt_point": [
+          34.206346784319194,
+          22.316284658021875
+        ],
+        "pred_point": [
+          65.8189697265625,
+          84.44681549072266
+        ],
+        "error": 69.7105483185651,
+        "normalized_error": 0.4929280143628986,
+        "score": 0.37395426630973816,
+        "best_label": "the stapler",
+        "status": "ok"
+      },
+      {
+        "id": 404152,
+        "label": "umbrella",
+        "prompt": "grasp the umbrella.",
+        "filename": "umbrella_18.jpg",
+        "gt_point": [
+          45.0,
+          27.504481073117283
+        ],
+        "pred_point": [
+          44.71879959106445,
+          28.911745071411133
+        ],
+        "error": 1.4350845942002814,
+        "normalized_error": 0.010147580481353637,
+        "score": 0.6215901970863342,
+        "best_label": "the umbrella",
+        "status": "ok"
+      },
+      {
+        "id": 1147708,
+        "label": "kettle",
+        "prompt": "grasp the kettle.",
+        "filename": "kettle_16.jpg",
+        "gt_point": [
+          86.72619047619048,
+          24.642857142857146
+        ],
+        "pred_point": [
+          87.76509857177734,
+          19.387414932250977
+        ],
+        "error": 5.357144884381592,
+        "normalized_error": 0.037880734755450465,
+        "score": 0.4245932698249817,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1056768,
+        "label": "kettle",
+        "prompt": "grasp the kettle.",
+        "filename": "kettle_15.jpg",
+        "gt_point": [
+          2.1026854590598703,
+          62.92142387536012
+        ],
+        "pred_point": [
+          49.99945068359375,
+          51.91044235229492
+        ],
+        "error": 49.1461294611857,
+        "normalized_error": 0.34751561411076376,
+        "score": 0.8440081477165222,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 353201,
+        "label": "jar",
+        "prompt": "grasp the jar.",
+        "filename": "jar_15.jpg",
+        "gt_point": [
+          55.35714285714286,
+          50.95238095238095
+        ],
+        "pred_point": [
+          46.01318359375,
+          71.88558197021484
+        ],
+        "error": 22.92397181743859,
+        "normalized_error": 0.1620969592384013,
+        "score": 0.6570976972579956,
+        "best_label": "the jar",
+        "status": "ok"
+      },
+      {
+        "id": 1176349,
+        "label": "wallet",
+        "prompt": "grasp the wallet.",
+        "filename": "wallet_16.jpg",
+        "gt_point": [
+          89.52380952380953,
+          16.964285714285715
+        ],
+        "pred_point": [
+          85.98493194580078,
+          21.4149169921875
+        ],
+        "error": 5.686105410451826,
+        "normalized_error": 0.04020683694272003,
+        "score": 0.4030323326587677,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 596595,
+        "label": "calculator",
+        "prompt": "grasp the calculator.",
+        "filename": "calculator_11.jpg",
+        "gt_point": [
+          77.5,
+          58.72788339803082
+        ],
+        "pred_point": [
+          76.02755737304688,
+          66.48489379882812
+        ],
+        "error": 7.8955249038350885,
+        "normalized_error": 0.05582979200529054,
+        "score": 0.4345909357070923,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 735540,
+        "label": "kettle",
+        "prompt": "grasp the kettle.",
+        "filename": "kettle_8.jpg",
+        "gt_point": [
+          51.978581689956904,
+          35.24443864002438
+        ],
+        "pred_point": [
+          55.28225326538086,
+          29.617780685424805
+        ],
+        "error": 6.5248393305732,
+        "normalized_error": 0.04613758136801003,
+        "score": 0.5259548425674438,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 378934,
+        "label": "calculator",
+        "prompt": "grasp the calculator.",
+        "filename": "calculator_1.jpg",
+        "gt_point": [
+          49.28571428571429,
+          69.28571171663252
+        ],
+        "pred_point": [
+          49.13692855834961,
+          62.61575698852539
+        ],
+        "error": 6.6716154168617825,
+        "normalized_error": 0.04717544502731681,
+        "score": 0.3528271019458771,
+        "best_label": "the calculator",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "template": "hold the {label}.",
+    "mean_error": 11.071493190397897,
+    "mean_normalized_error": 0.07828727912791036,
+    "success_rate": 0.6785714285714286,
+    "detection_rate": 0.9642857142857143,
+    "details": [
+      {
+        "id": 981761,
+        "label": "wallet",
+        "prompt": "hold the wallet.",
+        "filename": "wallet_14.jpg",
+        "gt_point": [
+          37.142857142857146,
+          77.1881461061337
+        ],
+        "pred_point": [
+          40.18294143676758,
+          76.09609985351562
+        ],
+        "error": 3.230276561034148,
+        "normalized_error": 0.022841504614152065,
+        "score": 0.6174050569534302,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 322777,
+        "label": "watch",
+        "prompt": "hold the watch.",
+        "filename": "watch_1.jpg",
+        "gt_point": [
+          73.96946220249032,
+          77.33338949548632
+        ],
+        "pred_point": [
+          74.4044189453125,
+          78.0411376953125
+        ],
+        "error": 0.8307210788313167,
+        "normalized_error": 0.0058740850811622855,
+        "score": 0.7940537929534912,
+        "best_label": "the watch",
+        "status": "ok"
+      },
+      {
+        "id": 658554,
+        "label": "calculator",
+        "prompt": "hold the calculator.",
+        "filename": "calculator_14.jpg",
+        "gt_point": [
+          66.9047619047619,
+          18.194056919642858
+        ],
+        "pred_point": [
+          66.19833374023438,
+          16.072603225708008
+        ],
+        "error": 2.23598054408581,
+        "normalized_error": 0.01581077005324262,
+        "score": 0.6931535601615906,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 642624,
+        "label": "charger",
+        "prompt": "hold the charger.",
+        "filename": "charger_4.jpg",
+        "gt_point": [
+          43.392857142857146,
+          88.09523809523809
+        ],
+        "pred_point": [
+          48.51253890991211,
+          47.44382858276367
+        ],
+        "error": 40.97253093251166,
+        "normalized_error": 0.28971954464754573,
+        "score": 0.48205283284187317,
+        "best_label": "the charger",
+        "status": "ok"
+      },
+      {
+        "id": 663464,
+        "label": "kettle",
+        "prompt": "hold the kettle.",
+        "filename": "kettle_6.jpg",
+        "gt_point": [
+          81.359129406157,
+          80.48249457196029
+        ],
+        "pred_point": [
+          81.71610260009766,
+          79.5424575805664
+        ],
+        "error": 1.0055371999967941,
+        "normalized_error": 0.007110221728530668,
+        "score": 0.7535066604614258,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1148190,
+        "label": "highlighter",
+        "prompt": "hold the highlighter.",
+        "filename": "highlighter_5.jpg",
+        "gt_point": [
+          94.77283349322313,
+          64.12991326813065
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 422567,
+        "label": "headphones",
+        "prompt": "hold the headphones.",
+        "filename": "headphones_15.jpg",
+        "gt_point": [
+          44.42489102942552,
+          16.930680833421313
+        ],
+        "pred_point": [
+          49.621315002441406,
+          14.907116889953613
+        ],
+        "error": 5.576524007872285,
+        "normalized_error": 0.03943197941416077,
+        "score": 0.8602693676948547,
+        "best_label": "the headphones",
+        "status": "ok"
+      },
+      {
+        "id": 446368,
+        "label": "headphones",
+        "prompt": "hold the headphones.",
+        "filename": "headphones_18.jpg",
+        "gt_point": [
+          84.78591723590448,
+          54.2578964765484
+        ],
+        "pred_point": [
+          83.71894073486328,
+          52.64360427856445
+        ],
+        "error": 1.9350406050056495,
+        "normalized_error": 0.013682803336708143,
+        "score": 0.5516362190246582,
+        "best_label": "the headphones",
+        "status": "ok"
+      },
+      {
+        "id": 422898,
+        "label": "toothbrush",
+        "prompt": "hold the toothbrush.",
+        "filename": "toothbrush_3.jpg",
+        "gt_point": [
+          74.95215085814691,
+          79.28662420382166
+        ],
+        "pred_point": [
+          76.80131530761719,
+          84.64081573486328
+        ],
+        "error": 5.6645228126531855,
+        "normalized_error": 0.040054224930129625,
+        "score": 0.7676246166229248,
+        "best_label": "the toothbrush",
+        "status": "ok"
+      },
+      {
+        "id": 394323,
+        "label": "backpack",
+        "prompt": "hold the backpack.",
+        "filename": "backpack_14.jpg",
+        "gt_point": [
+          67.55555555555556,
+          72.58333333333333
+        ],
+        "pred_point": [
+          37.32733917236328,
+          64.13229370117188
+        ],
+        "error": 31.38734272287358,
+        "normalized_error": 0.22194202882770142,
+        "score": 0.3937585651874542,
+        "best_label": "the backpack",
+        "status": "ok"
+      },
+      {
+        "id": 1341155,
+        "label": "stapler",
+        "prompt": "hold the stapler.",
+        "filename": "stapler_7.jpg",
+        "gt_point": [
+          60.297619047619044,
+          35.0432080305287
+        ],
+        "pred_point": [
+          60.499637603759766,
+          34.92423629760742
+        ],
+        "error": 0.23444848498056065,
+        "normalized_error": 0.0016578011356866687,
+        "score": 0.3218420743942261,
+        "best_label": "the stapler",
+        "status": "ok"
+      },
+      {
+        "id": 348097,
+        "label": "scissor",
+        "prompt": "hold the scissor.",
+        "filename": "scissor_0.jpg",
+        "gt_point": [
+          46.40818050893542,
+          6.53708852173252
+        ],
+        "pred_point": [
+          24.32512664794922,
+          50.2422981262207
+        ],
+        "error": 48.96740136544286,
+        "normalized_error": 0.34625181562588053,
+        "score": 0.42355233430862427,
+        "best_label": "the scissor",
+        "status": "ok"
+      },
+      {
+        "id": 397021,
+        "label": "jar",
+        "prompt": "hold the jar.",
+        "filename": "jar_19.jpg",
+        "gt_point": [
+          52.13562307353589,
+          29.979909442561997
+        ],
+        "pred_point": [
+          51.00072479248047,
+          45.45582962036133
+        ],
+        "error": 15.51747671950032,
+        "normalized_error": 0.10972513015263057,
+        "score": 0.8011503219604492,
+        "best_label": "the jar",
+        "status": "ok"
+      },
+      {
+        "id": 416826,
+        "label": "kettle",
+        "prompt": "hold the kettle.",
+        "filename": "kettle_2.jpg",
+        "gt_point": [
+          66.72619047619047,
+          41.904761904761905
+        ],
+        "pred_point": [
+          66.71318817138672,
+          43.98124313354492
+        ],
+        "error": 2.0765215201600355,
+        "normalized_error": 0.014683224481849593,
+        "score": 0.7758516669273376,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1541859,
+        "label": "scissor",
+        "prompt": "hold the scissor.",
+        "filename": "scissor_13.jpg",
+        "gt_point": [
+          35.08199245515436,
+          35.678391959798994
+        ],
+        "pred_point": [
+          39.265663146972656,
+          34.73733139038086
+        ],
+        "error": 4.288203252387771,
+        "normalized_error": 0.03032217598869601,
+        "score": 0.37188920378685,
+        "best_label": "the scissor",
+        "status": "ok"
+      },
+      {
+        "id": 728980,
+        "label": "wallet",
+        "prompt": "hold the wallet.",
+        "filename": "wallet_8.jpg",
+        "gt_point": [
+          61.368232362035194,
+          52.64174881866383
+        ],
+        "pred_point": [
+          49.23727798461914,
+          49.02585983276367
+        ],
+        "error": 12.658385598177535,
+        "normalized_error": 0.08950830295345466,
+        "score": 0.9095239043235779,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 327798,
+        "label": "mouse",
+        "prompt": "hold the mouse.",
+        "filename": "mouse_2.jpg",
+        "gt_point": [
+          26.488095238095237,
+          34.579893152015536
+        ],
+        "pred_point": [
+          25.406858444213867,
+          35.079071044921875
+        ],
+        "error": 1.190902103007144,
+        "normalized_error": 0.00842094952765672,
+        "score": 0.6369196772575378,
+        "best_label": "the mouse",
+        "status": "ok"
+      },
+      {
+        "id": 473405,
+        "label": "calculator",
+        "prompt": "hold the calculator.",
+        "filename": "calculator_6.jpg",
+        "gt_point": [
+          26.25,
+          84.17826586642829
+        ],
+        "pred_point": [
+          26.93987464904785,
+          85.57601928710938
+        ],
+        "error": 1.558728511022827,
+        "normalized_error": 0.011021875001730512,
+        "score": 0.7447484135627747,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 330286,
+        "label": "keyboard",
+        "prompt": "hold the keyboard.",
+        "filename": "keyboard_11.jpg",
+        "gt_point": [
+          13.093451168518937,
+          11.200203075140152
+        ],
+        "pred_point": [
+          23.38604736328125,
+          9.805285453796387
+        ],
+        "error": 10.386689735879935,
+        "normalized_error": 0.07344498746321412,
+        "score": 0.5216248035430908,
+        "best_label": "the keyboard",
+        "status": "ok"
+      },
+      {
+        "id": 1478303,
+        "label": "stapler",
+        "prompt": "hold the stapler.",
+        "filename": "stapler_8.jpg",
+        "gt_point": [
+          34.206346784319194,
+          22.316284658021875
+        ],
+        "pred_point": [
+          35.186920166015625,
+          22.58913230895996
+        ],
+        "error": 1.017824695901767,
+        "normalized_error": 0.00719710744531275,
+        "score": 0.4034637212753296,
+        "best_label": "the stapler",
+        "status": "ok"
+      },
+      {
+        "id": 404152,
+        "label": "umbrella",
+        "prompt": "hold the umbrella.",
+        "filename": "umbrella_18.jpg",
+        "gt_point": [
+          45.0,
+          27.504481073117283
+        ],
+        "pred_point": [
+          44.69477081298828,
+          28.816953659057617
+        ],
+        "error": 1.3474980358187314,
+        "normalized_error": 0.009528249987629783,
+        "score": 0.6154593229293823,
+        "best_label": "the umbrella",
+        "status": "ok"
+      },
+      {
+        "id": 1147708,
+        "label": "kettle",
+        "prompt": "hold the kettle.",
+        "filename": "kettle_16.jpg",
+        "gt_point": [
+          86.72619047619048,
+          24.642857142857146
+        ],
+        "pred_point": [
+          87.804443359375,
+          19.38741111755371
+        ],
+        "error": 5.364917613851863,
+        "normalized_error": 0.037935696252618036,
+        "score": 0.4017990529537201,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1056768,
+        "label": "kettle",
+        "prompt": "hold the kettle.",
+        "filename": "kettle_15.jpg",
+        "gt_point": [
+          2.1026854590598703,
+          62.92142387536012
+        ],
+        "pred_point": [
+          50.00502395629883,
+          51.65256118774414
+        ],
+        "error": 49.209974416080016,
+        "normalized_error": 0.34796706611626693,
+        "score": 0.782865583896637,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 353201,
+        "label": "jar",
+        "prompt": "hold the jar.",
+        "filename": "jar_15.jpg",
+        "gt_point": [
+          55.35714285714286,
+          50.95238095238095
+        ],
+        "pred_point": [
+          46.0090217590332,
+          71.88861846923828
+        ],
+        "error": 22.928440394109888,
+        "normalized_error": 0.16212855684706656,
+        "score": 0.6517707109451294,
+        "best_label": "the jar",
+        "status": "ok"
+      },
+      {
+        "id": 1176349,
+        "label": "wallet",
+        "prompt": "hold the wallet.",
+        "filename": "wallet_16.jpg",
+        "gt_point": [
+          89.52380952380953,
+          16.964285714285715
+        ],
+        "pred_point": [
+          85.97174072265625,
+          21.378267288208008
+        ],
+        "error": 5.665725442845,
+        "normalized_error": 0.04006272880976854,
+        "score": 0.465347558259964,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 596595,
+        "label": "calculator",
+        "prompt": "hold the calculator.",
+        "filename": "calculator_11.jpg",
+        "gt_point": [
+          77.5,
+          58.72788339803082
+        ],
+        "pred_point": [
+          76.03178405761719,
+          66.47477722167969
+        ],
+        "error": 7.884798039938324,
+        "normalized_error": 0.05575394162326787,
+        "score": 0.4340478181838989,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 735540,
+        "label": "kettle",
+        "prompt": "hold the kettle.",
+        "filename": "kettle_8.jpg",
+        "gt_point": [
+          51.978581689956904,
+          35.24443864002438
+        ],
+        "pred_point": [
+          55.291114807128906,
+          29.604768753051758
+        ],
+        "error": 6.540547009844687,
+        "normalized_error": 0.04624865143330575,
+        "score": 0.641427218914032,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 378934,
+        "label": "calculator",
+        "prompt": "hold the calculator.",
+        "filename": "calculator_1.jpg",
+        "gt_point": [
+          49.28571428571429,
+          69.28571171663252
+        ],
+        "pred_point": [
+          49.1523551940918,
+          78.5381088256836
+        ],
+        "error": 9.253356736929518,
+        "normalized_error": 0.06543111297421086,
+        "score": 0.3520109951496124,
+        "best_label": "the calculator",
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "template": "pick up the {label}.",
+    "mean_error": 12.294354405728402,
+    "mean_normalized_error": 0.08693421370601258,
+    "success_rate": 0.6428571428571429,
+    "detection_rate": 0.9642857142857143,
+    "details": [
+      {
+        "id": 981761,
+        "label": "wallet",
+        "prompt": "pick up the wallet.",
+        "filename": "wallet_14.jpg",
+        "gt_point": [
+          37.142857142857146,
+          77.1881461061337
+        ],
+        "pred_point": [
+          40.1823616027832,
+          76.10057067871094
+        ],
+        "error": 3.2282216976192157,
+        "normalized_error": 0.022826974535600956,
+        "score": 0.6117559671401978,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 322777,
+        "label": "watch",
+        "prompt": "pick up the watch.",
+        "filename": "watch_1.jpg",
+        "gt_point": [
+          73.96946220249032,
+          77.33338949548632
+        ],
+        "pred_point": [
+          74.4124755859375,
+          77.96662139892578
+        ],
+        "error": 0.7728170352961594,
+        "normalized_error": 0.005464641662743978,
+        "score": 0.7656272053718567,
+        "best_label": "the watch",
+        "status": "ok"
+      },
+      {
+        "id": 658554,
+        "label": "calculator",
+        "prompt": "pick up the calculator.",
+        "filename": "calculator_14.jpg",
+        "gt_point": [
+          66.9047619047619,
+          18.194056919642858
+        ],
+        "pred_point": [
+          66.2452163696289,
+          16.097110748291016
+        ],
+        "error": 2.198223424057804,
+        "normalized_error": 0.01554378689714385,
+        "score": 0.7108317613601685,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 642624,
+        "label": "charger",
+        "prompt": "pick up the charger.",
+        "filename": "charger_4.jpg",
+        "gt_point": [
+          43.392857142857146,
+          88.09523809523809
+        ],
+        "pred_point": [
+          48.52765655517578,
+          47.47865295410156
+        ],
+        "error": 40.939872009047455,
+        "normalized_error": 0.2894886111850678,
+        "score": 0.45239534974098206,
+        "best_label": "the charger",
+        "status": "ok"
+      },
+      {
+        "id": 663464,
+        "label": "kettle",
+        "prompt": "pick up the kettle.",
+        "filename": "kettle_6.jpg",
+        "gt_point": [
+          81.359129406157,
+          80.48249457196029
+        ],
+        "pred_point": [
+          81.74060821533203,
+          79.64082336425781
+        ],
+        "error": 0.9240895197881401,
+        "normalized_error": 0.006534299658656141,
+        "score": 0.7868080735206604,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1148190,
+        "label": "highlighter",
+        "prompt": "pick up the highlighter.",
+        "filename": "highlighter_5.jpg",
+        "gt_point": [
+          94.77283349322313,
+          64.12991326813065
+        ],
+        "pred_point": null,
+        "error": null,
+        "normalized_error": null,
+        "score": null,
+        "best_label": null,
+        "status": "no_detection"
+      },
+      {
+        "id": 422567,
+        "label": "headphones",
+        "prompt": "pick up the headphones.",
+        "filename": "headphones_15.jpg",
+        "gt_point": [
+          44.42489102942552,
+          16.930680833421313
+        ],
+        "pred_point": [
+          49.626190185546875,
+          14.97189712524414
+        ],
+        "error": 5.55790743742713,
+        "normalized_error": 0.03930034038211871,
+        "score": 0.8665533065795898,
+        "best_label": "the headphones",
+        "status": "ok"
+      },
+      {
+        "id": 446368,
+        "label": "headphones",
+        "prompt": "pick up the headphones.",
+        "filename": "headphones_18.jpg",
+        "gt_point": [
+          84.78591723590448,
+          54.2578964765484
+        ],
+        "pred_point": [
+          83.7557601928711,
+          52.67664337158203
+        ],
+        "error": 1.8872172011166797,
+        "normalized_error": 0.013344640804815006,
+        "score": 0.5608019828796387,
+        "best_label": "the headphones",
+        "status": "ok"
+      },
+      {
+        "id": 422898,
+        "label": "toothbrush",
+        "prompt": "pick up the toothbrush.",
+        "filename": "toothbrush_3.jpg",
+        "gt_point": [
+          74.95215085814691,
+          79.28662420382166
+        ],
+        "pred_point": [
+          76.7991943359375,
+          84.67333984375
+        ],
+        "error": 5.6945867298410375,
+        "normalized_error": 0.04026680892725524,
+        "score": 0.7660719156265259,
+        "best_label": "the toothbrush",
+        "status": "ok"
+      },
+      {
+        "id": 394323,
+        "label": "backpack",
+        "prompt": "pick up the backpack.",
+        "filename": "backpack_14.jpg",
+        "gt_point": [
+          67.55555555555556,
+          72.58333333333333
+        ],
+        "pred_point": [
+          37.336605072021484,
+          64.13780212402344
+        ],
+        "error": 31.376935557204078,
+        "normalized_error": 0.22186843905352305,
+        "score": 0.3955451548099518,
+        "best_label": "the backpack",
+        "status": "ok"
+      },
+      {
+        "id": 1341155,
+        "label": "stapler",
+        "prompt": "pick up the stapler.",
+        "filename": "stapler_7.jpg",
+        "gt_point": [
+          60.297619047619044,
+          35.0432080305287
+        ],
+        "pred_point": [
+          60.51042175292969,
+          35.01350784301758
+        ],
+        "error": 0.21486561403862467,
+        "normalized_error": 0.0015193293273052294,
+        "score": 0.3490765392780304,
+        "best_label": "the stapler",
+        "status": "ok"
+      },
+      {
+        "id": 348097,
+        "label": "scissor",
+        "prompt": "pick up the scissor.",
+        "filename": "scissor_0.jpg",
+        "gt_point": [
+          46.40818050893542,
+          6.53708852173252
+        ],
+        "pred_point": [
+          24.368410110473633,
+          50.22129440307617
+        ],
+        "error": 48.9291430045147,
+        "normalized_error": 0.3459812881613867,
+        "score": 0.3939501643180847,
+        "best_label": "the scissor",
+        "status": "ok"
+      },
+      {
+        "id": 397021,
+        "label": "jar",
+        "prompt": "pick up the jar.",
+        "filename": "jar_19.jpg",
+        "gt_point": [
+          52.13562307353589,
+          29.979909442561997
+        ],
+        "pred_point": [
+          51.02680969238281,
+          45.420223236083984
+        ],
+        "error": 15.480075458667981,
+        "normalized_error": 0.10946066330103583,
+        "score": 0.8652530312538147,
+        "best_label": "the jar",
+        "status": "ok"
+      },
+      {
+        "id": 416826,
+        "label": "kettle",
+        "prompt": "pick up the kettle.",
+        "filename": "kettle_2.jpg",
+        "gt_point": [
+          66.72619047619047,
+          41.904761904761905
+        ],
+        "pred_point": [
+          66.72625732421875,
+          43.977752685546875
+        ],
+        "error": 2.072990441726753,
+        "normalized_error": 0.014658255986798834,
+        "score": 0.8261549472808838,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1541859,
+        "label": "scissor",
+        "prompt": "pick up the scissor.",
+        "filename": "scissor_13.jpg",
+        "gt_point": [
+          35.08199245515436,
+          35.678391959798994
+        ],
+        "pred_point": [
+          65.07697296142578,
+          58.667606353759766
+        ],
+        "error": 37.79157155847551,
+        "normalized_error": 0.26722676520694694,
+        "score": 0.3408924639225006,
+        "best_label": "the scissor",
+        "status": "ok"
+      },
+      {
+        "id": 728980,
+        "label": "wallet",
+        "prompt": "pick up the wallet.",
+        "filename": "wallet_8.jpg",
+        "gt_point": [
+          61.368232362035194,
+          52.64174881866383
+        ],
+        "pred_point": [
+          49.23738098144531,
+          49.01969909667969
+        ],
+        "error": 12.66004837870582,
+        "normalized_error": 0.08952006058732642,
+        "score": 0.9066795110702515,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 327798,
+        "label": "mouse",
+        "prompt": "pick up the mouse.",
+        "filename": "mouse_2.jpg",
+        "gt_point": [
+          26.488095238095237,
+          34.579893152015536
+        ],
+        "pred_point": [
+          25.40448570251465,
+          35.097591400146484
+        ],
+        "error": 1.2009234908173019,
+        "normalized_error": 0.008491811440431346,
+        "score": 0.6493996381759644,
+        "best_label": "the mouse",
+        "status": "ok"
+      },
+      {
+        "id": 473405,
+        "label": "calculator",
+        "prompt": "pick up the calculator.",
+        "filename": "calculator_6.jpg",
+        "gt_point": [
+          26.25,
+          84.17826586642829
+        ],
+        "pred_point": [
+          26.932912826538086,
+          85.61897277832031
+        ],
+        "error": 1.5943647208904914,
+        "normalized_error": 0.011273861058262636,
+        "score": 0.7737396955490112,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 330286,
+        "label": "keyboard",
+        "prompt": "pick up the keyboard.",
+        "filename": "keyboard_11.jpg",
+        "gt_point": [
+          13.093451168518937,
+          11.200203075140152
+        ],
+        "pred_point": [
+          23.38832664489746,
+          9.809789657592773
+        ],
+        "error": 10.388344513019936,
+        "normalized_error": 0.07345668850458459,
+        "score": 0.532843291759491,
+        "best_label": "the keyboard",
+        "status": "ok"
+      },
+      {
+        "id": 1478303,
+        "label": "stapler",
+        "prompt": "pick up the stapler.",
+        "filename": "stapler_8.jpg",
+        "gt_point": [
+          34.206346784319194,
+          22.316284658021875
+        ],
+        "pred_point": [
+          35.199859619140625,
+          22.61335563659668
+        ],
+        "error": 1.0369744222019295,
+        "normalized_error": 0.007332516458559863,
+        "score": 0.4480261206626892,
+        "best_label": "the stapler",
+        "status": "ok"
+      },
+      {
+        "id": 404152,
+        "label": "umbrella",
+        "prompt": "pick up the umbrella.",
+        "filename": "umbrella_18.jpg",
+        "gt_point": [
+          45.0,
+          27.504481073117283
+        ],
+        "pred_point": [
+          44.71961212158203,
+          28.751760482788086
+        ],
+        "error": 1.278407222862035,
+        "normalized_error": 0.009039704164036069,
+        "score": 0.5776281952857971,
+        "best_label": "the umbrella",
+        "status": "ok"
+      },
+      {
+        "id": 1147708,
+        "label": "kettle",
+        "prompt": "pick up the kettle.",
+        "filename": "kettle_16.jpg",
+        "gt_point": [
+          86.72619047619048,
+          24.642857142857146
+        ],
+        "pred_point": [
+          87.75984191894531,
+          19.422794342041016
+        ],
+        "error": 5.321418008766408,
+        "normalized_error": 0.03762810759526942,
+        "score": 0.37494346499443054,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 1056768,
+        "label": "kettle",
+        "prompt": "pick up the kettle.",
+        "filename": "kettle_15.jpg",
+        "gt_point": [
+          2.1026854590598703,
+          62.92142387536012
+        ],
+        "pred_point": [
+          50.00647735595703,
+          51.68436813354492
+        ],
+        "error": 49.20411488762906,
+        "normalized_error": 0.34792563299324464,
+        "score": 0.7376984357833862,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 353201,
+        "label": "jar",
+        "prompt": "pick up the jar.",
+        "filename": "jar_15.jpg",
+        "gt_point": [
+          55.35714285714286,
+          50.95238095238095
+        ],
+        "pred_point": [
+          46.01169967651367,
+          71.868896484375
+        ],
+        "error": 22.909342017180595,
+        "normalized_error": 0.16199351092870298,
+        "score": 0.6387444734573364,
+        "best_label": "the jar",
+        "status": "ok"
+      },
+      {
+        "id": 1176349,
+        "label": "wallet",
+        "prompt": "pick up the wallet.",
+        "filename": "wallet_16.jpg",
+        "gt_point": [
+          89.52380952380953,
+          16.964285714285715
+        ],
+        "pred_point": [
+          86.00184631347656,
+          21.298006057739258
+        ],
+        "error": 5.584386906453714,
+        "normalized_error": 0.03948757850322787,
+        "score": 0.5124546885490417,
+        "best_label": "the wallet",
+        "status": "ok"
+      },
+      {
+        "id": 596595,
+        "label": "calculator",
+        "prompt": "pick up the calculator.",
+        "filename": "calculator_11.jpg",
+        "gt_point": [
+          77.5,
+          58.72788339803082
+        ],
+        "pred_point": [
+          76.03024291992188,
+          66.48994445800781
+        ],
+        "error": 7.899986952758831,
+        "normalized_error": 0.05586134345581019,
+        "score": 0.43764710426330566,
+        "best_label": "the calculator",
+        "status": "ok"
+      },
+      {
+        "id": 735540,
+        "label": "kettle",
+        "prompt": "pick up the kettle.",
+        "filename": "kettle_8.jpg",
+        "gt_point": [
+          51.978581689956904,
+          35.24443864002438
+        ],
+        "pred_point": [
+          55.28017807006836,
+          29.6451358795166
+        ],
+        "error": 6.500210098392373,
+        "normalized_error": 0.045963426397105225,
+        "score": 0.5994319915771484,
+        "best_label": "the kettle",
+        "status": "ok"
+      },
+      {
+        "id": 378934,
+        "label": "calculator",
+        "prompt": "pick up the calculator.",
+        "filename": "calculator_1.jpg",
+        "gt_point": [
+          49.28571428571429,
+          69.28571171663252
+        ],
+        "pred_point": [
+          49.217079162597656,
+          78.58599090576172
+        ],
+        "error": 9.300530646167076,
+        "normalized_error": 0.06576468288538041,
+        "score": 0.3576125502586365,
+        "best_label": "the calculator",
+        "status": "ok"
+      }
+    ]
+  }
+]

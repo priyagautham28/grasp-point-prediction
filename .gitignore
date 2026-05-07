@@ -1,0 +1,32 @@
+
+# Exclude entire data folder (pixmo datasets are large)
+data/
+
+# Exclude figures
+figures/
+
+# Exclude references and project documents
+references/
+Project Documents/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Common large file types
+*.csv
+*.npy
+*.pth
+*.pt
+*.h5
+*.pkl
+*.jpg
+*.jpeg
+*.png
+*.zip
+*.tar
+*.gz

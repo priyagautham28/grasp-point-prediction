@@ -1,0 +1,4577 @@
+[
+  {
+    "id": 409,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/apple_8.jpg",
+    "filename": "apple_8.jpg",
+    "label": "apple",
+    "prompt": "Point to the center of the apple.",
+    "best_prompt_name": "point",
+    "pred_x": 474.933577,
+    "pred_y": 424.214363,
+    "pred_point": [
+      474.933577,
+      424.214363
+    ],
+    "gt_x": 263.809524,
+    "gt_y": 446.666667,
+    "gt_point": [
+      263.809524,
+      446.666667
+    ],
+    "pixel_error": 212.314558,
+    "normalized_pixel_error": 0.187661,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 410,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/apple_9.jpg",
+    "filename": "apple_9.jpg",
+    "label": "apple",
+    "prompt": "Point to the center of the apple.",
+    "best_prompt_name": "point",
+    "pred_x": 474.933577,
+    "pred_y": 424.214363,
+    "pred_point": [
+      474.933577,
+      424.214363
+    ],
+    "gt_x": 195.238095,
+    "gt_y": 429.52381,
+    "gt_point": [
+      195.238095,
+      429.52381
+    ],
+    "pixel_error": 279.745871,
+    "normalized_pixel_error": 0.247263,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 402,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/apple_1.jpg",
+    "filename": "apple_1.jpg",
+    "label": "apple",
+    "prompt": "Point to the center of the apple.",
+    "best_prompt_name": "point",
+    "pred_x": 2737.012665,
+    "pred_y": 1683.395267,
+    "pred_point": [
+      2737.012665,
+      1683.395267
+    ],
+    "gt_x": 2520.90181,
+    "gt_y": 777.663341,
+    "gt_point": [
+      2520.90181,
+      777.663341
+    ],
+    "pixel_error": 931.157465,
+    "normalized_pixel_error": 0.161659,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 405,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/apple_4.jpg",
+    "filename": "apple_4.jpg",
+    "label": "apple",
+    "prompt": "Point to the center of the apple.",
+    "best_prompt_name": "point",
+    "pred_x": 653.502846,
+    "pred_y": 583.297639,
+    "pred_point": [
+      653.502846,
+      583.297639
+    ],
+    "gt_x": 690.903128,
+    "gt_y": 616.385125,
+    "gt_point": [
+      690.903128,
+      616.385125
+    ],
+    "pixel_error": 49.935587,
+    "normalized_pixel_error": 0.025193,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 13,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/backpack_14.jpg",
+    "filename": "backpack_14.jpg",
+    "label": "backpack",
+    "prompt": "Point to the strap of the backpack.",
+    "best_prompt_name": "point",
+    "pred_x": 877.740169,
+    "pred_y": 664.728266,
+    "pred_point": [
+      877.740169,
+      664.728266
+    ],
+    "gt_x": 806.084576,
+    "gt_y": 684.967655,
+    "gt_point": [
+      806.084576,
+      684.967655
+    ],
+    "pixel_error": 74.459095,
+    "normalized_pixel_error": 0.049639,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 19,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/backpack_20.jpg",
+    "filename": "backpack_20.jpg",
+    "label": "backpack",
+    "prompt": "Grasp the strap of the backpack.",
+    "best_prompt_name": "grasp",
+    "pred_x": 777.009505,
+    "pred_y": 573.298466,
+    "pred_point": [
+      777.009505,
+      573.298466
+    ],
+    "gt_x": 712.344271,
+    "gt_y": 496.749266,
+    "gt_point": [
+      712.344271,
+      496.749266
+    ],
+    "pixel_error": 100.206649,
+    "normalized_pixel_error": 0.047279,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 6,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/backpack_7.jpg",
+    "filename": "backpack_7.jpg",
+    "label": "backpack",
+    "prompt": "Grasp the strap of the backpack.",
+    "best_prompt_name": "grasp",
+    "pred_x": 242.609962,
+    "pred_y": 702.018878,
+    "pred_point": [
+      242.609962,
+      702.018878
+    ],
+    "gt_x": 188.8,
+    "gt_y": 629.942857,
+    "gt_point": [
+      188.8,
+      629.942857
+    ],
+    "pixel_error": 89.947012,
+    "normalized_pixel_error": 0.071652,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 17,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/backpack_18.jpg",
+    "filename": "backpack_18.jpg",
+    "label": "backpack",
+    "prompt": "Point to the strap of the backpack.",
+    "best_prompt_name": "point",
+    "pred_x": 758.032417,
+    "pred_y": 950.831151,
+    "pred_point": [
+      758.032417,
+      950.831151
+    ],
+    "gt_x": 947.507073,
+    "gt_y": 1073.471278,
+    "gt_point": [
+      947.507073,
+      1073.471278
+    ],
+    "pixel_error": 225.701674,
+    "normalized_pixel_error": 0.112851,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 28,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bag_9.jpg",
+    "filename": "bag_9.jpg",
+    "label": "bag",
+    "prompt": "Grasp the handle of the bag.",
+    "best_prompt_name": "grasp",
+    "pred_x": 3200.312622,
+    "pred_y": 1031.373544,
+    "pred_point": [
+      3200.312622,
+      1031.373544
+    ],
+    "gt_x": 788.100193,
+    "gt_y": 313.117078,
+    "gt_point": [
+      788.100193,
+      313.117078
+    ],
+    "pixel_error": 2516.875276,
+    "normalized_pixel_error": 0.412961,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 38,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bag_19.jpg",
+    "filename": "bag_19.jpg",
+    "label": "bag",
+    "prompt": "Grasp the handle of the bag.",
+    "best_prompt_name": "grasp",
+    "pred_x": 368.844295,
+    "pred_y": 326.72689,
+    "pred_point": [
+      368.844295,
+      326.72689
+    ],
+    "gt_x": 318.095238,
+    "gt_y": 513.333333,
+    "gt_point": [
+      318.095238,
+      513.333333
+    ],
+    "pixel_error": 193.384155,
+    "normalized_pixel_error": 0.193384,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 31,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bag_12.jpg",
+    "filename": "bag_12.jpg",
+    "label": "bag",
+    "prompt": "Point to the handle of the bag.",
+    "best_prompt_name": "point",
+    "pred_x": 632.695205,
+    "pred_y": 487.995393,
+    "pred_point": [
+      632.695205,
+      487.995393
+    ],
+    "gt_x": 697.999941,
+    "gt_y": 319.988798,
+    "gt_point": [
+      697.999941,
+      319.988798
+    ],
+    "pixel_error": 180.252391,
+    "normalized_pixel_error": 0.148299,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 23,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bag_4.jpg",
+    "filename": "bag_4.jpg",
+    "label": "bag",
+    "prompt": "Point to the handle of the bag.",
+    "best_prompt_name": "point",
+    "pred_x": 333.455024,
+    "pred_y": 667.846687,
+    "pred_point": [
+      333.455024,
+      667.846687
+    ],
+    "gt_x": 811.088696,
+    "gt_y": 732.137211,
+    "gt_point": [
+      811.088696,
+      732.137211
+    ],
+    "pixel_error": 481.941071,
+    "normalized_pixel_error": 0.31873,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 751,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/basket_10.jpg",
+    "filename": "basket_10.jpg",
+    "label": "basket",
+    "prompt": "Grasp the handle of the basket.",
+    "best_prompt_name": "grasp",
+    "pred_x": 723.994249,
+    "pred_y": 656.830139,
+    "pred_point": [
+      723.994249,
+      656.830139
+    ],
+    "gt_x": 1015.919318,
+    "gt_y": 868.315618,
+    "gt_point": [
+      1015.919318,
+      868.315618
+    ],
+    "pixel_error": 360.480726,
+    "normalized_pixel_error": 0.209285,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 749,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/basket_8.jpg",
+    "filename": "basket_8.jpg",
+    "label": "basket",
+    "prompt": "Grasp the handle of the basket.",
+    "best_prompt_name": "grasp",
+    "pred_x": 805.305298,
+    "pred_y": 751.638245,
+    "pred_point": [
+      805.305298,
+      751.638245
+    ],
+    "gt_x": 286.551176,
+    "gt_y": 1018.609175,
+    "gt_point": [
+      286.551176,
+      1018.609175
+    ],
+    "pixel_error": 583.42036,
+    "normalized_pixel_error": 0.227899,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 743,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/basket_2.jpg",
+    "filename": "basket_2.jpg",
+    "label": "basket",
+    "prompt": "Grasp the handle of the basket.",
+    "best_prompt_name": "grasp",
+    "pred_x": 282.811314,
+    "pred_y": 361.299992,
+    "pred_point": [
+      282.811314,
+      361.299992
+    ],
+    "gt_x": 437.64881,
+    "gt_y": 462.537202,
+    "gt_point": [
+      437.64881,
+      462.537202
+    ],
+    "pixel_error": 184.996278,
+    "normalized_pixel_error": 0.261624,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 744,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/basket_3.jpg",
+    "filename": "basket_3.jpg",
+    "label": "basket",
+    "prompt": "Point to the handle of the basket.",
+    "best_prompt_name": "point",
+    "pred_x": 504.190353,
+    "pred_y": 744.629693,
+    "pred_point": [
+      504.190353,
+      744.629693
+    ],
+    "gt_x": 433.845697,
+    "gt_y": 1042.874528,
+    "gt_point": [
+      433.845697,
+      1042.874528
+    ],
+    "pixel_error": 306.428381,
+    "normalized_pixel_error": 0.181722,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 429,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/book_8.jpg",
+    "filename": "book_8.jpg",
+    "label": "book",
+    "prompt": "Grasp the spine of the book.",
+    "best_prompt_name": "grasp",
+    "pred_x": 456.465899,
+    "pred_y": 607.497233,
+    "pred_point": [
+      456.465899,
+      607.497233
+    ],
+    "gt_x": 414.205548,
+    "gt_y": 826.323196,
+    "gt_point": [
+      414.205548,
+      826.323196
+    ],
+    "pixel_error": 222.869332,
+    "normalized_pixel_error": 0.162037,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 439,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/book_18.jpg",
+    "filename": "book_18.jpg",
+    "label": "book",
+    "prompt": "Grasp the spine of the book.",
+    "best_prompt_name": "grasp",
+    "pred_x": 199.323392,
+    "pred_y": 162.926435,
+    "pred_point": [
+      199.323392,
+      162.926435
+    ],
+    "gt_x": 305.904759,
+    "gt_y": 60.857144,
+    "gt_point": [
+      305.904759,
+      60.857144
+    ],
+    "pixel_error": 147.572789,
+    "normalized_pixel_error": 0.260874,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 427,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/book_6.jpg",
+    "filename": "book_6.jpg",
+    "label": "book",
+    "prompt": "Grasp the spine of the book.",
+    "best_prompt_name": "grasp",
+    "pred_x": 190.986451,
+    "pred_y": 248.573124,
+    "pred_point": [
+      190.986451,
+      248.573124
+    ],
+    "gt_x": 169.101786,
+    "gt_y": 169.303678,
+    "gt_point": [
+      169.101786,
+      169.303678
+    ],
+    "pixel_error": 82.234929,
+    "normalized_pixel_error": 0.136384,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 441,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/book_20.jpg",
+    "filename": "book_20.jpg",
+    "label": "book",
+    "prompt": "Grasp the spine of the book.",
+    "best_prompt_name": "grasp",
+    "pred_x": 596.75106,
+    "pred_y": 349.193959,
+    "pred_point": [
+      596.75106,
+      349.193959
+    ],
+    "gt_x": 633.726384,
+    "gt_y": 368.432432,
+    "gt_point": [
+      633.726384,
+      368.432432
+    ],
+    "pixel_error": 41.680852,
+    "normalized_pixel_error": 0.028381,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 461,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bottle_20.jpg",
+    "filename": "bottle_20.jpg",
+    "label": "bottle",
+    "prompt": "Grasp the neck of the bottle.",
+    "best_prompt_name": "grasp",
+    "pred_x": 554.467697,
+    "pred_y": 348.92591,
+    "pred_point": [
+      554.467697,
+      348.92591
+    ],
+    "gt_x": 496.870111,
+    "gt_y": 342.505772,
+    "gt_point": [
+      496.870111,
+      342.505772
+    ],
+    "pixel_error": 57.954294,
+    "normalized_pixel_error": 0.039462,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 452,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bottle_11.jpg",
+    "filename": "bottle_11.jpg",
+    "label": "bottle",
+    "prompt": "Point to the neck of the bottle.",
+    "best_prompt_name": "point",
+    "pred_x": 263.950153,
+    "pred_y": 230.770562,
+    "pred_point": [
+      263.950153,
+      230.770562
+    ],
+    "gt_x": 51.366071,
+    "gt_y": 250.917357,
+    "gt_point": [
+      51.366071,
+      250.917357
+    ],
+    "pixel_error": 213.536613,
+    "normalized_pixel_error": 0.326708,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 460,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bottle_19.jpg",
+    "filename": "bottle_19.jpg",
+    "label": "bottle",
+    "prompt": "Grasp the neck of the bottle.",
+    "best_prompt_name": "grasp",
+    "pred_x": 292.838039,
+    "pred_y": 139.814844,
+    "pred_point": [
+      292.838039,
+      139.814844
+    ],
+    "gt_x": 30.857143,
+    "gt_y": 134.095238,
+    "gt_point": [
+      30.857143,
+      134.095238
+    ],
+    "pixel_error": 262.043325,
+    "normalized_pixel_error": 0.327554,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 448,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bottle_7.jpg",
+    "filename": "bottle_7.jpg",
+    "label": "bottle",
+    "prompt": "Grasp the neck of the bottle.",
+    "best_prompt_name": "grasp",
+    "pred_x": 503.954282,
+    "pred_y": 174.047441,
+    "pred_point": [
+      503.954282,
+      174.047441
+    ],
+    "gt_x": 688.97619,
+    "gt_y": 55.191367,
+    "gt_point": [
+      688.97619,
+      55.191367
+    ],
+    "pixel_error": 219.908783,
+    "normalized_pixel_error": 0.240708,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 464,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bowl_3.jpg",
+    "filename": "bowl_3.jpg",
+    "label": "bowl",
+    "prompt": "Point to the rim of the bowl.",
+    "best_prompt_name": "point",
+    "pred_x": 303.666517,
+    "pred_y": 224.847019,
+    "pred_point": [
+      303.666517,
+      224.847019
+    ],
+    "gt_x": 166.964286,
+    "gt_y": 331.25,
+    "gt_point": [
+      166.964286,
+      331.25
+    ],
+    "pixel_error": 173.231332,
+    "normalized_pixel_error": 0.192183,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 477,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bowl_16.jpg",
+    "filename": "bowl_16.jpg",
+    "label": "bowl",
+    "prompt": "Grasp the rim of the bowl.",
+    "best_prompt_name": "grasp",
+    "pred_x": 310.346244,
+    "pred_y": 200.947168,
+    "pred_point": [
+      310.346244,
+      200.947168
+    ],
+    "gt_x": 515.52183,
+    "gt_y": 287.733568,
+    "gt_point": [
+      515.52183,
+      287.733568
+    ],
+    "pixel_error": 222.775448,
+    "normalized_pixel_error": 0.310099,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 478,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bowl_17.jpg",
+    "filename": "bowl_17.jpg",
+    "label": "bowl",
+    "prompt": "Grasp the rim of the bowl.",
+    "best_prompt_name": "grasp",
+    "pred_x": 397.109127,
+    "pred_y": 241.482362,
+    "pred_point": [
+      397.109127,
+      241.482362
+    ],
+    "gt_x": 497.619048,
+    "gt_y": 369.52381,
+    "gt_point": [
+      497.619048,
+      369.52381
+    ],
+    "pixel_error": 162.77855,
+    "normalized_pixel_error": 0.177342,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 466,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/bowl_5.jpg",
+    "filename": "bowl_5.jpg",
+    "label": "bowl",
+    "prompt": "Point to the rim of the bowl.",
+    "best_prompt_name": "point",
+    "pred_x": 218.220448,
+    "pred_y": 538.991776,
+    "pred_point": [
+      218.220448,
+      538.991776
+    ],
+    "gt_x": 22.431495,
+    "gt_y": 514.287337,
+    "gt_point": [
+      22.431495,
+      514.287337
+    ],
+    "pixel_error": 197.341389,
+    "normalized_pixel_error": 0.164451,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 50,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/calculator_11.jpg",
+    "filename": "calculator_11.jpg",
+    "label": "calculator",
+    "prompt": "Point to the body of the calculator.",
+    "best_prompt_name": "point",
+    "pred_x": 411.580289,
+    "pred_y": 887.083057,
+    "pred_point": [
+      411.580289,
+      887.083057
+    ],
+    "gt_x": 641.7,
+    "gt_y": 864.474444,
+    "gt_point": [
+      641.7,
+      864.474444
+    ],
+    "pixel_error": 231.22766,
+    "normalized_pixel_error": 0.136911,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 48,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/calculator_9.jpg",
+    "filename": "calculator_9.jpg",
+    "label": "calculator",
+    "prompt": "Point to the body of the calculator.",
+    "best_prompt_name": "point",
+    "pred_x": 261.164081,
+    "pred_y": 314.6945,
+    "pred_point": [
+      261.164081,
+      314.6945
+    ],
+    "gt_x": 265.28571,
+    "gt_y": 307.571433,
+    "gt_point": [
+      265.28571,
+      307.571433
+    ],
+    "pixel_error": 8.229575,
+    "normalized_pixel_error": 0.009699,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 57,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/calculator_18.jpg",
+    "filename": "calculator_18.jpg",
+    "label": "calculator",
+    "prompt": "Point to the body of the calculator.",
+    "best_prompt_name": "point",
+    "pred_x": 637.283695,
+    "pred_y": 888.099608,
+    "pred_point": [
+      637.283695,
+      888.099608
+    ],
+    "gt_x": 809.788554,
+    "gt_y": 1007.6731,
+    "gt_point": [
+      809.788554,
+      1007.6731
+    ],
+    "pixel_error": 209.894607,
+    "normalized_pixel_error": 0.097308,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 43,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/calculator_4.jpg",
+    "filename": "calculator_4.jpg",
+    "label": "calculator",
+    "prompt": "Grasp the body of the calculator.",
+    "best_prompt_name": "grasp",
+    "pred_x": 603.17601,
+    "pred_y": 436.453737,
+    "pred_point": [
+      603.17601,
+      436.453737
+    ],
+    "gt_x": 814.268479,
+    "gt_y": 809.748727,
+    "gt_point": [
+      814.268479,
+      809.748727
+    ],
+    "pixel_error": 428.846336,
+    "normalized_pixel_error": 0.243341,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 60,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/charger_1.jpg",
+    "filename": "charger_1.jpg",
+    "label": "charger",
+    "prompt": "Grasp the cable of the charger.",
+    "best_prompt_name": "grasp",
+    "pred_x": 758.675137,
+    "pred_y": 1190.089456,
+    "pred_point": [
+      758.675137,
+      1190.089456
+    ],
+    "gt_x": 777.330628,
+    "gt_y": 1688.015187,
+    "gt_point": [
+      777.330628,
+      1688.015187
+    ],
+    "pixel_error": 498.275086,
+    "normalized_pixel_error": 0.189562,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 76,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/charger_17.jpg",
+    "filename": "charger_17.jpg",
+    "label": "charger",
+    "prompt": "Grasp the cable of the charger.",
+    "best_prompt_name": "grasp",
+    "pred_x": 395.095205,
+    "pred_y": 319.263768,
+    "pred_point": [
+      395.095205,
+      319.263768
+    ],
+    "gt_x": 476.190476,
+    "gt_y": 507.619048,
+    "gt_point": [
+      476.190476,
+      507.619048
+    ],
+    "pixel_error": 205.071096,
+    "normalized_pixel_error": 0.205071,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 77,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/charger_18.jpg",
+    "filename": "charger_18.jpg",
+    "label": "charger",
+    "prompt": "Grasp the cable of the charger.",
+    "best_prompt_name": "grasp",
+    "pred_x": 1006.36596,
+    "pred_y": 761.97979,
+    "pred_point": [
+      1006.36596,
+      761.97979
+    ],
+    "gt_x": 768.159021,
+    "gt_y": 265.747713,
+    "gt_point": [
+      768.159021,
+      265.747713
+    ],
+    "pixel_error": 550.444202,
+    "normalized_pixel_error": 0.208019,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 65,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/charger_6.jpg",
+    "filename": "charger_6.jpg",
+    "label": "charger",
+    "prompt": "Grasp the cable of the charger.",
+    "best_prompt_name": "grasp",
+    "pred_x": 527.685404,
+    "pred_y": 598.709643,
+    "pred_point": [
+      527.685404,
+      598.709643
+    ],
+    "gt_x": 425.917024,
+    "gt_y": 659.826623,
+    "gt_point": [
+      425.917024,
+      659.826623
+    ],
+    "pixel_error": 118.710102,
+    "normalized_pixel_error": 0.083941,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 487,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/cup_6.jpg",
+    "filename": "cup_6.jpg",
+    "label": "cup",
+    "prompt": "Point to the handle of the cup.",
+    "best_prompt_name": "point",
+    "pred_x": 3211.690035,
+    "pred_y": 2209.337042,
+    "pred_point": [
+      3211.690035,
+      2209.337042
+    ],
+    "gt_x": 926.906745,
+    "gt_y": 780.273811,
+    "gt_point": [
+      926.906745,
+      780.273811
+    ],
+    "pixel_error": 2694.894506,
+    "normalized_pixel_error": 0.399268,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 499,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/cup_18.jpg",
+    "filename": "cup_18.jpg",
+    "label": "cup",
+    "prompt": "Grasp the handle of the cup.",
+    "best_prompt_name": "grasp",
+    "pred_x": 310.641067,
+    "pred_y": 600.18837,
+    "pred_point": [
+      310.641067,
+      600.18837
+    ],
+    "gt_x": 109.285714,
+    "gt_y": 811.714286,
+    "gt_point": [
+      109.285714,
+      811.714286
+    ],
+    "pixel_error": 292.039708,
+    "normalized_pixel_error": 0.243366,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 497,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/cup_16.jpg",
+    "filename": "cup_16.jpg",
+    "label": "cup",
+    "prompt": "Point to the handle of the cup.",
+    "best_prompt_name": "point",
+    "pred_x": 375.568035,
+    "pred_y": 232.43154,
+    "pred_point": [
+      375.568035,
+      232.43154
+    ],
+    "gt_x": 475.846778,
+    "gt_y": 236.238024,
+    "gt_point": [
+      475.846778,
+      236.238024
+    ],
+    "pixel_error": 100.350963,
+    "normalized_pixel_error": 0.108628,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 486,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/cup_5.jpg",
+    "filename": "cup_5.jpg",
+    "label": "cup",
+    "prompt": "Point to the handle of the cup.",
+    "best_prompt_name": "point",
+    "pred_x": 254.575074,
+    "pred_y": 159.120172,
+    "pred_point": [
+      254.575074,
+      159.120172
+    ],
+    "gt_x": 249.607535,
+    "gt_y": 373.940345,
+    "gt_point": [
+      249.607535,
+      373.940345
+    ],
+    "pixel_error": 214.877601,
+    "normalized_pixel_error": 0.253236,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 865,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/earbuds_4.jpg",
+    "filename": "earbuds_4.jpg",
+    "label": "earbuds",
+    "prompt": "Point to the body of the earbuds.",
+    "best_prompt_name": "point",
+    "pred_x": 282.011248,
+    "pred_y": 490.142583,
+    "pred_point": [
+      282.011248,
+      490.142583
+    ],
+    "gt_x": 168.744659,
+    "gt_y": 251.097286,
+    "gt_point": [
+      168.744659,
+      251.097286
+    ],
+    "pixel_error": 264.522162,
+    "normalized_pixel_error": 0.233416,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 863,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/earbuds_2.jpg",
+    "filename": "earbuds_2.jpg",
+    "label": "earbuds",
+    "prompt": "Grasp the body of the earbuds.",
+    "best_prompt_name": "grasp",
+    "pred_x": 758.538344,
+    "pred_y": 1272.214029,
+    "pred_point": [
+      758.538344,
+      1272.214029
+    ],
+    "gt_x": 804.020226,
+    "gt_y": 1452.575005,
+    "gt_point": [
+      804.020226,
+      1452.575005
+    ],
+    "pixel_error": 186.007213,
+    "normalized_pixel_error": 0.095535,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 881,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/egg_8.jpg",
+    "filename": "egg_8.jpg",
+    "label": "egg",
+    "prompt": "Point to the center of the egg.",
+    "best_prompt_name": "point",
+    "pred_x": 289.281294,
+    "pred_y": 157.28268,
+    "pred_point": [
+      289.281294,
+      157.28268
+    ],
+    "gt_x": 200.302583,
+    "gt_y": 156.002332,
+    "gt_point": [
+      200.302583,
+      156.002332
+    ],
+    "pixel_error": 88.987922,
+    "normalized_pixel_error": 0.129606,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 875,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/egg_2.jpg",
+    "filename": "egg_2.jpg",
+    "label": "egg",
+    "prompt": "Grasp the center of the egg.",
+    "best_prompt_name": "grasp",
+    "pred_x": 191.778398,
+    "pred_y": 145.678282,
+    "pred_point": [
+      191.778398,
+      145.678282
+    ],
+    "gt_x": 199.477223,
+    "gt_y": 67.808156,
+    "gt_point": [
+      199.477223,
+      67.808156
+    ],
+    "pixel_error": 78.249782,
+    "normalized_pixel_error": 0.138327,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 876,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/egg_3.jpg",
+    "filename": "egg_3.jpg",
+    "label": "egg",
+    "prompt": "Grasp the center of the egg.",
+    "best_prompt_name": "grasp",
+    "pred_x": 306.551335,
+    "pred_y": 164.415646,
+    "pred_point": [
+      306.551335,
+      164.415646
+    ],
+    "gt_x": 208.758333,
+    "gt_y": 48.224067,
+    "gt_point": [
+      208.758333,
+      48.224067
+    ],
+    "pixel_error": 151.868213,
+    "normalized_pixel_error": 0.227893,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 874,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/egg_1.jpg",
+    "filename": "egg_1.jpg",
+    "label": "egg",
+    "prompt": "Point to the center of the egg.",
+    "best_prompt_name": "point",
+    "pred_x": 630.704295,
+    "pred_y": 993.790649,
+    "pred_point": [
+      630.704295,
+      993.790649
+    ],
+    "gt_x": 929.45956,
+    "gt_y": 1181.309622,
+    "gt_point": [
+      929.45956,
+      1181.309622
+    ],
+    "pixel_error": 352.729462,
+    "normalized_pixel_error": 0.143283,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 519,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/fork_18.jpg",
+    "filename": "fork_18.jpg",
+    "label": "fork",
+    "prompt": "Grasp the handle of the fork.",
+    "best_prompt_name": "grasp",
+    "pred_x": 724.407935,
+    "pred_y": 365.026653,
+    "pred_point": [
+      724.407935,
+      365.026653
+    ],
+    "gt_x": 883.996711,
+    "gt_y": 531.762735,
+    "gt_point": [
+      883.996711,
+      531.762735
+    ],
+    "pixel_error": 230.80186,
+    "normalized_pixel_error": 0.153868,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 505,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/fork_4.jpg",
+    "filename": "fork_4.jpg",
+    "label": "fork",
+    "prompt": "Point to the handle of the fork.",
+    "best_prompt_name": "point",
+    "pred_x": 468.553116,
+    "pred_y": 477.782478,
+    "pred_point": [
+      468.553116,
+      477.782478
+    ],
+    "gt_x": 207.685734,
+    "gt_y": 743.46404,
+    "gt_point": [
+      207.685734,
+      743.46404
+    ],
+    "pixel_error": 372.34189,
+    "normalized_pixel_error": 0.302865,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 508,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/fork_7.jpg",
+    "filename": "fork_7.jpg",
+    "label": "fork",
+    "prompt": "Point to the handle of the fork.",
+    "best_prompt_name": "point",
+    "pred_x": 576.526154,
+    "pred_y": 288.788177,
+    "pred_point": [
+      576.526154,
+      288.788177
+    ],
+    "gt_x": 352.0,
+    "gt_y": 192.914286,
+    "gt_point": [
+      352.0,
+      192.914286
+    ],
+    "pixel_error": 244.138888,
+    "normalized_pixel_error": 0.190734,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 515,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/fork_14.jpg",
+    "filename": "fork_14.jpg",
+    "label": "fork",
+    "prompt": "Grasp the handle of the fork.",
+    "best_prompt_name": "grasp",
+    "pred_x": 946.009562,
+    "pred_y": 1083.652782,
+    "pred_point": [
+      946.009562,
+      1083.652782
+    ],
+    "gt_x": 1276.973479,
+    "gt_y": 1231.914837,
+    "gt_point": [
+      1276.973479,
+      1231.914837
+    ],
+    "pixel_error": 362.655141,
+    "normalized_pixel_error": 0.152398,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 835,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/glove_14.jpg",
+    "filename": "glove_14.jpg",
+    "label": "glove",
+    "prompt": "Point to the cuff of the glove.",
+    "best_prompt_name": "point",
+    "pred_x": 458.535604,
+    "pred_y": 417.551571,
+    "pred_point": [
+      458.535604,
+      417.551571
+    ],
+    "gt_x": 161.352381,
+    "gt_y": 433.404922,
+    "gt_point": [
+      161.352381,
+      433.404922
+    ],
+    "pixel_error": 297.605774,
+    "normalized_pixel_error": 0.295168,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 826,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/glove_5.jpg",
+    "filename": "glove_5.jpg",
+    "label": "glove",
+    "prompt": "Point to the cuff of the glove.",
+    "best_prompt_name": "point",
+    "pred_x": 318.140104,
+    "pred_y": 221.489038,
+    "pred_point": [
+      318.140104,
+      221.489038
+    ],
+    "gt_x": 473.666662,
+    "gt_y": 82.666664,
+    "gt_point": [
+      473.666662,
+      82.666664
+    ],
+    "pixel_error": 208.471009,
+    "normalized_pixel_error": 0.247743,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 836,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/glove_15.jpg",
+    "filename": "glove_15.jpg",
+    "label": "glove",
+    "prompt": "Point to the cuff of the glove.",
+    "best_prompt_name": "point",
+    "pred_x": 1777.038282,
+    "pred_y": 955.246536,
+    "pred_point": [
+      1777.038282,
+      955.246536
+    ],
+    "gt_x": 1586.706061,
+    "gt_y": 1396.131383,
+    "gt_point": [
+      1586.706061,
+      1396.131383
+    ],
+    "pixel_error": 480.21433,
+    "normalized_pixel_error": 0.095281,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 839,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/glove_18.jpg",
+    "filename": "glove_18.jpg",
+    "label": "glove",
+    "prompt": "Grasp the cuff of the glove.",
+    "best_prompt_name": "grasp",
+    "pred_x": 600.57251,
+    "pred_y": 345.267342,
+    "pred_point": [
+      600.57251,
+      345.267342
+    ],
+    "gt_x": 835.444759,
+    "gt_y": 413.451873,
+    "gt_point": [
+      835.444759,
+      413.451873
+    ],
+    "pixel_error": 244.569221,
+    "normalized_pixel_error": 0.198695,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 83,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/hairbrush_4.jpg",
+    "filename": "hairbrush_4.jpg",
+    "label": "hairbrush",
+    "prompt": "Grasp the handle of the hairbrush.",
+    "best_prompt_name": "grasp",
+    "pred_x": 448.396584,
+    "pred_y": 322.593316,
+    "pred_point": [
+      448.396584,
+      322.593316
+    ],
+    "gt_x": 236.5,
+    "gt_y": 370.0,
+    "gt_point": [
+      236.5,
+      370.0
+    ],
+    "pixel_error": 217.13488,
+    "normalized_pixel_error": 0.192562,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 104,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/headphones_20.jpg",
+    "filename": "headphones_20.jpg",
+    "label": "headphones",
+    "prompt": "Grasp the band of the headphones.",
+    "best_prompt_name": "grasp",
+    "pred_x": 110.871589,
+    "pred_y": 205.139579,
+    "pred_point": [
+      110.871589,
+      205.139579
+    ],
+    "gt_x": 31.502381,
+    "gt_y": 242.879613,
+    "gt_point": [
+      31.502381,
+      242.879613
+    ],
+    "pixel_error": 87.885046,
+    "normalized_pixel_error": 0.171347,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 90,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/headphones_6.jpg",
+    "filename": "headphones_6.jpg",
+    "label": "headphones",
+    "prompt": "Grasp the band of the headphones.",
+    "best_prompt_name": "grasp",
+    "pred_x": 256.403613,
+    "pred_y": 485.496399,
+    "pred_point": [
+      256.403613,
+      485.496399
+    ],
+    "gt_x": 482.604167,
+    "gt_y": 291.916826,
+    "gt_point": [
+      482.604167,
+      291.916826
+    ],
+    "pixel_error": 297.724271,
+    "normalized_pixel_error": 0.254567,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 86,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/headphones_2.jpg",
+    "filename": "headphones_2.jpg",
+    "label": "headphones",
+    "prompt": "Grasp the band of the headphones.",
+    "best_prompt_name": "grasp",
+    "pred_x": 782.378998,
+    "pred_y": 396.371269,
+    "pred_point": [
+      782.378998,
+      396.371269
+    ],
+    "gt_x": 157.114338,
+    "gt_y": 259.846841,
+    "gt_point": [
+      157.114338,
+      259.846841
+    ],
+    "pixel_error": 639.995948,
+    "normalized_pixel_error": 0.435785,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 97,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/headphones_13.jpg",
+    "filename": "headphones_13.jpg",
+    "label": "headphones",
+    "prompt": "Point to the band of the headphones.",
+    "best_prompt_name": "point",
+    "pred_x": 1829.463007,
+    "pred_y": 1973.62467,
+    "pred_point": [
+      1829.463007,
+      1973.62467
+    ],
+    "gt_x": 3087.14117,
+    "gt_y": 1346.964532,
+    "gt_point": [
+      3087.14117,
+      1346.964532
+    ],
+    "pixel_error": 1405.153832,
+    "normalized_pixel_error": 0.272971,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 107,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/highlighter_3.jpg",
+    "filename": "highlighter_3.jpg",
+    "label": "highlighter",
+    "prompt": "Grasp the body of the highlighter.",
+    "best_prompt_name": "grasp",
+    "pred_x": 810.386353,
+    "pred_y": 1096.151489,
+    "pred_point": [
+      810.386353,
+      1096.151489
+    ],
+    "gt_x": 1455.710722,
+    "gt_y": 1313.380624,
+    "gt_point": [
+      1455.710722,
+      1313.380624
+    ],
+    "pixel_error": 680.905309,
+    "normalized_pixel_error": 0.265979,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 126,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/jar_18.jpg",
+    "filename": "jar_18.jpg",
+    "label": "jar",
+    "prompt": "Grasp the lid of the jar.",
+    "best_prompt_name": "grasp",
+    "pred_x": 465.257621,
+    "pred_y": 355.489371,
+    "pred_point": [
+      465.257621,
+      355.489371
+    ],
+    "gt_x": 222.755816,
+    "gt_y": 72.15294,
+    "gt_point": [
+      222.755816,
+      72.15294
+    ],
+    "pixel_error": 372.943238,
+    "normalized_pixel_error": 0.263221,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 125,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/jar_17.jpg",
+    "filename": "jar_17.jpg",
+    "label": "jar",
+    "prompt": "Grasp the lid of the jar.",
+    "best_prompt_name": "grasp",
+    "pred_x": 111.036885,
+    "pred_y": 719.322411,
+    "pred_point": [
+      111.036885,
+      719.322411
+    ],
+    "gt_x": 273.978571,
+    "gt_y": 260.771093,
+    "gt_point": [
+      273.978571,
+      260.771093
+    ],
+    "pixel_error": 486.640837,
+    "normalized_pixel_error": 0.46066,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 124,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/jar_16.jpg",
+    "filename": "jar_16.jpg",
+    "label": "jar",
+    "prompt": "Grasp the lid of the jar.",
+    "best_prompt_name": "grasp",
+    "pred_x": 260.773301,
+    "pred_y": 297.480317,
+    "pred_point": [
+      260.773301,
+      297.480317
+    ],
+    "gt_x": 215.77381,
+    "gt_y": 58.928103,
+    "gt_point": [
+      215.77381,
+      58.928103
+    ],
+    "pixel_error": 242.759372,
+    "normalized_pixel_error": 0.342628,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 127,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/jar_19.jpg",
+    "filename": "jar_19.jpg",
+    "label": "jar",
+    "prompt": "Point to the lid of the jar.",
+    "best_prompt_name": "point",
+    "pred_x": 1045.171738,
+    "pred_y": 625.49606,
+    "pred_point": [
+      1045.171738,
+      625.49606
+    ],
+    "gt_x": 1042.110047,
+    "gt_y": 932.564553,
+    "gt_point": [
+      1042.110047,
+      932.564553
+    ],
+    "pixel_error": 307.083756,
+    "normalized_pixel_error": 0.122834,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 145,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/kettle_17.jpg",
+    "filename": "kettle_17.jpg",
+    "label": "kettle",
+    "prompt": "Grasp the handle of the kettle.",
+    "best_prompt_name": "grasp",
+    "pred_x": 392.389435,
+    "pred_y": 636.474731,
+    "pred_point": [
+      392.389435,
+      636.474731
+    ],
+    "gt_x": 16.148624,
+    "gt_y": 644.31538,
+    "gt_point": [
+      16.148624,
+      644.31538
+    ],
+    "pixel_error": 376.322499,
+    "normalized_pixel_error": 0.294002,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 142,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/kettle_14.jpg",
+    "filename": "kettle_14.jpg",
+    "label": "kettle",
+    "prompt": "Point to the handle of the kettle.",
+    "best_prompt_name": "point",
+    "pred_x": 584.864746,
+    "pred_y": 875.142334,
+    "pred_point": [
+      584.864746,
+      875.142334
+    ],
+    "gt_x": 86.090054,
+    "gt_y": 818.648621,
+    "gt_point": [
+      86.090054,
+      818.648621
+    ],
+    "pixel_error": 501.963877,
+    "normalized_pixel_error": 0.271914,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 131,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/kettle_3.jpg",
+    "filename": "kettle_3.jpg",
+    "label": "kettle",
+    "prompt": "Point to the handle of the kettle.",
+    "best_prompt_name": "point",
+    "pred_x": 331.522822,
+    "pred_y": 122.765046,
+    "pred_point": [
+      331.522822,
+      122.765046
+    ],
+    "gt_x": 400.357143,
+    "gt_y": 251.428571,
+    "gt_point": [
+      400.357143,
+      251.428571
+    ],
+    "pixel_error": 145.919383,
+    "normalized_pixel_error": 0.171968,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 148,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/kettle_20.jpg",
+    "filename": "kettle_20.jpg",
+    "label": "kettle",
+    "prompt": "Grasp the handle of the kettle.",
+    "best_prompt_name": "grasp",
+    "pred_x": 204.389934,
+    "pred_y": 238.770676,
+    "pred_point": [
+      204.389934,
+      238.770676
+    ],
+    "gt_x": 202.321429,
+    "gt_y": 109.018364,
+    "gt_point": [
+      202.321429,
+      109.018364
+    ],
+    "pixel_error": 129.768799,
+    "normalized_pixel_error": 0.190816,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 151,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keyboard_3.jpg",
+    "filename": "keyboard_3.jpg",
+    "label": "keyboard",
+    "prompt": "Point to the center of the keyboard.",
+    "best_prompt_name": "point",
+    "pred_x": 654.940796,
+    "pred_y": 398.005271,
+    "pred_point": [
+      654.940796,
+      398.005271
+    ],
+    "gt_x": 259.45809,
+    "gt_y": 242.594595,
+    "gt_point": [
+      259.45809,
+      242.594595
+    ],
+    "pixel_error": 424.922404,
+    "normalized_pixel_error": 0.289337,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 152,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keyboard_4.jpg",
+    "filename": "keyboard_4.jpg",
+    "label": "keyboard",
+    "prompt": "Point to the center of the keyboard.",
+    "best_prompt_name": "point",
+    "pred_x": 953.728034,
+    "pred_y": 593.496039,
+    "pred_point": [
+      953.728034,
+      593.496039
+    ],
+    "gt_x": 1174.486485,
+    "gt_y": 655.794011,
+    "gt_point": [
+      1174.486485,
+      655.794011
+    ],
+    "pixel_error": 229.380319,
+    "normalized_pixel_error": 0.089513,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 163,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keyboard_15.jpg",
+    "filename": "keyboard_15.jpg",
+    "label": "keyboard",
+    "prompt": "Grasp the center of the keyboard.",
+    "best_prompt_name": "grasp",
+    "pred_x": 656.649876,
+    "pred_y": 858.175707,
+    "pred_point": [
+      656.649876,
+      858.175707
+    ],
+    "gt_x": 28.886207,
+    "gt_y": 1094.209075,
+    "gt_point": [
+      28.886207,
+      1094.209075
+    ],
+    "pixel_error": 670.670541,
+    "normalized_pixel_error": 0.335335,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 149,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keyboard_1.jpg",
+    "filename": "keyboard_1.jpg",
+    "label": "keyboard",
+    "prompt": "Grasp the center of the keyboard.",
+    "best_prompt_name": "grasp",
+    "pred_x": 140.532562,
+    "pred_y": 122.734451,
+    "pred_point": [
+      140.532562,
+      122.734451
+    ],
+    "gt_x": 39.280354,
+    "gt_y": 44.800812,
+    "gt_point": [
+      39.280354,
+      44.800812
+    ],
+    "pixel_error": 127.771913,
+    "normalized_pixel_error": 0.255544,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 526,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keys_5.jpg",
+    "filename": "keys_5.jpg",
+    "label": "keys",
+    "prompt": "Grasp the ring of the keys.",
+    "best_prompt_name": "grasp",
+    "pred_x": 304.643273,
+    "pred_y": 503.972912,
+    "pred_point": [
+      304.643273,
+      503.972912
+    ],
+    "gt_x": 124.873831,
+    "gt_y": 670.813527,
+    "gt_point": [
+      124.873831,
+      670.813527
+    ],
+    "pixel_error": 245.260766,
+    "normalized_pixel_error": 0.208733,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 525,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keys_4.jpg",
+    "filename": "keys_4.jpg",
+    "label": "keys",
+    "prompt": "Grasp the ring of the keys.",
+    "best_prompt_name": "grasp",
+    "pred_x": 576.49498,
+    "pred_y": 299.425936,
+    "pred_point": [
+      576.49498,
+      299.425936
+    ],
+    "gt_x": 597.340743,
+    "gt_y": 213.685502,
+    "gt_point": [
+      597.340743,
+      213.685502
+    ],
+    "pixel_error": 88.238131,
+    "normalized_pixel_error": 0.060083,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 531,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keys_10.jpg",
+    "filename": "keys_10.jpg",
+    "label": "keys",
+    "prompt": "Grasp the ring of the keys.",
+    "best_prompt_name": "grasp",
+    "pred_x": 262.603524,
+    "pred_y": 196.758456,
+    "pred_point": [
+      262.603524,
+      196.758456
+    ],
+    "gt_x": 405.31177,
+    "gt_y": 118.031782,
+    "gt_point": [
+      405.31177,
+      118.031782
+    ],
+    "pixel_error": 162.983228,
+    "normalized_pixel_error": 0.292996,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 539,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/keys_18.jpg",
+    "filename": "keys_18.jpg",
+    "label": "keys",
+    "prompt": "Point to the ring of the keys.",
+    "best_prompt_name": "point",
+    "pred_x": 279.956357,
+    "pred_y": 387.553874,
+    "pred_point": [
+      279.956357,
+      387.553874
+    ],
+    "gt_x": 236.814286,
+    "gt_y": 474.281744,
+    "gt_point": [
+      236.814286,
+      474.281744
+    ],
+    "pixel_error": 96.865689,
+    "normalized_pixel_error": 0.109835,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 555,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/knife_14.jpg",
+    "filename": "knife_14.jpg",
+    "label": "knife",
+    "prompt": "Point to the handle of the knife.",
+    "best_prompt_name": "point",
+    "pred_x": 386.768215,
+    "pred_y": 346.875153,
+    "pred_point": [
+      386.768215,
+      346.875153
+    ],
+    "gt_x": 319.542857,
+    "gt_y": 515.10083,
+    "gt_point": [
+      319.542857,
+      515.10083
+    ],
+    "pixel_error": 181.160501,
+    "normalized_pixel_error": 0.178222,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 544,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/knife_3.jpg",
+    "filename": "knife_3.jpg",
+    "label": "knife",
+    "prompt": "Point to the handle of the knife.",
+    "best_prompt_name": "point",
+    "pred_x": 704.733939,
+    "pred_y": 909.646481,
+    "pred_point": [
+      704.733939,
+      909.646481
+    ],
+    "gt_x": 879.068046,
+    "gt_y": 1028.313073,
+    "gt_point": [
+      879.068046,
+      1028.313073
+    ],
+    "pixel_error": 210.88893,
+    "normalized_pixel_error": 0.064134,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 543,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/knife_2.jpg",
+    "filename": "knife_2.jpg",
+    "label": "knife",
+    "prompt": "Point to the handle of the knife.",
+    "best_prompt_name": "point",
+    "pred_x": 281.556498,
+    "pred_y": 177.663158,
+    "pred_point": [
+      281.556498,
+      177.663158
+    ],
+    "gt_x": 208.501081,
+    "gt_y": 204.143875,
+    "gt_point": [
+      208.501081,
+      204.143875
+    ],
+    "pixel_error": 77.706642,
+    "normalized_pixel_error": 0.122028,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 550,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/knife_9.jpg",
+    "filename": "knife_9.jpg",
+    "label": "knife",
+    "prompt": "Point to the handle of the knife.",
+    "best_prompt_name": "point",
+    "pred_x": 606.723862,
+    "pred_y": 412.143474,
+    "pred_point": [
+      606.723862,
+      412.143474
+    ],
+    "gt_x": 750.464698,
+    "gt_y": 358.135135,
+    "gt_point": [
+      750.464698,
+      358.135135
+    ],
+    "pixel_error": 153.552365,
+    "normalized_pixel_error": 0.104557,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 180,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/laptop_12.jpg",
+    "filename": "laptop_12.jpg",
+    "label": "laptop",
+    "prompt": "Grasp the edge of the laptop.",
+    "best_prompt_name": "grasp",
+    "pred_x": 360.901499,
+    "pred_y": 363.455012,
+    "pred_point": [
+      360.901499,
+      363.455012
+    ],
+    "gt_x": 430.747619,
+    "gt_y": 441.182845,
+    "gt_point": [
+      430.747619,
+      441.182845
+    ],
+    "pixel_error": 104.499266,
+    "normalized_pixel_error": 0.118606,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 170,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/laptop_2.jpg",
+    "filename": "laptop_2.jpg",
+    "label": "laptop",
+    "prompt": "Point to the edge of the laptop.",
+    "best_prompt_name": "point",
+    "pred_x": 333.915516,
+    "pred_y": 667.579498,
+    "pred_point": [
+      333.915516,
+      667.579498
+    ],
+    "gt_x": 674.168578,
+    "gt_y": 729.529157,
+    "gt_point": [
+      674.168578,
+      729.529157
+    ],
+    "pixel_error": 345.846652,
+    "normalized_pixel_error": 0.228725,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 186,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/laptop_18.jpg",
+    "filename": "laptop_18.jpg",
+    "label": "laptop",
+    "prompt": "Point to the edge of the laptop.",
+    "best_prompt_name": "point",
+    "pred_x": 2513.957726,
+    "pred_y": 1939.9196,
+    "pred_point": [
+      2513.957726,
+      1939.9196
+    ],
+    "gt_x": 2180.949117,
+    "gt_y": 2274.807183,
+    "gt_point": [
+      2180.949117,
+      2274.807183
+    ],
+    "pixel_error": 472.275795,
+    "normalized_pixel_error": 0.093706,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 173,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/laptop_5.jpg",
+    "filename": "laptop_5.jpg",
+    "label": "laptop",
+    "prompt": "Grasp the edge of the laptop.",
+    "best_prompt_name": "grasp",
+    "pred_x": 450.82037,
+    "pred_y": 304.448941,
+    "pred_point": [
+      450.82037,
+      304.448941
+    ],
+    "gt_x": 385.751075,
+    "gt_y": 164.324944,
+    "gt_point": [
+      385.751075,
+      164.324944
+    ],
+    "pixel_error": 154.495138,
+    "normalized_pixel_error": 0.128746,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 567,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/marker_6.jpg",
+    "filename": "marker_6.jpg",
+    "label": "marker",
+    "prompt": "Point to the body of the marker.",
+    "best_prompt_name": "point",
+    "pred_x": 386.681765,
+    "pred_y": 522.113362,
+    "pred_point": [
+      386.681765,
+      522.113362
+    ],
+    "gt_x": 299.603175,
+    "gt_y": 519.843641,
+    "gt_point": [
+      299.603175,
+      519.843641
+    ],
+    "pixel_error": 87.108166,
+    "normalized_pixel_error": 0.11175,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 569,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/marker_8.jpg",
+    "filename": "marker_8.jpg",
+    "label": "marker",
+    "prompt": "Grasp the body of the marker.",
+    "best_prompt_name": "grasp",
+    "pred_x": 1031.188071,
+    "pred_y": 835.967716,
+    "pred_point": [
+      1031.188071,
+      835.967716
+    ],
+    "gt_x": 474.374373,
+    "gt_y": 1305.76329,
+    "gt_point": [
+      474.374373,
+      1305.76329
+    ],
+    "pixel_error": 728.52548,
+    "normalized_pixel_error": 0.233128,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 566,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/marker_5.jpg",
+    "filename": "marker_5.jpg",
+    "label": "marker",
+    "prompt": "Point to the body of the marker.",
+    "best_prompt_name": "point",
+    "pred_x": 245.324922,
+    "pred_y": 154.787419,
+    "pred_point": [
+      245.324922,
+      154.787419
+    ],
+    "gt_x": 284.880952,
+    "gt_y": 116.190479,
+    "gt_point": [
+      284.880952,
+      116.190479
+    ],
+    "pixel_error": 55.266657,
+    "normalized_pixel_error": 0.112792,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 581,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/marker_20.jpg",
+    "filename": "marker_20.jpg",
+    "label": "marker",
+    "prompt": "Point to the body of the marker.",
+    "best_prompt_name": "point",
+    "pred_x": 264.033598,
+    "pred_y": 32.482785,
+    "pred_point": [
+      264.033598,
+      32.482785
+    ],
+    "gt_x": 232.66234,
+    "gt_y": 48.502437,
+    "gt_point": [
+      232.66234,
+      48.502437
+    ],
+    "pixel_error": 35.224779,
+    "normalized_pixel_error": 0.097696,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 200,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mouse_12.jpg",
+    "filename": "mouse_12.jpg",
+    "label": "mouse",
+    "prompt": "Grasp the body of the mouse.",
+    "best_prompt_name": "grasp",
+    "pred_x": 516.697884,
+    "pred_y": 334.692746,
+    "pred_point": [
+      516.697884,
+      334.692746
+    ],
+    "gt_x": 755.868327,
+    "gt_y": 309.649825,
+    "gt_point": [
+      755.868327,
+      309.649825
+    ],
+    "pixel_error": 240.477959,
+    "normalized_pixel_error": 0.192382,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 203,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mouse_15.jpg",
+    "filename": "mouse_15.jpg",
+    "label": "mouse",
+    "prompt": "Point to the body of the mouse.",
+    "best_prompt_name": "point",
+    "pred_x": 348.012009,
+    "pred_y": 835.012966,
+    "pred_point": [
+      348.012009,
+      835.012966
+    ],
+    "gt_x": 291.433772,
+    "gt_y": 668.095775,
+    "gt_point": [
+      291.433772,
+      668.095775
+    ],
+    "pixel_error": 176.245413,
+    "normalized_pixel_error": 0.13517,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 195,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mouse_7.jpg",
+    "filename": "mouse_7.jpg",
+    "label": "mouse",
+    "prompt": "Point to the body of the mouse.",
+    "best_prompt_name": "point",
+    "pred_x": 272.805214,
+    "pred_y": 226.891292,
+    "pred_point": [
+      272.805214,
+      226.891292
+    ],
+    "gt_x": 359.111096,
+    "gt_y": 277.333333,
+    "gt_point": [
+      359.111096,
+      277.333333
+    ],
+    "pixel_error": 99.965518,
+    "normalized_pixel_error": 0.133011,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 196,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mouse_8.jpg",
+    "filename": "mouse_8.jpg",
+    "label": "mouse",
+    "prompt": "Grasp the body of the mouse.",
+    "best_prompt_name": "grasp",
+    "pred_x": 259.728812,
+    "pred_y": 260.070517,
+    "pred_point": [
+      259.728812,
+      260.070517
+    ],
+    "gt_x": 270.506662,
+    "gt_y": 197.902472,
+    "gt_point": [
+      270.506662,
+      197.902472
+    ],
+    "pixel_error": 63.095387,
+    "normalized_pixel_error": 0.079585,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 585,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mug_4.jpg",
+    "filename": "mug_4.jpg",
+    "label": "mug",
+    "prompt": "Point to the handle of the mug.",
+    "best_prompt_name": "point",
+    "pred_x": 713.926524,
+    "pred_y": 604.90834,
+    "pred_point": [
+      713.926524,
+      604.90834
+    ],
+    "gt_x": 702.596081,
+    "gt_y": 855.087224,
+    "gt_point": [
+      702.596081,
+      855.087224
+    ],
+    "pixel_error": 250.435328,
+    "normalized_pixel_error": 0.133566,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 582,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mug_1.jpg",
+    "filename": "mug_1.jpg",
+    "label": "mug",
+    "prompt": "Point to the handle of the mug.",
+    "best_prompt_name": "point",
+    "pred_x": 235.641378,
+    "pred_y": 239.626503,
+    "pred_point": [
+      235.641378,
+      239.626503
+    ],
+    "gt_x": 499.285714,
+    "gt_y": 201.428571,
+    "gt_point": [
+      499.285714,
+      201.428571
+    ],
+    "pixel_error": 266.397106,
+    "normalized_pixel_error": 0.369426,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 592,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mug_11.jpg",
+    "filename": "mug_11.jpg",
+    "label": "mug",
+    "prompt": "Point to the handle of the mug.",
+    "best_prompt_name": "point",
+    "pred_x": 270.430702,
+    "pred_y": 1177.980762,
+    "pred_point": [
+      270.430702,
+      1177.980762
+    ],
+    "gt_x": 537.034602,
+    "gt_y": 1055.159711,
+    "gt_point": [
+      537.034602,
+      1055.159711
+    ],
+    "pixel_error": 293.534751,
+    "normalized_pixel_error": 0.160087,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 599,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/mug_18.jpg",
+    "filename": "mug_18.jpg",
+    "label": "mug",
+    "prompt": "Grasp the handle of the mug.",
+    "best_prompt_name": "grasp",
+    "pred_x": 404.369259,
+    "pred_y": 446.136492,
+    "pred_point": [
+      404.369259,
+      446.136492
+    ],
+    "gt_x": 347.142857,
+    "gt_y": 538.097429,
+    "gt_point": [
+      347.142857,
+      538.097429
+    ],
+    "pixel_error": 108.312856,
+    "normalized_pixel_error": 0.099949,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 209,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/notebook_1.jpg",
+    "filename": "notebook_1.jpg",
+    "label": "notebook",
+    "prompt": "Grasp the spine of the notebook.",
+    "best_prompt_name": "grasp",
+    "pred_x": 863.787415,
+    "pred_y": 439.515854,
+    "pred_point": [
+      863.787415,
+      439.515854
+    ],
+    "gt_x": 965.420626,
+    "gt_y": 545.999672,
+    "gt_point": [
+      965.420626,
+      545.999672
+    ],
+    "pixel_error": 147.200928,
+    "normalized_pixel_error": 0.11959,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 222,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/notebook_14.jpg",
+    "filename": "notebook_14.jpg",
+    "label": "notebook",
+    "prompt": "Point to the spine of the notebook.",
+    "best_prompt_name": "point",
+    "pred_x": 99.762218,
+    "pred_y": 510.042054,
+    "pred_point": [
+      99.762218,
+      510.042054
+    ],
+    "gt_x": 325.669048,
+    "gt_y": 571.801395,
+    "gt_point": [
+      325.669048,
+      571.801395
+    ],
+    "pixel_error": 234.196737,
+    "normalized_pixel_error": 0.26454,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 210,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/notebook_2.jpg",
+    "filename": "notebook_2.jpg",
+    "label": "notebook",
+    "prompt": "Grasp the spine of the notebook.",
+    "best_prompt_name": "grasp",
+    "pred_x": 862.450047,
+    "pred_y": 1928.080626,
+    "pred_point": [
+      862.450047,
+      1928.080626
+    ],
+    "gt_x": 853.032429,
+    "gt_y": 2071.712776,
+    "gt_point": [
+      853.032429,
+      2071.712776
+    ],
+    "pixel_error": 143.940564,
+    "normalized_pixel_error": 0.030637,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 217,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/notebook_9.jpg",
+    "filename": "notebook_9.jpg",
+    "label": "notebook",
+    "prompt": "Grasp the spine of the notebook.",
+    "best_prompt_name": "grasp",
+    "pred_x": 480.25383,
+    "pred_y": 348.203936,
+    "pred_point": [
+      480.25383,
+      348.203936
+    ],
+    "gt_x": 382.568577,
+    "gt_y": 495.032947,
+    "gt_point": [
+      382.568577,
+      495.032947
+    ],
+    "pixel_error": 176.35523,
+    "normalized_pixel_error": 0.158319,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 233,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/onion_5.jpg",
+    "filename": "onion_5.jpg",
+    "label": "onion",
+    "prompt": "Point to the center of the onion.",
+    "best_prompt_name": "point",
+    "pred_x": 220.210969,
+    "pred_y": 248.783968,
+    "pred_point": [
+      220.210969,
+      248.783968
+    ],
+    "gt_x": 428.690791,
+    "gt_y": 271.775842,
+    "gt_point": [
+      428.690791,
+      271.775842
+    ],
+    "pixel_error": 209.743802,
+    "normalized_pixel_error": 0.333337,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 238,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/onion_10.jpg",
+    "filename": "onion_10.jpg",
+    "label": "onion",
+    "prompt": "Grasp the center of the onion.",
+    "best_prompt_name": "grasp",
+    "pred_x": 220.159352,
+    "pred_y": 248.82937,
+    "pred_point": [
+      220.159352,
+      248.82937
+    ],
+    "gt_x": 101.564824,
+    "gt_y": 285.880451,
+    "gt_point": [
+      101.564824,
+      285.880451
+    ],
+    "pixel_error": 124.247514,
+    "normalized_pixel_error": 0.197461,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 241,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/onion_13.jpg",
+    "filename": "onion_13.jpg",
+    "label": "onion",
+    "prompt": "Point to the center of the onion.",
+    "best_prompt_name": "point",
+    "pred_x": 220.210969,
+    "pred_y": 248.783968,
+    "pred_point": [
+      220.210969,
+      248.783968
+    ],
+    "gt_x": 216.214687,
+    "gt_y": 133.845158,
+    "gt_point": [
+      216.214687,
+      133.845158
+    ],
+    "pixel_error": 115.008263,
+    "normalized_pixel_error": 0.182778,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 239,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/onion_11.jpg",
+    "filename": "onion_11.jpg",
+    "label": "onion",
+    "prompt": "Grasp the center of the onion.",
+    "best_prompt_name": "grasp",
+    "pred_x": 220.159352,
+    "pred_y": 248.82937,
+    "pred_point": [
+      220.159352,
+      248.82937
+    ],
+    "gt_x": 98.449339,
+    "gt_y": 220.455427,
+    "gt_point": [
+      98.449339,
+      220.455427
+    ],
+    "pixel_error": 124.973629,
+    "normalized_pixel_error": 0.198615,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 799,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pan_18.jpg",
+    "filename": "pan_18.jpg",
+    "label": "pan",
+    "prompt": "Point to the handle of the pan.",
+    "best_prompt_name": "point",
+    "pred_x": 3282.170712,
+    "pred_y": 1861.764038,
+    "pred_point": [
+      3282.170712,
+      1861.764038
+    ],
+    "gt_x": 4293.355422,
+    "gt_y": 1277.04388,
+    "gt_point": [
+      4293.355422,
+      1277.04388
+    ],
+    "pixel_error": 1168.071993,
+    "normalized_pixel_error": 0.18748,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 796,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pan_15.jpg",
+    "filename": "pan_15.jpg",
+    "label": "pan",
+    "prompt": "Grasp the handle of the pan.",
+    "best_prompt_name": "grasp",
+    "pred_x": 415.56181,
+    "pred_y": 505.763437,
+    "pred_point": [
+      415.56181,
+      505.763437
+    ],
+    "gt_x": 591.301383,
+    "gt_y": 171.769301,
+    "gt_point": [
+      591.301383,
+      171.769301
+    ],
+    "pixel_error": 377.407578,
+    "normalized_pixel_error": 0.193841,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 792,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pan_11.jpg",
+    "filename": "pan_11.jpg",
+    "label": "pan",
+    "prompt": "Grasp the handle of the pan.",
+    "best_prompt_name": "grasp",
+    "pred_x": 327.142632,
+    "pred_y": 284.914166,
+    "pred_point": [
+      327.142632,
+      284.914166
+    ],
+    "gt_x": 158.928571,
+    "gt_y": 150.0,
+    "gt_point": [
+      158.928571,
+      150.0
+    ],
+    "pixel_error": 215.633491,
+    "normalized_pixel_error": 0.199353,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 800,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pan_19.jpg",
+    "filename": "pan_19.jpg",
+    "label": "pan",
+    "prompt": "Grasp the handle of the pan.",
+    "best_prompt_name": "grasp",
+    "pred_x": 301.601787,
+    "pred_y": 337.049046,
+    "pred_point": [
+      301.601787,
+      337.049046
+    ],
+    "gt_x": 63.857143,
+    "gt_y": 414.857143,
+    "gt_point": [
+      63.857143,
+      414.857143
+    ],
+    "pixel_error": 250.153184,
+    "normalized_pixel_error": 0.289083,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 617,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pen_16.jpg",
+    "filename": "pen_16.jpg",
+    "label": "pen",
+    "prompt": "Point to the body of the pen.",
+    "best_prompt_name": "point",
+    "pred_x": 1295.200926,
+    "pred_y": 1270.062834,
+    "pred_point": [
+      1295.200926,
+      1270.062834
+    ],
+    "gt_x": 1333.395047,
+    "gt_y": 1207.852178,
+    "gt_point": [
+      1333.395047,
+      1207.852178
+    ],
+    "pixel_error": 72.999703,
+    "normalized_pixel_error": 0.019413,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 609,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pen_8.jpg",
+    "filename": "pen_8.jpg",
+    "label": "pen",
+    "prompt": "Grasp the body of the pen.",
+    "best_prompt_name": "grasp",
+    "pred_x": 526.444885,
+    "pred_y": 392.413605,
+    "pred_point": [
+      526.444885,
+      392.413605
+    ],
+    "gt_x": 81.562053,
+    "gt_y": 430.276984,
+    "gt_point": [
+      81.562053,
+      430.276984
+    ],
+    "pixel_error": 446.491175,
+    "normalized_pixel_error": 0.348821,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 603,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pen_2.jpg",
+    "filename": "pen_2.jpg",
+    "label": "pen",
+    "prompt": "Point to the body of the pen.",
+    "best_prompt_name": "point",
+    "pred_x": 308.982325,
+    "pred_y": 414.666207,
+    "pred_point": [
+      308.982325,
+      414.666207
+    ],
+    "gt_x": 375.714286,
+    "gt_y": 443.214903,
+    "gt_point": [
+      375.714286,
+      443.214903
+    ],
+    "pixel_error": 72.582248,
+    "normalized_pixel_error": 0.072524,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 602,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pen_1.jpg",
+    "filename": "pen_1.jpg",
+    "label": "pen",
+    "prompt": "Point to the body of the pen.",
+    "best_prompt_name": "point",
+    "pred_x": 1048.086891,
+    "pred_y": 851.270313,
+    "pred_point": [
+      1048.086891,
+      851.270313
+    ],
+    "gt_x": 881.387283,
+    "gt_y": 571.423068,
+    "gt_point": [
+      881.387283,
+      571.423068
+    ],
+    "pixel_error": 325.734923,
+    "normalized_pixel_error": 0.147866,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 623,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/phone_2.jpg",
+    "filename": "phone_2.jpg",
+    "label": "phone",
+    "prompt": "Point to the body of the phone.",
+    "best_prompt_name": "point",
+    "pred_x": 955.294067,
+    "pred_y": 756.365507,
+    "pred_point": [
+      955.294067,
+      756.365507
+    ],
+    "gt_x": 892.971009,
+    "gt_y": 520.528406,
+    "gt_point": [
+      892.971009,
+      520.528406
+    ],
+    "pixel_error": 243.932986,
+    "normalized_pixel_error": 0.099111,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 636,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/phone_15.jpg",
+    "filename": "phone_15.jpg",
+    "label": "phone",
+    "prompt": "Grasp the body of the phone.",
+    "best_prompt_name": "grasp",
+    "pred_x": 656.585312,
+    "pred_y": 858.395219,
+    "pred_point": [
+      656.585312,
+      858.395219
+    ],
+    "gt_x": 471.808052,
+    "gt_y": 810.228127,
+    "gt_point": [
+      471.808052,
+      810.228127
+    ],
+    "pixel_error": 190.9521,
+    "normalized_pixel_error": 0.095476,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 638,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/phone_17.jpg",
+    "filename": "phone_17.jpg",
+    "label": "phone",
+    "prompt": "Grasp the body of the phone.",
+    "best_prompt_name": "grasp",
+    "pred_x": 290.197935,
+    "pred_y": 370.420292,
+    "pred_point": [
+      290.197935,
+      370.420292
+    ],
+    "gt_x": 410.123132,
+    "gt_y": 210.633395,
+    "gt_point": [
+      410.123132,
+      210.633395
+    ],
+    "pixel_error": 199.784648,
+    "normalized_pixel_error": 0.22376,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 627,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/phone_6.jpg",
+    "filename": "phone_6.jpg",
+    "label": "phone",
+    "prompt": "Point to the body of the phone.",
+    "best_prompt_name": "point",
+    "pred_x": 435.10932,
+    "pred_y": 368.987382,
+    "pred_point": [
+      435.10932,
+      368.987382
+    ],
+    "gt_x": 395.488954,
+    "gt_y": 141.32518,
+    "gt_point": [
+      395.488954,
+      141.32518
+    ],
+    "pixel_error": 231.084079,
+    "normalized_pixel_error": 0.209893,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 650,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/plate_9.jpg",
+    "filename": "plate_9.jpg",
+    "label": "plate",
+    "prompt": "Point to the edge of the plate.",
+    "best_prompt_name": "point",
+    "pred_x": 527.141361,
+    "pred_y": 622.939673,
+    "pred_point": [
+      527.141361,
+      622.939673
+    ],
+    "gt_x": 434.985896,
+    "gt_y": 745.022679,
+    "gt_point": [
+      434.985896,
+      745.022679
+    ],
+    "pixel_error": 152.96042,
+    "normalized_pixel_error": 0.098949,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 656,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/plate_15.jpg",
+    "filename": "plate_15.jpg",
+    "label": "plate",
+    "prompt": "Grasp the edge of the plate.",
+    "best_prompt_name": "grasp",
+    "pred_x": 438.703429,
+    "pred_y": 493.726923,
+    "pred_point": [
+      438.703429,
+      493.726923
+    ],
+    "gt_x": 517.410714,
+    "gt_y": 529.392857,
+    "gt_point": [
+      517.410714,
+      529.392857
+    ],
+    "pixel_error": 86.411201,
+    "normalized_pixel_error": 0.100167,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 657,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/plate_16.jpg",
+    "filename": "plate_16.jpg",
+    "label": "plate",
+    "prompt": "Point to the edge of the plate.",
+    "best_prompt_name": "point",
+    "pred_x": 396.196437,
+    "pred_y": 279.03108,
+    "pred_point": [
+      396.196437,
+      279.03108
+    ],
+    "gt_x": 498.571429,
+    "gt_y": 529.592063,
+    "gt_point": [
+      498.571429,
+      529.592063
+    ],
+    "pixel_error": 270.668516,
+    "normalized_pixel_error": 0.270831,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 647,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/plate_6.jpg",
+    "filename": "plate_6.jpg",
+    "label": "plate",
+    "prompt": "Grasp the edge of the plate.",
+    "best_prompt_name": "grasp",
+    "pred_x": 556.592712,
+    "pred_y": 358.010559,
+    "pred_point": [
+      556.592712,
+      358.010559
+    ],
+    "gt_x": 801.070606,
+    "gt_y": 645.675742,
+    "gt_point": [
+      801.070606,
+      645.675742
+    ],
+    "pixel_error": 377.519136,
+    "normalized_pixel_error": 0.294937,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 766,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pot_5.jpg",
+    "filename": "pot_5.jpg",
+    "label": "pot",
+    "prompt": "Grasp the handle of the pot.",
+    "best_prompt_name": "grasp",
+    "pred_x": 378.138885,
+    "pred_y": 272.36043,
+    "pred_point": [
+      378.138885,
+      272.36043
+    ],
+    "gt_x": 446.171429,
+    "gt_y": 525.714286,
+    "gt_point": [
+      446.171429,
+      525.714286
+    ],
+    "pixel_error": 262.329189,
+    "normalized_pixel_error": 0.27326,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 764,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pot_3.jpg",
+    "filename": "pot_3.jpg",
+    "label": "pot",
+    "prompt": "Grasp the handle of the pot.",
+    "best_prompt_name": "grasp",
+    "pred_x": 630.207356,
+    "pred_y": 518.292603,
+    "pred_point": [
+      630.207356,
+      518.292603
+    ],
+    "gt_x": 217.886626,
+    "gt_y": 507.832569,
+    "gt_point": [
+      217.886626,
+      507.832569
+    ],
+    "pixel_error": 412.453387,
+    "normalized_pixel_error": 0.163672,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 779,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pot_18.jpg",
+    "filename": "pot_18.jpg",
+    "label": "pot",
+    "prompt": "Grasp the handle of the pot.",
+    "best_prompt_name": "grasp",
+    "pred_x": 350.169421,
+    "pred_y": 292.206408,
+    "pred_point": [
+      350.169421,
+      292.206408
+    ],
+    "gt_x": 423.699996,
+    "gt_y": 621.438968,
+    "gt_point": [
+      423.699996,
+      621.438968
+    ],
+    "pixel_error": 337.343777,
+    "normalized_pixel_error": 0.380192,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 772,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/pot_11.jpg",
+    "filename": "pot_11.jpg",
+    "label": "pot",
+    "prompt": "Point to the handle of the pot.",
+    "best_prompt_name": "point",
+    "pred_x": 1019.34898,
+    "pred_y": 1208.896133,
+    "pred_point": [
+      1019.34898,
+      1208.896133
+    ],
+    "gt_x": 850.842786,
+    "gt_y": 1030.592378,
+    "gt_point": [
+      850.842786,
+      1030.592378
+    ],
+    "pixel_error": 245.329506,
+    "normalized_pixel_error": 0.085184,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 267,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/remote_19.jpg",
+    "filename": "remote_19.jpg",
+    "label": "remote",
+    "prompt": "Point to the body of the remote.",
+    "best_prompt_name": "point",
+    "pred_x": 434.116784,
+    "pred_y": 273.411493,
+    "pred_point": [
+      434.116784,
+      273.411493
+    ],
+    "gt_x": 186.642857,
+    "gt_y": 300.857143,
+    "gt_point": [
+      186.642857,
+      300.857143
+    ],
+    "pixel_error": 248.991181,
+    "normalized_pixel_error": 0.225722,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 249,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/remote_1.jpg",
+    "filename": "remote_1.jpg",
+    "label": "remote",
+    "prompt": "Point to the body of the remote.",
+    "best_prompt_name": "point",
+    "pred_x": 583.26897,
+    "pred_y": 463.81914,
+    "pred_point": [
+      583.26897,
+      463.81914
+    ],
+    "gt_x": 788.736384,
+    "gt_y": 548.689984,
+    "gt_point": [
+      788.736384,
+      548.689984
+    ],
+    "pixel_error": 222.305911,
+    "normalized_pixel_error": 0.129199,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 261,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/remote_13.jpg",
+    "filename": "remote_13.jpg",
+    "label": "remote",
+    "prompt": "Point to the body of the remote.",
+    "best_prompt_name": "point",
+    "pred_x": 507.421417,
+    "pred_y": 590.432968,
+    "pred_point": [
+      507.421417,
+      590.432968
+    ],
+    "gt_x": 966.181136,
+    "gt_y": 714.621549,
+    "gt_point": [
+      966.181136,
+      714.621549
+    ],
+    "pixel_error": 475.271799,
+    "normalized_pixel_error": 0.297045,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 262,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/remote_14.jpg",
+    "filename": "remote_14.jpg",
+    "label": "remote",
+    "prompt": "Grasp the body of the remote.",
+    "best_prompt_name": "grasp",
+    "pred_x": 333.503571,
+    "pred_y": 307.812281,
+    "pred_point": [
+      333.503571,
+      307.812281
+    ],
+    "gt_x": 421.333333,
+    "gt_y": 412.952381,
+    "gt_point": [
+      421.333333,
+      412.952381
+    ],
+    "pixel_error": 136.998204,
+    "normalized_pixel_error": 0.171505,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 280,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/scissor_12.jpg",
+    "filename": "scissor_12.jpg",
+    "label": "scissor",
+    "prompt": "Point to the handle of the scissor.",
+    "best_prompt_name": "point",
+    "pred_x": 435.962775,
+    "pred_y": 155.15964,
+    "pred_point": [
+      435.962775,
+      155.15964
+    ],
+    "gt_x": 407.605414,
+    "gt_y": 242.723411,
+    "gt_point": [
+      407.605414,
+      242.723411
+    ],
+    "pixel_error": 92.041045,
+    "normalized_pixel_error": 0.135248,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 286,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/scissor_18.jpg",
+    "filename": "scissor_18.jpg",
+    "label": "scissor",
+    "prompt": "Grasp the handle of the scissor.",
+    "best_prompt_name": "grasp",
+    "pred_x": 488.860229,
+    "pred_y": 288.873447,
+    "pred_point": [
+      488.860229,
+      288.873447
+    ],
+    "gt_x": 309.435782,
+    "gt_y": 276.119502,
+    "gt_point": [
+      309.435782,
+      276.119502
+    ],
+    "pixel_error": 179.877168,
+    "normalized_pixel_error": 0.153102,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 279,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/scissor_11.jpg",
+    "filename": "scissor_11.jpg",
+    "label": "scissor",
+    "prompt": "Point to the handle of the scissor.",
+    "best_prompt_name": "point",
+    "pred_x": 315.937328,
+    "pred_y": 449.364853,
+    "pred_point": [
+      315.937328,
+      449.364853
+    ],
+    "gt_x": 346.192738,
+    "gt_y": 568.05713,
+    "gt_point": [
+      346.192738,
+      568.05713
+    ],
+    "pixel_error": 122.48774,
+    "normalized_pixel_error": 0.122488,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 281,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/scissor_13.jpg",
+    "filename": "scissor_13.jpg",
+    "label": "scissor",
+    "prompt": "Point to the handle of the scissor.",
+    "best_prompt_name": "point",
+    "pred_x": 858.228314,
+    "pred_y": 389.311369,
+    "pred_point": [
+      858.228314,
+      389.311369
+    ],
+    "gt_x": 1055.987581,
+    "gt_y": 333.187095,
+    "gt_point": [
+      1055.987581,
+      333.187095
+    ],
+    "pixel_error": 205.569117,
+    "normalized_pixel_error": 0.132332,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 663,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/shoe_2.jpg",
+    "filename": "shoe_2.jpg",
+    "label": "shoe",
+    "prompt": "Grasp the heel of the shoe.",
+    "best_prompt_name": "grasp",
+    "pred_x": 287.521019,
+    "pred_y": 179.466734,
+    "pred_point": [
+      287.521019,
+      179.466734
+    ],
+    "gt_x": 346.876512,
+    "gt_y": 259.824449,
+    "gt_point": [
+      346.876512,
+      259.824449
+    ],
+    "pixel_error": 99.902137,
+    "normalized_pixel_error": 0.166504,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 667,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/shoe_6.jpg",
+    "filename": "shoe_6.jpg",
+    "label": "shoe",
+    "prompt": "Grasp the heel of the shoe.",
+    "best_prompt_name": "grasp",
+    "pred_x": 659.315947,
+    "pred_y": 677.394608,
+    "pred_point": [
+      659.315947,
+      677.394608
+    ],
+    "gt_x": 856.081146,
+    "gt_y": 1044.274904,
+    "gt_point": [
+      856.081146,
+      1044.274904
+    ],
+    "pixel_error": 416.314419,
+    "normalized_pixel_error": 0.223701,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 676,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/shoe_15.jpg",
+    "filename": "shoe_15.jpg",
+    "label": "shoe",
+    "prompt": "Point to the heel of the shoe.",
+    "best_prompt_name": "point",
+    "pred_x": 360.653191,
+    "pred_y": 207.424804,
+    "pred_point": [
+      360.653191,
+      207.424804
+    ],
+    "gt_x": 319.58442,
+    "gt_y": 364.316626,
+    "gt_point": [
+      319.58442,
+      364.316626
+    ],
+    "pixel_error": 162.17795,
+    "normalized_pixel_error": 0.211249,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 666,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/shoe_5.jpg",
+    "filename": "shoe_5.jpg",
+    "label": "shoe",
+    "prompt": "Grasp the heel of the shoe.",
+    "best_prompt_name": "grasp",
+    "pred_x": 197.537231,
+    "pred_y": 289.11667,
+    "pred_point": [
+      197.537231,
+      289.11667
+    ],
+    "gt_x": 95.040003,
+    "gt_y": 474.445711,
+    "gt_point": [
+      95.040003,
+      474.445711
+    ],
+    "pixel_error": 211.784172,
+    "normalized_pixel_error": 0.296658,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 809,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/sock_8.jpg",
+    "filename": "sock_8.jpg",
+    "label": "sock",
+    "prompt": "Grasp the opening of the sock.",
+    "best_prompt_name": "grasp",
+    "pred_x": 137.429446,
+    "pred_y": 144.944083,
+    "pred_point": [
+      137.429446,
+      144.944083
+    ],
+    "gt_x": 78.196664,
+    "gt_y": 313.266708,
+    "gt_point": [
+      78.196664,
+      313.266708
+    ],
+    "pixel_error": 178.440546,
+    "normalized_pixel_error": 0.441992,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 813,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/sock_12.jpg",
+    "filename": "sock_12.jpg",
+    "label": "sock",
+    "prompt": "Grasp the opening of the sock.",
+    "best_prompt_name": "grasp",
+    "pred_x": 194.378114,
+    "pred_y": 179.502511,
+    "pred_point": [
+      194.378114,
+      179.502511
+    ],
+    "gt_x": 217.142857,
+    "gt_y": 214.761905,
+    "gt_point": [
+      217.142857,
+      214.761905
+    ],
+    "pixel_error": 41.969732,
+    "normalized_pixel_error": 0.074193,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 803,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/sock_2.jpg",
+    "filename": "sock_2.jpg",
+    "label": "sock",
+    "prompt": "Grasp the opening of the sock.",
+    "best_prompt_name": "grasp",
+    "pred_x": 197.526291,
+    "pred_y": 289.244394,
+    "pred_point": [
+      197.526291,
+      289.244394
+    ],
+    "gt_x": 120.497146,
+    "gt_y": 425.888569,
+    "gt_point": [
+      120.497146,
+      425.888569
+    ],
+    "pixel_error": 156.860192,
+    "normalized_pixel_error": 0.219723,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 819,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/sock_18.jpg",
+    "filename": "sock_18.jpg",
+    "label": "sock",
+    "prompt": "Point to the opening of the sock.",
+    "best_prompt_name": "point",
+    "pred_x": 872.455546,
+    "pred_y": 669.159022,
+    "pred_point": [
+      872.455546,
+      669.159022
+    ],
+    "gt_x": 212.399504,
+    "gt_y": 1107.463575,
+    "gt_point": [
+      212.399504,
+      1107.463575
+    ],
+    "pixel_error": 792.328757,
+    "normalized_pixel_error": 0.382194,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 899,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spatula_6.jpg",
+    "filename": "spatula_6.jpg",
+    "label": "spatula",
+    "prompt": "Point to the handle of the spatula.",
+    "best_prompt_name": "point",
+    "pred_x": 219.806218,
+    "pred_y": 175.960624,
+    "pred_point": [
+      219.806218,
+      175.960624
+    ],
+    "gt_x": 126.084644,
+    "gt_y": 202.523133,
+    "gt_point": [
+      126.084644,
+      202.523133
+    ],
+    "pixel_error": 97.41304,
+    "normalized_pixel_error": 0.172204,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 905,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spatula_12.jpg",
+    "filename": "spatula_12.jpg",
+    "label": "spatula",
+    "prompt": "Point to the handle of the spatula.",
+    "best_prompt_name": "point",
+    "pred_x": 534.408722,
+    "pred_y": 372.899837,
+    "pred_point": [
+      534.408722,
+      372.899837
+    ],
+    "gt_x": 652.108042,
+    "gt_y": 322.162136,
+    "gt_point": [
+      652.108042,
+      322.162136
+    ],
+    "pixel_error": 128.169592,
+    "normalized_pixel_error": 0.087273,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 902,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spatula_9.jpg",
+    "filename": "spatula_9.jpg",
+    "label": "spatula",
+    "prompt": "Point to the handle of the spatula.",
+    "best_prompt_name": "point",
+    "pred_x": 212.917128,
+    "pred_y": 345.970566,
+    "pred_point": [
+      212.917128,
+      345.970566
+    ],
+    "gt_x": 109.142857,
+    "gt_y": 339.428571,
+    "gt_point": [
+      109.142857,
+      339.428571
+    ],
+    "pixel_error": 103.980272,
+    "normalized_pixel_error": 0.120162,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 908,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spatula_15.jpg",
+    "filename": "spatula_15.jpg",
+    "label": "spatula",
+    "prompt": "Grasp the handle of the spatula.",
+    "best_prompt_name": "grasp",
+    "pred_x": 275.190582,
+    "pred_y": 136.398118,
+    "pred_point": [
+      275.190582,
+      136.398118
+    ],
+    "gt_x": 305.358474,
+    "gt_y": 143.974888,
+    "gt_point": [
+      305.358474,
+      143.974888
+    ],
+    "pixel_error": 31.104809,
+    "normalized_pixel_error": 0.051841,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 685,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spoon_4.jpg",
+    "filename": "spoon_4.jpg",
+    "label": "spoon",
+    "prompt": "Grasp the handle of the spoon.",
+    "best_prompt_name": "grasp",
+    "pred_x": 174.00749,
+    "pred_y": 661.485761,
+    "pred_point": [
+      174.00749,
+      661.485761
+    ],
+    "gt_x": 71.333333,
+    "gt_y": 717.503048,
+    "gt_point": [
+      71.333333,
+      717.503048
+    ],
+    "pixel_error": 116.961185,
+    "normalized_pixel_error": 0.126957,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 689,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spoon_8.jpg",
+    "filename": "spoon_8.jpg",
+    "label": "spoon",
+    "prompt": "Point to the handle of the spoon.",
+    "best_prompt_name": "point",
+    "pred_x": 474.318534,
+    "pred_y": 519.632101,
+    "pred_point": [
+      474.318534,
+      519.632101
+    ],
+    "gt_x": 675.44922,
+    "gt_y": 626.411923,
+    "gt_point": [
+      675.44922,
+      626.411923
+    ],
+    "pixel_error": 227.717991,
+    "normalized_pixel_error": 0.161021,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 700,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spoon_19.jpg",
+    "filename": "spoon_19.jpg",
+    "label": "spoon",
+    "prompt": "Grasp the handle of the spoon.",
+    "best_prompt_name": "grasp",
+    "pred_x": 133.264953,
+    "pred_y": 186.502938,
+    "pred_point": [
+      133.264953,
+      186.502938
+    ],
+    "gt_x": 315.891029,
+    "gt_y": 205.008924,
+    "gt_point": [
+      315.891029,
+      205.008924
+    ],
+    "pixel_error": 183.561312,
+    "normalized_pixel_error": 0.326157,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 684,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/spoon_3.jpg",
+    "filename": "spoon_3.jpg",
+    "label": "spoon",
+    "prompt": "Point to the handle of the spoon.",
+    "best_prompt_name": "point",
+    "pred_x": 456.026233,
+    "pred_y": 545.813002,
+    "pred_point": [
+      456.026233,
+      545.813002
+    ],
+    "gt_x": 235.175234,
+    "gt_y": 515.344819,
+    "gt_point": [
+      235.175234,
+      515.344819
+    ],
+    "pixel_error": 222.942759,
+    "normalized_pixel_error": 0.188923,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 288,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/stapler_2.jpg",
+    "filename": "stapler_2.jpg",
+    "label": "stapler",
+    "prompt": "Grasp the top of the stapler.",
+    "best_prompt_name": "grasp",
+    "pred_x": 312.859058,
+    "pred_y": 233.421966,
+    "pred_point": [
+      312.859058,
+      233.421966
+    ],
+    "gt_x": 433.482143,
+    "gt_y": 208.630952,
+    "gt_point": [
+      433.482143,
+      208.630952
+    ],
+    "pixel_error": 123.144317,
+    "normalized_pixel_error": 0.197031,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 294,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/stapler_8.jpg",
+    "filename": "stapler_8.jpg",
+    "label": "stapler",
+    "prompt": "Point to the top of the stapler.",
+    "best_prompt_name": "point",
+    "pred_x": 317.051366,
+    "pred_y": 258.148007,
+    "pred_point": [
+      317.051366,
+      258.148007
+    ],
+    "gt_x": 391.934524,
+    "gt_y": 171.010855,
+    "gt_point": [
+      391.934524,
+      171.010855
+    ],
+    "pixel_error": 114.892866,
+    "normalized_pixel_error": 0.141354,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 300,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/stapler_14.jpg",
+    "filename": "stapler_14.jpg",
+    "label": "stapler",
+    "prompt": "Grasp the top of the stapler.",
+    "best_prompt_name": "grasp",
+    "pred_x": 378.026315,
+    "pred_y": 736.572879,
+    "pred_point": [
+      378.026315,
+      736.572879
+    ],
+    "gt_x": 519.653571,
+    "gt_y": 683.065844,
+    "gt_point": [
+      519.653571,
+      683.065844
+    ],
+    "pixel_error": 151.397762,
+    "normalized_pixel_error": 0.114071,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 852,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/t-shirt_11.jpg",
+    "filename": "t-shirt_11.jpg",
+    "label": "t-shirt",
+    "prompt": "Point to the collar of the t-shirt.",
+    "best_prompt_name": "point",
+    "pred_x": 538.002663,
+    "pred_y": 547.067456,
+    "pred_point": [
+      538.002663,
+      547.067456
+    ],
+    "gt_x": 894.252675,
+    "gt_y": 222.493051,
+    "gt_point": [
+      894.252675,
+      222.493051
+    ],
+    "pixel_error": 481.936319,
+    "normalized_pixel_error": 0.352401,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 850,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/t-shirt_9.jpg",
+    "filename": "t-shirt_9.jpg",
+    "label": "t-shirt",
+    "prompt": "Point to the collar of the t-shirt.",
+    "best_prompt_name": "point",
+    "pred_x": 584.502339,
+    "pred_y": 305.585629,
+    "pred_point": [
+      584.502339,
+      305.585629
+    ],
+    "gt_x": 607.485966,
+    "gt_y": 323.419552,
+    "gt_point": [
+      607.485966,
+      323.419552
+    ],
+    "pixel_error": 29.091165,
+    "normalized_pixel_error": 0.021129,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 855,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/t-shirt_14.jpg",
+    "filename": "t-shirt_14.jpg",
+    "label": "t-shirt",
+    "prompt": "Grasp the collar of the t-shirt.",
+    "best_prompt_name": "grasp",
+    "pred_x": 663.821587,
+    "pred_y": 729.332864,
+    "pred_point": [
+      663.821587,
+      729.332864
+    ],
+    "gt_x": 677.048133,
+    "gt_y": 1047.120045,
+    "gt_point": [
+      677.048133,
+      1047.120045
+    ],
+    "pixel_error": 318.062311,
+    "normalized_pixel_error": 0.158919,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 856,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/t-shirt_15.jpg",
+    "filename": "t-shirt_15.jpg",
+    "label": "t-shirt",
+    "prompt": "Point to the collar of the t-shirt.",
+    "best_prompt_name": "point",
+    "pred_x": 134.59745,
+    "pred_y": 163.124764,
+    "pred_point": [
+      134.59745,
+      163.124764
+    ],
+    "gt_x": 243.928571,
+    "gt_y": 170.357143,
+    "gt_point": [
+      243.928571,
+      170.357143
+    ],
+    "pixel_error": 109.570075,
+    "normalized_pixel_error": 0.258259,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 320,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tape_19.jpg",
+    "filename": "tape_19.jpg",
+    "label": "tape",
+    "prompt": "Point to the side of the tape.",
+    "best_prompt_name": "point",
+    "pred_x": 1366.382847,
+    "pred_y": 990.26738,
+    "pred_point": [
+      1366.382847,
+      990.26738
+    ],
+    "gt_x": 866.257408,
+    "gt_y": 1436.676844,
+    "gt_point": [
+      866.257408,
+      1436.676844
+    ],
+    "pixel_error": 670.37815,
+    "normalized_pixel_error": 0.193639,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 312,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tape_11.jpg",
+    "filename": "tape_11.jpg",
+    "label": "tape",
+    "prompt": "Grasp the side of the tape.",
+    "best_prompt_name": "grasp",
+    "pred_x": 2066.32251,
+    "pred_y": 1651.216736,
+    "pred_point": [
+      2066.32251,
+      1651.216736
+    ],
+    "gt_x": 2805.941983,
+    "gt_y": 2037.21835,
+    "gt_point": [
+      2805.941983,
+      2037.21835
+    ],
+    "pixel_error": 834.286648,
+    "normalized_pixel_error": 0.162947,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 310,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tape_9.jpg",
+    "filename": "tape_9.jpg",
+    "label": "tape",
+    "prompt": "Point to the side of the tape.",
+    "best_prompt_name": "point",
+    "pred_x": 337.578052,
+    "pred_y": 527.139473,
+    "pred_point": [
+      337.578052,
+      527.139473
+    ],
+    "gt_x": 350.778473,
+    "gt_y": 438.624177,
+    "gt_point": [
+      350.778473,
+      438.624177
+    ],
+    "pixel_error": 89.494183,
+    "normalized_pixel_error": 0.070313,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 313,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tape_12.jpg",
+    "filename": "tape_12.jpg",
+    "label": "tape",
+    "prompt": "Grasp the side of the tape.",
+    "best_prompt_name": "grasp",
+    "pred_x": 840.796585,
+    "pred_y": 420.658135,
+    "pred_point": [
+      840.796585,
+      420.658135
+    ],
+    "gt_x": 1173.977915,
+    "gt_y": 183.39347,
+    "gt_point": [
+      1173.977915,
+      183.39347
+    ],
+    "pixel_error": 409.028507,
+    "normalized_pixel_error": 0.278515,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 714,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tomato_13.jpg",
+    "filename": "tomato_13.jpg",
+    "label": "tomato",
+    "prompt": "Grasp the center of the tomato.",
+    "best_prompt_name": "grasp",
+    "pred_x": 333.52462,
+    "pred_y": 463.264085,
+    "pred_point": [
+      333.52462,
+      463.264085
+    ],
+    "gt_x": 315.65,
+    "gt_y": 502.008333,
+    "gt_point": [
+      315.65,
+      502.008333
+    ],
+    "pixel_error": 42.66871,
+    "normalized_pixel_error": 0.040282,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 709,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tomato_8.jpg",
+    "filename": "tomato_8.jpg",
+    "label": "tomato",
+    "prompt": "Point to the center of the tomato.",
+    "best_prompt_name": "point",
+    "pred_x": 231.824827,
+    "pred_y": 237.459692,
+    "pred_point": [
+      231.824827,
+      237.459692
+    ],
+    "gt_x": 175.982143,
+    "gt_y": 307.5,
+    "gt_point": [
+      175.982143,
+      307.5
+    ],
+    "pixel_error": 89.577062,
+    "normalized_pixel_error": 0.140757,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 711,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tomato_10.jpg",
+    "filename": "tomato_10.jpg",
+    "label": "tomato",
+    "prompt": "Point to the center of the tomato.",
+    "best_prompt_name": "point",
+    "pred_x": 824.403707,
+    "pred_y": 1260.389686,
+    "pred_point": [
+      824.403707,
+      1260.389686
+    ],
+    "gt_x": 954.919739,
+    "gt_y": 1171.765208,
+    "gt_point": [
+      954.919739,
+      1171.765208
+    ],
+    "pixel_error": 157.761633,
+    "normalized_pixel_error": 0.050484,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 704,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tomato_3.jpg",
+    "filename": "tomato_3.jpg",
+    "label": "tomato",
+    "prompt": "Grasp the center of the tomato.",
+    "best_prompt_name": "grasp",
+    "pred_x": 802.578449,
+    "pred_y": 580.619216,
+    "pred_point": [
+      802.578449,
+      580.619216
+    ],
+    "gt_x": 725.353535,
+    "gt_y": 342.140964,
+    "gt_point": [
+      725.353535,
+      342.140964
+    ],
+    "pixel_error": 250.670229,
+    "normalized_pixel_error": 0.125335,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 329,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/toothbrush_8.jpg",
+    "filename": "toothbrush_8.jpg",
+    "label": "toothbrush",
+    "prompt": "Point to the handle of the toothbrush.",
+    "best_prompt_name": "point",
+    "pred_x": 483.514404,
+    "pred_y": 718.395122,
+    "pred_point": [
+      483.514404,
+      718.395122
+    ],
+    "gt_x": 527.5,
+    "gt_y": 606.666667,
+    "gt_point": [
+      527.5,
+      606.666667
+    ],
+    "pixel_error": 120.074895,
+    "normalized_pixel_error": 0.099703,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 341,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/toothbrush_20.jpg",
+    "filename": "toothbrush_20.jpg",
+    "label": "toothbrush",
+    "prompt": "Grasp the handle of the toothbrush.",
+    "best_prompt_name": "grasp",
+    "pred_x": 333.08997,
+    "pred_y": 473.116943,
+    "pred_point": [
+      333.08997,
+      473.116943
+    ],
+    "gt_x": 210.716231,
+    "gt_y": 613.004145,
+    "gt_point": [
+      210.716231,
+      613.004145
+    ],
+    "pixel_error": 185.85952,
+    "normalized_pixel_error": 0.153147,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 331,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/toothbrush_10.jpg",
+    "filename": "toothbrush_10.jpg",
+    "label": "toothbrush",
+    "prompt": "Point to the handle of the toothbrush.",
+    "best_prompt_name": "point",
+    "pred_x": 336.728256,
+    "pred_y": 256.915522,
+    "pred_point": [
+      336.728256,
+      256.915522
+    ],
+    "gt_x": 238.628571,
+    "gt_y": 313.6,
+    "gt_point": [
+      238.628571,
+      313.6
+    ],
+    "pixel_error": 113.299065,
+    "normalized_pixel_error": 0.128077,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 330,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/toothbrush_9.jpg",
+    "filename": "toothbrush_9.jpg",
+    "label": "toothbrush",
+    "prompt": "Grasp the handle of the toothbrush.",
+    "best_prompt_name": "grasp",
+    "pred_x": 1155.949219,
+    "pred_y": 517.565135,
+    "pred_point": [
+      1155.949219,
+      517.565135
+    ],
+    "gt_x": 1880.33471,
+    "gt_y": 182.41122,
+    "gt_point": [
+      1880.33471,
+      182.41122
+    ],
+    "pixel_error": 798.161943,
+    "normalized_pixel_error": 0.321079,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 727,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tray_6.jpg",
+    "filename": "tray_6.jpg",
+    "label": "tray",
+    "prompt": "Grasp the edge of the tray.",
+    "best_prompt_name": "grasp",
+    "pred_x": 272.783255,
+    "pred_y": 456.339377,
+    "pred_point": [
+      272.783255,
+      456.339377
+    ],
+    "gt_x": 205.483929,
+    "gt_y": 446.817918,
+    "gt_point": [
+      205.483929,
+      446.817918
+    ],
+    "pixel_error": 67.969533,
+    "normalized_pixel_error": 0.067987,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 733,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tray_12.jpg",
+    "filename": "tray_12.jpg",
+    "label": "tray",
+    "prompt": "Point to the edge of the tray.",
+    "best_prompt_name": "point",
+    "pred_x": 489.724159,
+    "pred_y": 69.148576,
+    "pred_point": [
+      489.724159,
+      69.148576
+    ],
+    "gt_x": 306.190476,
+    "gt_y": 101.904762,
+    "gt_point": [
+      306.190476,
+      101.904762
+    ],
+    "pixel_error": 186.43385,
+    "normalized_pixel_error": 0.164786,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 729,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tray_8.jpg",
+    "filename": "tray_8.jpg",
+    "label": "tray",
+    "prompt": "Grasp the edge of the tray.",
+    "best_prompt_name": "grasp",
+    "pred_x": 724.014938,
+    "pred_y": 565.321952,
+    "pred_point": [
+      724.014938,
+      565.321952
+    ],
+    "gt_x": 115.845727,
+    "gt_y": 472.298822,
+    "gt_point": [
+      115.845727,
+      472.298822
+    ],
+    "pixel_error": 615.242303,
+    "normalized_pixel_error": 0.328129,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 731,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/tray_10.jpg",
+    "filename": "tray_10.jpg",
+    "label": "tray",
+    "prompt": "Point to the edge of the tray.",
+    "best_prompt_name": "point",
+    "pred_x": 2041.158676,
+    "pred_y": 1581.512162,
+    "pred_point": [
+      2041.158676,
+      1581.512162
+    ],
+    "gt_x": 2846.304956,
+    "gt_y": 2269.239597,
+    "gt_point": [
+      2846.304956,
+      2269.239597
+    ],
+    "pixel_error": 1058.881276,
+    "normalized_pixel_error": 0.213684,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 352,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/umbrella_11.jpg",
+    "filename": "umbrella_11.jpg",
+    "label": "umbrella",
+    "prompt": "Point to the handle of the umbrella.",
+    "best_prompt_name": "point",
+    "pred_x": 647.161388,
+    "pred_y": 535.028837,
+    "pred_point": [
+      647.161388,
+      535.028837
+    ],
+    "gt_x": 644.86971,
+    "gt_y": 512.306756,
+    "gt_point": [
+      644.86971,
+      512.306756
+    ],
+    "pixel_error": 22.837354,
+    "normalized_pixel_error": 0.016367,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 356,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/umbrella_15.jpg",
+    "filename": "umbrella_15.jpg",
+    "label": "umbrella",
+    "prompt": "Grasp the handle of the umbrella.",
+    "best_prompt_name": "grasp",
+    "pred_x": 448.796064,
+    "pred_y": 418.645616,
+    "pred_point": [
+      448.796064,
+      418.645616
+    ],
+    "gt_x": 406.587182,
+    "gt_y": 422.22869,
+    "gt_point": [
+      406.587182,
+      422.22869
+    ],
+    "pixel_error": 42.36069,
+    "normalized_pixel_error": 0.035257,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 361,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/umbrella_20.jpg",
+    "filename": "umbrella_20.jpg",
+    "label": "umbrella",
+    "prompt": "Point to the handle of the umbrella.",
+    "best_prompt_name": "point",
+    "pred_x": 354.184851,
+    "pred_y": 322.236214,
+    "pred_point": [
+      354.184851,
+      322.236214
+    ],
+    "gt_x": 82.107143,
+    "gt_y": 316.892857,
+    "gt_point": [
+      82.107143,
+      316.892857
+    ],
+    "pixel_error": 272.130172,
+    "normalized_pixel_error": 0.337588,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 357,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/umbrella_16.jpg",
+    "filename": "umbrella_16.jpg",
+    "label": "umbrella",
+    "prompt": "Grasp the handle of the umbrella.",
+    "best_prompt_name": "grasp",
+    "pred_x": 377.773476,
+    "pred_y": 269.783421,
+    "pred_point": [
+      377.773476,
+      269.783421
+    ],
+    "gt_x": 410.238092,
+    "gt_y": 269.28661,
+    "gt_point": [
+      410.238092,
+      269.28661
+    ],
+    "pixel_error": 32.468417,
+    "normalized_pixel_error": 0.043534,
+    "success": 1,
+    "status": "ok"
+  },
+  {
+    "id": 375,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/wallet_14.jpg",
+    "filename": "wallet_14.jpg",
+    "label": "wallet",
+    "prompt": "Grasp the body of the wallet.",
+    "best_prompt_name": "grasp",
+    "pred_x": 361.067589,
+    "pred_y": 452.141142,
+    "pred_point": [
+      361.067589,
+      452.141142
+    ],
+    "gt_x": 289.714286,
+    "gt_y": 617.505169,
+    "gt_point": [
+      289.714286,
+      617.505169
+    ],
+    "pixel_error": 180.101514,
+    "normalized_pixel_error": 0.161191,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 365,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/wallet_4.jpg",
+    "filename": "wallet_4.jpg",
+    "label": "wallet",
+    "prompt": "Grasp the body of the wallet.",
+    "best_prompt_name": "grasp",
+    "pred_x": 420.009494,
+    "pred_y": 291.687577,
+    "pred_point": [
+      420.009494,
+      291.687577
+    ],
+    "gt_x": 676.799655,
+    "gt_y": 208.980593,
+    "gt_point": [
+      676.799655,
+      208.980593
+    ],
+    "pixel_error": 269.780711,
+    "normalized_pixel_error": 0.235184,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 369,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/wallet_8.jpg",
+    "filename": "wallet_8.jpg",
+    "label": "wallet",
+    "prompt": "Point to the body of the wallet.",
+    "best_prompt_name": "point",
+    "pred_x": 212.015431,
+    "pred_y": 582.850341,
+    "pred_point": [
+      212.015431,
+      582.850341
+    ],
+    "gt_x": 82.254793,
+    "gt_y": 233.593461,
+    "gt_point": [
+      82.254793,
+      233.593461
+    ],
+    "pixel_error": 372.583134,
+    "normalized_pixel_error": 0.271851,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 364,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/wallet_3.jpg",
+    "filename": "wallet_3.jpg",
+    "label": "wallet",
+    "prompt": "Grasp the body of the wallet.",
+    "best_prompt_name": "grasp",
+    "pred_x": 1077.270031,
+    "pred_y": 990.591049,
+    "pred_point": [
+      1077.270031,
+      990.591049
+    ],
+    "gt_x": 1086.245621,
+    "gt_y": 1425.397403,
+    "gt_point": [
+      1086.245621,
+      1425.397403
+    ],
+    "pixel_error": 434.898985,
+    "normalized_pixel_error": 0.15376,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 389,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/watch_8.jpg",
+    "filename": "watch_8.jpg",
+    "label": "watch",
+    "prompt": "Grasp the strap of the watch.",
+    "best_prompt_name": "grasp",
+    "pred_x": 355.976374,
+    "pred_y": 722.638451,
+    "pred_point": [
+      355.976374,
+      722.638451
+    ],
+    "gt_x": 453.7,
+    "gt_y": 923.024691,
+    "gt_point": [
+      453.7,
+      923.024691
+    ],
+    "pixel_error": 222.945177,
+    "normalized_pixel_error": 0.156582,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 387,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/watch_6.jpg",
+    "filename": "watch_6.jpg",
+    "label": "watch",
+    "prompt": "Point to the strap of the watch.",
+    "best_prompt_name": "point",
+    "pred_x": 130.078836,
+    "pred_y": 144.572219,
+    "pred_point": [
+      130.078836,
+      144.572219
+    ],
+    "gt_x": 195.267857,
+    "gt_y": 143.03603,
+    "gt_point": [
+      195.267857,
+      143.03603
+    ],
+    "pixel_error": 65.207119,
+    "normalized_pixel_error": 0.12631,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 384,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/watch_3.jpg",
+    "filename": "watch_3.jpg",
+    "label": "watch",
+    "prompt": "Grasp the strap of the watch.",
+    "best_prompt_name": "grasp",
+    "pred_x": 1048.118134,
+    "pred_y": 851.322134,
+    "pred_point": [
+      1048.118134,
+      851.322134
+    ],
+    "gt_x": 1145.895954,
+    "gt_y": 994.904888,
+    "gt_point": [
+      1145.895954,
+      994.904888
+    ],
+    "pixel_error": 173.713873,
+    "normalized_pixel_error": 0.078857,
+    "success": 0,
+    "status": "ok"
+  },
+  {
+    "id": 390,
+    "split": "test",
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v3/images/watch_9.jpg",
+    "filename": "watch_9.jpg",
+    "label": "watch",
+    "prompt": "Point to the strap of the watch.",
+    "best_prompt_name": "point",
+    "pred_x": 228.424215,
+    "pred_y": 198.586893,
+    "pred_point": [
+      228.424215,
+      198.586893
+    ],
+    "gt_x": 252.571429,
+    "gt_y": 195.022321,
+    "gt_point": [
+      252.571429,
+      195.022321
+    ],
+    "pixel_error": 24.408893,
+    "normalized_pixel_error": 0.040681,
+    "success": 1,
+    "status": "ok"
+  }
+]

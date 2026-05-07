@@ -1,0 +1,148 @@
+{
+  "template": "hold the {label}.",
+  "overall": {
+    "mean_error": 11.071493190397897,
+    "mean_normalized_error": 0.07828727912791036,
+    "success_rate": 0.6785714285714286,
+    "detection_rate": 0.9642857142857143,
+    "num_rows": 28,
+    "num_valid": 27
+  },
+  "per_category": [
+    {
+      "label": "stapler",
+      "num_samples": 2,
+      "num_valid": 2,
+      "mean_error": 0.6261365904411638,
+      "mean_normalized_error": 0.004427454290499709,
+      "success_rate": 1.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "watch",
+      "num_samples": 1,
+      "num_valid": 1,
+      "mean_error": 0.8307210788313167,
+      "mean_normalized_error": 0.0058740850811622855,
+      "success_rate": 1.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "mouse",
+      "num_samples": 1,
+      "num_valid": 1,
+      "mean_error": 1.190902103007144,
+      "mean_normalized_error": 0.00842094952765672,
+      "success_rate": 1.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "umbrella",
+      "num_samples": 1,
+      "num_valid": 1,
+      "mean_error": 1.3474980358187314,
+      "mean_normalized_error": 0.009528249987629783,
+      "success_rate": 1.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "headphones",
+      "num_samples": 2,
+      "num_valid": 2,
+      "mean_error": 3.7557823064389675,
+      "mean_normalized_error": 0.026557391375434454,
+      "success_rate": 1.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "calculator",
+      "num_samples": 4,
+      "num_valid": 4,
+      "mean_error": 5.23321595799412,
+      "mean_normalized_error": 0.03700442491311297,
+      "success_rate": 1.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "toothbrush",
+      "num_samples": 1,
+      "num_valid": 1,
+      "mean_error": 5.6645228126531855,
+      "mean_normalized_error": 0.040054224930129625,
+      "success_rate": 1.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "wallet",
+      "num_samples": 3,
+      "num_valid": 3,
+      "mean_error": 7.184795867352228,
+      "mean_normalized_error": 0.05080417879245842,
+      "success_rate": 0.6666666666666666,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "keyboard",
+      "num_samples": 1,
+      "num_valid": 1,
+      "mean_error": 10.386689735879935,
+      "mean_normalized_error": 0.07344498746321412,
+      "success_rate": 0.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "kettle",
+      "num_samples": 5,
+      "num_valid": 5,
+      "mean_error": 12.83949955198668,
+      "mean_normalized_error": 0.09078897200251419,
+      "success_rate": 0.8,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "jar",
+      "num_samples": 2,
+      "num_valid": 2,
+      "mean_error": 19.222958556805104,
+      "mean_normalized_error": 0.13592684349984857,
+      "success_rate": 0.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "scissor",
+      "num_samples": 2,
+      "num_valid": 2,
+      "mean_error": 26.627802308915317,
+      "mean_normalized_error": 0.18828699580728828,
+      "success_rate": 0.5,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "backpack",
+      "num_samples": 1,
+      "num_valid": 1,
+      "mean_error": 31.38734272287358,
+      "mean_normalized_error": 0.22194202882770142,
+      "success_rate": 0.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "charger",
+      "num_samples": 1,
+      "num_valid": 1,
+      "mean_error": 40.97253093251166,
+      "mean_normalized_error": 0.28971954464754573,
+      "success_rate": 0.0,
+      "detection_rate": 1.0
+    },
+    {
+      "label": "highlighter",
+      "num_samples": 1,
+      "num_valid": 0,
+      "mean_error": null,
+      "mean_normalized_error": null,
+      "success_rate": 0.0,
+      "detection_rate": 0.0
+    }
+  ]
+}
