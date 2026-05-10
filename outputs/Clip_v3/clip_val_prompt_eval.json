@@ -1,0 +1,6978 @@
+[
+  {
+    "template": "point",
+    "mean_error": 281.7846783114754,
+    "mean_normalized_error": 0.19645703278688528,
+    "success_rate": 0.08196721311475409,
+    "detection_rate": 1.0,
+    "num_samples": 183,
+    "num_valid": 183,
+    "details": [
+      {
+        "id": 403,
+        "label": "apple",
+        "prompt": "Point to the center of the apple.",
+        "filename": "apple_2.jpg",
+        "gt_point": [
+          343.182143,
+          270.521429
+        ],
+        "pred_point": [
+          360.667549,
+          271.677909
+        ],
+        "error": 17.523609,
+        "normalized_error": 0.019794,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 413,
+        "label": "apple",
+        "prompt": "Point to the center of the apple.",
+        "filename": "apple_12.jpg",
+        "gt_point": [
+          486.095238,
+          268.571429
+        ],
+        "pred_point": [
+          405.345497,
+          123.054448
+        ],
+        "error": 166.420288,
+        "normalized_error": 0.216307,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 404,
+        "label": "apple",
+        "prompt": "Point to the center of the apple.",
+        "filename": "apple_3.jpg",
+        "gt_point": [
+          23.693645,
+          1095.321942
+        ],
+        "pred_point": [
+          416.039598,
+          628.880954
+        ],
+        "error": 609.510083,
+        "normalized_error": 0.401472,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 418,
+        "label": "apple",
+        "prompt": "Point to the center of the apple.",
+        "filename": "apple_17.jpg",
+        "gt_point": [
+          344.375,
+          181.179121
+        ],
+        "pred_point": [
+          305.570562,
+          204.200343
+        ],
+        "error": 45.119409,
+        "normalized_error": 0.065596,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 4,
+        "label": "backpack",
+        "prompt": "Point to the strap of the backpack.",
+        "filename": "backpack_5.jpg",
+        "gt_point": [
+          634.761905,
+          376.190476
+        ],
+        "pred_point": [
+          586.753464,
+          391.235125
+        ],
+        "error": 50.310554,
+        "normalized_error": 0.034884,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 9,
+        "label": "backpack",
+        "prompt": "Point to the strap of the backpack.",
+        "filename": "backpack_10.jpg",
+        "gt_point": [
+          581.226615,
+          306.933463
+        ],
+        "pred_point": [
+          443.428636,
+          304.350156
+        ],
+        "error": 137.822192,
+        "normalized_error": 0.112065,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 15,
+        "label": "backpack",
+        "prompt": "Point to the strap of the backpack.",
+        "filename": "backpack_16.jpg",
+        "gt_point": [
+          297.857143,
+          170.004491
+        ],
+        "pred_point": [
+          381.559145,
+          207.974684
+        ],
+        "error": 91.911701,
+        "normalized_error": 0.133466,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 7,
+        "label": "backpack",
+        "prompt": "Point to the strap of the backpack.",
+        "filename": "backpack_8.jpg",
+        "gt_point": [
+          608.0,
+          871.0
+        ],
+        "pred_point": [
+          434.023261,
+          605.440307
+        ],
+        "error": 317.474182,
+        "normalized_error": 0.211649,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 36,
+        "label": "bag",
+        "prompt": "Point to the handle of the bag.",
+        "filename": "bag_17.jpg",
+        "gt_point": [
+          370.666667,
+          375.619048
+        ],
+        "pred_point": [
+          329.853249,
+          408.36919
+        ],
+        "error": 52.328834,
+        "normalized_error": 0.046016,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 27,
+        "label": "bag",
+        "prompt": "Point to the handle of the bag.",
+        "filename": "bag_8.jpg",
+        "gt_point": [
+          241.753571,
+          292.834304
+        ],
+        "pred_point": [
+          265.170408,
+          201.859355
+        ],
+        "error": 93.940351,
+        "normalized_error": 0.140967,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 37,
+        "label": "bag",
+        "prompt": "Point to the handle of the bag.",
+        "filename": "bag_18.jpg",
+        "gt_point": [
+          314.632451,
+          1179.639653
+        ],
+        "pred_point": [
+          355.042076,
+          1112.126541
+        ],
+        "error": 78.682641,
+        "normalized_error": 0.039341,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 21,
+        "label": "bag",
+        "prompt": "Point to the handle of the bag.",
+        "filename": "bag_2.jpg",
+        "gt_point": [
+          503.709635,
+          649.874565
+        ],
+        "pred_point": [
+          498.953354,
+          549.839687
+        ],
+        "error": 100.147885,
+        "normalized_error": 0.050074,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 760,
+        "label": "basket",
+        "prompt": "Point to the handle of the basket.",
+        "filename": "basket_19.jpg",
+        "gt_point": [
+          190.178571,
+          173.928571
+        ],
+        "pred_point": [
+          191.062528,
+          195.184779
+        ],
+        "error": 21.27458,
+        "normalized_error": 0.050145,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 745,
+        "label": "basket",
+        "prompt": "Point to the handle of the basket.",
+        "filename": "basket_4.jpg",
+        "gt_point": [
+          184.457174,
+          364.948592
+        ],
+        "pred_point": [
+          307.876727,
+          488.625419
+        ],
+        "error": 174.72362,
+        "normalized_error": 0.155144,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 755,
+        "label": "basket",
+        "prompt": "Point to the handle of the basket.",
+        "filename": "basket_14.jpg",
+        "gt_point": [
+          368.284258,
+          1002.234869
+        ],
+        "pred_point": [
+          540.678685,
+          599.817982
+        ],
+        "error": 437.788978,
+        "normalized_error": 0.286633,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 761,
+        "label": "basket",
+        "prompt": "Point to the handle of the basket.",
+        "filename": "basket_20.jpg",
+        "gt_point": [
+          388.106828,
+          829.186454
+        ],
+        "pred_point": [
+          436.509705,
+          624.979187
+        ],
+        "error": 209.865305,
+        "normalized_error": 0.144919,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 426,
+        "label": "book",
+        "prompt": "Point to the spine of the book.",
+        "filename": "book_5.jpg",
+        "gt_point": [
+          666.437914,
+          1789.484774
+        ],
+        "pred_point": [
+          1304.243058,
+          1512.354612
+        ],
+        "error": 695.41105,
+        "normalized_error": 0.196692,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 428,
+        "label": "book",
+        "prompt": "Point to the spine of the book.",
+        "filename": "book_7.jpg",
+        "gt_point": [
+          844.321539,
+          187.029495
+        ],
+        "pred_point": [
+          478.115906,
+          370.801643
+        ],
+        "error": 409.730116,
+        "normalized_error": 0.320102,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 438,
+        "label": "book",
+        "prompt": "Point to the spine of the book.",
+        "filename": "book_17.jpg",
+        "gt_point": [
+          32.760131,
+          41.315188
+        ],
+        "pred_point": [
+          61.618788,
+          44.451397
+        ],
+        "error": 29.028571,
+        "normalized_error": 0.193524,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 440,
+        "label": "book",
+        "prompt": "Point to the spine of the book.",
+        "filename": "book_19.jpg",
+        "gt_point": [
+          1439.992281,
+          886.27034
+        ],
+        "pred_point": [
+          980.012608,
+          720.562421
+        ],
+        "error": 488.917595,
+        "normalized_error": 0.253935,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 449,
+        "label": "bottle",
+        "prompt": "Point to the neck of the bottle.",
+        "filename": "bottle_8.jpg",
+        "gt_point": [
+          235.595498,
+          313.054031
+        ],
+        "pred_point": [
+          148.348097,
+          310.498142
+        ],
+        "error": 87.28483,
+        "normalized_error": 0.12334,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 459,
+        "label": "bottle",
+        "prompt": "Point to the neck of the bottle.",
+        "filename": "bottle_18.jpg",
+        "gt_point": [
+          110.47619,
+          206.47619
+        ],
+        "pred_point": [
+          360.014954,
+          244.450235
+        ],
+        "error": 252.411613,
+        "normalized_error": 0.315515,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 458,
+        "label": "bottle",
+        "prompt": "Point to the neck of the bottle.",
+        "filename": "bottle_17.jpg",
+        "gt_point": [
+          570.08153,
+          733.962462
+        ],
+        "pred_point": [
+          559.124193,
+          681.924026
+        ],
+        "error": 53.179526,
+        "normalized_error": 0.034818,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 457,
+        "label": "bottle",
+        "prompt": "Point to the neck of the bottle.",
+        "filename": "bottle_16.jpg",
+        "gt_point": [
+          168.756889,
+          132.351632
+        ],
+        "pred_point": [
+          380.962491,
+          197.48291
+        ],
+        "error": 221.975902,
+        "normalized_error": 0.261528,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 480,
+        "label": "bowl",
+        "prompt": "Point to the rim of the bowl.",
+        "filename": "bowl_19.jpg",
+        "gt_point": [
+          34.682647,
+          676.925952
+        ],
+        "pred_point": [
+          600.571153,
+          326.758161
+        ],
+        "error": 665.467718,
+        "normalized_error": 0.487421,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 479,
+        "label": "bowl",
+        "prompt": "Point to the rim of the bowl.",
+        "filename": "bowl_18.jpg",
+        "gt_point": [
+          325.904762,
+          419.120718
+        ],
+        "pred_point": [
+          272.002842,
+          386.244955
+        ],
+        "error": 63.13662,
+        "normalized_error": 0.078311,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 475,
+        "label": "bowl",
+        "prompt": "Point to the rim of the bowl.",
+        "filename": "bowl_14.jpg",
+        "gt_point": [
+          445.5,
+          249.0
+        ],
+        "pred_point": [
+          361.889341,
+          197.315244
+        ],
+        "error": 98.295759,
+        "normalized_error": 0.101965,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 463,
+        "label": "bowl",
+        "prompt": "Point to the rim of the bowl.",
+        "filename": "bowl_2.jpg",
+        "gt_point": [
+          539.26208,
+          361.006202
+        ],
+        "pred_point": [
+          250.337148,
+          613.066185
+        ],
+        "error": 383.421245,
+        "normalized_error": 0.354473,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 42,
+        "label": "calculator",
+        "prompt": "Point to the body of the calculator.",
+        "filename": "calculator_3.jpg",
+        "gt_point": [
+          255.714286,
+          220.0
+        ],
+        "pred_point": [
+          234.409747,
+          195.436456
+        ],
+        "error": 32.515397,
+        "normalized_error": 0.054192,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 46,
+        "label": "calculator",
+        "prompt": "Point to the body of the calculator.",
+        "filename": "calculator_7.jpg",
+        "gt_point": [
+          799.923143,
+          546.06899
+        ],
+        "pred_point": [
+          620.846272,
+          483.802655
+        ],
+        "error": 189.593308,
+        "normalized_error": 0.128927,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 44,
+        "label": "calculator",
+        "prompt": "Point to the body of the calculator.",
+        "filename": "calculator_5.jpg",
+        "gt_point": [
+          398.214286,
+          302.857143
+        ],
+        "pred_point": [
+          367.8581,
+          407.959628
+        ],
+        "error": 109.398494,
+        "normalized_error": 0.128927,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 59,
+        "label": "calculator",
+        "prompt": "Point to the body of the calculator.",
+        "filename": "calculator_20.jpg",
+        "gt_point": [
+          945.968187,
+          2510.937301
+        ],
+        "pred_point": [
+          1739.91021,
+          2100.486219
+        ],
+        "error": 893.763965,
+        "normalized_error": 0.177334,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 61,
+        "label": "charger",
+        "prompt": "Point to the cable of the charger.",
+        "filename": "charger_2.jpg",
+        "gt_point": [
+          357.485714,
+          379.885714
+        ],
+        "pred_point": [
+          408.02623,
+          454.370337
+        ],
+        "error": 90.012792,
+        "normalized_error": 0.083689,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 78,
+        "label": "charger",
+        "prompt": "Point to the cable of the charger.",
+        "filename": "charger_19.jpg",
+        "gt_point": [
+          259.209096,
+          207.950328
+        ],
+        "pred_point": [
+          391.146603,
+          81.098322
+        ],
+        "error": 183.027148,
+        "normalized_error": 0.289378,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 67,
+        "label": "charger",
+        "prompt": "Point to the cable of the charger.",
+        "filename": "charger_8.jpg",
+        "gt_point": [
+          1424.256235,
+          685.149196
+        ],
+        "pred_point": [
+          860.943508,
+          745.744478
+        ],
+        "error": 566.562456,
+        "normalized_error": 0.281498,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 70,
+        "label": "charger",
+        "prompt": "Point to the cable of the charger.",
+        "filename": "charger_11.jpg",
+        "gt_point": [
+          79.972619,
+          363.980952
+        ],
+        "pred_point": [
+          218.028695,
+          285.788566
+        ],
+        "error": 158.661682,
+        "normalized_error": 0.284748,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 491,
+        "label": "cup",
+        "prompt": "Point to the handle of the cup.",
+        "filename": "cup_10.jpg",
+        "gt_point": [
+          458.482143,
+          394.646141
+        ],
+        "pred_point": [
+          501.391053,
+          354.803729
+        ],
+        "error": 58.554184,
+        "normalized_error": 0.044727,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 495,
+        "label": "cup",
+        "prompt": "Point to the handle of the cup.",
+        "filename": "cup_14.jpg",
+        "gt_point": [
+          990.952578,
+          747.268648
+        ],
+        "pred_point": [
+          952.593269,
+          551.797063
+        ],
+        "error": 199.199841,
+        "normalized_error": 0.090426,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 500,
+        "label": "cup",
+        "prompt": "Point to the handle of the cup.",
+        "filename": "cup_19.jpg",
+        "gt_point": [
+          758.133161,
+          522.328366
+        ],
+        "pred_point": [
+          680.340074,
+          357.282121
+        ],
+        "error": 182.461029,
+        "normalized_error": 0.139512,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 490,
+        "label": "cup",
+        "prompt": "Point to the handle of the cup.",
+        "filename": "cup_9.jpg",
+        "gt_point": [
+          5.52381,
+          32.0
+        ],
+        "pred_point": [
+          275.649509,
+          207.836494
+        ],
+        "error": 322.314081,
+        "normalized_error": 0.402893,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 873,
+        "label": "earbuds",
+        "prompt": "Point to the body of the earbuds.",
+        "filename": "earbuds_12.jpg",
+        "gt_point": [
+          200.297619,
+          263.690476
+        ],
+        "pred_point": [
+          237.918749,
+          272.694468
+        ],
+        "error": 38.683605,
+        "normalized_error": 0.054707,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 872,
+        "label": "earbuds",
+        "prompt": "Point to the body of the earbuds.",
+        "filename": "earbuds_11.jpg",
+        "gt_point": [
+          424.444375,
+          179.047585
+        ],
+        "pred_point": [
+          472.435188,
+          250.933515
+        ],
+        "error": 86.433241,
+        "normalized_error": 0.094967,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 879,
+        "label": "egg",
+        "prompt": "Point to the center of the egg.",
+        "filename": "egg_6.jpg",
+        "gt_point": [
+          261.427857,
+          308.47891
+        ],
+        "pred_point": [
+          207.649794,
+          279.765276
+        ],
+        "error": 60.963537,
+        "normalized_error": 0.088295,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 893,
+        "label": "egg",
+        "prompt": "Point to the center of the egg.",
+        "filename": "egg_20.jpg",
+        "gt_point": [
+          992.586613,
+          616.988852
+        ],
+        "pred_point": [
+          867.464066,
+          752.804089
+        ],
+        "error": 184.665726,
+        "normalized_error": 0.081611,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 888,
+        "label": "egg",
+        "prompt": "Point to the center of the egg.",
+        "filename": "egg_15.jpg",
+        "gt_point": [
+          524.333333,
+          196.733333
+        ],
+        "pred_point": [
+          370.798513,
+          256.509496
+        ],
+        "error": 164.760828,
+        "normalized_error": 0.181056,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 892,
+        "label": "egg",
+        "prompt": "Point to the center of the egg.",
+        "filename": "egg_19.jpg",
+        "gt_point": [
+          845.733335,
+          582.406779
+        ],
+        "pred_point": [
+          867.464066,
+          752.804089
+        ],
+        "error": 171.777378,
+        "normalized_error": 0.075916,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 517,
+        "label": "fork",
+        "prompt": "Point to the handle of the fork.",
+        "filename": "fork_16.jpg",
+        "gt_point": [
+          26.611725,
+          206.980164
+        ],
+        "pred_point": [
+          133.215655,
+          186.470926
+        ],
+        "error": 108.558863,
+        "normalized_error": 0.192891,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 520,
+        "label": "fork",
+        "prompt": "Point to the handle of the fork.",
+        "filename": "fork_19.jpg",
+        "gt_point": [
+          287.514286,
+          321.9
+        ],
+        "pred_point": [
+          178.905291,
+          174.936479
+        ],
+        "error": 182.740774,
+        "normalized_error": 0.371314,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 507,
+        "label": "fork",
+        "prompt": "Point to the handle of the fork.",
+        "filename": "fork_6.jpg",
+        "gt_point": [
+          684.310137,
+          369.246882
+        ],
+        "pred_point": [
+          468.553116,
+          477.782478
+        ],
+        "error": 241.518256,
+        "normalized_error": 0.196452,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 521,
+        "label": "fork",
+        "prompt": "Point to the handle of the fork.",
+        "filename": "fork_20.jpg",
+        "gt_point": [
+          894.543406,
+          530.278848
+        ],
+        "pred_point": [
+          697.892075,
+          352.453122
+        ],
+        "error": 265.129657,
+        "normalized_error": 0.20426,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 825,
+        "label": "glove",
+        "prompt": "Point to the cuff of the glove.",
+        "filename": "glove_4.jpg",
+        "gt_point": [
+          336.883333,
+          387.834434
+        ],
+        "pred_point": [
+          382.92962,
+          340.911672
+        ],
+        "error": 65.741967,
+        "normalized_error": 0.056606,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 829,
+        "label": "glove",
+        "prompt": "Point to the cuff of the glove.",
+        "filename": "glove_8.jpg",
+        "gt_point": [
+          507.106972,
+          187.699944
+        ],
+        "pred_point": [
+          1289.070573,
+          372.024564
+        ],
+        "error": 803.394448,
+        "normalized_error": 0.287491,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 841,
+        "label": "glove",
+        "prompt": "Point to the cuff of the glove.",
+        "filename": "glove_20.jpg",
+        "gt_point": [
+          475.2466,
+          753.735053
+        ],
+        "pred_point": [
+          823.377686,
+          588.140015
+        ],
+        "error": 385.508715,
+        "normalized_error": 0.20883,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 827,
+        "label": "glove",
+        "prompt": "Point to the cuff of the glove.",
+        "filename": "glove_6.jpg",
+        "gt_point": [
+          683.675662,
+          550.054054
+        ],
+        "pred_point": [
+          697.065125,
+          393.813429
+        ],
+        "error": 156.813299,
+        "normalized_error": 0.106777,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 84,
+        "label": "hairbrush",
+        "prompt": "Point to the handle of the hairbrush.",
+        "filename": "hairbrush_5.jpg",
+        "gt_point": [
+          180.833333,
+          198.507487
+        ],
+        "pred_point": [
+          179.049471,
+          183.275098
+        ],
+        "error": 15.336488,
+        "normalized_error": 0.030984,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 101,
+        "label": "headphones",
+        "prompt": "Point to the band of the headphones.",
+        "filename": "headphones_17.jpg",
+        "gt_point": [
+          556.428571,
+          151.19048
+        ],
+        "pred_point": [
+          359.446263,
+          279.032993
+        ],
+        "error": 234.831297,
+        "normalized_error": 0.276751,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 89,
+        "label": "headphones",
+        "prompt": "Point to the band of the headphones.",
+        "filename": "headphones_5.jpg",
+        "gt_point": [
+          938.989505,
+          409.457711
+        ],
+        "pred_point": [
+          639.092505,
+          552.078962
+        ],
+        "error": 332.08287,
+        "normalized_error": 0.234818,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 91,
+        "label": "headphones",
+        "prompt": "Point to the band of the headphones.",
+        "filename": "headphones_7.jpg",
+        "gt_point": [
+          241.737137,
+          287.085714
+        ],
+        "pred_point": [
+          298.516983,
+          238.128845
+        ],
+        "error": 74.971501,
+        "normalized_error": 0.081224,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 85,
+        "label": "headphones",
+        "prompt": "Point to the band of the headphones.",
+        "filename": "headphones_1.jpg",
+        "gt_point": [
+          362.285775,
+          93.857169
+        ],
+        "pred_point": [
+          249.737663,
+          215.524077
+        ],
+        "error": 165.740502,
+        "normalized_error": 0.276234,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 105,
+        "label": "highlighter",
+        "prompt": "Point to the body of the highlighter.",
+        "filename": "highlighter_1.jpg",
+        "gt_point": [
+          270.009163,
+          331.147027
+        ],
+        "pred_point": [
+          650.805855,
+          203.571653
+        ],
+        "error": 401.598801,
+        "normalized_error": 0.401599,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 110,
+        "label": "jar",
+        "prompt": "Point to the lid of the jar.",
+        "filename": "jar_2.jpg",
+        "gt_point": [
+          96.508333,
+          264.559524
+        ],
+        "pred_point": [
+          360.848217,
+          271.254953
+        ],
+        "error": 264.424663,
+        "normalized_error": 0.298684,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 117,
+        "label": "jar",
+        "prompt": "Point to the lid of the jar.",
+        "filename": "jar_9.jpg",
+        "gt_point": [
+          4998.27279,
+          567.007483
+        ],
+        "pred_point": [
+          3281.680962,
+          1861.787727
+        ],
+        "error": 2150.14962,
+        "normalized_error": 0.345107,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 109,
+        "label": "jar",
+        "prompt": "Point to the lid of the jar.",
+        "filename": "jar_1.jpg",
+        "gt_point": [
+          138.814274,
+          574.379544
+        ],
+        "pred_point": [
+          754.386187,
+          454.623485
+        ],
+        "error": 627.112664,
+        "normalized_error": 0.313556,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 114,
+        "label": "jar",
+        "prompt": "Point to the lid of the jar.",
+        "filename": "jar_6.jpg",
+        "gt_point": [
+          82.285714,
+          89.441428
+        ],
+        "pred_point": [
+          321.603327,
+          118.689137
+        ],
+        "error": 241.098213,
+        "normalized_error": 0.301373,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 132,
+        "label": "kettle",
+        "prompt": "Point to the handle of the kettle.",
+        "filename": "kettle_4.jpg",
+        "gt_point": [
+          1492.191755,
+          806.22819
+        ],
+        "pred_point": [
+          785.072803,
+          735.778499
+        ],
+        "error": 710.619709,
+        "normalized_error": 0.35531,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 133,
+        "label": "kettle",
+        "prompt": "Point to the handle of the kettle.",
+        "filename": "kettle_5.jpg",
+        "gt_point": [
+          497.5,
+          47.0
+        ],
+        "pred_point": [
+          393.946458,
+          268.31895
+        ],
+        "error": 244.346913,
+        "normalized_error": 0.226247,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 143,
+        "label": "kettle",
+        "prompt": "Point to the handle of the kettle.",
+        "filename": "kettle_15.jpg",
+        "gt_point": [
+          413.095238,
+          280.94656
+        ],
+        "pred_point": [
+          339.12003,
+          299.677829
+        ],
+        "error": 76.309841,
+        "normalized_error": 0.100943,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 139,
+        "label": "kettle",
+        "prompt": "Point to the handle of the kettle.",
+        "filename": "kettle_11.jpg",
+        "gt_point": [
+          1200.630355,
+          727.988398
+        ],
+        "pred_point": [
+          1007.605438,
+          996.553345
+        ],
+        "error": 330.735165,
+        "normalized_error": 0.112602,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 165,
+        "label": "keyboard",
+        "prompt": "Point to the center of the keyboard.",
+        "filename": "keyboard_17.jpg",
+        "gt_point": [
+          155.028091,
+          322.893512
+        ],
+        "pred_point": [
+          259.790087,
+          260.138893
+        ],
+        "error": 122.119688,
+        "normalized_error": 0.154036,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 153,
+        "label": "keyboard",
+        "prompt": "Point to the center of the keyboard.",
+        "filename": "keyboard_5.jpg",
+        "gt_point": [
+          282.401793,
+          728.852344
+        ],
+        "pred_point": [
+          747.656809,
+          693.559445
+        ],
+        "error": 466.591704,
+        "normalized_error": 0.252594,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 157,
+        "label": "keyboard",
+        "prompt": "Point to the center of the keyboard.",
+        "filename": "keyboard_9.jpg",
+        "gt_point": [
+          255.059524,
+          390.47619
+        ],
+        "pred_point": [
+          248.377889,
+          307.337403
+        ],
+        "error": 83.406847,
+        "normalized_error": 0.117955,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 155,
+        "label": "keyboard",
+        "prompt": "Point to the center of the keyboard.",
+        "filename": "keyboard_7.jpg",
+        "gt_point": [
+          1680.688996,
+          1881.869713
+        ],
+        "pred_point": [
+          1726.24744,
+          1666.728501
+        ],
+        "error": 219.912057,
+        "normalized_error": 0.043633,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 533,
+        "label": "keys",
+        "prompt": "Point to the ring of the keys.",
+        "filename": "keys_12.jpg",
+        "gt_point": [
+          277.857143,
+          232.197467
+        ],
+        "pred_point": [
+          246.19081,
+          159.388701
+        ],
+        "error": 79.396934,
+        "normalized_error": 0.115293,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 536,
+        "label": "keys",
+        "prompt": "Point to the ring of the keys.",
+        "filename": "keys_15.jpg",
+        "gt_point": [
+          116.798928,
+          311.156557
+        ],
+        "pred_point": [
+          292.426229,
+          200.012982
+        ],
+        "error": 207.840908,
+        "normalized_error": 0.293931,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 523,
+        "label": "keys",
+        "prompt": "Point to the ring of the keys.",
+        "filename": "keys_2.jpg",
+        "gt_point": [
+          252.342857,
+          221.714286
+        ],
+        "pred_point": [
+          171.051189,
+          135.745863
+        ],
+        "error": 118.316968,
+        "normalized_error": 0.25174,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 530,
+        "label": "keys",
+        "prompt": "Point to the ring of the keys.",
+        "filename": "keys_9.jpg",
+        "gt_point": [
+          239.285714,
+          278.571429
+        ],
+        "pred_point": [
+          242.502356,
+          201.459432
+        ],
+        "error": 77.179057,
+        "normalized_error": 0.154358,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 547,
+        "label": "knife",
+        "prompt": "Point to the handle of the knife.",
+        "filename": "knife_6.jpg",
+        "gt_point": [
+          143.55834,
+          45.85
+        ],
+        "pred_point": [
+          159.407299,
+          56.069713
+        ],
+        "error": 18.858209,
+        "normalized_error": 0.059458,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 556,
+        "label": "knife",
+        "prompt": "Point to the handle of the knife.",
+        "filename": "knife_15.jpg",
+        "gt_point": [
+          348.095238,
+          348.571429
+        ],
+        "pred_point": [
+          397.143006,
+          241.462916
+        ],
+        "error": 117.804571,
+        "normalized_error": 0.128344,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 542,
+        "label": "knife",
+        "prompt": "Point to the handle of the knife.",
+        "filename": "knife_1.jpg",
+        "gt_point": [
+          249.260015,
+          709.442778
+        ],
+        "pred_point": [
+          250.438052,
+          613.246644
+        ],
+        "error": 96.203347,
+        "normalized_error": 0.08894,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 561,
+        "label": "knife",
+        "prompt": "Point to the handle of the knife.",
+        "filename": "knife_20.jpg",
+        "gt_point": [
+          495.88426,
+          84.359176
+        ],
+        "pred_point": [
+          574.356249,
+          372.707427
+        ],
+        "error": 298.83535,
+        "normalized_error": 0.231593,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 169,
+        "label": "laptop",
+        "prompt": "Point to the edge of the laptop.",
+        "filename": "laptop_1.jpg",
+        "gt_point": [
+          345.65236,
+          539.507688
+        ],
+        "pred_point": [
+          518.156862,
+          550.699711
+        ],
+        "error": 172.867187,
+        "normalized_error": 0.119862,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 171,
+        "label": "laptop",
+        "prompt": "Point to the edge of the laptop.",
+        "filename": "laptop_3.jpg",
+        "gt_point": [
+          464.933333,
+          312.852487
+        ],
+        "pred_point": [
+          396.51906,
+          268.532254
+        ],
+        "error": 81.515617,
+        "normalized_error": 0.111503,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 175,
+        "label": "laptop",
+        "prompt": "Point to the edge of the laptop.",
+        "filename": "laptop_7.jpg",
+        "gt_point": [
+          223.810778,
+          158.997986
+        ],
+        "pred_point": [
+          204.479623,
+          195.198905
+        ],
+        "error": 41.039007,
+        "normalized_error": 0.082078,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 188,
+        "label": "laptop",
+        "prompt": "Point to the edge of the laptop.",
+        "filename": "laptop_20.jpg",
+        "gt_point": [
+          181.235119,
+          80.863209
+        ],
+        "pred_point": [
+          242.857547,
+          163.446972
+        ],
+        "error": 103.040776,
+        "normalized_error": 0.178154,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 562,
+        "label": "marker",
+        "prompt": "Point to the body of the marker.",
+        "filename": "marker_1.jpg",
+        "gt_point": [
+          1280.51859,
+          470.698155
+        ],
+        "pred_point": [
+          1021.112442,
+          685.211101
+        ],
+        "error": 336.611576,
+        "normalized_error": 0.170479,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 568,
+        "label": "marker",
+        "prompt": "Point to the body of the marker.",
+        "filename": "marker_7.jpg",
+        "gt_point": [
+          148.571429,
+          98.285714
+        ],
+        "pred_point": [
+          195.405312,
+          239.237738
+        ],
+        "error": 148.529073,
+        "normalized_error": 0.185661,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 576,
+        "label": "marker",
+        "prompt": "Point to the body of the marker.",
+        "filename": "marker_15.jpg",
+        "gt_point": [
+          616.426281,
+          343.175465
+        ],
+        "pred_point": [
+          569.829437,
+          624.454514
+        ],
+        "error": 285.112555,
+        "normalized_error": 0.148496,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 578,
+        "label": "marker",
+        "prompt": "Point to the body of the marker.",
+        "filename": "marker_17.jpg",
+        "gt_point": [
+          461.621616,
+          239.351343
+        ],
+        "pred_point": [
+          315.430817,
+          401.239563
+        ],
+        "error": 218.127361,
+        "normalized_error": 0.170412,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 192,
+        "label": "mouse",
+        "prompt": "Point to the body of the mouse.",
+        "filename": "mouse_4.jpg",
+        "gt_point": [
+          2606.766344,
+          1695.886244
+        ],
+        "pred_point": [
+          1721.709967,
+          1669.663602
+        ],
+        "error": 885.444758,
+        "normalized_error": 0.175683,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 201,
+        "label": "mouse",
+        "prompt": "Point to the body of the mouse.",
+        "filename": "mouse_13.jpg",
+        "gt_point": [
+          759.126507,
+          975.873047
+        ],
+        "pred_point": [
+          853.50598,
+          1080.269999
+        ],
+        "error": 140.734531,
+        "normalized_error": 0.051138,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 202,
+        "label": "mouse",
+        "prompt": "Point to the body of the mouse.",
+        "filename": "mouse_14.jpg",
+        "gt_point": [
+          3582.903553,
+          2894.283546
+        ],
+        "pred_point": [
+          3933.600906,
+          2780.745709
+        ],
+        "error": 368.618331,
+        "normalized_error": 0.052899,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 198,
+        "label": "mouse",
+        "prompt": "Point to the body of the mouse.",
+        "filename": "mouse_10.jpg",
+        "gt_point": [
+          376.777146,
+          345.645227
+        ],
+        "pred_point": [
+          297.609302,
+          304.897186
+        ],
+        "error": 89.039038,
+        "normalized_error": 0.101759,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 586,
+        "label": "mug",
+        "prompt": "Point to the handle of the mug.",
+        "filename": "mug_5.jpg",
+        "gt_point": [
+          96.886905,
+          466.952598
+        ],
+        "pred_point": [
+          117.344869,
+          416.929947
+        ],
+        "error": 54.04437,
+        "normalized_error": 0.053157,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 591,
+        "label": "mug",
+        "prompt": "Point to the handle of the mug.",
+        "filename": "mug_10.jpg",
+        "gt_point": [
+          49.870135,
+          106.450216
+        ],
+        "pred_point": [
+          318.508263,
+          77.168927
+        ],
+        "error": 270.229232,
+        "normalized_error": 0.337787,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 584,
+        "label": "mug",
+        "prompt": "Point to the handle of the mug.",
+        "filename": "mug_3.jpg",
+        "gt_point": [
+          91.785714,
+          590.714286
+        ],
+        "pred_point": [
+          305.575418,
+          327.462423
+        ],
+        "error": 339.127676,
+        "normalized_error": 0.399666,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 590,
+        "label": "mug",
+        "prompt": "Point to the handle of the mug.",
+        "filename": "mug_9.jpg",
+        "gt_point": [
+          326.071421,
+          496.669001
+        ],
+        "pred_point": [
+          225.285873,
+          361.73021
+        ],
+        "error": 168.422695,
+        "normalized_error": 0.21022,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 227,
+        "label": "notebook",
+        "prompt": "Point to the spine of the notebook.",
+        "filename": "notebook_19.jpg",
+        "gt_point": [
+          6.47619,
+          91.428571
+        ],
+        "pred_point": [
+          305.185337,
+          187.992167
+        ],
+        "error": 313.929423,
+        "normalized_error": 0.392412,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 224,
+        "label": "notebook",
+        "prompt": "Point to the spine of the notebook.",
+        "filename": "notebook_16.jpg",
+        "gt_point": [
+          188.918682,
+          678.244001
+        ],
+        "pred_point": [
+          972.440157,
+          354.286855
+        ],
+        "error": 847.852661,
+        "normalized_error": 0.593974,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 214,
+        "label": "notebook",
+        "prompt": "Point to the spine of the notebook.",
+        "filename": "notebook_6.jpg",
+        "gt_point": [
+          443.809524,
+          133.333328
+        ],
+        "pred_point": [
+          538.15918,
+          273.386817
+        ],
+        "error": 168.869291,
+        "normalized_error": 0.175668,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 215,
+        "label": "notebook",
+        "prompt": "Point to the spine of the notebook.",
+        "filename": "notebook_7.jpg",
+        "gt_point": [
+          1024.147479,
+          666.678131
+        ],
+        "pred_point": [
+          323.479271,
+          432.697735
+        ],
+        "error": 738.703434,
+        "normalized_error": 0.502997,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 243,
+        "label": "onion",
+        "prompt": "Point to the center of the onion.",
+        "filename": "onion_15.jpg",
+        "gt_point": [
+          1127.409224,
+          252.529693
+        ],
+        "pred_point": [
+          1219.67338,
+          767.239854
+        ],
+        "error": 522.914165,
+        "normalized_error": 0.167333,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 248,
+        "label": "onion",
+        "prompt": "Point to the center of the onion.",
+        "filename": "onion_20.jpg",
+        "gt_point": [
+          454.479228,
+          204.864097
+        ],
+        "pred_point": [
+          372.498112,
+          343.554938
+        ],
+        "error": 161.108823,
+        "normalized_error": 0.152507,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 244,
+        "label": "onion",
+        "prompt": "Point to the center of the onion.",
+        "filename": "onion_16.jpg",
+        "gt_point": [
+          282.53333,
+          227.314661
+        ],
+        "pred_point": [
+          217.776107,
+          152.19506
+        ],
+        "error": 99.178891,
+        "normalized_error": 0.158649,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 235,
+        "label": "onion",
+        "prompt": "Point to the center of the onion.",
+        "filename": "onion_7.jpg",
+        "gt_point": [
+          315.91022,
+          248.72131
+        ],
+        "pred_point": [
+          220.210969,
+          248.783968
+        ],
+        "error": 95.699271,
+        "normalized_error": 0.152091,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 790,
+        "label": "pan",
+        "prompt": "Point to the handle of the pan.",
+        "filename": "pan_9.jpg",
+        "gt_point": [
+          854.918903,
+          116.756755
+        ],
+        "pred_point": [
+          601.960785,
+          621.522583
+        ],
+        "error": 564.602825,
+        "normalized_error": 0.259918,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 785,
+        "label": "pan",
+        "prompt": "Point to the handle of the pan.",
+        "filename": "pan_4.jpg",
+        "gt_point": [
+          171.428571,
+          544.0
+        ],
+        "pred_point": [
+          367.798531,
+          601.546143
+        ],
+        "error": 204.628247,
+        "normalized_error": 0.159866,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 801,
+        "label": "pan",
+        "prompt": "Point to the handle of the pan.",
+        "filename": "pan_20.jpg",
+        "gt_point": [
+          1508.758702,
+          895.390323
+        ],
+        "pred_point": [
+          1030.355957,
+          699.015106
+        ],
+        "error": 517.138678,
+        "normalized_error": 0.202007,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 798,
+        "label": "pan",
+        "prompt": "Point to the handle of the pan.",
+        "filename": "pan_17.jpg",
+        "gt_point": [
+          1612.467236,
+          1384.672023
+        ],
+        "pred_point": [
+          853.549927,
+          771.538971
+        ],
+        "error": 975.647283,
+        "normalized_error": 0.381112,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 612,
+        "label": "pen",
+        "prompt": "Point to the body of the pen.",
+        "filename": "pen_11.jpg",
+        "gt_point": [
+          747.887944,
+          332.108108
+        ],
+        "pred_point": [
+          767.017593,
+          358.180218
+        ],
+        "error": 32.33726,
+        "normalized_error": 0.022019,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 608,
+        "label": "pen",
+        "prompt": "Point to the body of the pen.",
+        "filename": "pen_7.jpg",
+        "gt_point": [
+          1999.89723,
+          1908.452145
+        ],
+        "pred_point": [
+          1790.093344,
+          1693.44342
+        ],
+        "error": 300.410423,
+        "normalized_error": 0.080324,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 619,
+        "label": "pen",
+        "prompt": "Point to the body of the pen.",
+        "filename": "pen_18.jpg",
+        "gt_point": [
+          2281.367528,
+          4089.510166
+        ],
+        "pred_point": [
+          1095.718467,
+          2783.956609
+        ],
+        "error": 1763.585492,
+        "normalized_error": 0.319104,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 604,
+        "label": "pen",
+        "prompt": "Point to the body of the pen.",
+        "filename": "pen_3.jpg",
+        "gt_point": [
+          457.702154,
+          1023.643619
+        ],
+        "pred_point": [
+          550.181423,
+          982.773328
+        ],
+        "error": 101.107843,
+        "normalized_error": 0.063724,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 640,
+        "label": "phone",
+        "prompt": "Point to the body of the phone.",
+        "filename": "phone_19.jpg",
+        "gt_point": [
+          1547.664135,
+          138.305222
+        ],
+        "pred_point": [
+          1289.01856,
+          372.035418
+        ],
+        "error": 348.607713,
+        "normalized_error": 0.124748,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 635,
+        "label": "phone",
+        "prompt": "Point to the body of the phone.",
+        "filename": "phone_14.jpg",
+        "gt_point": [
+          196.125084,
+          608.4901
+        ],
+        "pred_point": [
+          357.45759,
+          565.821411
+        ],
+        "error": 166.879581,
+        "normalized_error": 0.086799,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 639,
+        "label": "phone",
+        "prompt": "Point to the body of the phone.",
+        "filename": "phone_18.jpg",
+        "gt_point": [
+          65.0,
+          968.571429
+        ],
+        "pred_point": [
+          308.435655,
+          586.733997
+        ],
+        "error": 452.83633,
+        "normalized_error": 0.388304,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 629,
+        "label": "phone",
+        "prompt": "Point to the body of the phone.",
+        "filename": "phone_8.jpg",
+        "gt_point": [
+          495.357143,
+          239.421686
+        ],
+        "pred_point": [
+          334.49325,
+          246.759685
+        ],
+        "error": 161.031171,
+        "normalized_error": 0.192219,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 646,
+        "label": "plate",
+        "prompt": "Point to the edge of the plate.",
+        "filename": "plate_5.jpg",
+        "gt_point": [
+          222.166667,
+          168.0
+        ],
+        "pred_point": [
+          86.675248,
+          109.153283
+        ],
+        "error": 147.718857,
+        "normalized_error": 0.422054,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 652,
+        "label": "plate",
+        "prompt": "Point to the edge of the plate.",
+        "filename": "plate_11.jpg",
+        "gt_point": [
+          1026.205306,
+          172.161628
+        ],
+        "pred_point": [
+          602.989626,
+          390.200466
+        ],
+        "error": 476.080295,
+        "normalized_error": 0.32807,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 655,
+        "label": "plate",
+        "prompt": "Point to the edge of the plate.",
+        "filename": "plate_14.jpg",
+        "gt_point": [
+          134.057143,
+          687.564286
+        ],
+        "pred_point": [
+          389.858414,
+          387.345428
+        ],
+        "error": 394.418119,
+        "normalized_error": 0.363145,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 649,
+        "label": "plate",
+        "prompt": "Point to the edge of the plate.",
+        "filename": "plate_8.jpg",
+        "gt_point": [
+          66.574376,
+          234.708734
+        ],
+        "pred_point": [
+          511.571717,
+          312.898277
+        ],
+        "error": 451.814384,
+        "normalized_error": 0.364549,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 773,
+        "label": "pot",
+        "prompt": "Point to the handle of the pot.",
+        "filename": "pot_12.jpg",
+        "gt_point": [
+          146.100002,
+          367.8
+        ],
+        "pred_point": [
+          273.286103,
+          171.195837
+        ],
+        "error": 234.157001,
+        "normalized_error": 0.309255,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 768,
+        "label": "pot",
+        "prompt": "Point to the handle of the pot.",
+        "filename": "pot_7.jpg",
+        "gt_point": [
+          2221.019819,
+          1881.862307
+        ],
+        "pred_point": [
+          1304.299086,
+          1512.426883
+        ],
+        "error": 988.361996,
+        "normalized_error": 0.279551,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 765,
+        "label": "pot",
+        "prompt": "Point to the handle of the pot.",
+        "filename": "pot_4.jpg",
+        "gt_point": [
+          435.419989,
+          889.875
+        ],
+        "pred_point": [
+          425.986434,
+          671.725087
+        ],
+        "error": 218.353787,
+        "normalized_error": 0.173297,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 778,
+        "label": "pot",
+        "prompt": "Point to the handle of the pot.",
+        "filename": "pot_17.jpg",
+        "gt_point": [
+          118.828379,
+          258.070592
+        ],
+        "pred_point": [
+          248.652279,
+          232.604769
+        ],
+        "error": 132.297972,
+        "normalized_error": 0.216765,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 253,
+        "label": "remote",
+        "prompt": "Point to the body of the remote.",
+        "filename": "remote_5.jpg",
+        "gt_point": [
+          260.120998,
+          420.480127
+        ],
+        "pred_point": [
+          183.720268,
+          242.54154
+        ],
+        "error": 193.647134,
+        "normalized_error": 0.344078,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 254,
+        "label": "remote",
+        "prompt": "Point to the body of the remote.",
+        "filename": "remote_6.jpg",
+        "gt_point": [
+          369.345238,
+          431.550549
+        ],
+        "pred_point": [
+          305.672288,
+          389.76372
+        ],
+        "error": 76.16025,
+        "normalized_error": 0.099162,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 266,
+        "label": "remote",
+        "prompt": "Point to the body of the remote.",
+        "filename": "remote_18.jpg",
+        "gt_point": [
+          131.071429,
+          218.578325
+        ],
+        "pred_point": [
+          309.070659,
+          140.717395
+        ],
+        "error": 194.283428,
+        "normalized_error": 0.292864,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 264,
+        "label": "remote",
+        "prompt": "Point to the body of the remote.",
+        "filename": "remote_16.jpg",
+        "gt_point": [
+          83.035714,
+          150.892857
+        ],
+        "pred_point": [
+          118.752502,
+          84.693238
+        ],
+        "error": 75.2202,
+        "normalized_error": 0.060176,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 278,
+        "label": "scissor",
+        "prompt": "Point to the handle of the scissor.",
+        "filename": "scissor_10.jpg",
+        "gt_point": [
+          298.698761,
+          483.942568
+        ],
+        "pred_point": [
+          303.159428,
+          360.10879
+        ],
+        "error": 123.914091,
+        "normalized_error": 0.084375,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 282,
+        "label": "scissor",
+        "prompt": "Point to the handle of the scissor.",
+        "filename": "scissor_14.jpg",
+        "gt_point": [
+          877.049811,
+          594.758794
+        ],
+        "pred_point": [
+          796.285123,
+          680.980307
+        ],
+        "error": 118.140104,
+        "normalized_error": 0.039317,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 276,
+        "label": "scissor",
+        "prompt": "Point to the handle of the scissor.",
+        "filename": "scissor_8.jpg",
+        "gt_point": [
+          944.436171,
+          25.824633
+        ],
+        "pred_point": [
+          771.816516,
+          436.922434
+        ],
+        "error": 445.868756,
+        "normalized_error": 0.297246,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 271,
+        "label": "scissor",
+        "prompt": "Point to the handle of the scissor.",
+        "filename": "scissor_3.jpg",
+        "gt_point": [
+          180.560815,
+          132.039152
+        ],
+        "pred_point": [
+          115.547247,
+          177.873058
+        ],
+        "error": 79.545654,
+        "normalized_error": 0.198864,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 665,
+        "label": "shoe",
+        "prompt": "Point to the heel of the shoe.",
+        "filename": "shoe_4.jpg",
+        "gt_point": [
+          283.794643,
+          727.080811
+        ],
+        "pred_point": [
+          275.437935,
+          422.265959
+        ],
+        "error": 304.929383,
+        "normalized_error": 0.307676,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 679,
+        "label": "shoe",
+        "prompt": "Point to the heel of the shoe.",
+        "filename": "shoe_18.jpg",
+        "gt_point": [
+          631.379043,
+          489.037876
+        ],
+        "pred_point": [
+          359.359528,
+          322.913258
+        ],
+        "error": 318.735007,
+        "normalized_error": 0.37141,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 668,
+        "label": "shoe",
+        "prompt": "Point to the heel of the shoe.",
+        "filename": "shoe_7.jpg",
+        "gt_point": [
+          203.791807,
+          236.629204
+        ],
+        "pred_point": [
+          272.779441,
+          113.529439
+        ],
+        "error": 141.112883,
+        "normalized_error": 0.231011,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 670,
+        "label": "shoe",
+        "prompt": "Point to the heel of the shoe.",
+        "filename": "shoe_9.jpg",
+        "gt_point": [
+          519.047619,
+          745.714286
+        ],
+        "pred_point": [
+          412.998772,
+          382.064581
+        ],
+        "error": 378.797394,
+        "normalized_error": 0.334813,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 802,
+        "label": "sock",
+        "prompt": "Point to the opening of the sock.",
+        "filename": "sock_1.jpg",
+        "gt_point": [
+          410.525715,
+          864.994561
+        ],
+        "pred_point": [
+          448.892788,
+          677.325208
+        ],
+        "error": 191.551085,
+        "normalized_error": 0.115079,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 812,
+        "label": "sock",
+        "prompt": "Point to the opening of the sock.",
+        "filename": "sock_11.jpg",
+        "gt_point": [
+          128.857398,
+          694.572522
+        ],
+        "pred_point": [
+          337.695882,
+          527.11882
+        ],
+        "error": 267.683124,
+        "normalized_error": 0.210312,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 814,
+        "label": "sock",
+        "prompt": "Point to the opening of the sock.",
+        "filename": "sock_13.jpg",
+        "gt_point": [
+          35.2,
+          448.914286
+        ],
+        "pred_point": [
+          221.350571,
+          498.815369
+        ],
+        "error": 192.722996,
+        "normalized_error": 0.150565,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 804,
+        "label": "sock",
+        "prompt": "Point to the opening of the sock.",
+        "filename": "sock_3.jpg",
+        "gt_point": [
+          247.311431,
+          391.002854
+        ],
+        "pred_point": [
+          197.536287,
+          289.086504
+        ],
+        "error": 113.421812,
+        "normalized_error": 0.158877,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 896,
+        "label": "spatula",
+        "prompt": "Point to the handle of the spatula.",
+        "filename": "spatula_3.jpg",
+        "gt_point": [
+          542.117647,
+          801.298973
+        ],
+        "pred_point": [
+          1019.452698,
+          1208.94928
+        ],
+        "error": 627.716117,
+        "normalized_error": 0.217957,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 907,
+        "label": "spatula",
+        "prompt": "Point to the handle of the spatula.",
+        "filename": "spatula_14.jpg",
+        "gt_point": [
+          368.048684,
+          522.284767
+        ],
+        "pred_point": [
+          597.538902,
+          361.115341
+        ],
+        "error": 280.430641,
+        "normalized_error": 0.204027,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 906,
+        "label": "spatula",
+        "prompt": "Point to the handle of the spatula.",
+        "filename": "spatula_13.jpg",
+        "gt_point": [
+          575.174031,
+          200.215327
+        ],
+        "pred_point": [
+          450.715837,
+          110.520349
+        ],
+        "error": 153.411313,
+        "normalized_error": 0.213115,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 897,
+        "label": "spatula",
+        "prompt": "Point to the handle of the spatula.",
+        "filename": "spatula_4.jpg",
+        "gt_point": [
+          283.902114,
+          608.045873
+        ],
+        "pred_point": [
+          396.672609,
+          310.299391
+        ],
+        "error": 318.386796,
+        "normalized_error": 0.296443,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 697,
+        "label": "spoon",
+        "prompt": "Point to the handle of the spoon.",
+        "filename": "spoon_16.jpg",
+        "gt_point": [
+          235.996429,
+          106.230003
+        ],
+        "pred_point": [
+          193.868961,
+          180.676188
+        ],
+        "error": 85.539219,
+        "normalized_error": 0.151989,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 692,
+        "label": "spoon",
+        "prompt": "Point to the handle of the spoon.",
+        "filename": "spoon_11.jpg",
+        "gt_point": [
+          64.923325,
+          55.024825
+        ],
+        "pred_point": [
+          131.346756,
+          76.938387
+        ],
+        "error": 69.944809,
+        "normalized_error": 0.203135,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 695,
+        "label": "spoon",
+        "prompt": "Point to the handle of the spoon.",
+        "filename": "spoon_14.jpg",
+        "gt_point": [
+          392.376711,
+          714.389376
+        ],
+        "pred_point": [
+          1019.507286,
+          1209.007095
+        ],
+        "error": 798.711116,
+        "normalized_error": 0.27733,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 691,
+        "label": "spoon",
+        "prompt": "Point to the handle of the spoon.",
+        "filename": "spoon_10.jpg",
+        "gt_point": [
+          771.325926,
+          1236.295813
+        ],
+        "pred_point": [
+          1104.251221,
+          587.733948
+        ],
+        "error": 729.021087,
+        "normalized_error": 0.284774,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 301,
+        "label": "stapler",
+        "prompt": "Point to the top of the stapler.",
+        "filename": "stapler_15.jpg",
+        "gt_point": [
+          1005.009783,
+          660.110065
+        ],
+        "pred_point": [
+          515.655767,
+          581.647473
+        ],
+        "error": 495.604411,
+        "normalized_error": 0.378065,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 292,
+        "label": "stapler",
+        "prompt": "Point to the top of the stapler.",
+        "filename": "stapler_6.jpg",
+        "gt_point": [
+          181.722512,
+          81.669936
+        ],
+        "pred_point": [
+          152.642479,
+          145.332409
+        ],
+        "error": 69.989705,
+        "normalized_error": 0.175237,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 293,
+        "label": "stapler",
+        "prompt": "Point to the top of the stapler.",
+        "filename": "stapler_7.jpg",
+        "gt_point": [
+          342.702698,
+          311.98197
+        ],
+        "pred_point": [
+          349.490082,
+          350.27442
+        ],
+        "error": 38.889335,
+        "normalized_error": 0.032571,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 846,
+        "label": "t-shirt",
+        "prompt": "Point to the collar of the t-shirt.",
+        "filename": "t-shirt_5.jpg",
+        "gt_point": [
+          362.806493,
+          246.362587
+        ],
+        "pred_point": [
+          269.083564,
+          230.862223
+        ],
+        "error": 94.996045,
+        "normalized_error": 0.129348,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 843,
+        "label": "t-shirt",
+        "prompt": "Point to the collar of the t-shirt.",
+        "filename": "t-shirt_2.jpg",
+        "gt_point": [
+          419.360576,
+          522.696028
+        ],
+        "pred_point": [
+          791.221404,
+          466.678652
+        ],
+        "error": 376.056407,
+        "normalized_error": 0.186988,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 860,
+        "label": "t-shirt",
+        "prompt": "Point to the collar of the t-shirt.",
+        "filename": "t-shirt_19.jpg",
+        "gt_point": [
+          269.061435,
+          332.998845
+        ],
+        "pred_point": [
+          237.546959,
+          213.485599
+        ],
+        "error": 123.598456,
+        "normalized_error": 0.205997,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 849,
+        "label": "t-shirt",
+        "prompt": "Point to the collar of the t-shirt.",
+        "filename": "t-shirt_8.jpg",
+        "gt_point": [
+          309.999601,
+          262.874145
+        ],
+        "pred_point": [
+          574.295699,
+          383.352932
+        ],
+        "error": 290.460954,
+        "normalized_error": 0.257666,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 316,
+        "label": "tape",
+        "prompt": "Point to the side of the tape.",
+        "filename": "tape_15.jpg",
+        "gt_point": [
+          1111.977961,
+          524.713418
+        ],
+        "pred_point": [
+          803.574204,
+          597.330973
+        ],
+        "error": 316.837793,
+        "normalized_error": 0.162531,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 302,
+        "label": "tape",
+        "prompt": "Point to the side of the tape.",
+        "filename": "tape_1.jpg",
+        "gt_point": [
+          180.494778,
+          832.469836
+        ],
+        "pred_point": [
+          1597.790405,
+          1086.803018
+        ],
+        "error": 1439.934811,
+        "normalized_error": 0.384501,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 317,
+        "label": "tape",
+        "prompt": "Point to the side of the tape.",
+        "filename": "tape_16.jpg",
+        "gt_point": [
+          409.8,
+          175.2
+        ],
+        "pred_point": [
+          286.969435,
+          169.169326
+        ],
+        "error": 122.978521,
+        "normalized_error": 0.195204,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 318,
+        "label": "tape",
+        "prompt": "Point to the side of the tape.",
+        "filename": "tape_17.jpg",
+        "gt_point": [
+          1434.070253,
+          1214.570421
+        ],
+        "pred_point": [
+          923.69566,
+          780.036489
+        ],
+        "error": 670.299905,
+        "normalized_error": 0.318418,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 720,
+        "label": "tomato",
+        "prompt": "Point to the center of the tomato.",
+        "filename": "tomato_19.jpg",
+        "gt_point": [
+          438.363095,
+          151.908046
+        ],
+        "pred_point": [
+          269.173327,
+          162.923362
+        ],
+        "error": 169.547972,
+        "normalized_error": 0.246508,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 712,
+        "label": "tomato",
+        "prompt": "Point to the center of the tomato.",
+        "filename": "tomato_11.jpg",
+        "gt_point": [
+          1420.1066,
+          298.980299
+        ],
+        "pred_point": [
+          824.403707,
+          1260.389686
+        ],
+        "error": 1131.003955,
+        "normalized_error": 0.361921,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 706,
+        "label": "tomato",
+        "prompt": "Point to the center of the tomato.",
+        "filename": "tomato_5.jpg",
+        "gt_point": [
+          483.951106,
+          701.855793
+        ],
+        "pred_point": [
+          640.066266,
+          584.225035
+        ],
+        "error": 195.471068,
+        "normalized_error": 0.115182,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 719,
+        "label": "tomato",
+        "prompt": "Point to the center of the tomato.",
+        "filename": "tomato_18.jpg",
+        "gt_point": [
+          286.011905,
+          280.47619
+        ],
+        "pred_point": [
+          321.582472,
+          298.06884
+        ],
+        "error": 39.683329,
+        "normalized_error": 0.051204,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 327,
+        "label": "toothbrush",
+        "prompt": "Point to the handle of the toothbrush.",
+        "filename": "toothbrush_6.jpg",
+        "gt_point": [
+          97.30284,
+          66.188784
+        ],
+        "pred_point": [
+          97.690792,
+          93.007793
+        ],
+        "error": 26.821815,
+        "normalized_error": 0.033527,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 337,
+        "label": "toothbrush",
+        "prompt": "Point to the handle of the toothbrush.",
+        "filename": "toothbrush_16.jpg",
+        "gt_point": [
+          266.222225,
+          402.107549
+        ],
+        "pred_point": [
+          347.459081,
+          411.266421
+        ],
+        "error": 81.751524,
+        "normalized_error": 0.080583,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 333,
+        "label": "toothbrush",
+        "prompt": "Point to the handle of the toothbrush.",
+        "filename": "toothbrush_12.jpg",
+        "gt_point": [
+          189.980035,
+          117.444926
+        ],
+        "pred_point": [
+          444.408798,
+          431.413328
+        ],
+        "error": 404.116509,
+        "normalized_error": 0.196625,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 325,
+        "label": "toothbrush",
+        "prompt": "Point to the handle of the toothbrush.",
+        "filename": "toothbrush_4.jpg",
+        "gt_point": [
+          173.928571,
+          254.288524
+        ],
+        "pred_point": [
+          271.921813,
+          393.370557
+        ],
+        "error": 170.136672,
+        "normalized_error": 0.169053,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 730,
+        "label": "tray",
+        "prompt": "Point to the edge of the tray.",
+        "filename": "tray_9.jpg",
+        "gt_point": [
+          268.714286,
+          277.111607
+        ],
+        "pred_point": [
+          249.835088,
+          274.03622
+        ],
+        "error": 19.128045,
+        "normalized_error": 0.025047,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 739,
+        "label": "tray",
+        "prompt": "Point to the edge of the tray.",
+        "filename": "tray_18.jpg",
+        "gt_point": [
+          254.371429,
+          247.742857
+        ],
+        "pred_point": [
+          148.402935,
+          117.475567
+        ],
+        "error": 167.925247,
+        "normalized_error": 0.34121,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 722,
+        "label": "tray",
+        "prompt": "Point to the edge of the tray.",
+        "filename": "tray_1.jpg",
+        "gt_point": [
+          416.285714,
+          106.285714
+        ],
+        "pred_point": [
+          232.475452,
+          306.985054
+        ],
+        "error": 272.151497,
+        "normalized_error": 0.340189,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 741,
+        "label": "tray",
+        "prompt": "Point to the edge of the tray.",
+        "filename": "tray_20.jpg",
+        "gt_point": [
+          108.73117,
+          15.877031
+        ],
+        "pred_point": [
+          129.747299,
+          68.409355
+        ],
+        "error": 56.580233,
+        "normalized_error": 0.114966,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 349,
+        "label": "umbrella",
+        "prompt": "Point to the handle of the umbrella.",
+        "filename": "umbrella_8.jpg",
+        "gt_point": [
+          164.7,
+          176.028679
+        ],
+        "pred_point": [
+          185.681188,
+          429.75975
+        ],
+        "error": 254.597068,
+        "normalized_error": 0.345328,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 346,
+        "label": "umbrella",
+        "prompt": "Point to the handle of the umbrella.",
+        "filename": "umbrella_5.jpg",
+        "gt_point": [
+          1042.469866,
+          681.044587
+        ],
+        "pred_point": [
+          922.121078,
+          812.547569
+        ],
+        "error": 178.260666,
+        "normalized_error": 0.079581,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 342,
+        "label": "umbrella",
+        "prompt": "Point to the handle of the umbrella.",
+        "filename": "umbrella_1.jpg",
+        "gt_point": [
+          720.091585,
+          119.204039
+        ],
+        "pred_point": [
+          1089.146762,
+          1455.015106
+        ],
+        "error": 1385.854585,
+        "normalized_error": 0.427258,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 347,
+        "label": "umbrella",
+        "prompt": "Point to the handle of the umbrella.",
+        "filename": "umbrella_6.jpg",
+        "gt_point": [
+          471.046673,
+          689.204684
+        ],
+        "pred_point": [
+          520.223308,
+          852.06753
+        ],
+        "error": 170.12539,
+        "normalized_error": 0.103427,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 368,
+        "label": "wallet",
+        "prompt": "Point to the body of the wallet.",
+        "filename": "wallet_7.jpg",
+        "gt_point": [
+          354.728559,
+          1447.777448
+        ],
+        "pred_point": [
+          494.931293,
+          1104.370499
+        ],
+        "error": 370.924708,
+        "normalized_error": 0.185462,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 370,
+        "label": "wallet",
+        "prompt": "Point to the body of the wallet.",
+        "filename": "wallet_9.jpg",
+        "gt_point": [
+          582.998207,
+          375.335669
+        ],
+        "pred_point": [
+          490.185761,
+          381.881445
+        ],
+        "error": 93.042986,
+        "normalized_error": 0.078332,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 374,
+        "label": "wallet",
+        "prompt": "Point to the body of the wallet.",
+        "filename": "wallet_13.jpg",
+        "gt_point": [
+          90.897534,
+          271.100612
+        ],
+        "pred_point": [
+          283.574249,
+          175.51664
+        ],
+        "error": 215.082803,
+        "normalized_error": 0.336067,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 380,
+        "label": "wallet",
+        "prompt": "Point to the body of the wallet.",
+        "filename": "wallet_19.jpg",
+        "gt_point": [
+          226.349204,
+          165.714286
+        ],
+        "pred_point": [
+          147.956881,
+          143.909651
+        ],
+        "error": 81.368289,
+        "normalized_error": 0.191787,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 400,
+        "label": "watch",
+        "prompt": "Point to the strap of the watch.",
+        "filename": "watch_19.jpg",
+        "gt_point": [
+          563.528666,
+          210.463211
+        ],
+        "pred_point": [
+          529.839233,
+          394.582429
+        ],
+        "error": 187.176025,
+        "normalized_error": 0.152135,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 383,
+        "label": "watch",
+        "prompt": "Point to the strap of the watch.",
+        "filename": "watch_2.jpg",
+        "gt_point": [
+          517.786235,
+          1201.760873
+        ],
+        "pred_point": [
+          349.401084,
+          791.860113
+        ],
+        "error": 443.139021,
+        "normalized_error": 0.26,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 401,
+        "label": "watch",
+        "prompt": "Point to the strap of the watch.",
+        "filename": "watch_20.jpg",
+        "gt_point": [
+          301.999983,
+          272.857144
+        ],
+        "pred_point": [
+          214.555306,
+          284.973564
+        ],
+        "error": 88.280117,
+        "normalized_error": 0.120223,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 399,
+        "label": "watch",
+        "prompt": "Point to the strap of the watch.",
+        "filename": "watch_18.jpg",
+        "gt_point": [
+          326.066891,
+          106.096853
+        ],
+        "pred_point": [
+          357.09094,
+          101.07696
+        ],
+        "error": 31.427551,
+        "normalized_error": 0.058659,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      }
+    ]
+  },
+  {
+    "template": "grasp",
+    "mean_error": 281.7660937704918,
+    "mean_normalized_error": 0.19644136612021856,
+    "success_rate": 0.08196721311475409,
+    "detection_rate": 1.0,
+    "num_samples": 183,
+    "num_valid": 183,
+    "details": [
+      {
+        "id": 403,
+        "label": "apple",
+        "prompt": "Grasp the center of the apple.",
+        "filename": "apple_2.jpg",
+        "gt_point": [
+          343.182143,
+          270.521429
+        ],
+        "pred_point": [
+          360.778069,
+          271.445415
+        ],
+        "error": 17.620169,
+        "normalized_error": 0.019903,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 413,
+        "label": "apple",
+        "prompt": "Grasp the center of the apple.",
+        "filename": "apple_12.jpg",
+        "gt_point": [
+          486.095238,
+          268.571429
+        ],
+        "pred_point": [
+          405.412941,
+          122.721737
+        ],
+        "error": 166.678629,
+        "normalized_error": 0.216643,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 404,
+        "label": "apple",
+        "prompt": "Grasp the center of the apple.",
+        "filename": "apple_3.jpg",
+        "gt_point": [
+          23.693645,
+          1095.321942
+        ],
+        "pred_point": [
+          415.959415,
+          629.024148
+        ],
+        "error": 609.348887,
+        "normalized_error": 0.401365,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 418,
+        "label": "apple",
+        "prompt": "Grasp the center of the apple.",
+        "filename": "apple_17.jpg",
+        "gt_point": [
+          344.375,
+          181.179121
+        ],
+        "pred_point": [
+          305.451651,
+          204.243026
+        ],
+        "error": 45.243462,
+        "normalized_error": 0.065776,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 4,
+        "label": "backpack",
+        "prompt": "Grasp the strap of the backpack.",
+        "filename": "backpack_5.jpg",
+        "gt_point": [
+          634.761905,
+          376.190476
+        ],
+        "pred_point": [
+          586.844015,
+          391.03539
+        ],
+        "error": 50.164685,
+        "normalized_error": 0.034783,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 9,
+        "label": "backpack",
+        "prompt": "Grasp the strap of the backpack.",
+        "filename": "backpack_10.jpg",
+        "gt_point": [
+          581.226615,
+          306.933463
+        ],
+        "pred_point": [
+          443.385625,
+          304.342386
+        ],
+        "error": 137.865341,
+        "normalized_error": 0.1121,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 15,
+        "label": "backpack",
+        "prompt": "Grasp the strap of the backpack.",
+        "filename": "backpack_16.jpg",
+        "gt_point": [
+          297.857143,
+          170.004491
+        ],
+        "pred_point": [
+          381.568265,
+          207.980345
+        ],
+        "error": 91.922345,
+        "normalized_error": 0.133481,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 7,
+        "label": "backpack",
+        "prompt": "Grasp the strap of the backpack.",
+        "filename": "backpack_8.jpg",
+        "gt_point": [
+          608.0,
+          871.0
+        ],
+        "pred_point": [
+          434.029216,
+          605.483723
+        ],
+        "error": 317.434603,
+        "normalized_error": 0.211623,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 36,
+        "label": "bag",
+        "prompt": "Grasp the handle of the bag.",
+        "filename": "bag_17.jpg",
+        "gt_point": [
+          370.666667,
+          375.619048
+        ],
+        "pred_point": [
+          329.844627,
+          408.356331
+        ],
+        "error": 52.327513,
+        "normalized_error": 0.046015,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 27,
+        "label": "bag",
+        "prompt": "Grasp the handle of the bag.",
+        "filename": "bag_8.jpg",
+        "gt_point": [
+          241.753571,
+          292.834304
+        ],
+        "pred_point": [
+          265.288431,
+          201.851273
+        ],
+        "error": 93.977666,
+        "normalized_error": 0.141023,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 37,
+        "label": "bag",
+        "prompt": "Grasp the handle of the bag.",
+        "filename": "bag_18.jpg",
+        "gt_point": [
+          314.632451,
+          1179.639653
+        ],
+        "pred_point": [
+          354.628158,
+          1112.579346
+        ],
+        "error": 78.081632,
+        "normalized_error": 0.039041,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 21,
+        "label": "bag",
+        "prompt": "Grasp the handle of the bag.",
+        "filename": "bag_2.jpg",
+        "gt_point": [
+          503.709635,
+          649.874565
+        ],
+        "pred_point": [
+          499.014509,
+          549.873495
+        ],
+        "error": 100.111229,
+        "normalized_error": 0.050056,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 760,
+        "label": "basket",
+        "prompt": "Grasp the handle of the basket.",
+        "filename": "basket_19.jpg",
+        "gt_point": [
+          190.178571,
+          173.928571
+        ],
+        "pred_point": [
+          191.113991,
+          195.206398
+        ],
+        "error": 21.298378,
+        "normalized_error": 0.050201,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 745,
+        "label": "basket",
+        "prompt": "Grasp the handle of the basket.",
+        "filename": "basket_4.jpg",
+        "gt_point": [
+          184.457174,
+          364.948592
+        ],
+        "pred_point": [
+          307.658925,
+          488.85169
+        ],
+        "error": 174.730218,
+        "normalized_error": 0.15515,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 755,
+        "label": "basket",
+        "prompt": "Grasp the handle of the basket.",
+        "filename": "basket_14.jpg",
+        "gt_point": [
+          368.284258,
+          1002.234869
+        ],
+        "pred_point": [
+          540.752456,
+          599.776461
+        ],
+        "error": 437.856197,
+        "normalized_error": 0.286677,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 761,
+        "label": "basket",
+        "prompt": "Grasp the handle of the basket.",
+        "filename": "basket_20.jpg",
+        "gt_point": [
+          388.106828,
+          829.186454
+        ],
+        "pred_point": [
+          436.298584,
+          625.25238
+        ],
+        "error": 209.550833,
+        "normalized_error": 0.144702,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 426,
+        "label": "book",
+        "prompt": "Grasp the spine of the book.",
+        "filename": "book_5.jpg",
+        "gt_point": [
+          666.437914,
+          1789.484774
+        ],
+        "pred_point": [
+          1304.185241,
+          1512.285173
+        ],
+        "error": 695.385701,
+        "normalized_error": 0.196685,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 428,
+        "label": "book",
+        "prompt": "Grasp the spine of the book.",
+        "filename": "book_7.jpg",
+        "gt_point": [
+          844.321539,
+          187.029495
+        ],
+        "pred_point": [
+          477.974518,
+          370.745453
+        ],
+        "error": 409.831298,
+        "normalized_error": 0.320181,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 438,
+        "label": "book",
+        "prompt": "Grasp the spine of the book.",
+        "filename": "book_17.jpg",
+        "gt_point": [
+          32.760131,
+          41.315188
+        ],
+        "pred_point": [
+          61.619432,
+          44.451215
+        ],
+        "error": 29.029191,
+        "normalized_error": 0.193528,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 440,
+        "label": "book",
+        "prompt": "Grasp the spine of the book.",
+        "filename": "book_19.jpg",
+        "gt_point": [
+          1439.992281,
+          886.27034
+        ],
+        "pred_point": [
+          980.030537,
+          720.558016
+        ],
+        "error": 488.90222,
+        "normalized_error": 0.253927,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 449,
+        "label": "bottle",
+        "prompt": "Grasp the neck of the bottle.",
+        "filename": "bottle_8.jpg",
+        "gt_point": [
+          235.595498,
+          313.054031
+        ],
+        "pred_point": [
+          148.342751,
+          310.50724
+        ],
+        "error": 87.289908,
+        "normalized_error": 0.123347,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 459,
+        "label": "bottle",
+        "prompt": "Grasp the neck of the bottle.",
+        "filename": "bottle_18.jpg",
+        "gt_point": [
+          110.47619,
+          206.47619
+        ],
+        "pred_point": [
+          360.118942,
+          244.461765
+        ],
+        "error": 252.516153,
+        "normalized_error": 0.315645,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 458,
+        "label": "bottle",
+        "prompt": "Grasp the neck of the bottle.",
+        "filename": "bottle_17.jpg",
+        "gt_point": [
+          570.08153,
+          733.962462
+        ],
+        "pred_point": [
+          559.033556,
+          682.125192
+        ],
+        "error": 53.001512,
+        "normalized_error": 0.034702,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 457,
+        "label": "bottle",
+        "prompt": "Grasp the neck of the bottle.",
+        "filename": "bottle_16.jpg",
+        "gt_point": [
+          168.756889,
+          132.351632
+        ],
+        "pred_point": [
+          380.969751,
+          197.509317
+        ],
+        "error": 221.990591,
+        "normalized_error": 0.261546,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 480,
+        "label": "bowl",
+        "prompt": "Grasp the rim of the bowl.",
+        "filename": "bowl_19.jpg",
+        "gt_point": [
+          34.682647,
+          676.925952
+        ],
+        "pred_point": [
+          600.561473,
+          326.759062
+        ],
+        "error": 665.459012,
+        "normalized_error": 0.487414,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 479,
+        "label": "bowl",
+        "prompt": "Grasp the rim of the bowl.",
+        "filename": "bowl_18.jpg",
+        "gt_point": [
+          325.904762,
+          419.120718
+        ],
+        "pred_point": [
+          272.017224,
+          386.216249
+        ],
+        "error": 63.139297,
+        "normalized_error": 0.078315,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 475,
+        "label": "bowl",
+        "prompt": "Grasp the rim of the bowl.",
+        "filename": "bowl_14.jpg",
+        "gt_point": [
+          445.5,
+          249.0
+        ],
+        "pred_point": [
+          361.680307,
+          197.052387
+        ],
+        "error": 98.611842,
+        "normalized_error": 0.102293,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 463,
+        "label": "bowl",
+        "prompt": "Grasp the rim of the bowl.",
+        "filename": "bowl_2.jpg",
+        "gt_point": [
+          539.26208,
+          361.006202
+        ],
+        "pred_point": [
+          250.379491,
+          613.13501
+        ],
+        "error": 383.434592,
+        "normalized_error": 0.354485,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 42,
+        "label": "calculator",
+        "prompt": "Grasp the body of the calculator.",
+        "filename": "calculator_3.jpg",
+        "gt_point": [
+          255.714286,
+          220.0
+        ],
+        "pred_point": [
+          234.409776,
+          195.484135
+        ],
+        "error": 32.479375,
+        "normalized_error": 0.054132,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 46,
+        "label": "calculator",
+        "prompt": "Grasp the body of the calculator.",
+        "filename": "calculator_7.jpg",
+        "gt_point": [
+          799.923143,
+          546.06899
+        ],
+        "pred_point": [
+          620.844126,
+          483.800375
+        ],
+        "error": 189.596084,
+        "normalized_error": 0.128929,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 44,
+        "label": "calculator",
+        "prompt": "Grasp the body of the calculator.",
+        "filename": "calculator_5.jpg",
+        "gt_point": [
+          398.214286,
+          302.857143
+        ],
+        "pred_point": [
+          368.89143,
+          408.645201
+        ],
+        "error": 109.776787,
+        "normalized_error": 0.129373,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 59,
+        "label": "calculator",
+        "prompt": "Grasp the body of the calculator.",
+        "filename": "calculator_20.jpg",
+        "gt_point": [
+          945.968187,
+          2510.937301
+        ],
+        "pred_point": [
+          1739.500935,
+          2101.655465
+        ],
+        "error": 892.863843,
+        "normalized_error": 0.177156,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 61,
+        "label": "charger",
+        "prompt": "Grasp the cable of the charger.",
+        "filename": "charger_2.jpg",
+        "gt_point": [
+          357.485714,
+          379.885714
+        ],
+        "pred_point": [
+          407.870911,
+          454.939714
+        ],
+        "error": 90.397848,
+        "normalized_error": 0.084047,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 78,
+        "label": "charger",
+        "prompt": "Grasp the cable of the charger.",
+        "filename": "charger_19.jpg",
+        "gt_point": [
+          259.209096,
+          207.950328
+        ],
+        "pred_point": [
+          391.17908,
+          81.090051
+        ],
+        "error": 183.056293,
+        "normalized_error": 0.289424,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 67,
+        "label": "charger",
+        "prompt": "Grasp the cable of the charger.",
+        "filename": "charger_8.jpg",
+        "gt_point": [
+          1424.256235,
+          685.149196
+        ],
+        "pred_point": [
+          861.130142,
+          746.029401
+        ],
+        "error": 566.407447,
+        "normalized_error": 0.281421,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 70,
+        "label": "charger",
+        "prompt": "Grasp the cable of the charger.",
+        "filename": "charger_11.jpg",
+        "gt_point": [
+          79.972619,
+          363.980952
+        ],
+        "pred_point": [
+          218.032054,
+          285.827339
+        ],
+        "error": 158.6455,
+        "normalized_error": 0.284719,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 491,
+        "label": "cup",
+        "prompt": "Grasp the handle of the cup.",
+        "filename": "cup_10.jpg",
+        "gt_point": [
+          458.482143,
+          394.646141
+        ],
+        "pred_point": [
+          501.399681,
+          354.696315
+        ],
+        "error": 58.63364,
+        "normalized_error": 0.044788,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 495,
+        "label": "cup",
+        "prompt": "Grasp the handle of the cup.",
+        "filename": "cup_14.jpg",
+        "gt_point": [
+          990.952578,
+          747.268648
+        ],
+        "pred_point": [
+          952.519913,
+          551.757345
+        ],
+        "error": 199.252953,
+        "normalized_error": 0.09045,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 500,
+        "label": "cup",
+        "prompt": "Grasp the handle of the cup.",
+        "filename": "cup_19.jpg",
+        "gt_point": [
+          758.133161,
+          522.328366
+        ],
+        "pred_point": [
+          680.338851,
+          357.295952
+        ],
+        "error": 182.44904,
+        "normalized_error": 0.139503,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 490,
+        "label": "cup",
+        "prompt": "Grasp the handle of the cup.",
+        "filename": "cup_9.jpg",
+        "gt_point": [
+          5.52381,
+          32.0
+        ],
+        "pred_point": [
+          273.682404,
+          206.330194
+        ],
+        "error": 319.843787,
+        "normalized_error": 0.399805,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 873,
+        "label": "earbuds",
+        "prompt": "Grasp the body of the earbuds.",
+        "filename": "earbuds_12.jpg",
+        "gt_point": [
+          200.297619,
+          263.690476
+        ],
+        "pred_point": [
+          237.836361,
+          272.799373
+        ],
+        "error": 38.628087,
+        "normalized_error": 0.054628,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 872,
+        "label": "earbuds",
+        "prompt": "Grasp the body of the earbuds.",
+        "filename": "earbuds_11.jpg",
+        "gt_point": [
+          424.444375,
+          179.047585
+        ],
+        "pred_point": [
+          472.460651,
+          250.932532
+        ],
+        "error": 86.446564,
+        "normalized_error": 0.094982,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 879,
+        "label": "egg",
+        "prompt": "Grasp the center of the egg.",
+        "filename": "egg_6.jpg",
+        "gt_point": [
+          261.427857,
+          308.47891
+        ],
+        "pred_point": [
+          207.462657,
+          279.664345
+        ],
+        "error": 61.176155,
+        "normalized_error": 0.088603,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 893,
+        "label": "egg",
+        "prompt": "Grasp the center of the egg.",
+        "filename": "egg_20.jpg",
+        "gt_point": [
+          992.586613,
+          616.988852
+        ],
+        "pred_point": [
+          867.409229,
+          751.830387
+        ],
+        "error": 183.988089,
+        "normalized_error": 0.081312,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 888,
+        "label": "egg",
+        "prompt": "Grasp the center of the egg.",
+        "filename": "egg_15.jpg",
+        "gt_point": [
+          524.333333,
+          196.733333
+        ],
+        "pred_point": [
+          370.782415,
+          256.493142
+        ],
+        "error": 164.769898,
+        "normalized_error": 0.181066,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 892,
+        "label": "egg",
+        "prompt": "Grasp the center of the egg.",
+        "filename": "egg_19.jpg",
+        "gt_point": [
+          845.733335,
+          582.406779
+        ],
+        "pred_point": [
+          867.409229,
+          751.830387
+        ],
+        "error": 170.804576,
+        "normalized_error": 0.075486,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 517,
+        "label": "fork",
+        "prompt": "Grasp the handle of the fork.",
+        "filename": "fork_16.jpg",
+        "gt_point": [
+          26.611725,
+          206.980164
+        ],
+        "pred_point": [
+          133.251868,
+          186.493671
+        ],
+        "error": 108.590131,
+        "normalized_error": 0.192946,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 520,
+        "label": "fork",
+        "prompt": "Grasp the handle of the fork.",
+        "filename": "fork_19.jpg",
+        "gt_point": [
+          287.514286,
+          321.9
+        ],
+        "pred_point": [
+          178.920392,
+          174.998415
+        ],
+        "error": 182.68199,
+        "normalized_error": 0.371194,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 507,
+        "label": "fork",
+        "prompt": "Grasp the handle of the fork.",
+        "filename": "fork_6.jpg",
+        "gt_point": [
+          684.310137,
+          369.246882
+        ],
+        "pred_point": [
+          468.582184,
+          477.748575
+        ],
+        "error": 241.477053,
+        "normalized_error": 0.196419,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 521,
+        "label": "fork",
+        "prompt": "Grasp the handle of the fork.",
+        "filename": "fork_20.jpg",
+        "gt_point": [
+          894.543406,
+          530.278848
+        ],
+        "pred_point": [
+          698.598633,
+          352.465632
+        ],
+        "error": 264.597607,
+        "normalized_error": 0.20385,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 825,
+        "label": "glove",
+        "prompt": "Grasp the cuff of the glove.",
+        "filename": "glove_4.jpg",
+        "gt_point": [
+          336.883333,
+          387.834434
+        ],
+        "pred_point": [
+          382.94952,
+          340.857766
+        ],
+        "error": 65.794383,
+        "normalized_error": 0.056651,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 829,
+        "label": "glove",
+        "prompt": "Grasp the cuff of the glove.",
+        "filename": "glove_8.jpg",
+        "gt_point": [
+          507.106972,
+          187.699944
+        ],
+        "pred_point": [
+          1289.029544,
+          372.029605
+        ],
+        "error": 803.35567,
+        "normalized_error": 0.287478,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 841,
+        "label": "glove",
+        "prompt": "Grasp the cuff of the glove.",
+        "filename": "glove_20.jpg",
+        "gt_point": [
+          475.2466,
+          753.735053
+        ],
+        "pred_point": [
+          823.347198,
+          588.129639
+        ],
+        "error": 385.485642,
+        "normalized_error": 0.208817,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 827,
+        "label": "glove",
+        "prompt": "Grasp the cuff of the glove.",
+        "filename": "glove_6.jpg",
+        "gt_point": [
+          683.675662,
+          550.054054
+        ],
+        "pred_point": [
+          697.144089,
+          393.86085
+        ],
+        "error": 156.772815,
+        "normalized_error": 0.106749,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 84,
+        "label": "hairbrush",
+        "prompt": "Grasp the handle of the hairbrush.",
+        "filename": "hairbrush_5.jpg",
+        "gt_point": [
+          180.833333,
+          198.507487
+        ],
+        "pred_point": [
+          179.046592,
+          183.227366
+        ],
+        "error": 15.38423,
+        "normalized_error": 0.031081,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 101,
+        "label": "headphones",
+        "prompt": "Grasp the band of the headphones.",
+        "filename": "headphones_17.jpg",
+        "gt_point": [
+          556.428571,
+          151.19048
+        ],
+        "pred_point": [
+          362.165201,
+          278.40575
+        ],
+        "error": 232.211072,
+        "normalized_error": 0.273663,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 89,
+        "label": "headphones",
+        "prompt": "Grasp the band of the headphones.",
+        "filename": "headphones_5.jpg",
+        "gt_point": [
+          938.989505,
+          409.457711
+        ],
+        "pred_point": [
+          638.934195,
+          551.956832
+        ],
+        "error": 332.173432,
+        "normalized_error": 0.234882,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 91,
+        "label": "headphones",
+        "prompt": "Grasp the band of the headphones.",
+        "filename": "headphones_7.jpg",
+        "gt_point": [
+          241.737137,
+          287.085714
+        ],
+        "pred_point": [
+          296.774345,
+          237.463623
+        ],
+        "error": 74.104293,
+        "normalized_error": 0.080285,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 85,
+        "label": "headphones",
+        "prompt": "Grasp the band of the headphones.",
+        "filename": "headphones_1.jpg",
+        "gt_point": [
+          362.285775,
+          93.857169
+        ],
+        "pred_point": [
+          250.001936,
+          215.622225
+        ],
+        "error": 165.633298,
+        "normalized_error": 0.276055,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 105,
+        "label": "highlighter",
+        "prompt": "Grasp the body of the highlighter.",
+        "filename": "highlighter_1.jpg",
+        "gt_point": [
+          270.009163,
+          331.147027
+        ],
+        "pred_point": [
+          650.871706,
+          203.583992
+        ],
+        "error": 401.657323,
+        "normalized_error": 0.401657,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 110,
+        "label": "jar",
+        "prompt": "Grasp the lid of the jar.",
+        "filename": "jar_2.jpg",
+        "gt_point": [
+          96.508333,
+          264.559524
+        ],
+        "pred_point": [
+          360.910827,
+          271.131225
+        ],
+        "error": 264.484151,
+        "normalized_error": 0.298752,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 117,
+        "label": "jar",
+        "prompt": "Grasp the lid of the jar.",
+        "filename": "jar_9.jpg",
+        "gt_point": [
+          4998.27279,
+          567.007483
+        ],
+        "pred_point": [
+          3281.048767,
+          1861.794731
+        ],
+        "error": 2150.658589,
+        "normalized_error": 0.345188,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 109,
+        "label": "jar",
+        "prompt": "Grasp the lid of the jar.",
+        "filename": "jar_1.jpg",
+        "gt_point": [
+          138.814274,
+          574.379544
+        ],
+        "pred_point": [
+          754.383087,
+          454.733634
+        ],
+        "error": 627.088596,
+        "normalized_error": 0.313544,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 114,
+        "label": "jar",
+        "prompt": "Grasp the lid of the jar.",
+        "filename": "jar_6.jpg",
+        "gt_point": [
+          82.285714,
+          89.441428
+        ],
+        "pred_point": [
+          321.477642,
+          118.849888
+        ],
+        "error": 240.99302,
+        "normalized_error": 0.301241,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 132,
+        "label": "kettle",
+        "prompt": "Grasp the handle of the kettle.",
+        "filename": "kettle_4.jpg",
+        "gt_point": [
+          1492.191755,
+          806.22819
+        ],
+        "pred_point": [
+          785.214233,
+          735.804176
+        ],
+        "error": 710.47643,
+        "normalized_error": 0.355238,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 133,
+        "label": "kettle",
+        "prompt": "Grasp the handle of the kettle.",
+        "filename": "kettle_5.jpg",
+        "gt_point": [
+          497.5,
+          47.0
+        ],
+        "pred_point": [
+          393.958302,
+          268.356377
+        ],
+        "error": 244.375794,
+        "normalized_error": 0.226274,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 143,
+        "label": "kettle",
+        "prompt": "Grasp the handle of the kettle.",
+        "filename": "kettle_15.jpg",
+        "gt_point": [
+          413.095238,
+          280.94656
+        ],
+        "pred_point": [
+          339.266419,
+          299.670292
+        ],
+        "error": 76.166086,
+        "normalized_error": 0.100753,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 139,
+        "label": "kettle",
+        "prompt": "Grasp the handle of the kettle.",
+        "filename": "kettle_11.jpg",
+        "gt_point": [
+          1200.630355,
+          727.988398
+        ],
+        "pred_point": [
+          1006.231384,
+          997.108841
+        ],
+        "error": 331.989115,
+        "normalized_error": 0.113029,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 165,
+        "label": "keyboard",
+        "prompt": "Grasp the center of the keyboard.",
+        "filename": "keyboard_17.jpg",
+        "gt_point": [
+          155.028091,
+          322.893512
+        ],
+        "pred_point": [
+          259.756776,
+          260.104336
+        ],
+        "error": 122.108879,
+        "normalized_error": 0.154022,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 153,
+        "label": "keyboard",
+        "prompt": "Grasp the center of the keyboard.",
+        "filename": "keyboard_5.jpg",
+        "gt_point": [
+          282.401793,
+          728.852344
+        ],
+        "pred_point": [
+          747.588534,
+          693.621062
+        ],
+        "error": 466.518968,
+        "normalized_error": 0.252555,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 157,
+        "label": "keyboard",
+        "prompt": "Grasp the center of the keyboard.",
+        "filename": "keyboard_9.jpg",
+        "gt_point": [
+          255.059524,
+          390.47619
+        ],
+        "pred_point": [
+          248.450845,
+          307.750463
+        ],
+        "error": 82.98928,
+        "normalized_error": 0.117365,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 155,
+        "label": "keyboard",
+        "prompt": "Grasp the center of the keyboard.",
+        "filename": "keyboard_7.jpg",
+        "gt_point": [
+          1680.688996,
+          1881.869713
+        ],
+        "pred_point": [
+          1722.156733,
+          1669.359349
+        ],
+        "error": 216.518424,
+        "normalized_error": 0.04296,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 533,
+        "label": "keys",
+        "prompt": "Grasp the ring of the keys.",
+        "filename": "keys_12.jpg",
+        "gt_point": [
+          277.857143,
+          232.197467
+        ],
+        "pred_point": [
+          246.212482,
+          159.396538
+        ],
+        "error": 79.381105,
+        "normalized_error": 0.11527,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 536,
+        "label": "keys",
+        "prompt": "Grasp the ring of the keys.",
+        "filename": "keys_15.jpg",
+        "gt_point": [
+          116.798928,
+          311.156557
+        ],
+        "pred_point": [
+          292.433083,
+          200.010478
+        ],
+        "error": 207.848038,
+        "normalized_error": 0.293942,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 523,
+        "label": "keys",
+        "prompt": "Grasp the ring of the keys.",
+        "filename": "keys_2.jpg",
+        "gt_point": [
+          252.342857,
+          221.714286
+        ],
+        "pred_point": [
+          171.041233,
+          135.74701
+        ],
+        "error": 118.322976,
+        "normalized_error": 0.251753,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 530,
+        "label": "keys",
+        "prompt": "Grasp the ring of the keys.",
+        "filename": "keys_9.jpg",
+        "gt_point": [
+          239.285714,
+          278.571429
+        ],
+        "pred_point": [
+          242.494273,
+          201.446611
+        ],
+        "error": 77.191531,
+        "normalized_error": 0.154383,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 547,
+        "label": "knife",
+        "prompt": "Grasp the handle of the knife.",
+        "filename": "knife_6.jpg",
+        "gt_point": [
+          143.55834,
+          45.85
+        ],
+        "pred_point": [
+          159.402252,
+          56.066245
+        ],
+        "error": 18.852087,
+        "normalized_error": 0.059438,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 556,
+        "label": "knife",
+        "prompt": "Grasp the handle of the knife.",
+        "filename": "knife_15.jpg",
+        "gt_point": [
+          348.095238,
+          348.571429
+        ],
+        "pred_point": [
+          397.167611,
+          241.462836
+        ],
+        "error": 117.814891,
+        "normalized_error": 0.128356,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 542,
+        "label": "knife",
+        "prompt": "Grasp the handle of the knife.",
+        "filename": "knife_1.jpg",
+        "gt_point": [
+          249.260015,
+          709.442778
+        ],
+        "pred_point": [
+          250.496811,
+          613.295674
+        ],
+        "error": 96.155058,
+        "normalized_error": 0.088895,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 561,
+        "label": "knife",
+        "prompt": "Grasp the handle of the knife.",
+        "filename": "knife_20.jpg",
+        "gt_point": [
+          495.88426,
+          84.359176
+        ],
+        "pred_point": [
+          575.077164,
+          372.431651
+        ],
+        "error": 298.759547,
+        "normalized_error": 0.231534,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 169,
+        "label": "laptop",
+        "prompt": "Grasp the edge of the laptop.",
+        "filename": "laptop_1.jpg",
+        "gt_point": [
+          345.65236,
+          539.507688
+        ],
+        "pred_point": [
+          518.594706,
+          550.560951
+        ],
+        "error": 173.295209,
+        "normalized_error": 0.120159,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 171,
+        "label": "laptop",
+        "prompt": "Grasp the edge of the laptop.",
+        "filename": "laptop_3.jpg",
+        "gt_point": [
+          464.933333,
+          312.852487
+        ],
+        "pred_point": [
+          396.999287,
+          268.757416
+        ],
+        "error": 80.990184,
+        "normalized_error": 0.110784,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 175,
+        "label": "laptop",
+        "prompt": "Grasp the edge of the laptop.",
+        "filename": "laptop_7.jpg",
+        "gt_point": [
+          223.810778,
+          158.997986
+        ],
+        "pred_point": [
+          204.909325,
+          196.454787
+        ],
+        "error": 41.955653,
+        "normalized_error": 0.083911,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 188,
+        "label": "laptop",
+        "prompt": "Grasp the edge of the laptop.",
+        "filename": "laptop_20.jpg",
+        "gt_point": [
+          181.235119,
+          80.863209
+        ],
+        "pred_point": [
+          242.848855,
+          163.452431
+        ],
+        "error": 103.039953,
+        "normalized_error": 0.178152,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 562,
+        "label": "marker",
+        "prompt": "Grasp the body of the marker.",
+        "filename": "marker_1.jpg",
+        "gt_point": [
+          1280.51859,
+          470.698155
+        ],
+        "pred_point": [
+          1021.339989,
+          685.260478
+        ],
+        "error": 336.467736,
+        "normalized_error": 0.170407,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 568,
+        "label": "marker",
+        "prompt": "Grasp the body of the marker.",
+        "filename": "marker_7.jpg",
+        "gt_point": [
+          148.571429,
+          98.285714
+        ],
+        "pred_point": [
+          195.338173,
+          239.203935
+        ],
+        "error": 148.475834,
+        "normalized_error": 0.185595,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 576,
+        "label": "marker",
+        "prompt": "Grasp the body of the marker.",
+        "filename": "marker_15.jpg",
+        "gt_point": [
+          616.426281,
+          343.175465
+        ],
+        "pred_point": [
+          567.346252,
+          624.701569
+        ],
+        "error": 285.77228,
+        "normalized_error": 0.14884,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 578,
+        "label": "marker",
+        "prompt": "Grasp the body of the marker.",
+        "filename": "marker_17.jpg",
+        "gt_point": [
+          461.621616,
+          239.351343
+        ],
+        "pred_point": [
+          315.402435,
+          401.223175
+        ],
+        "error": 218.134222,
+        "normalized_error": 0.170417,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 192,
+        "label": "mouse",
+        "prompt": "Grasp the body of the mouse.",
+        "filename": "mouse_4.jpg",
+        "gt_point": [
+          2606.766344,
+          1695.886244
+        ],
+        "pred_point": [
+          1718.809713,
+          1671.523905
+        ],
+        "error": 888.290776,
+        "normalized_error": 0.176248,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 201,
+        "label": "mouse",
+        "prompt": "Grasp the body of the mouse.",
+        "filename": "mouse_13.jpg",
+        "gt_point": [
+          759.126507,
+          975.873047
+        ],
+        "pred_point": [
+          853.600048,
+          1080.81585
+        ],
+        "error": 141.20284,
+        "normalized_error": 0.051308,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 202,
+        "label": "mouse",
+        "prompt": "Grasp the body of the mouse.",
+        "filename": "mouse_14.jpg",
+        "gt_point": [
+          3582.903553,
+          2894.283546
+        ],
+        "pred_point": [
+          3936.473065,
+          2782.207671
+        ],
+        "error": 370.907537,
+        "normalized_error": 0.053228,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 198,
+        "label": "mouse",
+        "prompt": "Grasp the body of the mouse.",
+        "filename": "mouse_10.jpg",
+        "gt_point": [
+          376.777146,
+          345.645227
+        ],
+        "pred_point": [
+          296.819502,
+          305.212677
+        ],
+        "error": 89.599197,
+        "normalized_error": 0.102399,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 586,
+        "label": "mug",
+        "prompt": "Grasp the handle of the mug.",
+        "filename": "mug_5.jpg",
+        "gt_point": [
+          96.886905,
+          466.952598
+        ],
+        "pred_point": [
+          117.093379,
+          416.952657
+        ],
+        "error": 53.928617,
+        "normalized_error": 0.053043,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 591,
+        "label": "mug",
+        "prompt": "Grasp the handle of the mug.",
+        "filename": "mug_10.jpg",
+        "gt_point": [
+          49.870135,
+          106.450216
+        ],
+        "pred_point": [
+          318.808365,
+          76.181731
+        ],
+        "error": 270.6362,
+        "normalized_error": 0.338295,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 584,
+        "label": "mug",
+        "prompt": "Grasp the handle of the mug.",
+        "filename": "mug_3.jpg",
+        "gt_point": [
+          91.785714,
+          590.714286
+        ],
+        "pred_point": [
+          305.63879,
+          327.751243
+        ],
+        "error": 338.943505,
+        "normalized_error": 0.399449,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 590,
+        "label": "mug",
+        "prompt": "Grasp the handle of the mug.",
+        "filename": "mug_9.jpg",
+        "gt_point": [
+          326.071421,
+          496.669001
+        ],
+        "pred_point": [
+          224.226326,
+          365.759251
+        ],
+        "error": 165.860743,
+        "normalized_error": 0.207023,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 227,
+        "label": "notebook",
+        "prompt": "Grasp the spine of the notebook.",
+        "filename": "notebook_19.jpg",
+        "gt_point": [
+          6.47619,
+          91.428571
+        ],
+        "pred_point": [
+          304.938087,
+          187.116222
+        ],
+        "error": 313.425638,
+        "normalized_error": 0.391782,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 224,
+        "label": "notebook",
+        "prompt": "Grasp the spine of the notebook.",
+        "filename": "notebook_16.jpg",
+        "gt_point": [
+          188.918682,
+          678.244001
+        ],
+        "pred_point": [
+          971.796551,
+          354.322278
+        ],
+        "error": 847.244381,
+        "normalized_error": 0.593548,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 214,
+        "label": "notebook",
+        "prompt": "Grasp the spine of the notebook.",
+        "filename": "notebook_6.jpg",
+        "gt_point": [
+          443.809524,
+          133.333328
+        ],
+        "pred_point": [
+          538.114738,
+          273.455502
+        ],
+        "error": 168.901442,
+        "normalized_error": 0.175702,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 215,
+        "label": "notebook",
+        "prompt": "Grasp the spine of the notebook.",
+        "filename": "notebook_7.jpg",
+        "gt_point": [
+          1024.147479,
+          666.678131
+        ],
+        "pred_point": [
+          319.750328,
+          433.619084
+        ],
+        "error": 741.95139,
+        "normalized_error": 0.505208,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 243,
+        "label": "onion",
+        "prompt": "Grasp the center of the onion.",
+        "filename": "onion_15.jpg",
+        "gt_point": [
+          1127.409224,
+          252.529693
+        ],
+        "pred_point": [
+          1218.480319,
+          766.188931
+        ],
+        "error": 521.670161,
+        "normalized_error": 0.166934,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 248,
+        "label": "onion",
+        "prompt": "Grasp the center of the onion.",
+        "filename": "onion_20.jpg",
+        "gt_point": [
+          454.479228,
+          204.864097
+        ],
+        "pred_point": [
+          372.58019,
+          343.392962
+        ],
+        "error": 160.92762,
+        "normalized_error": 0.152336,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 244,
+        "label": "onion",
+        "prompt": "Grasp the center of the onion.",
+        "filename": "onion_16.jpg",
+        "gt_point": [
+          282.53333,
+          227.314661
+        ],
+        "pred_point": [
+          217.247078,
+          151.996381
+        ],
+        "error": 99.675162,
+        "normalized_error": 0.159443,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 235,
+        "label": "onion",
+        "prompt": "Grasp the center of the onion.",
+        "filename": "onion_7.jpg",
+        "gt_point": [
+          315.91022,
+          248.72131
+        ],
+        "pred_point": [
+          220.159352,
+          248.82937
+        ],
+        "error": 95.750929,
+        "normalized_error": 0.152173,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 790,
+        "label": "pan",
+        "prompt": "Grasp the handle of the pan.",
+        "filename": "pan_9.jpg",
+        "gt_point": [
+          854.918903,
+          116.756755
+        ],
+        "pred_point": [
+          601.904892,
+          621.407227
+        ],
+        "error": 564.524745,
+        "normalized_error": 0.259882,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 785,
+        "label": "pan",
+        "prompt": "Grasp the handle of the pan.",
+        "filename": "pan_4.jpg",
+        "gt_point": [
+          171.428571,
+          544.0
+        ],
+        "pred_point": [
+          367.986923,
+          601.617065
+        ],
+        "error": 204.828982,
+        "normalized_error": 0.160023,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 801,
+        "label": "pan",
+        "prompt": "Grasp the handle of the pan.",
+        "filename": "pan_20.jpg",
+        "gt_point": [
+          1508.758702,
+          895.390323
+        ],
+        "pred_point": [
+          1030.256592,
+          699.379349
+        ],
+        "error": 517.092421,
+        "normalized_error": 0.201989,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 798,
+        "label": "pan",
+        "prompt": "Grasp the handle of the pan.",
+        "filename": "pan_17.jpg",
+        "gt_point": [
+          1612.467236,
+          1384.672023
+        ],
+        "pred_point": [
+          852.017151,
+          771.198669
+        ],
+        "error": 977.053677,
+        "normalized_error": 0.381662,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 612,
+        "label": "pen",
+        "prompt": "Grasp the body of the pen.",
+        "filename": "pen_11.jpg",
+        "gt_point": [
+          747.887944,
+          332.108108
+        ],
+        "pred_point": [
+          767.021255,
+          358.162708
+        ],
+        "error": 32.325312,
+        "normalized_error": 0.022011,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 608,
+        "label": "pen",
+        "prompt": "Grasp the body of the pen.",
+        "filename": "pen_7.jpg",
+        "gt_point": [
+          1999.89723,
+          1908.452145
+        ],
+        "pred_point": [
+          1790.730007,
+          1693.727333
+        ],
+        "error": 299.762692,
+        "normalized_error": 0.08015,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 619,
+        "label": "pen",
+        "prompt": "Grasp the body of the pen.",
+        "filename": "pen_18.jpg",
+        "gt_point": [
+          2281.367528,
+          4089.510166
+        ],
+        "pred_point": [
+          1095.696516,
+          2784.164741
+        ],
+        "error": 1763.44618,
+        "normalized_error": 0.319079,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 604,
+        "label": "pen",
+        "prompt": "Grasp the body of the pen.",
+        "filename": "pen_3.jpg",
+        "gt_point": [
+          457.702154,
+          1023.643619
+        ],
+        "pred_point": [
+          550.216379,
+          982.873034
+        ],
+        "error": 101.099567,
+        "normalized_error": 0.063719,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 640,
+        "label": "phone",
+        "prompt": "Grasp the body of the phone.",
+        "filename": "phone_19.jpg",
+        "gt_point": [
+          1547.664135,
+          138.305222
+        ],
+        "pred_point": [
+          1288.991585,
+          372.03867
+        ],
+        "error": 348.629908,
+        "normalized_error": 0.124756,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 635,
+        "label": "phone",
+        "prompt": "Grasp the body of the phone.",
+        "filename": "phone_14.jpg",
+        "gt_point": [
+          196.125084,
+          608.4901
+        ],
+        "pred_point": [
+          357.384038,
+          565.789133
+        ],
+        "error": 166.816735,
+        "normalized_error": 0.086767,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 639,
+        "label": "phone",
+        "prompt": "Grasp the body of the phone.",
+        "filename": "phone_18.jpg",
+        "gt_point": [
+          65.0,
+          968.571429
+        ],
+        "pred_point": [
+          308.42253,
+          586.71248
+        ],
+        "error": 452.847419,
+        "normalized_error": 0.388313,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 629,
+        "label": "phone",
+        "prompt": "Grasp the body of the phone.",
+        "filename": "phone_8.jpg",
+        "gt_point": [
+          495.357143,
+          239.421686
+        ],
+        "pred_point": [
+          334.495556,
+          246.752727
+        ],
+        "error": 161.028551,
+        "normalized_error": 0.192216,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 646,
+        "label": "plate",
+        "prompt": "Grasp the edge of the plate.",
+        "filename": "plate_5.jpg",
+        "gt_point": [
+          222.166667,
+          168.0
+        ],
+        "pred_point": [
+          86.64333,
+          109.122528
+        ],
+        "error": 147.760385,
+        "normalized_error": 0.422173,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 652,
+        "label": "plate",
+        "prompt": "Grasp the edge of the plate.",
+        "filename": "plate_11.jpg",
+        "gt_point": [
+          1026.205306,
+          172.161628
+        ],
+        "pred_point": [
+          602.993345,
+          390.221356
+        ],
+        "error": 476.086556,
+        "normalized_error": 0.328074,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 655,
+        "label": "plate",
+        "prompt": "Grasp the edge of the plate.",
+        "filename": "plate_14.jpg",
+        "gt_point": [
+          134.057143,
+          687.564286
+        ],
+        "pred_point": [
+          389.856766,
+          387.342957
+        ],
+        "error": 394.418932,
+        "normalized_error": 0.363146,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 649,
+        "label": "plate",
+        "prompt": "Grasp the edge of the plate.",
+        "filename": "plate_8.jpg",
+        "gt_point": [
+          66.574376,
+          234.708734
+        ],
+        "pred_point": [
+          511.534059,
+          312.96311
+        ],
+        "error": 451.78852,
+        "normalized_error": 0.364528,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 773,
+        "label": "pot",
+        "prompt": "Grasp the handle of the pot.",
+        "filename": "pot_12.jpg",
+        "gt_point": [
+          146.100002,
+          367.8
+        ],
+        "pred_point": [
+          273.115021,
+          170.500206
+        ],
+        "error": 234.648724,
+        "normalized_error": 0.309904,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 768,
+        "label": "pot",
+        "prompt": "Grasp the handle of the pot.",
+        "filename": "pot_7.jpg",
+        "gt_point": [
+          2221.019819,
+          1881.862307
+        ],
+        "pred_point": [
+          1304.264665,
+          1512.387395
+        ],
+        "error": 988.408683,
+        "normalized_error": 0.279564,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 765,
+        "label": "pot",
+        "prompt": "Grasp the handle of the pot.",
+        "filename": "pot_4.jpg",
+        "gt_point": [
+          435.419989,
+          889.875
+        ],
+        "pred_point": [
+          426.088047,
+          672.283545
+        ],
+        "error": 217.791475,
+        "normalized_error": 0.17285,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 778,
+        "label": "pot",
+        "prompt": "Grasp the handle of the pot.",
+        "filename": "pot_17.jpg",
+        "gt_point": [
+          118.828379,
+          258.070592
+        ],
+        "pred_point": [
+          248.708516,
+          232.666311
+        ],
+        "error": 132.34133,
+        "normalized_error": 0.216836,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 253,
+        "label": "remote",
+        "prompt": "Grasp the body of the remote.",
+        "filename": "remote_5.jpg",
+        "gt_point": [
+          260.120998,
+          420.480127
+        ],
+        "pred_point": [
+          183.708583,
+          242.547843
+        ],
+        "error": 193.645953,
+        "normalized_error": 0.344076,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 254,
+        "label": "remote",
+        "prompt": "Grasp the body of the remote.",
+        "filename": "remote_6.jpg",
+        "gt_point": [
+          369.345238,
+          431.550549
+        ],
+        "pred_point": [
+          305.689961,
+          389.793709
+        ],
+        "error": 76.129022,
+        "normalized_error": 0.099121,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 266,
+        "label": "remote",
+        "prompt": "Grasp the body of the remote.",
+        "filename": "remote_18.jpg",
+        "gt_point": [
+          131.071429,
+          218.578325
+        ],
+        "pred_point": [
+          309.070766,
+          140.71823
+        ],
+        "error": 194.283191,
+        "normalized_error": 0.292863,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 264,
+        "label": "remote",
+        "prompt": "Grasp the body of the remote.",
+        "filename": "remote_16.jpg",
+        "gt_point": [
+          83.035714,
+          150.892857
+        ],
+        "pred_point": [
+          118.597962,
+          84.49804
+        ],
+        "error": 75.318956,
+        "normalized_error": 0.060255,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 278,
+        "label": "scissor",
+        "prompt": "Grasp the handle of the scissor.",
+        "filename": "scissor_10.jpg",
+        "gt_point": [
+          298.698761,
+          483.942568
+        ],
+        "pred_point": [
+          302.96772,
+          360.155611
+        ],
+        "error": 123.860545,
+        "normalized_error": 0.084339,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 282,
+        "label": "scissor",
+        "prompt": "Grasp the handle of the scissor.",
+        "filename": "scissor_14.jpg",
+        "gt_point": [
+          877.049811,
+          594.758794
+        ],
+        "pred_point": [
+          795.991868,
+          680.951244
+        ],
+        "error": 118.319604,
+        "normalized_error": 0.039377,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 276,
+        "label": "scissor",
+        "prompt": "Grasp the handle of the scissor.",
+        "filename": "scissor_8.jpg",
+        "gt_point": [
+          944.436171,
+          25.824633
+        ],
+        "pred_point": [
+          771.896768,
+          436.908969
+        ],
+        "error": 445.825276,
+        "normalized_error": 0.297217,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 271,
+        "label": "scissor",
+        "prompt": "Grasp the handle of the scissor.",
+        "filename": "scissor_3.jpg",
+        "gt_point": [
+          180.560815,
+          132.039152
+        ],
+        "pred_point": [
+          115.514059,
+          177.891541
+        ],
+        "error": 79.583428,
+        "normalized_error": 0.198959,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 665,
+        "label": "shoe",
+        "prompt": "Grasp the heel of the shoe.",
+        "filename": "shoe_4.jpg",
+        "gt_point": [
+          283.794643,
+          727.080811
+        ],
+        "pred_point": [
+          275.493271,
+          422.292662
+        ],
+        "error": 304.901179,
+        "normalized_error": 0.307648,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 679,
+        "label": "shoe",
+        "prompt": "Grasp the heel of the shoe.",
+        "filename": "shoe_18.jpg",
+        "gt_point": [
+          631.379043,
+          489.037876
+        ],
+        "pred_point": [
+          359.870781,
+          323.427556
+        ],
+        "error": 318.030682,
+        "normalized_error": 0.370589,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 668,
+        "label": "shoe",
+        "prompt": "Grasp the heel of the shoe.",
+        "filename": "shoe_7.jpg",
+        "gt_point": [
+          203.791807,
+          236.629204
+        ],
+        "pred_point": [
+          272.831845,
+          113.553072
+        ],
+        "error": 141.117898,
+        "normalized_error": 0.231019,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 670,
+        "label": "shoe",
+        "prompt": "Grasp the heel of the shoe.",
+        "filename": "shoe_9.jpg",
+        "gt_point": [
+          519.047619,
+          745.714286
+        ],
+        "pred_point": [
+          413.028336,
+          381.942964
+        ],
+        "error": 378.905877,
+        "normalized_error": 0.334909,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 802,
+        "label": "sock",
+        "prompt": "Grasp the opening of the sock.",
+        "filename": "sock_1.jpg",
+        "gt_point": [
+          410.525715,
+          864.994561
+        ],
+        "pred_point": [
+          448.894693,
+          677.335696
+        ],
+        "error": 191.541192,
+        "normalized_error": 0.115073,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 812,
+        "label": "sock",
+        "prompt": "Grasp the opening of the sock.",
+        "filename": "sock_11.jpg",
+        "gt_point": [
+          128.857398,
+          694.572522
+        ],
+        "pred_point": [
+          337.484577,
+          527.139688
+        ],
+        "error": 267.505241,
+        "normalized_error": 0.210172,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 814,
+        "label": "sock",
+        "prompt": "Grasp the opening of the sock.",
+        "filename": "sock_13.jpg",
+        "gt_point": [
+          35.2,
+          448.914286
+        ],
+        "pred_point": [
+          221.290512,
+          498.889496
+        ],
+        "error": 192.684198,
+        "normalized_error": 0.150535,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 804,
+        "label": "sock",
+        "prompt": "Grasp the opening of the sock.",
+        "filename": "sock_3.jpg",
+        "gt_point": [
+          247.311431,
+          391.002854
+        ],
+        "pred_point": [
+          197.526291,
+          289.244394
+        ],
+        "error": 113.284353,
+        "normalized_error": 0.158684,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 896,
+        "label": "spatula",
+        "prompt": "Grasp the handle of the spatula.",
+        "filename": "spatula_3.jpg",
+        "gt_point": [
+          542.117647,
+          801.298973
+        ],
+        "pred_point": [
+          1019.505844,
+          1208.981827
+        ],
+        "error": 627.777668,
+        "normalized_error": 0.217978,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 907,
+        "label": "spatula",
+        "prompt": "Grasp the handle of the spatula.",
+        "filename": "spatula_14.jpg",
+        "gt_point": [
+          368.048684,
+          522.284767
+        ],
+        "pred_point": [
+          597.566738,
+          361.101763
+        ],
+        "error": 280.461224,
+        "normalized_error": 0.20405,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 906,
+        "label": "spatula",
+        "prompt": "Grasp the handle of the spatula.",
+        "filename": "spatula_13.jpg",
+        "gt_point": [
+          575.174031,
+          200.215327
+        ],
+        "pred_point": [
+          451.00653,
+          110.447936
+        ],
+        "error": 153.21799,
+        "normalized_error": 0.212847,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 897,
+        "label": "spatula",
+        "prompt": "Grasp the handle of the spatula.",
+        "filename": "spatula_4.jpg",
+        "gt_point": [
+          283.902114,
+          608.045873
+        ],
+        "pred_point": [
+          396.705773,
+          310.260864
+        ],
+        "error": 318.434573,
+        "normalized_error": 0.296488,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 697,
+        "label": "spoon",
+        "prompt": "Grasp the handle of the spoon.",
+        "filename": "spoon_16.jpg",
+        "gt_point": [
+          235.996429,
+          106.230003
+        ],
+        "pred_point": [
+          193.928473,
+          180.559847
+        ],
+        "error": 85.408656,
+        "normalized_error": 0.151757,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 692,
+        "label": "spoon",
+        "prompt": "Grasp the handle of the spoon.",
+        "filename": "spoon_11.jpg",
+        "gt_point": [
+          64.923325,
+          55.024825
+        ],
+        "pred_point": [
+          131.330431,
+          76.935955
+        ],
+        "error": 69.928544,
+        "normalized_error": 0.203088,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 695,
+        "label": "spoon",
+        "prompt": "Grasp the handle of the spoon.",
+        "filename": "spoon_14.jpg",
+        "gt_point": [
+          392.376711,
+          714.389376
+        ],
+        "pred_point": [
+          1019.567848,
+          1209.044312
+        ],
+        "error": 798.781715,
+        "normalized_error": 0.277355,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 691,
+        "label": "spoon",
+        "prompt": "Grasp the handle of the spoon.",
+        "filename": "spoon_10.jpg",
+        "gt_point": [
+          771.325926,
+          1236.295813
+        ],
+        "pred_point": [
+          1104.425659,
+          587.624542
+        ],
+        "error": 729.198087,
+        "normalized_error": 0.284843,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 301,
+        "label": "stapler",
+        "prompt": "Grasp the top of the stapler.",
+        "filename": "stapler_15.jpg",
+        "gt_point": [
+          1005.009783,
+          660.110065
+        ],
+        "pred_point": [
+          515.663588,
+          581.725151
+        ],
+        "error": 495.584396,
+        "normalized_error": 0.37805,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 292,
+        "label": "stapler",
+        "prompt": "Grasp the top of the stapler.",
+        "filename": "stapler_6.jpg",
+        "gt_point": [
+          181.722512,
+          81.669936
+        ],
+        "pred_point": [
+          151.694164,
+          145.970665
+        ],
+        "error": 70.966791,
+        "normalized_error": 0.177683,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 293,
+        "label": "stapler",
+        "prompt": "Grasp the top of the stapler.",
+        "filename": "stapler_7.jpg",
+        "gt_point": [
+          342.702698,
+          311.98197
+        ],
+        "pred_point": [
+          344.549225,
+          352.238741
+        ],
+        "error": 40.299098,
+        "normalized_error": 0.033752,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 846,
+        "label": "t-shirt",
+        "prompt": "Grasp the collar of the t-shirt.",
+        "filename": "t-shirt_5.jpg",
+        "gt_point": [
+          362.806493,
+          246.362587
+        ],
+        "pred_point": [
+          269.106582,
+          230.877953
+        ],
+        "error": 94.97077,
+        "normalized_error": 0.129313,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 843,
+        "label": "t-shirt",
+        "prompt": "Grasp the collar of the t-shirt.",
+        "filename": "t-shirt_2.jpg",
+        "gt_point": [
+          419.360576,
+          522.696028
+        ],
+        "pred_point": [
+          788.956064,
+          468.180655
+        ],
+        "error": 373.594366,
+        "normalized_error": 0.185764,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 860,
+        "label": "t-shirt",
+        "prompt": "Grasp the collar of the t-shirt.",
+        "filename": "t-shirt_19.jpg",
+        "gt_point": [
+          269.061435,
+          332.998845
+        ],
+        "pred_point": [
+          237.554054,
+          213.468411
+        ],
+        "error": 123.613267,
+        "normalized_error": 0.206022,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 849,
+        "label": "t-shirt",
+        "prompt": "Grasp the collar of the t-shirt.",
+        "filename": "t-shirt_8.jpg",
+        "gt_point": [
+          309.999601,
+          262.874145
+        ],
+        "pred_point": [
+          574.29218,
+          383.310741
+        ],
+        "error": 290.440254,
+        "normalized_error": 0.257647,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 316,
+        "label": "tape",
+        "prompt": "Grasp the side of the tape.",
+        "filename": "tape_15.jpg",
+        "gt_point": [
+          1111.977961,
+          524.713418
+        ],
+        "pred_point": [
+          803.756202,
+          597.234317
+        ],
+        "error": 316.63849,
+        "normalized_error": 0.162429,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 302,
+        "label": "tape",
+        "prompt": "Grasp the side of the tape.",
+        "filename": "tape_1.jpg",
+        "gt_point": [
+          180.494778,
+          832.469836
+        ],
+        "pred_point": [
+          1597.169403,
+          1089.112953
+        ],
+        "error": 1439.733545,
+        "normalized_error": 0.384447,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 317,
+        "label": "tape",
+        "prompt": "Grasp the side of the tape.",
+        "filename": "tape_16.jpg",
+        "gt_point": [
+          409.8,
+          175.2
+        ],
+        "pred_point": [
+          286.962946,
+          169.169945
+        ],
+        "error": 122.984972,
+        "normalized_error": 0.195214,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 318,
+        "label": "tape",
+        "prompt": "Grasp the side of the tape.",
+        "filename": "tape_17.jpg",
+        "gt_point": [
+          1434.070253,
+          1214.570421
+        ],
+        "pred_point": [
+          923.688126,
+          780.031108
+        ],
+        "error": 670.30913,
+        "normalized_error": 0.318422,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 720,
+        "label": "tomato",
+        "prompt": "Grasp the center of the tomato.",
+        "filename": "tomato_19.jpg",
+        "gt_point": [
+          438.363095,
+          151.908046
+        ],
+        "pred_point": [
+          268.885283,
+          162.26612
+        ],
+        "error": 169.794047,
+        "normalized_error": 0.246865,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 712,
+        "label": "tomato",
+        "prompt": "Grasp the center of the tomato.",
+        "filename": "tomato_11.jpg",
+        "gt_point": [
+          1420.1066,
+          298.980299
+        ],
+        "pred_point": [
+          823.667496,
+          1260.058582
+        ],
+        "error": 1131.110547,
+        "normalized_error": 0.361955,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 706,
+        "label": "tomato",
+        "prompt": "Grasp the center of the tomato.",
+        "filename": "tomato_5.jpg",
+        "gt_point": [
+          483.951106,
+          701.855793
+        ],
+        "pred_point": [
+          641.447639,
+          584.418941
+        ],
+        "error": 196.460103,
+        "normalized_error": 0.115765,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 719,
+        "label": "tomato",
+        "prompt": "Grasp the center of the tomato.",
+        "filename": "tomato_18.jpg",
+        "gt_point": [
+          286.011905,
+          280.47619
+        ],
+        "pred_point": [
+          321.630883,
+          298.314461
+        ],
+        "error": 39.836108,
+        "normalized_error": 0.051401,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 327,
+        "label": "toothbrush",
+        "prompt": "Grasp the handle of the toothbrush.",
+        "filename": "toothbrush_6.jpg",
+        "gt_point": [
+          97.30284,
+          66.188784
+        ],
+        "pred_point": [
+          97.696772,
+          93.024051
+        ],
+        "error": 26.838158,
+        "normalized_error": 0.033548,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 337,
+        "label": "toothbrush",
+        "prompt": "Grasp the handle of the toothbrush.",
+        "filename": "toothbrush_16.jpg",
+        "gt_point": [
+          266.222225,
+          402.107549
+        ],
+        "pred_point": [
+          347.511608,
+          411.318538
+        ],
+        "error": 81.809572,
+        "normalized_error": 0.08064,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 333,
+        "label": "toothbrush",
+        "prompt": "Grasp the handle of the toothbrush.",
+        "filename": "toothbrush_12.jpg",
+        "gt_point": [
+          189.980035,
+          117.444926
+        ],
+        "pred_point": [
+          444.279957,
+          431.232521
+        ],
+        "error": 403.894918,
+        "normalized_error": 0.196518,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 325,
+        "label": "toothbrush",
+        "prompt": "Grasp the handle of the toothbrush.",
+        "filename": "toothbrush_4.jpg",
+        "gt_point": [
+          173.928571,
+          254.288524
+        ],
+        "pred_point": [
+          271.924067,
+          393.368558
+        ],
+        "error": 170.136336,
+        "normalized_error": 0.169052,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 730,
+        "label": "tray",
+        "prompt": "Grasp the edge of the tray.",
+        "filename": "tray_9.jpg",
+        "gt_point": [
+          268.714286,
+          277.111607
+        ],
+        "pred_point": [
+          249.823211,
+          274.138992
+        ],
+        "error": 19.123523,
+        "normalized_error": 0.025041,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 739,
+        "label": "tray",
+        "prompt": "Grasp the edge of the tray.",
+        "filename": "tray_18.jpg",
+        "gt_point": [
+          254.371429,
+          247.742857
+        ],
+        "pred_point": [
+          148.06333,
+          116.885974
+        ],
+        "error": 168.596962,
+        "normalized_error": 0.342575,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 722,
+        "label": "tray",
+        "prompt": "Grasp the edge of the tray.",
+        "filename": "tray_1.jpg",
+        "gt_point": [
+          416.285714,
+          106.285714
+        ],
+        "pred_point": [
+          232.418232,
+          306.873016
+        ],
+        "error": 272.107546,
+        "normalized_error": 0.340134,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 741,
+        "label": "tray",
+        "prompt": "Grasp the edge of the tray.",
+        "filename": "tray_20.jpg",
+        "gt_point": [
+          108.73117,
+          15.877031
+        ],
+        "pred_point": [
+          129.555494,
+          68.220636
+        ],
+        "error": 56.333875,
+        "normalized_error": 0.114466,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 349,
+        "label": "umbrella",
+        "prompt": "Grasp the handle of the umbrella.",
+        "filename": "umbrella_8.jpg",
+        "gt_point": [
+          164.7,
+          176.028679
+        ],
+        "pred_point": [
+          185.672614,
+          429.810905
+        ],
+        "error": 254.647343,
+        "normalized_error": 0.345396,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 346,
+        "label": "umbrella",
+        "prompt": "Grasp the handle of the umbrella.",
+        "filename": "umbrella_5.jpg",
+        "gt_point": [
+          1042.469866,
+          681.044587
+        ],
+        "pred_point": [
+          922.201294,
+          812.59988
+        ],
+        "error": 178.245125,
+        "normalized_error": 0.079574,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 342,
+        "label": "umbrella",
+        "prompt": "Grasp the handle of the umbrella.",
+        "filename": "umbrella_1.jpg",
+        "gt_point": [
+          720.091585,
+          119.204039
+        ],
+        "pred_point": [
+          1089.848969,
+          1455.767595
+        ],
+        "error": 1386.766982,
+        "normalized_error": 0.427539,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 347,
+        "label": "umbrella",
+        "prompt": "Grasp the handle of the umbrella.",
+        "filename": "umbrella_6.jpg",
+        "gt_point": [
+          471.046673,
+          689.204684
+        ],
+        "pred_point": [
+          520.128214,
+          851.877496
+        ],
+        "error": 169.915984,
+        "normalized_error": 0.1033,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 368,
+        "label": "wallet",
+        "prompt": "Grasp the body of the wallet.",
+        "filename": "wallet_7.jpg",
+        "gt_point": [
+          354.728559,
+          1447.777448
+        ],
+        "pred_point": [
+          494.900894,
+          1104.433441
+        ],
+        "error": 370.854945,
+        "normalized_error": 0.185427,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 370,
+        "label": "wallet",
+        "prompt": "Grasp the body of the wallet.",
+        "filename": "wallet_9.jpg",
+        "gt_point": [
+          582.998207,
+          375.335669
+        ],
+        "pred_point": [
+          490.18763,
+          381.876812
+        ],
+        "error": 93.040797,
+        "normalized_error": 0.07833,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 374,
+        "label": "wallet",
+        "prompt": "Grasp the body of the wallet.",
+        "filename": "wallet_13.jpg",
+        "gt_point": [
+          90.897534,
+          271.100612
+        ],
+        "pred_point": [
+          283.591522,
+          175.516376
+        ],
+        "error": 215.098394,
+        "normalized_error": 0.336091,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 380,
+        "label": "wallet",
+        "prompt": "Grasp the body of the wallet.",
+        "filename": "wallet_19.jpg",
+        "gt_point": [
+          226.349204,
+          165.714286
+        ],
+        "pred_point": [
+          147.957239,
+          143.916357
+        ],
+        "error": 81.366147,
+        "normalized_error": 0.191782,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 400,
+        "label": "watch",
+        "prompt": "Grasp the strap of the watch.",
+        "filename": "watch_19.jpg",
+        "gt_point": [
+          563.528666,
+          210.463211
+        ],
+        "pred_point": [
+          529.791504,
+          394.037307
+        ],
+        "error": 186.648453,
+        "normalized_error": 0.151707,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 383,
+        "label": "watch",
+        "prompt": "Grasp the strap of the watch.",
+        "filename": "watch_2.jpg",
+        "gt_point": [
+          517.786235,
+          1201.760873
+        ],
+        "pred_point": [
+          349.398664,
+          791.831677
+        ],
+        "error": 443.166244,
+        "normalized_error": 0.260016,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 401,
+        "label": "watch",
+        "prompt": "Grasp the strap of the watch.",
+        "filename": "watch_20.jpg",
+        "gt_point": [
+          301.999983,
+          272.857144
+        ],
+        "pred_point": [
+          214.613092,
+          284.860973
+        ],
+        "error": 88.207486,
+        "normalized_error": 0.120124,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      },
+      {
+        "id": 399,
+        "label": "watch",
+        "prompt": "Grasp the strap of the watch.",
+        "filename": "watch_18.jpg",
+        "gt_point": [
+          326.066891,
+          106.096853
+        ],
+        "pred_point": [
+          357.197342,
+          101.050233
+        ],
+        "error": 31.536857,
+        "normalized_error": 0.058863,
+        "score": null,
+        "best_label": null,
+        "status": "ok"
+      }
+    ]
+  }
+]

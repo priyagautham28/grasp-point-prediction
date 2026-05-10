@@ -1,0 +1,902 @@
+[
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/apple_18.jpg",
+    "label": "apple",
+    "pred_x": 228.21,
+    "pred_y": 149.35,
+    "gt_x": 248.52,
+    "gt_y": 153.52,
+    "pixel_error": 20.74
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/cup_18.jpg",
+    "label": "cup",
+    "pred_x": 637.17,
+    "pred_y": 390.66,
+    "gt_x": 511.9,
+    "gt_y": 460.53,
+    "pixel_error": 143.44
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/kettle_11.jpg",
+    "label": "kettle",
+    "pred_x": 346.53,
+    "pred_y": 203.14,
+    "gt_x": 103.62,
+    "gt_y": 216.89,
+    "pixel_error": 243.3
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/mouse_10.jpg",
+    "label": "mouse",
+    "pred_x": 342.26,
+    "pred_y": 282.42,
+    "gt_x": 270.51,
+    "gt_y": 197.9,
+    "pixel_error": 110.86
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/apple_16.jpg",
+    "label": "apple",
+    "pred_x": 666.41,
+    "pred_y": 984.89,
+    "gt_x": 674.49,
+    "gt_y": 859.0,
+    "pixel_error": 126.15
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/remote_18.jpg",
+    "label": "remote",
+    "pred_x": 400.45,
+    "pred_y": 186.49,
+    "gt_x": 265.33,
+    "gt_y": 405.0,
+    "pixel_error": 256.91
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/mug_14.jpg",
+    "label": "mug",
+    "pred_x": 261.73,
+    "pred_y": 254.11,
+    "gt_x": 246.49,
+    "gt_y": 249.21,
+    "pixel_error": 16.01
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/wallet_19.jpg",
+    "label": "wallet",
+    "pred_x": 478.65,
+    "pred_y": 513.41,
+    "gt_x": 506.01,
+    "gt_y": 499.38,
+    "pixel_error": 30.75
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/onion_19.jpg",
+    "label": "onion",
+    "pred_x": 286.74,
+    "pred_y": 141.45,
+    "gt_x": 428.69,
+    "gt_y": 271.78,
+    "pixel_error": 192.71
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/laptop_10.jpg",
+    "label": "laptop",
+    "pred_x": 560.51,
+    "pred_y": 274.85,
+    "gt_x": 385.75,
+    "gt_y": 164.32,
+    "pixel_error": 206.77
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/wallet_9.jpg",
+    "label": "wallet",
+    "pred_x": 553.66,
+    "pred_y": 504.62,
+    "gt_x": 575.04,
+    "gt_y": 575.99,
+    "pixel_error": 74.5
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/cup_2.jpg",
+    "label": "cup",
+    "pred_x": 861.38,
+    "pred_y": 602.1,
+    "gt_x": 1240.29,
+    "gt_y": 494.56,
+    "pixel_error": 393.88
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/keys_18.jpg",
+    "label": "keys",
+    "pred_x": 304.76,
+    "pred_y": 272.39,
+    "gt_x": 314.78,
+    "gt_y": 279.13,
+    "pixel_error": 12.08
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/tomato_8.jpg",
+    "label": "tomato",
+    "pred_x": 417.78,
+    "pred_y": 405.18,
+    "gt_x": 604.1,
+    "gt_y": 304.0,
+    "pixel_error": 212.02
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/keyboard_12.jpg",
+    "label": "keyboard",
+    "pred_x": 2114.1,
+    "pred_y": 1554.57,
+    "gt_x": 2279.93,
+    "gt_y": 1426.24,
+    "pixel_error": 209.68
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/kettle_18.jpg",
+    "label": "kettle",
+    "pred_x": 491.16,
+    "pred_y": 212.69,
+    "gt_x": 312.86,
+    "gt_y": 320.0,
+    "pixel_error": 208.11
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/knife_12.jpg",
+    "label": "knife",
+    "pred_x": 193.98,
+    "pred_y": 100.57,
+    "gt_x": 167.03,
+    "gt_y": 89.03,
+    "pixel_error": 29.31
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/plate_18.jpg",
+    "label": "plate",
+    "pred_x": 502.85,
+    "pred_y": 442.96,
+    "gt_x": 414.51,
+    "gt_y": 523.95,
+    "pixel_error": 119.85
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/bowl_6.jpg",
+    "label": "bowl",
+    "pred_x": 502.03,
+    "pred_y": 281.21,
+    "gt_x": 445.6,
+    "gt_y": 389.9,
+    "pixel_error": 122.47
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/toothbrush_14.jpg",
+    "label": "toothbrush",
+    "pred_x": 464.7,
+    "pred_y": 302.44,
+    "gt_x": 238.63,
+    "gt_y": 313.6,
+    "pixel_error": 226.34
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/spoon_12.jpg",
+    "label": "spoon",
+    "pred_x": 816.19,
+    "pred_y": 419.7,
+    "gt_x": 784.81,
+    "gt_y": 425.61,
+    "pixel_error": 31.93
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/phone_11.jpg",
+    "label": "phone",
+    "pred_x": 277.24,
+    "pred_y": 418.93,
+    "gt_x": 276.78,
+    "gt_y": 445.06,
+    "pixel_error": 26.12
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/notebook_16.jpg",
+    "label": "notebook",
+    "pred_x": 910.05,
+    "pred_y": 537.08,
+    "gt_x": 1478.13,
+    "gt_y": 1109.49,
+    "pixel_error": 806.46
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/kettle_4.jpg",
+    "label": "kettle",
+    "pred_x": 443.79,
+    "pred_y": 263.72,
+    "gt_x": 497.5,
+    "gt_y": 47.0,
+    "pixel_error": 223.28
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/marker_8.jpg",
+    "label": "marker",
+    "pred_x": 191.66,
+    "pred_y": 238.81,
+    "gt_x": 41.65,
+    "gt_y": 175.03,
+    "pixel_error": 163.01
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/bowl_15.jpg",
+    "label": "bowl",
+    "pred_x": 168.19,
+    "pred_y": 157.26,
+    "gt_x": 144.44,
+    "gt_y": 180.59,
+    "pixel_error": 33.29
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/bottle_4.jpg",
+    "label": "bottle",
+    "pred_x": 617.3,
+    "pred_y": 486.08,
+    "gt_x": 575.05,
+    "gt_y": 462.09,
+    "pixel_error": 48.58
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/laptop_4.jpg",
+    "label": "laptop",
+    "pred_x": 521.2,
+    "pred_y": 455.95,
+    "gt_x": 379.66,
+    "gt_y": 823.75,
+    "pixel_error": 394.1
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/fork_4.jpg",
+    "label": "fork",
+    "pred_x": 548.86,
+    "pred_y": 191.63,
+    "gt_x": 500.89,
+    "gt_y": 334.83,
+    "pixel_error": 151.02
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/umbrella_9.jpg",
+    "label": "umbrella",
+    "pred_x": 376.26,
+    "pred_y": 228.72,
+    "gt_x": 488.4,
+    "gt_y": 288.33,
+    "pixel_error": 127.0
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/fork_3.jpg",
+    "label": "fork",
+    "pred_x": 683.24,
+    "pred_y": 343.48,
+    "gt_x": 959.42,
+    "gt_y": 329.64,
+    "pixel_error": 276.53
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/bag_10.jpg",
+    "label": "bag",
+    "pred_x": 590.64,
+    "pred_y": 582.89,
+    "gt_x": 811.09,
+    "gt_y": 732.14,
+    "pixel_error": 266.21
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/jar_13.jpg",
+    "label": "jar",
+    "pred_x": 589.89,
+    "pred_y": 261.18,
+    "gt_x": 398.86,
+    "gt_y": 34.17,
+    "pixel_error": 296.69
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/pen_0.jpg",
+    "label": "pen",
+    "pred_x": 513.24,
+    "pred_y": 486.61,
+    "gt_x": 436.8,
+    "gt_y": 222.5,
+    "pixel_error": 274.95
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/wallet_10.jpg",
+    "label": "wallet",
+    "pred_x": 492.08,
+    "pred_y": 385.67,
+    "gt_x": 644.76,
+    "gt_y": 533.84,
+    "pixel_error": 212.75
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/cup_11.jpg",
+    "label": "cup",
+    "pred_x": 565.79,
+    "pred_y": 636.15,
+    "gt_x": 544.55,
+    "gt_y": 722.18,
+    "pixel_error": 88.61
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/knife_5.jpg",
+    "label": "knife",
+    "pred_x": 558.23,
+    "pred_y": 318.6,
+    "gt_x": 565.99,
+    "gt_y": 155.47,
+    "pixel_error": 163.31
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/phone_8.jpg",
+    "label": "phone",
+    "pred_x": 394.95,
+    "pred_y": 296.37,
+    "gt_x": 502.57,
+    "gt_y": 324.86,
+    "pixel_error": 111.32
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/scissor_7.jpg",
+    "label": "scissor",
+    "pred_x": 596.35,
+    "pred_y": 408.08,
+    "gt_x": 944.44,
+    "gt_y": 25.82,
+    "pixel_error": 516.99
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/scissor_11.jpg",
+    "label": "scissor",
+    "pred_x": 347.63,
+    "pred_y": 145.97,
+    "gt_x": 407.61,
+    "gt_y": 242.72,
+    "pixel_error": 113.83
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/calculator_18.jpg",
+    "label": "calculator",
+    "pred_x": 280.63,
+    "pred_y": 349.58,
+    "gt_x": 573.36,
+    "gt_y": 604.0,
+    "pixel_error": 387.85
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/notebook_12.jpg",
+    "label": "notebook",
+    "pred_x": 426.61,
+    "pred_y": 300.08,
+    "gt_x": 382.57,
+    "gt_y": 495.03,
+    "pixel_error": 199.87
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/fork_9.jpg",
+    "label": "fork",
+    "pred_x": 555.92,
+    "pred_y": 325.76,
+    "gt_x": 617.88,
+    "gt_y": 189.28,
+    "pixel_error": 149.89
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/shoe_8.jpg",
+    "label": "shoe",
+    "pred_x": 409.41,
+    "pred_y": 333.24,
+    "gt_x": 424.62,
+    "gt_y": 326.16,
+    "pixel_error": 16.78
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/marker_14.jpg",
+    "label": "marker",
+    "pred_x": 829.06,
+    "pred_y": 547.14,
+    "gt_x": 953.12,
+    "gt_y": 746.16,
+    "pixel_error": 234.52
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/pen_7.jpg",
+    "label": "pen",
+    "pred_x": 326.11,
+    "pred_y": 296.64,
+    "gt_x": 301.17,
+    "gt_y": 324.17,
+    "pixel_error": 37.15
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/bowl_14.jpg",
+    "label": "bowl",
+    "pred_x": 608.3,
+    "pred_y": 369.56,
+    "gt_x": 738.12,
+    "gt_y": 336.14,
+    "pixel_error": 134.05
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/kettle_19.jpg",
+    "label": "kettle",
+    "pred_x": 724.4,
+    "pred_y": 515.65,
+    "gt_x": 551.08,
+    "gt_y": 511.51,
+    "pixel_error": 173.37
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/tape_4.jpg",
+    "label": "tape",
+    "pred_x": 306.54,
+    "pred_y": 180.93,
+    "gt_x": 305.4,
+    "gt_y": 199.96,
+    "pixel_error": 19.07
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/apple_6.jpg",
+    "label": "apple",
+    "pred_x": 391.99,
+    "pred_y": 662.75,
+    "gt_x": 407.02,
+    "gt_y": 500.29,
+    "pixel_error": 163.15
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/apple_13.jpg",
+    "label": "apple",
+    "pred_x": 1102.75,
+    "pred_y": 866.61,
+    "gt_x": 884.38,
+    "gt_y": 910.13,
+    "pixel_error": 222.67
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/keyboard_8.jpg",
+    "label": "keyboard",
+    "pred_x": 454.06,
+    "pred_y": 506.09,
+    "gt_x": 504.67,
+    "gt_y": 189.87,
+    "pixel_error": 320.24
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/marker_10.jpg",
+    "label": "marker",
+    "pred_x": 820.57,
+    "pred_y": 369.91,
+    "gt_x": 726.3,
+    "gt_y": 594.45,
+    "pixel_error": 243.53
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/umbrella_0.jpg",
+    "label": "umbrella",
+    "pred_x": 576.3,
+    "pred_y": 368.9,
+    "gt_x": 550.89,
+    "gt_y": 447.83,
+    "pixel_error": 82.92
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/tomato_19.jpg",
+    "label": "tomato",
+    "pred_x": 410.13,
+    "pred_y": 356.48,
+    "gt_x": 563.5,
+    "gt_y": 366.5,
+    "pixel_error": 153.69
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/keys_11.jpg",
+    "label": "keys",
+    "pred_x": 380.2,
+    "pred_y": 136.33,
+    "gt_x": 356.97,
+    "gt_y": 174.34,
+    "pixel_error": 44.55
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/cup_17.jpg",
+    "label": "cup",
+    "pred_x": 402.23,
+    "pred_y": 181.36,
+    "gt_x": 401.38,
+    "gt_y": 297.5,
+    "pixel_error": 116.14
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/umbrella_13.jpg",
+    "label": "umbrella",
+    "pred_x": 760.38,
+    "pred_y": 253.19,
+    "gt_x": 891.41,
+    "gt_y": 257.76,
+    "pixel_error": 131.11
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/phone_5.jpg",
+    "label": "phone",
+    "pred_x": 301.6,
+    "pred_y": 161.0,
+    "gt_x": 259.97,
+    "gt_y": 151.69,
+    "pixel_error": 42.65
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/mouse_11.jpg",
+    "label": "mouse",
+    "pred_x": 1022.38,
+    "pred_y": 613.05,
+    "gt_x": 1467.31,
+    "gt_y": 966.44,
+    "pixel_error": 568.2
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/jar_1.jpg",
+    "label": "jar",
+    "pred_x": 180.22,
+    "pred_y": 242.3,
+    "gt_x": 213.79,
+    "gt_y": 163.61,
+    "pixel_error": 85.55
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/tape_10.jpg",
+    "label": "tape",
+    "pred_x": 511.05,
+    "pred_y": 308.2,
+    "gt_x": 516.38,
+    "gt_y": 317.62,
+    "pixel_error": 10.83
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/stapler_4.jpg",
+    "label": "stapler",
+    "pred_x": 754.89,
+    "pred_y": 409.68,
+    "gt_x": 1101.78,
+    "gt_y": 554.74,
+    "pixel_error": 376.0
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/notebook_8.jpg",
+    "label": "notebook",
+    "pred_x": 569.43,
+    "pred_y": 485.56,
+    "gt_x": 1002.82,
+    "gt_y": 644.45,
+    "pixel_error": 461.6
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/charger_6.jpg",
+    "label": "charger",
+    "pred_x": 319.4,
+    "pred_y": 249.91,
+    "gt_x": 442.12,
+    "gt_y": 164.3,
+    "pixel_error": 149.63
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/onion_10.jpg",
+    "label": "onion",
+    "pred_x": 742.16,
+    "pred_y": 618.6,
+    "gt_x": 606.81,
+    "gt_y": 1358.92,
+    "pixel_error": 752.59
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/knife_16.jpg",
+    "label": "knife",
+    "pred_x": 527.59,
+    "pred_y": 351.45,
+    "gt_x": 736.67,
+    "gt_y": 167.5,
+    "pixel_error": 278.48
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/wallet_0.jpg",
+    "label": "wallet",
+    "pred_x": 268.38,
+    "pred_y": 198.91,
+    "gt_x": 341.69,
+    "gt_y": 271.27,
+    "pixel_error": 103.0
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/bowl_9.jpg",
+    "label": "bowl",
+    "pred_x": 313.93,
+    "pred_y": 300.05,
+    "gt_x": 351.25,
+    "gt_y": 356.67,
+    "pixel_error": 67.81
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/stapler_11.jpg",
+    "label": "stapler",
+    "pred_x": 462.4,
+    "pred_y": 271.79,
+    "gt_x": 767.33,
+    "gt_y": 167.74,
+    "pixel_error": 322.2
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/mug_18.jpg",
+    "label": "mug",
+    "pred_x": 574.51,
+    "pred_y": 227.33,
+    "gt_x": 512.36,
+    "gt_y": 95.57,
+    "pixel_error": 145.69
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/stapler_2.jpg",
+    "label": "stapler",
+    "pred_x": 162.52,
+    "pred_y": 224.12,
+    "gt_x": 132.57,
+    "gt_y": 60.12,
+    "pixel_error": 166.71
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/book_0.jpg",
+    "label": "book",
+    "pred_x": 1945.87,
+    "pred_y": 591.9,
+    "gt_x": 1711.85,
+    "gt_y": 694.96,
+    "pixel_error": 255.71
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/bowl_17.jpg",
+    "label": "bowl",
+    "pred_x": 414.75,
+    "pred_y": 283.88,
+    "gt_x": 678.0,
+    "gt_y": 309.25,
+    "pixel_error": 264.48
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/book_14.jpg",
+    "label": "book",
+    "pred_x": 834.28,
+    "pred_y": 934.11,
+    "gt_x": 842.71,
+    "gt_y": 1385.75,
+    "pixel_error": 451.72
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/onion_0.jpg",
+    "label": "onion",
+    "pred_x": 375.86,
+    "pred_y": 539.17,
+    "gt_x": 403.0,
+    "gt_y": 545.94,
+    "pixel_error": 27.97
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/laptop_0.jpg",
+    "label": "laptop",
+    "pred_x": 197.37,
+    "pred_y": 298.02,
+    "gt_x": 337.24,
+    "gt_y": 379.08,
+    "pixel_error": 161.66
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/fork_10.jpg",
+    "label": "fork",
+    "pred_x": 837.16,
+    "pred_y": 376.04,
+    "gt_x": 1061.46,
+    "gt_y": 907.64,
+    "pixel_error": 576.98
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/calculator_10.jpg",
+    "label": "calculator",
+    "pred_x": 341.63,
+    "pred_y": 381.7,
+    "gt_x": 257.8,
+    "gt_y": 555.4,
+    "pixel_error": 192.87
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/notebook_11.jpg",
+    "label": "notebook",
+    "pred_x": 1128.66,
+    "pred_y": 1009.57,
+    "gt_x": 1192.08,
+    "gt_y": 744.9,
+    "pixel_error": 272.16
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/wallet_1.jpg",
+    "label": "wallet",
+    "pred_x": 274.88,
+    "pred_y": 601.2,
+    "gt_x": 424.57,
+    "gt_y": 468.43,
+    "pixel_error": 200.09
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/laptop_8.jpg",
+    "label": "laptop",
+    "pred_x": 332.75,
+    "pred_y": 225.26,
+    "gt_x": 464.93,
+    "gt_y": 312.85,
+    "pixel_error": 158.57
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/umbrella_12.jpg",
+    "label": "umbrella",
+    "pred_x": 595.18,
+    "pred_y": 340.11,
+    "gt_x": 507.75,
+    "gt_y": 322.07,
+    "pixel_error": 89.27
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/calculator_13.jpg",
+    "label": "calculator",
+    "pred_x": 302.5,
+    "pred_y": 175.55,
+    "gt_x": 318.48,
+    "gt_y": 223.86,
+    "pixel_error": 50.88
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/tape_1.jpg",
+    "label": "tape",
+    "pred_x": 277.96,
+    "pred_y": 149.74,
+    "gt_x": 272.31,
+    "gt_y": 139.86,
+    "pixel_error": 11.38
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/stapler_3.jpg",
+    "label": "stapler",
+    "pred_x": 493.05,
+    "pred_y": 307.89,
+    "gt_x": 248.77,
+    "gt_y": 303.76,
+    "pixel_error": 244.32
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/notebook_7.jpg",
+    "label": "notebook",
+    "pred_x": 383.42,
+    "pred_y": 304.87,
+    "gt_x": 385.69,
+    "gt_y": 208.71,
+    "pixel_error": 96.19
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/mouse_0.jpg",
+    "label": "mouse",
+    "pred_x": 415.01,
+    "pred_y": 479.38,
+    "gt_x": 503.18,
+    "gt_y": 461.67,
+    "pixel_error": 89.92
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/backpack_7.jpg",
+    "label": "backpack",
+    "pred_x": 373.44,
+    "pred_y": 195.99,
+    "gt_x": 110.37,
+    "gt_y": 284.61,
+    "pixel_error": 277.6
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/fork_7.jpg",
+    "label": "fork",
+    "pred_x": 392.39,
+    "pred_y": 195.94,
+    "gt_x": 188.23,
+    "gt_y": 269.65,
+    "pixel_error": 217.06
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/knife_3.jpg",
+    "label": "knife",
+    "pred_x": 478.78,
+    "pred_y": 453.44,
+    "gt_x": 748.04,
+    "gt_y": 1233.47,
+    "pixel_error": 825.19
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/keyboard_2.jpg",
+    "label": "keyboard",
+    "pred_x": 278.91,
+    "pred_y": 157.23,
+    "gt_x": 217.95,
+    "gt_y": 163.7,
+    "pixel_error": 61.3
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/bowl_16.jpg",
+    "label": "bowl",
+    "pred_x": 282.07,
+    "pred_y": 196.5,
+    "gt_x": 242.4,
+    "gt_y": 203.2,
+    "pixel_error": 40.23
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/onion_17.jpg",
+    "label": "onion",
+    "pred_x": 424.28,
+    "pred_y": 400.54,
+    "gt_x": 315.09,
+    "gt_y": 786.22,
+    "pixel_error": 400.84
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/charger_16.jpg",
+    "label": "charger",
+    "pred_x": 291.11,
+    "pred_y": 234.99,
+    "gt_x": 392.94,
+    "gt_y": 320.49,
+    "pixel_error": 132.96
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/book_16.jpg",
+    "label": "book",
+    "pred_x": 310.82,
+    "pred_y": 169.21,
+    "gt_x": 314.29,
+    "gt_y": 199.54,
+    "pixel_error": 30.53
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/scissor_3.jpg",
+    "label": "scissor",
+    "pred_x": 540.41,
+    "pred_y": 283.92,
+    "gt_x": 873.87,
+    "gt_y": 329.36,
+    "pixel_error": 336.54
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/apple_17.jpg",
+    "label": "apple",
+    "pred_x": 548.53,
+    "pred_y": 299.23,
+    "gt_x": 509.76,
+    "gt_y": 324.81,
+    "pixel_error": 46.45
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/onion_9.jpg",
+    "label": "onion",
+    "pred_x": 674.07,
+    "pred_y": 368.82,
+    "gt_x": 919.85,
+    "gt_y": 605.98,
+    "pixel_error": 341.55
+  },
+  {
+    "image_path": "/content/drive/MyDrive/eng521/Grasp Point Prediction/data/pixmo_subset_v2/images/book_12.jpg",
+    "label": "book",
+    "pred_x": 569.96,
+    "pred_y": 310.65,
+    "gt_x": 451.62,
+    "gt_y": 381.75,
+    "pixel_error": 138.06
+  }
+]
