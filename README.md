@@ -20,6 +20,7 @@ outputs/        ← metrics and results
 Pixmo subset v3 — images with language-guided grasp point annotations
 
 ## Preliminary Results
+![Comparative evaluation of all three models](outputs/evaluation/fig_combined_4panel.png)
 
 ## Acknowledgements
 - [CLIP](https://github.com/openai/CLIP) — OpenAI
