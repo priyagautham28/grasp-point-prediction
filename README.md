@@ -22,6 +22,11 @@ Pixmo subset v3 — images with language-guided grasp point annotations
 ## Preliminary Results
 ![Comparative evaluation of all three models](outputs/evaluation/fig_combined_4panel.png)
 
+CLIP:
+![Data visualization of Clip](outputs/Clip_v3_patch16/clip_patch_final.png)
+FLORENCE-2:
+![Data visualization of FLORENCE-2](outputs/florence2_preliminary_results/florence2_data_visualization.png)
+
 ## Acknowledgements
 - [CLIP](https://github.com/openai/CLIP) — OpenAI
 - [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) — IDEA Research
