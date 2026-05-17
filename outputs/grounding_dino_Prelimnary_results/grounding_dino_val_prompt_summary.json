@@ -1,0 +1,56 @@
+[
+  {
+    "template": "point to the {label}.",
+    "mean_error": 18.62442722775375,
+    "mean_normalized_error": 0.13169458788460048,
+    "success_rate": 0.4371584699453552,
+    "detection_rate": 0.9180327868852459,
+    "num_samples": 183,
+    "num_valid": 168
+  },
+  {
+    "template": "grasp the {label}.",
+    "mean_error": 19.2453613043356,
+    "mean_normalized_error": 0.1360852548468088,
+    "success_rate": 0.4644808743169399,
+    "detection_rate": 0.9836065573770492,
+    "num_samples": 183,
+    "num_valid": 180
+  },
+  {
+    "template": "{label}.",
+    "mean_error": 19.46448045684837,
+    "mean_normalized_error": 0.13763466123310508,
+    "success_rate": 0.4207650273224044,
+    "detection_rate": 0.8633879781420765,
+    "num_samples": 183,
+    "num_valid": 158
+  },
+  {
+    "template": "hold the {label}.",
+    "mean_error": 20.01349255665399,
+    "mean_normalized_error": 0.1415167630203653,
+    "success_rate": 0.44808743169398907,
+    "detection_rate": 0.9836065573770492,
+    "num_samples": 183,
+    "num_valid": 180
+  },
+  {
+    "template": "point to where you would grasp this {label}.",
+    "mean_error": 20.071846778767018,
+    "mean_normalized_error": 0.14192938968203517,
+    "success_rate": 0.3825136612021858,
+    "detection_rate": 0.8688524590163934,
+    "num_samples": 183,
+    "num_valid": 159
+  },
+  {
+    "template": "pick up the {label}.",
+    "mean_error": 20.22868720138587,
+    "mean_normalized_error": 0.14303841894601474,
+    "success_rate": 0.44808743169398907,
+    "detection_rate": 0.9890710382513661,
+    "num_samples": 183,
+    "num_valid": 181
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": 4,
+  "filename": "/content/drive/MyDrive/Grasp Point Prediction/data/pixmo_subset_v3/images/backpack_5.jpg",
+  "prompts": [
+    {
+      "prompt": "backpack.",
+      "detections": [
+        {
+          "box": [
+            595.96240234375,
+            342.8235778808594,
+            677.31103515625,
+            458.11944580078125
+          ],
+          "score": 0.6455510258674622,
+          "label": "backpack"
+        }
+      ]
+    },
+    {
+      "prompt": "point to the backpack.",
+      "detections": [
+        {
+          "box": [
+            594.7382202148438,
+            342.35150146484375,
+            676.8517456054688,
+            459.4765625
+          ],
+          "score": 0.6109600067138672,
+          "label": "the backpack"
+        }
+      ]
+    },
+    {
+      "prompt": "point to where you would grasp this backpack.",
+      "detections": [
+        {
+          "box": [
+            593.4208984375,
+            342.1051025390625,
+            677.9212036132812,
+            461.0347595214844
+          ],
+          "score": 0.5931749939918518,
+          "label": "this backpack"
+        }
+      ]
+    },
+    {
+      "prompt": "grasp the backpack.",
+      "detections": [
+        {
+          "box": [
+            594.2896118164062,
+            342.64544677734375,
+            677.2079467773438,
+            461.36810302734375
+          ],
+          "score": 0.759243905544281,
+          "label": "the backpack"
+        }
+      ]
+    },
+    {
+      "prompt": "hold the backpack.",
+      "detections": [
+        {
+          "box": [
+            594.4880981445312,
+            342.83392333984375,
+            676.8528442382812,
+            460.72442626953125
+          ],
+          "score": 0.6999508142471313,
+          "label": "the backpack"
+        }
+      ]
+    },
+    {
+      "prompt": "pick up the backpack.",
+      "detections": [
+        {
+          "box": [
+            594.2349243164062,
+            342.1456298828125,
+            677.3800659179688,
+            461.43218994140625
+          ],
+          "score": 0.7328650951385498,
+          "label": "the backpack"
+        }
+      ]
+    }
+  ],
+  "gt_point": [
+    79.34523809523809,
+    31.349206349206348
+  ]
+}

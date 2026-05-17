@@ -1,0 +1,3416 @@
+[
+  {
+    "id": 409,
+    "label": "apple",
+    "prompt": "point to the apple.",
+    "filename": "apple_8.jpg",
+    "gt_point": [
+      32.976190476190474,
+      55.833333333333336
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 410,
+    "label": "apple",
+    "prompt": "point to the apple.",
+    "filename": "apple_9.jpg",
+    "gt_point": [
+      24.404761904761905,
+      53.69047619047619
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 402,
+    "label": "apple",
+    "prompt": "point to the apple.",
+    "filename": "apple_1.jpg",
+    "gt_point": [
+      54.70707053083523,
+      22.501832791106523
+    ],
+    "pred_point": [
+      57.620121002197266,
+      47.03763961791992
+    ],
+    "error": 24.708128989941624,
+    "normalized_error": 0.17471285559219643,
+    "score": 0.8068807125091553,
+    "best_label": "apple",
+    "status": "ok"
+  },
+  {
+    "id": 405,
+    "label": "apple",
+    "prompt": "point to the apple.",
+    "filename": "apple_4.jpg",
+    "gt_point": [
+      43.18144547264847,
+      52.68248935011691
+    ],
+    "pred_point": [
+      48.50273513793945,
+      45.23274612426758
+    ],
+    "error": 9.155040465785817,
+    "normalized_error": 0.064735911953944,
+    "score": 0.3863421380519867,
+    "best_label": "the apple",
+    "status": "ok"
+  },
+  {
+    "id": 13,
+    "label": "backpack",
+    "prompt": "point to the backpack.",
+    "filename": "backpack_14.jpg",
+    "gt_point": [
+      67.17371463340433,
+      76.10751723990691
+    ],
+    "pred_point": [
+      64.7640380859375,
+      77.98292541503906
+    ],
+    "error": 3.053474517151255,
+    "normalized_error": 0.021591325372579715,
+    "score": 0.40497803688049316,
+    "best_label": "backpack",
+    "status": "ok"
+  },
+  {
+    "id": 19,
+    "label": "backpack",
+    "prompt": "point to the backpack.",
+    "filename": "backpack_20.jpg",
+    "gt_point": [
+      39.57468169579702,
+      44.392248972401646
+    ],
+    "pred_point": [
+      50.48213195800781,
+      49.051570892333984
+    ],
+    "error": 11.86093495278098,
+    "normalized_error": 0.08386947536323973,
+    "score": 0.6099209785461426,
+    "best_label": "the backpack",
+    "status": "ok"
+  },
+  {
+    "id": 6,
+    "label": "backpack",
+    "prompt": "point to the backpack.",
+    "filename": "backpack_7.jpg",
+    "gt_point": [
+      24.583333333333332,
+      63.4383541936412
+    ],
+    "pred_point": [
+      25.46280860900879,
+      62.816627502441406
+    ],
+    "error": 1.0770422986082455,
+    "normalized_error": 0.007615839129706368,
+    "score": 0.5165088772773743,
+    "best_label": "the backpack",
+    "status": "ok"
+  },
+  {
+    "id": 17,
+    "label": "backpack",
+    "prompt": "point to the backpack.",
+    "filename": "backpack_18.jpg",
+    "gt_point": [
+      59.219192048924505,
+      89.45593980821506
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 28,
+    "label": "bag",
+    "prompt": "point to the bag.",
+    "filename": "bag_9.jpg",
+    "gt_point": [
+      14.836223506743737,
+      10.47915254267401
+    ],
+    "pred_point": [
+      46.833438873291016,
+      60.45836639404297
+    ],
+    "error": 59.34428070457801,
+    "normalized_error": 0.41962743310845096,
+    "score": 0.5372921824455261,
+    "best_label": "bag",
+    "status": "ok"
+  },
+  {
+    "id": 38,
+    "label": "bag",
+    "prompt": "point to the bag.",
+    "filename": "bag_19.jpg",
+    "gt_point": [
+      39.76190476190476,
+      85.55555555555556
+    ],
+    "pred_point": [
+      51.38813400268555,
+      77.51795959472656
+    ],
+    "error": 14.134077817874031,
+    "normalized_error": 0.09994302270837087,
+    "score": 0.46942874789237976,
+    "best_label": "the bag",
+    "status": "ok"
+  },
+  {
+    "id": 31,
+    "label": "bag",
+    "prompt": "point to the bag.",
+    "filename": "bag_12.jpg",
+    "gt_point": [
+      71.22448380298326,
+      44.50470071412655
+    ],
+    "pred_point": [
+      69.30638122558594,
+      40.38932418823242
+    ],
+    "error": 4.540423558512822,
+    "normalized_error": 0.03210564287683572,
+    "score": 0.5074121952056885,
+    "best_label": "bag",
+    "status": "ok"
+  },
+  {
+    "id": 23,
+    "label": "bag",
+    "prompt": "point to the bag.",
+    "filename": "bag_4.jpg",
+    "gt_point": [
+      66.59184692180787,
+      81.71174231397906
+    ],
+    "pred_point": [
+      86.2632827758789,
+      80.8648681640625
+    ],
+    "error": 19.68965374504106,
+    "normalized_error": 0.13922687682333634,
+    "score": 0.35125887393951416,
+    "best_label": "bag",
+    "status": "ok"
+  },
+  {
+    "id": 751,
+    "label": "basket",
+    "prompt": "point to the basket.",
+    "filename": "basket_10.jpg",
+    "gt_point": [
+      73.35157532640137,
+      84.79644707623983
+    ],
+    "pred_point": [
+      36.629913330078125,
+      42.236907958984375
+    ],
+    "error": 56.212053172562555,
+    "normalized_error": 0.39747923982737765,
+    "score": 0.5831659436225891,
+    "best_label": "basket",
+    "status": "ok"
+  },
+  {
+    "id": 749,
+    "label": "basket",
+    "prompt": "point to the basket.",
+    "filename": "basket_8.jpg",
+    "gt_point": [
+      13.99175664874861,
+      66.31570151249268
+    ],
+    "pred_point": [
+      12.154446601867676,
+      65.23783111572266
+    ],
+    "error": 2.130145071220404,
+    "normalized_error": 0.015062400247710488,
+    "score": 0.5705103278160095,
+    "best_label": "basket",
+    "status": "ok"
+  },
+  {
+    "id": 743,
+    "label": "basket",
+    "prompt": "point to the basket.",
+    "filename": "basket_2.jpg",
+    "gt_point": [
+      87.5297619047619,
+      92.50744047619047
+    ],
+    "pred_point": [
+      90.20801544189453,
+      90.73216247558594
+    ],
+    "error": 3.2131987171810197,
+    "normalized_error": 0.022720746022186145,
+    "score": 0.5755916237831116,
+    "best_label": "the basket",
+    "status": "ok"
+  },
+  {
+    "id": 744,
+    "label": "basket",
+    "prompt": "point to the basket.",
+    "filename": "basket_3.jpg",
+    "gt_point": [
+      40.170897873674136,
+      80.53085162036399
+    ],
+    "pred_point": [
+      47.31523895263672,
+      80.34437561035156
+    ],
+    "error": 7.146773948338673,
+    "normalized_error": 0.05053532322477632,
+    "score": 0.5410574078559875,
+    "best_label": "basket",
+    "status": "ok"
+  },
+  {
+    "id": 429,
+    "label": "book",
+    "prompt": "point to the book.",
+    "filename": "book_8.jpg",
+    "gt_point": [
+      42.09405973524912,
+      85.98576439737084
+    ],
+    "pred_point": [
+      77.54962921142578,
+      73.66960906982422
+    ],
+    "error": 37.53378523649976,
+    "normalized_error": 0.26540394064328504,
+    "score": 0.5008760690689087,
+    "best_label": "book",
+    "status": "ok"
+  },
+  {
+    "id": 439,
+    "label": "book",
+    "prompt": "point to the book.",
+    "filename": "book_18.jpg",
+    "gt_point": [
+      76.47618974958147,
+      15.214286077590216
+    ],
+    "pred_point": [
+      53.52035903930664,
+      53.98740005493164
+    ],
+    "error": 45.05912186106854,
+    "normalized_error": 0.31861610622272574,
+    "score": 0.5199779868125916,
+    "best_label": "book",
+    "status": "ok"
+  },
+  {
+    "id": 427,
+    "label": "book",
+    "prompt": "point to the book.",
+    "filename": "book_6.jpg",
+    "gt_point": [
+      50.17857142857143,
+      33.860735688673806
+    ],
+    "pred_point": [
+      46.65132522583008,
+      45.98307418823242
+    ],
+    "error": 12.625074934028857,
+    "normalized_error": 0.08927276098840109,
+    "score": 0.47669294476509094,
+    "best_label": "the book",
+    "status": "ok"
+  },
+  {
+    "id": 441,
+    "label": "book",
+    "prompt": "point to the book.",
+    "filename": "book_20.jpg",
+    "gt_point": [
+      49.50987378656151,
+      51.17117117117117
+    ],
+    "pred_point": [
+      50.01271438598633,
+      49.896629333496094
+    ],
+    "error": 1.3701467694374223,
+    "normalized_error": 0.009688400718900423,
+    "score": 0.5968801379203796,
+    "best_label": "the book",
+    "status": "ok"
+  },
+  {
+    "id": 461,
+    "label": "bottle",
+    "prompt": "point to the bottle.",
+    "filename": "bottle_20.jpg",
+    "gt_point": [
+      38.81797738574098,
+      47.57024607241399
+    ],
+    "pred_point": [
+      38.400001525878906,
+      41.721473693847656
+    ],
+    "error": 5.863690142825118,
+    "normalized_error": 0.04146255062768356,
+    "score": 0.5380768179893494,
+    "best_label": "bottle",
+    "status": "ok"
+  },
+  {
+    "id": 452,
+    "label": "bottle",
+    "prompt": "point to the bottle.",
+    "filename": "bottle_11.jpg",
+    "gt_point": [
+      9.821428571428571,
+      64.00952995483199
+    ],
+    "pred_point": [
+      8.794504165649414,
+      65.12744903564453
+    ],
+    "error": 1.517998086171709,
+    "normalized_error": 0.010733867405602166,
+    "score": 0.5449130535125732,
+    "best_label": "bottle",
+    "status": "ok"
+  },
+  {
+    "id": 460,
+    "label": "bottle",
+    "prompt": "point to the bottle.",
+    "filename": "bottle_19.jpg",
+    "gt_point": [
+      4.821428571428572,
+      27.936507936507937
+    ],
+    "pred_point": [
+      5.644834041595459,
+      24.00274085998535
+    ],
+    "error": 4.019019921998751,
+    "normalized_error": 0.028418762405691463,
+    "score": 0.4074237048625946,
+    "best_label": "bottle",
+    "status": "ok"
+  },
+  {
+    "id": 448,
+    "label": "bottle",
+    "prompt": "point to the bottle.",
+    "filename": "bottle_7.jpg",
+    "gt_point": [
+      90.6547619047619,
+      10.885871232189166
+    ],
+    "pred_point": [
+      87.67459106445312,
+      18.74523162841797
+    ],
+    "error": 8.405413164085653,
+    "normalized_error": 0.05943524646999639,
+    "score": 0.6203175187110901,
+    "best_label": "bottle",
+    "status": "ok"
+  },
+  {
+    "id": 464,
+    "label": "bowl",
+    "prompt": "point to the bowl.",
+    "filename": "bowl_3.jpg",
+    "gt_point": [
+      22.26190476190476,
+      66.25
+    ],
+    "pred_point": [
+      55.183284759521484,
+      61.106727600097656
+    ],
+    "error": 33.3207218981297,
+    "normalized_error": 0.23561308408198597,
+    "score": 0.6226687431335449,
+    "best_label": "bowl",
+    "status": "ok"
+  },
+  {
+    "id": 477,
+    "label": "bowl",
+    "prompt": "point to the bowl.",
+    "filename": "bowl_16.jpg",
+    "gt_point": [
+      89.81216543555404,
+      66.6049926416941
+    ],
+    "pred_point": [
+      75.33135223388672,
+      36.09823226928711
+    ],
+    "error": 33.76916592666767,
+    "normalized_error": 0.2387840622176041,
+    "score": 0.6890577077865601,
+    "best_label": "bowl",
+    "status": "ok"
+  },
+  {
+    "id": 478,
+    "label": "bowl",
+    "prompt": "point to the bowl.",
+    "filename": "bowl_17.jpg",
+    "gt_point": [
+      62.202380952380956,
+      82.11640211640213
+    ],
+    "pred_point": [
+      58.65928649902344,
+      85.1220703125
+    ],
+    "error": 4.646241767389548,
+    "normalized_error": 0.03285389060753319,
+    "score": 0.4430707097053528,
+    "best_label": "bowl",
+    "status": "ok"
+  },
+  {
+    "id": 466,
+    "label": "bowl",
+    "prompt": "point to the bowl.",
+    "filename": "bowl_5.jpg",
+    "gt_point": [
+      3.115485400003301,
+      53.57159757241
+    ],
+    "pred_point": [
+      4.530515193939209,
+      52.69219207763672
+    ],
+    "error": 1.666032511546161,
+    "normalized_error": 0.011780628865915454,
+    "score": 0.47148647904396057,
+    "best_label": "bowl",
+    "status": "ok"
+  },
+  {
+    "id": 50,
+    "label": "calculator",
+    "prompt": "point to the calculator.",
+    "filename": "calculator_11.jpg",
+    "gt_point": [
+      77.5,
+      58.72788339803082
+    ],
+    "pred_point": [
+      41.16969299316406,
+      28.38990020751953
+    ],
+    "error": 47.33164294452629,
+    "normalized_error": 0.3346852569077494,
+    "score": 0.4224367141723633,
+    "best_label": "the calculator",
+    "status": "ok"
+  },
+  {
+    "id": 48,
+    "label": "calculator",
+    "prompt": "point to the calculator.",
+    "filename": "calculator_9.jpg",
+    "gt_point": [
+      44.21428498767671,
+      51.26190548851377
+    ],
+    "pred_point": [
+      25.849756240844727,
+      56.926124572753906
+    ],
+    "error": 19.218203752399702,
+    "normalized_error": 0.13589322195546583,
+    "score": 0.5808080434799194,
+    "best_label": "the calculator",
+    "status": "ok"
+  },
+  {
+    "id": 57,
+    "label": "calculator",
+    "prompt": "point to the calculator.",
+    "filename": "calculator_18.jpg",
+    "gt_point": [
+      46.862763524731385,
+      78.05368705601308
+    ],
+    "pred_point": [
+      44.60907745361328,
+      77.14689636230469
+    ],
+    "error": 2.429272975089461,
+    "normalized_error": 0.017177553940389768,
+    "score": 0.586824357509613,
+    "best_label": "calculator",
+    "status": "ok"
+  },
+  {
+    "id": 43,
+    "label": "calculator",
+    "prompt": "point to the calculator.",
+    "filename": "calculator_4.jpg",
+    "gt_point": [
+      53.01227078874844,
+      93.72091750150545
+    ],
+    "pred_point": [
+      43.5670166015625,
+      83.72722625732422
+    ],
+    "error": 13.750879987820893,
+    "normalized_error": 0.09723340486670543,
+    "score": 0.6078593134880066,
+    "best_label": "the calculator",
+    "status": "ok"
+  },
+  {
+    "id": 60,
+    "label": "charger",
+    "prompt": "point to the charger.",
+    "filename": "charger_1.jpg",
+    "gt_point": [
+      47.98337209877765,
+      81.54662740691953
+    ],
+    "pred_point": [
+      48.425724029541016,
+      34.390411376953125
+    ],
+    "error": 47.158292388673544,
+    "normalized_error": 0.33345948337209014,
+    "score": 0.5393742918968201,
+    "best_label": "the charger",
+    "status": "ok"
+  },
+  {
+    "id": 76,
+    "label": "charger",
+    "prompt": "point to the charger.",
+    "filename": "charger_17.jpg",
+    "gt_point": [
+      59.523809523809526,
+      84.60317460317461
+    ],
+    "pred_point": [
+      59.453086853027344,
+      88.39520263671875
+    ],
+    "error": 3.792689775761848,
+    "normalized_error": 0.02681836659378089,
+    "score": 0.4061308801174164,
+    "best_label": "the charger",
+    "status": "ok"
+  },
+  {
+    "id": 77,
+    "label": "charger",
+    "prompt": "point to the charger.",
+    "filename": "charger_18.jpg",
+    "gt_point": [
+      34.60175769567017,
+      18.454702309201352
+    ],
+    "pred_point": [
+      50.070411682128906,
+      45.840274810791016
+    ],
+    "error": 31.45232743959002,
+    "normalized_error": 0.22240154016633826,
+    "score": 0.3223976790904999,
+    "best_label": "charger",
+    "status": "ok"
+  },
+  {
+    "id": 65,
+    "label": "charger",
+    "prompt": "point to the charger.",
+    "filename": "charger_6.jpg",
+    "gt_point": [
+      42.591702441530884,
+      65.98266231290712
+    ],
+    "pred_point": [
+      66.61217498779297,
+      49.652793884277344
+    ],
+    "error": 29.045617366198186,
+    "normalized_error": 0.20538353003388485,
+    "score": 0.4680401682853699,
+    "best_label": "the charger",
+    "status": "ok"
+  },
+  {
+    "id": 487,
+    "label": "cup",
+    "prompt": "point to the cup.",
+    "filename": "cup_6.jpg",
+    "gt_point": [
+      16.504749734415174,
+      20.84064665127021
+    ],
+    "pred_point": [
+      58.71607208251953,
+      58.6082649230957
+    ],
+    "error": 56.64087284428533,
+    "normalized_error": 0.4005114528051913,
+    "score": 0.4901256263256073,
+    "best_label": "cup",
+    "status": "ok"
+  },
+  {
+    "id": 499,
+    "label": "cup",
+    "prompt": "point to the cup.",
+    "filename": "cup_18.jpg",
+    "gt_point": [
+      15.178571428571427,
+      84.55357142857143
+    ],
+    "pred_point": [
+      12.915865898132324,
+      81.96507263183594
+    ],
+    "error": 3.4380481629695705,
+    "normalized_error": 0.024310671700817358,
+    "score": 0.5261465311050415,
+    "best_label": "cup",
+    "status": "ok"
+  },
+  {
+    "id": 497,
+    "label": "cup",
+    "prompt": "point to the cup.",
+    "filename": "cup_16.jpg",
+    "gt_point": [
+      64.30361865606812,
+      42.719353262056664
+    ],
+    "pred_point": [
+      61.9605712890625,
+      39.068138122558594
+    ],
+    "error": 4.338345685411988,
+    "normalized_error": 0.03067673653286217,
+    "score": 0.30293014645576477,
+    "best_label": "cup",
+    "status": "ok"
+  },
+  {
+    "id": 486,
+    "label": "cup",
+    "prompt": "point to the cup.",
+    "filename": "cup_5.jpg",
+    "gt_point": [
+      41.60125588697017,
+      62.32339089481946
+    ],
+    "pred_point": [
+      43.33216094970703,
+      56.18614959716797
+    ],
+    "error": 6.376657607050015,
+    "normalized_error": 0.045089778352498486,
+    "score": 0.7736937403678894,
+    "best_label": "cup",
+    "status": "ok"
+  },
+  {
+    "id": 865,
+    "label": "earbuds",
+    "prompt": "point to the earbuds.",
+    "filename": "earbuds_4.jpg",
+    "gt_point": [
+      27.042413272028654,
+      26.54305344357106
+    ],
+    "pred_point": [
+      48.81542205810547,
+      74.24669647216797
+    ],
+    "error": 52.43759777255486,
+    "normalized_error": 0.3707898097410614,
+    "score": 0.331046462059021,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 863,
+    "label": "earbuds",
+    "prompt": "point to the earbuds.",
+    "filename": "earbuds_2.jpg",
+    "gt_point": [
+      74.44631722205149,
+      89.66512376234843
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 881,
+    "label": "egg",
+    "prompt": "point to the egg.",
+    "filename": "egg_8.jpg",
+    "gt_point": [
+      36.4186513991583,
+      37.95677189071225
+    ],
+    "pred_point": [
+      30.400503158569336,
+      34.369285583496094
+    ],
+    "error": 7.006294690005776,
+    "normalized_error": 0.04954198486294384,
+    "score": 0.32453981041908264,
+    "best_label": "egg",
+    "status": "ok"
+  },
+  {
+    "id": 875,
+    "label": "egg",
+    "prompt": "point to the egg.",
+    "filename": "egg_2.jpg",
+    "gt_point": [
+      49.869305642599684,
+      16.952039048159172
+    ],
+    "pred_point": [
+      50.6854133605957,
+      17.55559730529785
+    ],
+    "error": 1.0150444131915326,
+    "normalized_error": 0.0071774478777325255,
+    "score": 0.3567112684249878,
+    "best_label": "egg",
+    "status": "ok"
+  },
+  {
+    "id": 876,
+    "label": "egg",
+    "prompt": "point to the egg.",
+    "filename": "egg_3.jpg",
+    "gt_point": [
+      39.166666666666664,
+      12.056016854628826
+    ],
+    "pred_point": [
+      37.230682373046875,
+      10.399800300598145
+    ],
+    "error": 2.547762476283667,
+    "normalized_error": 0.01801540123832811,
+    "score": 0.5315259099006653,
+    "best_label": "egg",
+    "status": "ok"
+  },
+  {
+    "id": 874,
+    "label": "egg",
+    "prompt": "point to the egg.",
+    "filename": "egg_1.jpg",
+    "gt_point": [
+      68.04242754161099,
+      57.681133902632276
+    ],
+    "pred_point": [
+      63.092403411865234,
+      64.1630859375
+    ],
+    "error": 8.155883780840801,
+    "normalized_error": 0.05767080728001908,
+    "score": 0.5961652398109436,
+    "best_label": "egg",
+    "status": "ok"
+  },
+  {
+    "id": 519,
+    "label": "fork",
+    "prompt": "point to the fork.",
+    "filename": "fork_18.jpg",
+    "gt_point": [
+      73.66639261014653,
+      59.084748339263385
+    ],
+    "pred_point": [
+      79.9585952758789,
+      59.41695022583008
+    ],
+    "error": 6.300969233963416,
+    "normalized_error": 0.04455458073383337,
+    "score": 0.6549693942070007,
+    "best_label": "fork",
+    "status": "ok"
+  },
+  {
+    "id": 505,
+    "label": "fork",
+    "prompt": "point to the fork.",
+    "filename": "fork_4.jpg",
+    "gt_point": [
+      27.042413272028654,
+      77.44417078221078
+    ],
+    "pred_point": [
+      32.75124740600586,
+      81.24944305419922
+    ],
+    "error": 6.860823563055598,
+    "normalized_error": 0.048513348659610635,
+    "score": 0.4415074586868286,
+    "best_label": "fork",
+    "status": "ok"
+  },
+  {
+    "id": 508,
+    "label": "fork",
+    "prompt": "point to the fork.",
+    "filename": "fork_7.jpg",
+    "gt_point": [
+      45.83333333333333,
+      18.839285714285715
+    ],
+    "pred_point": [
+      47.096954345703125,
+      14.602311134338379
+    ],
+    "error": 4.421389711527493,
+    "normalized_error": 0.03126394647289524,
+    "score": 0.3586827218532562,
+    "best_label": "fork",
+    "status": "ok"
+  },
+  {
+    "id": 515,
+    "label": "fork",
+    "prompt": "point to the fork.",
+    "filename": "fork_14.jpg",
+    "gt_point": [
+      96.74041511014003,
+      62.217921083886864
+    ],
+    "pred_point": [
+      94.26142120361328,
+      57.25048828125
+    ],
+    "error": 5.551650363818399,
+    "normalized_error": 0.039256096190327536,
+    "score": 0.42818281054496765,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 835,
+    "label": "glove",
+    "prompt": "point to the glove.",
+    "filename": "glove_14.jpg",
+    "gt_point": [
+      20.476190476190474,
+      68.90380313199105
+    ],
+    "pred_point": [
+      23.568201065063477,
+      68.86000061035156
+    ],
+    "error": 3.0923207382017472,
+    "normalized_error": 0.02186600963586246,
+    "score": 0.6102471351623535,
+    "best_label": "the glove",
+    "status": "ok"
+  },
+  {
+    "id": 826,
+    "label": "glove",
+    "prompt": "point to the glove.",
+    "filename": "glove_5.jpg",
+    "gt_point": [
+      67.66666594005767,
+      17.701641049473544
+    ],
+    "pred_point": [
+      36.57710647583008,
+      41.36689758300781
+    ],
+    "error": 39.07179264467846,
+    "normalized_error": 0.27627929532166806,
+    "score": 0.48089298605918884,
+    "best_label": "glove",
+    "status": "ok"
+  },
+  {
+    "id": 836,
+    "label": "glove",
+    "prompt": "point to the glove.",
+    "filename": "glove_15.jpg",
+    "gt_point": [
+      52.470438512976905,
+      34.62627438457517
+    ],
+    "pred_point": [
+      52.767189025878906,
+      35.425018310546875
+    ],
+    "error": 0.8520870518000889,
+    "normalized_error": 0.006025165324890959,
+    "score": 0.44057750701904297,
+    "best_label": "glove",
+    "status": "ok"
+  },
+  {
+    "id": 839,
+    "label": "glove",
+    "prompt": "point to the glove.",
+    "filename": "glove_18.jpg",
+    "gt_point": [
+      81.58640226628894,
+      60.534681327844076
+    ],
+    "pred_point": [
+      81.88096618652344,
+      60.986148834228516
+    ],
+    "error": 0.5390628317127036,
+    "normalized_error": 0.0038117498378967543,
+    "score": 0.5819352269172668,
+    "best_label": "glove",
+    "status": "ok"
+  },
+  {
+    "id": 83,
+    "label": "hairbrush",
+    "prompt": "point to the hairbrush.",
+    "filename": "hairbrush_4.jpg",
+    "gt_point": [
+      25.846994535519123,
+      56.145675265553876
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 104,
+    "label": "headphones",
+    "prompt": "point to the headphones.",
+    "filename": "headphones_20.jpg",
+    "gt_point": [
+      7.7976190476190474,
+      76.86063714498523
+    ],
+    "pred_point": [
+      8.473844528198242,
+      74.53462219238281
+    ],
+    "error": 2.422315299095814,
+    "normalized_error": 0.017128355741625703,
+    "score": 0.455733984708786,
+    "best_label": "headphones",
+    "status": "ok"
+  },
+  {
+    "id": 90,
+    "label": "headphones",
+    "prompt": "point to the headphones.",
+    "filename": "headphones_6.jpg",
+    "gt_point": [
+      85.41666666666666,
+      28.507502514522653
+    ],
+    "pred_point": [
+      78.5535888671875,
+      21.846141815185547
+    ],
+    "error": 9.564283416594744,
+    "normalized_error": 0.06762969661064185,
+    "score": 0.6764264106750488,
+    "best_label": "the headphones",
+    "status": "ok"
+  },
+  {
+    "id": 86,
+    "label": "headphones",
+    "prompt": "point to the headphones.",
+    "filename": "headphones_2.jpg",
+    "gt_point": [
+      12.274557690566128,
+      36.089839076136684
+    ],
+    "pred_point": [
+      85.79106140136719,
+      72.76486206054688
+    ],
+    "error": 82.15676112431343,
+    "normalized_error": 0.5809360291132535,
+    "score": 0.47104769945144653,
+    "best_label": "the headphones",
+    "status": "ok"
+  },
+  {
+    "id": 97,
+    "label": "headphones",
+    "prompt": "point to the headphones.",
+    "filename": "headphones_13.jpg",
+    "gt_point": [
+      71.99489669467566,
+      47.295102966415556
+    ],
+    "pred_point": [
+      72.74763488769531,
+      45.0633430480957
+    ],
+    "error": 2.3552835116450526,
+    "normalized_error": 0.016654369427010814,
+    "score": 0.35399410128593445,
+    "best_label": "headphones",
+    "status": "ok"
+  },
+  {
+    "id": 107,
+    "label": "highlighter",
+    "prompt": "point to the highlighter.",
+    "filename": "highlighter_3.jpg",
+    "gt_point": [
+      94.77283349322313,
+      64.12991326813065
+    ],
+    "pred_point": [
+      48.659523010253906,
+      60.35402297973633
+    ],
+    "error": 46.267643383024705,
+    "normalized_error": 0.32716164385657664,
+    "score": 0.30426114797592163,
+    "best_label": "highlighter",
+    "status": "ok"
+  },
+  {
+    "id": 126,
+    "label": "jar",
+    "prompt": "point to the jar.",
+    "filename": "jar_18.jpg",
+    "gt_point": [
+      20.25052871319343,
+      8.07983647949982
+    ],
+    "pred_point": [
+      57.3892822265625,
+      15.556962966918945
+    ],
+    "error": 37.88396365414313,
+    "normalized_error": 0.267880075980693,
+    "score": 0.5138739347457886,
+    "best_label": "the jar",
+    "status": "ok"
+  },
+  {
+    "id": 125,
+    "label": "jar",
+    "prompt": "point to the jar.",
+    "filename": "jar_17.jpg",
+    "gt_point": [
+      43.214285714285715,
+      30.8604844280999
+    ],
+    "pred_point": [
+      54.9232292175293,
+      42.81391906738281
+    ],
+    "error": 16.73271995929915,
+    "normalized_error": 0.1183181975091592,
+    "score": 0.7666232585906982,
+    "best_label": "jar",
+    "status": "ok"
+  },
+  {
+    "id": 124,
+    "label": "jar",
+    "prompt": "point to the jar.",
+    "filename": "jar_16.jpg",
+    "gt_point": [
+      43.154761904761905,
+      11.73866600278483
+    ],
+    "pred_point": [
+      22.120824813842773,
+      32.5756950378418
+    ],
+    "error": 29.607571267619832,
+    "normalized_error": 0.20935714417797968,
+    "score": 0.44178199768066406,
+    "best_label": "jar",
+    "status": "ok"
+  },
+  {
+    "id": 127,
+    "label": "jar",
+    "prompt": "point to the jar.",
+    "filename": "jar_19.jpg",
+    "gt_point": [
+      52.105502358601456,
+      62.17097016796189
+    ],
+    "pred_point": [
+      51.96522521972656,
+      53.179012298583984
+    ],
+    "error": 8.993052450119785,
+    "normalized_error": 0.06359048371045996,
+    "score": 0.752565860748291,
+    "best_label": "jar",
+    "status": "ok"
+  },
+  {
+    "id": 145,
+    "label": "kettle",
+    "prompt": "point to the kettle.",
+    "filename": "kettle_17.jpg",
+    "gt_point": [
+      2.1026854590598703,
+      62.92142387536012
+    ],
+    "pred_point": [
+      49.97337341308594,
+      51.68618392944336
+    ],
+    "error": 49.17147034707982,
+    "normalized_error": 0.3476948012333338,
+    "score": 0.7053797841072083,
+    "best_label": "kettle",
+    "status": "ok"
+  },
+  {
+    "id": 142,
+    "label": "kettle",
+    "prompt": "point to the kettle.",
+    "filename": "kettle_14.jpg",
+    "gt_point": [
+      8.407231815348034,
+      53.297436231409144
+    ],
+    "pred_point": [
+      57.771175384521484,
+      53.082252502441406
+    ],
+    "error": 49.36441490572308,
+    "normalized_error": 0.34905912529143074,
+    "score": 0.47221633791923523,
+    "best_label": "kettle",
+    "status": "ok"
+  },
+  {
+    "id": 131,
+    "label": "kettle",
+    "prompt": "point to the kettle.",
+    "filename": "kettle_3.jpg",
+    "gt_point": [
+      66.72619047619047,
+      41.904761904761905
+    ],
+    "pred_point": [
+      66.81908416748047,
+      44.022586822509766
+    ],
+    "error": 2.119860998671027,
+    "normalized_error": 0.014989680873331699,
+    "score": 0.6790827512741089,
+    "best_label": "kettle",
+    "status": "ok"
+  },
+  {
+    "id": 148,
+    "label": "kettle",
+    "prompt": "point to the kettle.",
+    "filename": "kettle_20.jpg",
+    "gt_point": [
+      36.78571428571429,
+      27.254591027674053
+    ],
+    "pred_point": [
+      34.77643966674805,
+      18.805818557739258
+    ],
+    "error": 8.684407294324174,
+    "normalized_error": 0.06140803288402541,
+    "score": 0.7353345155715942,
+    "best_label": "kettle",
+    "status": "ok"
+  },
+  {
+    "id": 151,
+    "label": "keyboard",
+    "prompt": "point to the keyboard.",
+    "filename": "keyboard_3.jpg",
+    "gt_point": [
+      20.270163269830714,
+      33.693693693693696
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 152,
+    "label": "keyboard",
+    "prompt": "point to the keyboard.",
+    "filename": "keyboard_4.jpg",
+    "gt_point": [
+      51.242865819781194,
+      57.22460831406983
+    ],
+    "pred_point": [
+      50.72974395751953,
+      57.79265213012695
+    ],
+    "error": 0.765485011167683,
+    "normalized_error": 0.005412796422933287,
+    "score": 0.403870552778244,
+    "best_label": "keyboard",
+    "status": "ok"
+  },
+  {
+    "id": 163,
+    "label": "keyboard",
+    "prompt": "point to the keyboard.",
+    "filename": "keyboard_15.jpg",
+    "gt_point": [
+      1.80538795467724,
+      91.18408957967745
+    ],
+    "pred_point": [
+      48.846961975097656,
+      80.95004272460938
+    ],
+    "error": 48.14193086917578,
+    "normalized_error": 0.34041485777008174,
+    "score": 0.34643658995628357,
+    "best_label": "keyboard",
+    "status": "ok"
+  },
+  {
+    "id": 149,
+    "label": "keyboard",
+    "prompt": "point to the keyboard.",
+    "filename": "keyboard_1.jpg",
+    "gt_point": [
+      13.093451168518937,
+      11.200203075140152
+    ],
+    "pred_point": [
+      23.36992835998535,
+      9.175270080566406
+    ],
+    "error": 10.474078925886664,
+    "normalized_error": 0.0740629223517757,
+    "score": 0.5732889175415039,
+    "best_label": "keyboard",
+    "status": "ok"
+  },
+  {
+    "id": 526,
+    "label": "keys",
+    "prompt": "point to the keys.",
+    "filename": "keys_5.jpg",
+    "gt_point": [
+      17.712600076672405,
+      71.36314118720964
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 525,
+    "label": "keys",
+    "prompt": "point to the keys.",
+    "filename": "keys_4.jpg",
+    "gt_point": [
+      46.66724551567544,
+      29.67854199108777
+    ],
+    "pred_point": [
+      50.311607360839844,
+      52.970184326171875
+    ],
+    "error": 23.575028789417733,
+    "normalized_error": 0.16670062723665363,
+    "score": 0.42290425300598145,
+    "best_label": "keys",
+    "status": "ok"
+  },
+  {
+    "id": 531,
+    "label": "keys",
+    "prompt": "point to the keys.",
+    "filename": "keys_10.jpg",
+    "gt_point": [
+      90.06928225094268,
+      36.095346197502835
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 539,
+    "label": "keys",
+    "prompt": "point to the keys.",
+    "filename": "keys_18.jpg",
+    "gt_point": [
+      43.214285714285715,
+      68.63701070240528
+    ],
+    "pred_point": [
+      50.26594924926758,
+      82.71995544433594
+    ],
+    "error": 15.74977232753352,
+    "normalized_error": 0.11136770814943187,
+    "score": 0.3862335979938507,
+    "best_label": "the keys",
+    "status": "ok"
+  },
+  {
+    "id": 555,
+    "label": "knife",
+    "prompt": "point to the knife.",
+    "filename": "knife_14.jpg",
+    "gt_point": [
+      45.714285714285715,
+      69.79686040980285
+    ],
+    "pred_point": [
+      52.50360870361328,
+      77.06269073486328
+    ],
+    "error": 9.944203928543548,
+    "normalized_error": 0.07031614031375048,
+    "score": 0.7245063781738281,
+    "best_label": "knife",
+    "status": "ok"
+  },
+  {
+    "id": 544,
+    "label": "knife",
+    "prompt": "point to the knife.",
+    "filename": "knife_3.jpg",
+    "gt_point": [
+      48.194520050807476,
+      37.584542125347795
+    ],
+    "pred_point": [
+      55.55050277709961,
+      46.49812698364258
+    ],
+    "error": 11.55692433132622,
+    "normalized_error": 0.08171979564340576,
+    "score": 0.5600592494010925,
+    "best_label": "the knife",
+    "status": "ok"
+  },
+  {
+    "id": 543,
+    "label": "knife",
+    "prompt": "point to the knife.",
+    "filename": "knife_2.jpg",
+    "gt_point": [
+      39.339826674688425,
+      57.83112607786247
+    ],
+    "pred_point": [
+      41.888267517089844,
+      63.393802642822266
+    ],
+    "error": 6.1186518566766726,
+    "normalized_error": 0.04326540219575734,
+    "score": 0.6037420630455017,
+    "best_label": "knife",
+    "status": "ok"
+  },
+  {
+    "id": 550,
+    "label": "knife",
+    "prompt": "point to the knife.",
+    "filename": "knife_9.jpg",
+    "gt_point": [
+      58.63005455394823,
+      49.740990990990994
+    ],
+    "pred_point": [
+      59.029884338378906,
+      47.19541549682617
+    ],
+    "error": 2.576783264584987,
+    "normalized_error": 0.01822060920036054,
+    "score": 0.4051762521266937,
+    "best_label": "knife",
+    "status": "ok"
+  },
+  {
+    "id": 180,
+    "label": "laptop",
+    "prompt": "point to the laptop.",
+    "filename": "laptop_12.jpg",
+    "gt_point": [
+      68.80952380952381,
+      71.15852341556405
+    ],
+    "pred_point": [
+      60.170806884765625,
+      66.0240249633789
+    ],
+    "error": 10.049403796375069,
+    "normalized_error": 0.07106001571298645,
+    "score": 0.7184624075889587,
+    "best_label": "laptop",
+    "status": "ok"
+  },
+  {
+    "id": 170,
+    "label": "laptop",
+    "prompt": "point to the laptop.",
+    "filename": "laptop_2.jpg",
+    "gt_point": [
+      55.350457971985,
+      81.4206648146837
+    ],
+    "pred_point": [
+      54.40347671508789,
+      79.60877990722656
+    ],
+    "error": 2.044428170987106,
+    "normalized_error": 0.014456290233537932,
+    "score": 0.48728808760643005,
+    "best_label": "laptop",
+    "status": "ok"
+  },
+  {
+    "id": 186,
+    "label": "laptop",
+    "prompt": "point to the laptop.",
+    "filename": "laptop_18.jpg",
+    "gt_point": [
+      54.09099991674925,
+      75.22510524326123
+    ],
+    "pred_point": [
+      57.190521240234375,
+      74.53724670410156
+    ],
+    "error": 3.1749305477205514,
+    "normalized_error": 0.022450149200895213,
+    "score": 0.5796620845794678,
+    "best_label": "laptop",
+    "status": "ok"
+  },
+  {
+    "id": 173,
+    "label": "laptop",
+    "prompt": "point to the laptop.",
+    "filename": "laptop_5.jpg",
+    "gt_point": [
+      40.18240369620403,
+      22.822908891805096
+    ],
+    "pred_point": [
+      36.84282302856445,
+      13.071587562561035
+    ],
+    "error": 10.307330321165097,
+    "normalized_error": 0.07288383166025554,
+    "score": 0.7199878096580505,
+    "best_label": "laptop",
+    "status": "ok"
+  },
+  {
+    "id": 567,
+    "label": "marker",
+    "prompt": "point to the marker.",
+    "filename": "marker_6.jpg",
+    "gt_point": [
+      59.92063492063492,
+      86.93037482502982
+    ],
+    "pred_point": [
+      60.417823791503906,
+      84.56798553466797
+    ],
+    "error": 2.414141014822254,
+    "normalized_error": 0.01707055482321389,
+    "score": 0.546435534954071,
+    "best_label": "the marker",
+    "status": "ok"
+  },
+  {
+    "id": 569,
+    "label": "marker",
+    "prompt": "point to the marker.",
+    "filename": "marker_8.jpg",
+    "gt_point": [
+      18.974974913848257,
+      69.6407087841545
+    ],
+    "pred_point": [
+      22.27241325378418,
+      70.88117218017578
+    ],
+    "error": 3.5230447419157254,
+    "normalized_error": 0.024911688274322195,
+    "score": 0.6255961060523987,
+    "best_label": "marker",
+    "status": "ok"
+  },
+  {
+    "id": 566,
+    "label": "marker",
+    "prompt": "point to the marker.",
+    "filename": "marker_5.jpg",
+    "gt_point": [
+      71.2202380952381,
+      41.05670621097172
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 581,
+    "label": "marker",
+    "prompt": "point to the marker.",
+    "filename": "marker_20.jpg",
+    "gt_point": [
+      77.55411329723539,
+      24.25121852329799
+    ],
+    "pred_point": [
+      96.11368560791016,
+      60.42477035522461
+    ],
+    "error": 40.656901536862414,
+    "normalized_error": 0.2874877077874918,
+    "score": 0.39186418056488037,
+    "best_label": "marker",
+    "status": "ok"
+  },
+  {
+    "id": 200,
+    "label": "mouse",
+    "prompt": "point to the mouse.",
+    "filename": "mouse_12.jpg",
+    "gt_point": [
+      75.58683267810277,
+      41.28664339397631
+    ],
+    "pred_point": [
+      76.34558868408203,
+      41.05573654174805
+    ],
+    "error": 0.7931158746746014,
+    "normalized_error": 0.005608176132491106,
+    "score": 0.3580646216869354,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 203,
+    "label": "mouse",
+    "prompt": "point to the mouse.",
+    "filename": "mouse_15.jpg",
+    "gt_point": [
+      45.53652684702573,
+      58.811247838233946
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 195,
+    "label": "mouse",
+    "prompt": "point to the mouse.",
+    "filename": "mouse_7.jpg",
+    "gt_point": [
+      56.1111086890811,
+      70.38917089678512
+    ],
+    "pred_point": [
+      55.24581527709961,
+      69.3258056640625
+    ],
+    "error": 1.3709370667574503,
+    "normalized_error": 0.009693988964841877,
+    "score": 0.4397485554218292,
+    "best_label": "mouse",
+    "status": "ok"
+  },
+  {
+    "id": 196,
+    "label": "mouse",
+    "prompt": "point to the mouse.",
+    "filename": "mouse_8.jpg",
+    "gt_point": [
+      42.66666594005766,
+      41.57614949620472
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 585,
+    "label": "mug",
+    "prompt": "point to the mug.",
+    "filename": "mug_4.jpg",
+    "gt_point": [
+      46.839738744512516,
+      76.00775328855
+    ],
+    "pred_point": [
+      52.5219612121582,
+      52.67649459838867
+    ],
+    "error": 24.013229538550075,
+    "normalized_error": 0.16979917444897866,
+    "score": 0.736796498298645,
+    "best_label": "mug",
+    "status": "ok"
+  },
+  {
+    "id": 582,
+    "label": "mug",
+    "prompt": "point to the mug.",
+    "filename": "mug_1.jpg",
+    "gt_point": [
+      83.21428571428572,
+      50.357142857142854
+    ],
+    "pred_point": [
+      81.59646606445312,
+      51.77577209472656
+    ],
+    "error": 2.151708935067092,
+    "normalized_error": 0.015214879791256254,
+    "score": 0.38253945112228394,
+    "best_label": "mug",
+    "status": "ok"
+  },
+  {
+    "id": 592,
+    "label": "mug",
+    "prompt": "point to the mug.",
+    "filename": "mug_11.jpg",
+    "gt_point": [
+      48.82132744284072,
+      71.92636068621621
+    ],
+    "pred_point": [
+      45.94401168823242,
+      73.07813262939453
+    ],
+    "error": 3.099277682906409,
+    "normalized_error": 0.021915202663632522,
+    "score": 0.3954286575317383,
+    "best_label": "mug",
+    "status": "ok"
+  },
+  {
+    "id": 599,
+    "label": "mug",
+    "prompt": "point to the mug.",
+    "filename": "mug_18.jpg",
+    "gt_point": [
+      43.392857142857146,
+      73.61113938480956
+    ],
+    "pred_point": [
+      53.78849411010742,
+      60.59485626220703
+    ],
+    "error": 16.658116906983178,
+    "normalized_error": 0.11779067426726081,
+    "score": 0.66810142993927,
+    "best_label": "the mug",
+    "status": "ok"
+  },
+  {
+    "id": 209,
+    "label": "notebook",
+    "prompt": "point to the notebook.",
+    "filename": "notebook_1.jpg",
+    "gt_point": [
+      94.27935797281172,
+      79.94138686366405
+    ],
+    "pred_point": [
+      76.44305419921875,
+      64.33296966552734
+    ],
+    "error": 23.70139841066543,
+    "normalized_error": 0.16759419539785586,
+    "score": 0.42392697930336,
+    "best_label": "notebook",
+    "status": "ok"
+  },
+  {
+    "id": 222,
+    "label": "notebook",
+    "prompt": "point to the notebook.",
+    "filename": "notebook_14.jpg",
+    "gt_point": [
+      52.023809523809526,
+      91.34207589285714
+    ],
+    "pred_point": [
+      46.93408966064453,
+      91.24150085449219
+    ],
+    "error": 5.090715499082869,
+    "normalized_error": 0.03599679450492956,
+    "score": 0.5080946683883667,
+    "best_label": "notebook",
+    "status": "ok"
+  },
+  {
+    "id": 210,
+    "label": "notebook",
+    "prompt": "point to the notebook.",
+    "filename": "notebook_2.jpg",
+    "gt_point": [
+      44.42877233118866,
+      48.31419719336614
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 217,
+    "label": "notebook",
+    "prompt": "point to the notebook.",
+    "filename": "notebook_9.jpg",
+    "gt_point": [
+      39.85089346906708,
+      87.61645080663486
+    ],
+    "pred_point": [
+      49.588497161865234,
+      50.20204162597656
+    ],
+    "error": 38.66081596922458,
+    "normalized_error": 0.27337325138043866,
+    "score": 0.4405107796192169,
+    "best_label": "the notebook",
+    "status": "ok"
+  },
+  {
+    "id": 233,
+    "label": "onion",
+    "prompt": "point to the onion.",
+    "filename": "onion_5.jpg",
+    "gt_point": [
+      85.73815820809084,
+      71.14550845641135
+    ],
+    "pred_point": [
+      48.654762268066406,
+      49.612060546875
+    ],
+    "error": 42.8820204255962,
+    "normalized_error": 0.30322167433919117,
+    "score": 0.42193517088890076,
+    "best_label": "onion",
+    "status": "ok"
+  },
+  {
+    "id": 238,
+    "label": "onion",
+    "prompt": "point to the onion.",
+    "filename": "onion_10.jpg",
+    "gt_point": [
+      20.312964808021523,
+      74.83781437201161
+    ],
+    "pred_point": [
+      48.654762268066406,
+      49.612060546875
+    ],
+    "error": 37.94201090356506,
+    "normalized_error": 0.2682905320176478,
+    "score": 0.42193517088890076,
+    "best_label": "onion",
+    "status": "ok"
+  },
+  {
+    "id": 241,
+    "label": "onion",
+    "prompt": "point to the onion.",
+    "filename": "onion_13.jpg",
+    "gt_point": [
+      43.24293735204582,
+      35.03799936861025
+    ],
+    "pred_point": [
+      48.654762268066406,
+      49.612060546875
+    ],
+    "error": 15.546418119071923,
+    "normalized_error": 0.10992977675157167,
+    "score": 0.42193517088890076,
+    "best_label": "onion",
+    "status": "ok"
+  },
+  {
+    "id": 239,
+    "label": "onion",
+    "prompt": "point to the onion.",
+    "filename": "onion_11.jpg",
+    "gt_point": [
+      19.689867728020864,
+      57.71084480087578
+    ],
+    "pred_point": [
+      48.654762268066406,
+      49.612060546875
+    ],
+    "error": 30.07582884904473,
+    "normalized_error": 0.21266822528965523,
+    "score": 0.42193517088890076,
+    "best_label": "onion",
+    "status": "ok"
+  },
+  {
+    "id": 799,
+    "label": "pan",
+    "prompt": "point to the pan.",
+    "filename": "pan_18.jpg",
+    "gt_point": [
+      82.8193561300057,
+      36.95150115473441
+    ],
+    "pred_point": [
+      45.44700241088867,
+      49.875831604003906
+    ],
+    "error": 39.54404282875219,
+    "normalized_error": 0.27961860839741937,
+    "score": 0.6561193466186523,
+    "best_label": "pan",
+    "status": "ok"
+  },
+  {
+    "id": 796,
+    "label": "pan",
+    "prompt": "point to the pan.",
+    "filename": "pan_15.jpg",
+    "gt_point": [
+      54.75012805164516,
+      10.603043280692637
+    ],
+    "pred_point": [
+      50.06395721435547,
+      59.29909896850586
+    ],
+    "error": 48.921019135758506,
+    "normalized_error": 0.34592384373451696,
+    "score": 0.6509154438972473,
+    "best_label": "pan",
+    "status": "ok"
+  },
+  {
+    "id": 792,
+    "label": "pan",
+    "prompt": "point to the pan.",
+    "filename": "pan_11.jpg",
+    "gt_point": [
+      26.488095238095237,
+      16.666666666666664
+    ],
+    "pred_point": [
+      49.96303939819336,
+      51.8534049987793
+    ],
+    "error": 42.29869316372995,
+    "normalized_error": 0.2990969277140251,
+    "score": 0.4940778613090515,
+    "best_label": "pan",
+    "status": "ok"
+  },
+  {
+    "id": 800,
+    "label": "pan",
+    "prompt": "point to the pan.",
+    "filename": "pan_19.jpg",
+    "gt_point": [
+      8.869047619047619,
+      86.42857142857143
+    ],
+    "pred_point": [
+      11.365999221801758,
+      78.05016326904297
+    ],
+    "error": 8.742570174963433,
+    "normalized_error": 0.061819306557159046,
+    "score": 0.48591381311416626,
+    "best_label": "pan",
+    "status": "ok"
+  },
+  {
+    "id": 617,
+    "label": "pen",
+    "prompt": "point to the pen.",
+    "filename": "pen_16.jpg",
+    "gt_point": [
+      44.66985080506179,
+      52.81382500321213
+    ],
+    "pred_point": [
+      40.96696090698242,
+      55.14104461669922
+    ],
+    "error": 4.3734814869589265,
+    "normalized_error": 0.03092518416822482,
+    "score": 0.4152800142765045,
+    "best_label": "pen",
+    "status": "ok"
+  },
+  {
+    "id": 609,
+    "label": "pen",
+    "prompt": "point to the pen.",
+    "filename": "pen_8.jpg",
+    "gt_point": [
+      7.965044281032969,
+      56.02564891246783
+    ],
+    "pred_point": [
+      7.946582317352295,
+      50.05070114135742
+    ],
+    "error": 5.974977450148675,
+    "normalized_error": 0.04224947072436835,
+    "score": 0.5656406879425049,
+    "best_label": "the pen",
+    "status": "ok"
+  },
+  {
+    "id": 603,
+    "label": "pen",
+    "prompt": "point to the pen.",
+    "filename": "pen_2.jpg",
+    "gt_point": [
+      62.61904761904762,
+      55.3326970370422
+    ],
+    "pred_point": [
+      49.88246536254883,
+      49.25022888183594
+    ],
+    "error": 14.11442561700783,
+    "normalized_error": 0.09980406066339356,
+    "score": 0.43345150351524353,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 602,
+    "label": "pen",
+    "prompt": "point to the pen.",
+    "filename": "pen_1.jpg",
+    "gt_point": [
+      45.90558766859345,
+      52.909543302030656
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 623,
+    "label": "phone",
+    "prompt": "point to the phone.",
+    "filename": "phone_2.jpg",
+    "gt_point": [
+      43.60210004464904,
+      38.133949191685915
+    ],
+    "pred_point": [
+      40.79863739013672,
+      54.82023239135742
+    ],
+    "error": 16.920149020357172,
+    "normalized_error": 0.11964352110981476,
+    "score": 0.5156043171882629,
+    "best_label": "phone",
+    "status": "ok"
+  },
+  {
+    "id": 636,
+    "label": "phone",
+    "prompt": "point to the phone.",
+    "filename": "phone_15.jpg",
+    "gt_point": [
+      29.488003259728252,
+      67.51901061251776
+    ],
+    "pred_point": [
+      29.360469818115234,
+      69.11447143554688
+    ],
+    "error": 1.6005480274787105,
+    "normalized_error": 0.011317583638449487,
+    "score": 0.3970663249492645,
+    "best_label": "phone",
+    "status": "ok"
+  },
+  {
+    "id": 638,
+    "label": "phone",
+    "prompt": "point to the phone.",
+    "filename": "phone_17.jpg",
+    "gt_point": [
+      56.961546114805905,
+      39.89268838355732
+    ],
+    "pred_point": [
+      58.991783142089844,
+      34.17690658569336
+    ],
+    "error": 6.065642810541857,
+    "normalized_error": 0.04289057163589576,
+    "score": 0.38073480129241943,
+    "best_label": "phone",
+    "status": "ok"
+  },
+  {
+    "id": 627,
+    "label": "phone",
+    "prompt": "point to the phone.",
+    "filename": "phone_6.jpg",
+    "gt_point": [
+      41.19676605386477,
+      26.219885043414454
+    ],
+    "pred_point": [
+      48.99610900878906,
+      26.39940643310547
+    ],
+    "error": 7.8014088752117345,
+    "normalized_error": 0.055164291184711334,
+    "score": 0.5234792828559875,
+    "best_label": "phone",
+    "status": "ok"
+  },
+  {
+    "id": 650,
+    "label": "plate",
+    "prompt": "point to the plate.",
+    "filename": "plate_9.jpg",
+    "gt_point": [
+      40.27647184968905,
+      67.36190583646298
+    ],
+    "pred_point": [
+      44.475460052490234,
+      62.56749725341797
+    ],
+    "error": 6.373216566561729,
+    "normalized_error": 0.045065446521862444,
+    "score": 0.671217679977417,
+    "best_label": "plate",
+    "status": "ok"
+  },
+  {
+    "id": 656,
+    "label": "plate",
+    "prompt": "point to the plate.",
+    "filename": "plate_15.jpg",
+    "gt_point": [
+      84.82142857142857,
+      86.78571428571429
+    ],
+    "pred_point": [
+      89.74258422851562,
+      86.4023666381836
+    ],
+    "error": 4.936066238255648,
+    "normalized_error": 0.03490325909456542,
+    "score": 0.4061802327632904,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 657,
+    "label": "plate",
+    "prompt": "point to the plate.",
+    "filename": "plate_16.jpg",
+    "gt_point": [
+      62.32142857142857,
+      88.4126984126984
+    ],
+    "pred_point": [
+      49.574859619140625,
+      51.07328414916992
+    ],
+    "error": 39.455123711748456,
+    "normalized_error": 0.27898985529131476,
+    "score": 0.7290221452713013,
+    "best_label": "plate",
+    "status": "ok"
+  },
+  {
+    "id": 647,
+    "label": "plate",
+    "prompt": "point to the plate.",
+    "filename": "plate_6.jpg",
+    "gt_point": [
+      78.22955141361348,
+      84.07236223336102
+    ],
+    "pred_point": [
+      49.90275573730469,
+      49.97101974487305
+    ],
+    "error": 44.331808040069404,
+    "normalized_error": 0.3134732208739338,
+    "score": 0.5933210253715515,
+    "best_label": "the plate",
+    "status": "ok"
+  },
+  {
+    "id": 766,
+    "label": "pot",
+    "prompt": "point to the pot.",
+    "filename": "pot_5.jpg",
+    "gt_point": [
+      58.0952380952381,
+      91.26984126984127
+    ],
+    "pred_point": [
+      45.86746597290039,
+      77.75068664550781
+    ],
+    "error": 18.228713908067885,
+    "normalized_error": 0.12889647216704334,
+    "score": 0.46329712867736816,
+    "best_label": "pot",
+    "status": "ok"
+  },
+  {
+    "id": 764,
+    "label": "pot",
+    "prompt": "point to the pot.",
+    "filename": "pot_3.jpg",
+    "gt_point": [
+      14.410491154274402,
+      25.190107598735295
+    ],
+    "pred_point": [
+      32.53451156616211,
+      26.27713394165039
+    ],
+    "error": 18.156588684179756,
+    "normalized_error": 0.12838646981798438,
+    "score": 0.3665165603160858,
+    "best_label": "pot",
+    "status": "ok"
+  },
+  {
+    "id": 779,
+    "label": "pot",
+    "prompt": "point to the pot.",
+    "filename": "pot_18.jpg",
+    "gt_point": [
+      74.33333260672434,
+      91.38808350895431
+    ],
+    "pred_point": [
+      40.3993034362793,
+      29.683757781982422
+    ],
+    "error": 70.41975846885943,
+    "normalized_error": 0.4979428874284931,
+    "score": 0.47996804118156433,
+    "best_label": "the pot",
+    "status": "ok"
+  },
+  {
+    "id": 772,
+    "label": "pot",
+    "prompt": "point to the pot.",
+    "filename": "pot_11.jpg",
+    "gt_point": [
+      49.23858716547148,
+      44.7305719624293
+    ],
+    "pred_point": [
+      53.41992950439453,
+      43.237037658691406
+    ],
+    "error": 4.440075838626948,
+    "normalized_error": 0.031396077344756614,
+    "score": 0.5919070243835449,
+    "best_label": "pot",
+    "status": "ok"
+  },
+  {
+    "id": 267,
+    "label": "remote",
+    "prompt": "point to the remote.",
+    "filename": "remote_19.jpg",
+    "gt_point": [
+      23.92857142857143,
+      38.57142857142858
+    ],
+    "pred_point": [
+      23.339778900146484,
+      38.54249572753906
+    ],
+    "error": 0.5895033352994518,
+    "normalized_error": 0.004168418059223294,
+    "score": 0.3321518003940582,
+    "best_label": "point remote",
+    "status": "ok"
+  },
+  {
+    "id": 249,
+    "label": "remote",
+    "prompt": "point to the remote.",
+    "filename": "remote_1.jpg",
+    "gt_point": [
+      52.5824255950073,
+      65.08777987861305
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 261,
+    "label": "remote",
+    "prompt": "point to the remote.",
+    "filename": "remote_13.jpg",
+    "gt_point": [
+      75.48290122030218,
+      74.43974473780082
+    ],
+    "pred_point": [
+      73.397216796875,
+      74.562255859375
+    ],
+    "error": 2.0892807817226213,
+    "normalized_error": 0.014773446085587965,
+    "score": 0.45655182003974915,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 262,
+    "label": "remote",
+    "prompt": "point to the remote.",
+    "filename": "remote_14.jpg",
+    "gt_point": [
+      65.83333333333333,
+      86.391711496314
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 280,
+    "label": "scissor",
+    "prompt": "point to the scissor.",
+    "filename": "scissor_12.jpg",
+    "gt_point": [
+      68.0476484866172,
+      75.1465670102465
+    ],
+    "pred_point": [
+      51.201568603515625,
+      46.7642822265625
+    ],
+    "error": 33.005219017935254,
+    "normalized_error": 0.2333821418212922,
+    "score": 0.5900400876998901,
+    "best_label": "scissor",
+    "status": "ok"
+  },
+  {
+    "id": 286,
+    "label": "scissor",
+    "prompt": "point to the scissor.",
+    "filename": "scissor_18.jpg",
+    "gt_point": [
+      30.2183380875527,
+      47.937413520046185
+    ],
+    "pred_point": [
+      21.4755859375,
+      83.40763092041016
+    ],
+    "error": 36.53179466552903,
+    "normalized_error": 0.2583187973691012,
+    "score": 0.3891843259334564,
+    "best_label": "scissor",
+    "status": "ok"
+  },
+  {
+    "id": 279,
+    "label": "scissor",
+    "prompt": "point to the scissor.",
+    "filename": "scissor_11.jpg",
+    "gt_point": [
+      57.69878960806114,
+      71.00714123095409
+    ],
+    "pred_point": [
+      48.19639205932617,
+      54.14241027832031
+    ],
+    "error": 19.357550263327887,
+    "normalized_error": 0.13687855058358586,
+    "score": 0.683978796005249,
+    "best_label": "the scissor",
+    "status": "ok"
+  },
+  {
+    "id": 281,
+    "label": "scissor",
+    "prompt": "point to the scissor.",
+    "filename": "scissor_13.jpg",
+    "gt_point": [
+      81.7960945696895,
+      38.563321165070334
+    ],
+    "pred_point": [
+      80.47563171386719,
+      38.61520767211914
+    ],
+    "error": 1.3214841530867618,
+    "normalized_error": 0.009344304058782109,
+    "score": 0.48954206705093384,
+    "best_label": "scissor",
+    "status": "ok"
+  },
+  {
+    "id": 663,
+    "label": "shoe",
+    "prompt": "point to the shoe.",
+    "filename": "shoe_2.jpg",
+    "gt_point": [
+      72.26594005449591,
+      72.17345811777017
+    ],
+    "pred_point": [
+      72.11123657226562,
+      72.4041519165039
+    ],
+    "error": 0.27775950901568214,
+    "normalized_error": 0.001964056323640348,
+    "score": 0.5070095658302307,
+    "best_label": "shoe",
+    "status": "ok"
+  },
+  {
+    "id": 667,
+    "label": "shoe",
+    "prompt": "point to the shoe.",
+    "filename": "shoe_6.jpg",
+    "gt_point": [
+      58.1972227094122,
+      91.60306176798397
+    ],
+    "pred_point": [
+      58.322723388671875,
+      91.4151611328125
+    ],
+    "error": 0.22596068033837424,
+    "normalized_error": 0.001597783293487902,
+    "score": 0.4413747191429138,
+    "best_label": "shoe",
+    "status": "ok"
+  },
+  {
+    "id": 676,
+    "label": "shoe",
+    "prompt": "point to the shoe.",
+    "filename": "shoe_15.jpg",
+    "gt_point": [
+      49.935065678187776,
+      85.92373244215237
+    ],
+    "pred_point": [
+      50.273929595947266,
+      85.6032943725586
+    ],
+    "error": 0.46637614295183466,
+    "normalized_error": 0.0032977773326486894,
+    "score": 0.4462803304195404,
+    "best_label": "shoe",
+    "status": "ok"
+  },
+  {
+    "id": 666,
+    "label": "shoe",
+    "prompt": "point to the shoe.",
+    "filename": "shoe_5.jpg",
+    "gt_point": [
+      24.000000726609002,
+      79.87301538860987
+    ],
+    "pred_point": [
+      55.757598876953125,
+      74.29353332519531
+    ],
+    "error": 32.244003803032896,
+    "normalized_error": 0.22799953741729387,
+    "score": 0.3771216869354248,
+    "best_label": "shoe",
+    "status": "ok"
+  },
+  {
+    "id": 809,
+    "label": "sock",
+    "prompt": "point to the sock.",
+    "filename": "sock_8.jpg",
+    "gt_point": [
+      31.278665637594404,
+      98.8223054162261
+    ],
+    "pred_point": [
+      35.15595245361328,
+      97.70613098144531
+    ],
+    "error": 4.034748540556457,
+    "normalized_error": 0.028529980534099966,
+    "score": 0.33549293875694275,
+    "best_label": "sock",
+    "status": "ok"
+  },
+  {
+    "id": 813,
+    "label": "sock",
+    "prompt": "point to the sock.",
+    "filename": "sock_12.jpg",
+    "gt_point": [
+      54.285714285714285,
+      53.69047619047619
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 803,
+    "label": "sock",
+    "prompt": "point to the sock.",
+    "filename": "sock_2.jpg",
+    "gt_point": [
+      30.428572155180433,
+      71.69841221400671
+    ],
+    "pred_point": [
+      81.3615951538086,
+      67.59107971191406
+    ],
+    "error": 51.09836322828134,
+    "normalized_error": 0.3613199914625106,
+    "score": 0.3798343539237976,
+    "best_label": "sock",
+    "status": "ok"
+  },
+  {
+    "id": 819,
+    "label": "sock",
+    "prompt": "point to the sock.",
+    "filename": "sock_18.jpg",
+    "gt_point": [
+      12.710921859607868,
+      90.25783007440734
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 899,
+    "label": "spatula",
+    "prompt": "point to the spatula.",
+    "filename": "spatula_6.jpg",
+    "gt_point": [
+      31.521160923464752,
+      50.63078330769978
+    ],
+    "pred_point": [
+      96.3027572631836,
+      2.9833664894104004
+    ],
+    "error": 80.41723472381402,
+    "normalized_error": 0.5686357199747919,
+    "score": 0.3371776342391968,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 905,
+    "label": "spatula",
+    "prompt": "point to the spatula.",
+    "filename": "spatula_12.jpg",
+    "gt_point": [
+      50.945940771444356,
+      44.7447410789696
+    ],
+    "pred_point": [
+      49.182151794433594,
+      50.972694396972656
+    ],
+    "error": 6.472895524017343,
+    "normalized_error": 0.04577028318944714,
+    "score": 0.6657711267471313,
+    "best_label": "the spatula",
+    "status": "ok"
+  },
+  {
+    "id": 902,
+    "label": "spatula",
+    "prompt": "point to the spatula.",
+    "filename": "spatula_9.jpg",
+    "gt_point": [
+      22.738095238095237,
+      47.14285714285714
+    ],
+    "pred_point": [
+      25.14723014831543,
+      46.7242317199707
+    ],
+    "error": 2.445236643629235,
+    "normalized_error": 0.017290434123160656,
+    "score": 0.614973247051239,
+    "best_label": "spatula",
+    "status": "ok"
+  },
+  {
+    "id": 908,
+    "label": "spatula",
+    "prompt": "point to the spatula.",
+    "filename": "spatula_15.jpg",
+    "gt_point": [
+      63.616348773841956,
+      39.99302447247573
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 685,
+    "label": "spoon",
+    "prompt": "point to the spoon.",
+    "filename": "spoon_4.jpg",
+    "gt_point": [
+      13.333333333333334,
+      95.66707302977387
+    ],
+    "pred_point": [
+      33.433799743652344,
+      93.94538116455078
+    ],
+    "error": 20.174068553273717,
+    "normalized_error": 0.14265220678142126,
+    "score": 0.3404844403266907,
+    "best_label": "spoon",
+    "status": "ok"
+  },
+  {
+    "id": 689,
+    "label": "spoon",
+    "prompt": "point to the spoon.",
+    "filename": "spoon_8.jpg",
+    "gt_point": [
+      67.54492201982254,
+      62.641192318149244
+    ],
+    "pred_point": [
+      62.38569641113281,
+      57.72499465942383
+    ],
+    "error": 7.126472990130022,
+    "normalized_error": 0.0503917737726371,
+    "score": 0.6211014986038208,
+    "best_label": "the spoon",
+    "status": "ok"
+  },
+  {
+    "id": 700,
+    "label": "spoon",
+    "prompt": "point to the spoon.",
+    "filename": "spoon_19.jpg",
+    "gt_point": [
+      93.45888439458258,
+      45.55753867222326
+    ],
+    "pred_point": [
+      93.69933319091797,
+      49.554054260253906
+    ],
+    "error": 4.003743803869259,
+    "normalized_error": 0.028310743938495756,
+    "score": 0.48243361711502075,
+    "best_label": "spoon",
+    "status": "ok"
+  },
+  {
+    "id": 684,
+    "label": "spoon",
+    "prompt": "point to the spoon.",
+    "filename": "spoon_3.jpg",
+    "gt_point": [
+      29.619047074090865,
+      59.031479819424625
+    ],
+    "pred_point": [
+      21.79207992553711,
+      57.13637924194336
+    ],
+    "error": 8.053124943157014,
+    "normalized_error": 0.05694419257048854,
+    "score": 0.5386530756950378,
+    "best_label": "spoon",
+    "status": "ok"
+  },
+  {
+    "id": 288,
+    "label": "stapler",
+    "prompt": "point to the stapler.",
+    "filename": "stapler_2.jpg",
+    "gt_point": [
+      86.69642857142857,
+      55.63492063492064
+    ],
+    "pred_point": [
+      86.27257537841797,
+      55.060935974121094
+    ],
+    "error": 0.7135192190013152,
+    "normalized_error": 0.0050453427826275925,
+    "score": 0.5106344819068909,
+    "best_label": "stapler",
+    "status": "ok"
+  },
+  {
+    "id": 294,
+    "label": "stapler",
+    "prompt": "point to the stapler.",
+    "filename": "stapler_8.jpg",
+    "gt_point": [
+      60.297619047619044,
+      35.0432080305287
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 300,
+    "label": "stapler",
+    "prompt": "point to the stapler.",
+    "filename": "stapler_14.jpg",
+    "gt_point": [
+      81.96428571428571,
+      58.58197633255791
+    ],
+    "pred_point": [
+      39.3429069519043,
+      69.99031066894531
+    ],
+    "error": 44.12178663272899,
+    "normalized_error": 0.31198814526068636,
+    "score": 0.6063422560691833,
+    "best_label": "stapler",
+    "status": "ok"
+  },
+  {
+    "id": 852,
+    "label": "t-shirt",
+    "prompt": "point to the t-shirt.",
+    "filename": "t-shirt_11.jpg",
+    "gt_point": [
+      93.1513203120932,
+      22.84322903773423
+    ],
+    "pred_point": [
+      51.47567367553711,
+      57.054073333740234
+    ],
+    "error": 53.91884363762589,
+    "normalized_error": 0.381263799699024,
+    "score": 0.5644934773445129,
+    "best_label": "the t - shirt",
+    "status": "ok"
+  },
+  {
+    "id": 850,
+    "label": "t-shirt",
+    "prompt": "point to the t-shirt.",
+    "filename": "t-shirt_9.jpg",
+    "gt_point": [
+      50.623830483983625,
+      47.91400770673059
+    ],
+    "pred_point": [
+      46.63261032104492,
+      51.11436080932617
+    ],
+    "error": 5.115865242454602,
+    "normalized_error": 0.036174630045762095,
+    "score": 0.5911882519721985,
+    "best_label": "the t - shirt",
+    "status": "ok"
+  },
+  {
+    "id": 855,
+    "label": "t-shirt",
+    "prompt": "point to the t-shirt.",
+    "filename": "t-shirt_14.jpg",
+    "gt_point": [
+      51.09797231444833,
+      69.8080029995991
+    ],
+    "pred_point": [
+      49.8953857421875,
+      49.87692642211914
+    ],
+    "error": 19.96732789708251,
+    "normalized_error": 0.14119032958202368,
+    "score": 0.6896152496337891,
+    "best_label": "the t - shirt",
+    "status": "ok"
+  },
+  {
+    "id": 856,
+    "label": "t-shirt",
+    "prompt": "point to the t-shirt.",
+    "filename": "t-shirt_15.jpg",
+    "gt_point": [
+      81.30952380952381,
+      56.785714285714285
+    ],
+    "pred_point": [
+      43.25325012207031,
+      49.9290885925293
+    ],
+    "error": 38.669022937759074,
+    "normalized_error": 0.27343128341147593,
+    "score": 0.3813799023628235,
+    "best_label": "t - shirt",
+    "status": "ok"
+  },
+  {
+    "id": 320,
+    "label": "tape",
+    "prompt": "point to the tape.",
+    "filename": "tape_19.jpg",
+    "gt_point": [
+      35.38633201845882,
+      58.68777957731972
+    ],
+    "pred_point": [
+      66.19213104248047,
+      32.061851501464844
+    ],
+    "error": 40.71777567426019,
+    "normalized_error": 0.28791815294102024,
+    "score": 0.35021835565567017,
+    "best_label": "tape",
+    "status": "ok"
+  },
+  {
+    "id": 312,
+    "label": "tape",
+    "prompt": "point to the tape.",
+    "filename": "tape_11.jpg",
+    "gt_point": [
+      68.50444294691971,
+      66.31570151249268
+    ],
+    "pred_point": [
+      58.8003044128418,
+      50.91724395751953
+    ],
+    "error": 18.20117680025285,
+    "normalized_error": 0.12870175541034057,
+    "score": 0.5854683518409729,
+    "best_label": "tape",
+    "status": "ok"
+  },
+  {
+    "id": 310,
+    "label": "tape",
+    "prompt": "point to the tape.",
+    "filename": "tape_9.jpg",
+    "gt_point": [
+      38.97538585182019,
+      48.73601963794311
+    ],
+    "pred_point": [
+      50.89372253417969,
+      47.65612030029297
+    ],
+    "error": 11.96715883679163,
+    "normalized_error": 0.08462059165031877,
+    "score": 0.5851882696151733,
+    "best_label": "the tape",
+    "status": "ok"
+  },
+  {
+    "id": 313,
+    "label": "tape",
+    "prompt": "point to the tape.",
+    "filename": "tape_12.jpg",
+    "gt_point": [
+      91.71702457109122,
+      25.471315283888895
+    ],
+    "pred_point": [
+      38.66429901123047,
+      61.07005310058594
+    ],
+    "error": 63.88945187233081,
+    "normalized_error": 0.4517666466521668,
+    "score": 0.36286190152168274,
+    "best_label": "the tape",
+    "status": "ok"
+  },
+  {
+    "id": 714,
+    "label": "tomato",
+    "prompt": "point to the tomato.",
+    "filename": "tomato_13.jpg",
+    "gt_point": [
+      42.142857142857146,
+      67.02380952380952
+    ],
+    "pred_point": [
+      50.20402526855469,
+      69.64385223388672
+    ],
+    "error": 8.476264125653001,
+    "normalized_error": 0.05993623842377499,
+    "score": 0.3829535245895386,
+    "best_label": "the tomato",
+    "status": "ok"
+  },
+  {
+    "id": 709,
+    "label": "tomato",
+    "prompt": "point to the tomato.",
+    "filename": "tomato_8.jpg",
+    "gt_point": [
+      39.107142857142854,
+      68.33333333333333
+    ],
+    "pred_point": [
+      50.53569030761719,
+      67.7867431640625
+    ],
+    "error": 11.441610296063757,
+    "normalized_error": 0.08090440228040505,
+    "score": 0.44980454444885254,
+    "best_label": "tomato",
+    "status": "ok"
+  },
+  {
+    "id": 711,
+    "label": "tomato",
+    "prompt": "point to the tomato.",
+    "filename": "tomato_10.jpg",
+    "gt_point": [
+      50.92905275333182,
+      46.87060832080363
+    ],
+    "pred_point": [
+      46.17340087890625,
+      69.4269027709961
+    ],
+    "error": 23.052171001678452,
+    "normalized_error": 0.1630034643635872,
+    "score": 0.34518763422966003,
+    "best_label": "tomato",
+    "status": "ok"
+  },
+  {
+    "id": 704,
+    "label": "tomato",
+    "prompt": "point to the tomato.",
+    "filename": "tomato_3.jpg",
+    "gt_point": [
+      45.334595952253025,
+      28.511747026959807
+    ],
+    "pred_point": [
+      44.68855285644531,
+      26.54169273376465
+    ],
+    "error": 2.0732788715180726,
+    "normalized_error": 0.01466029549341222,
+    "score": 0.30144789814949036,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 329,
+    "label": "toothbrush",
+    "prompt": "point to the toothbrush.",
+    "filename": "toothbrush_8.jpg",
+    "gt_point": [
+      75.35714285714286,
+      61.904761904761905
+    ],
+    "pred_point": [
+      75.07880401611328,
+      61.32360076904297
+    ],
+    "error": 0.6443751753058505,
+    "normalized_error": 0.004556420560870372,
+    "score": 0.5437947511672974,
+    "best_label": "toothbrush",
+    "status": "ok"
+  },
+  {
+    "id": 341,
+    "label": "toothbrush",
+    "prompt": "point to the toothbrush.",
+    "filename": "toothbrush_20.jpg",
+    "gt_point": [
+      28.944537245884554,
+      63.131219903894944
+    ],
+    "pred_point": [
+      38.791542053222656,
+      49.602943420410156
+    ],
+    "error": 16.732536663731683,
+    "normalized_error": 0.11831690141377202,
+    "score": 0.3517330586910248,
+    "best_label": "toothbrush",
+    "status": "ok"
+  },
+  {
+    "id": 331,
+    "label": "toothbrush",
+    "prompt": "point to the toothbrush.",
+    "filename": "toothbrush_10.jpg",
+    "gt_point": [
+      31.071428571428573,
+      71.43507972665148
+    ],
+    "pred_point": [
+      45.96229553222656,
+      65.27459716796875
+    ],
+    "error": 16.11488486338504,
+    "normalized_error": 0.11394944364940011,
+    "score": 0.7975340485572815,
+    "best_label": "toothbrush",
+    "status": "ok"
+  },
+  {
+    "id": 330,
+    "label": "toothbrush",
+    "prompt": "point to the toothbrush.",
+    "filename": "toothbrush_9.jpg",
+    "gt_point": [
+      91.81321825746679,
+      12.946147622044412
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 727,
+    "label": "tray",
+    "prompt": "point to the tray.",
+    "filename": "tray_6.jpg",
+    "gt_point": [
+      32.410714285714285,
+      57.803094241185285
+    ],
+    "pred_point": [
+      33.270294189453125,
+      57.43611526489258
+    ],
+    "error": 0.9346401144685376,
+    "normalized_error": 0.006608903629096739,
+    "score": 0.3891686499118805,
+    "best_label": "the tray",
+    "status": "ok"
+  },
+  {
+    "id": 733,
+    "label": "tray",
+    "prompt": "point to the tray.",
+    "filename": "tray_12.jpg",
+    "gt_point": [
+      38.27380952380952,
+      12.738095238095237
+    ],
+    "pred_point": [
+      58.668357849121094,
+      9.44141960144043
+    ],
+    "error": 20.65927401985229,
+    "normalized_error": 0.1460831275382862,
+    "score": 0.5844494104385376,
+    "best_label": "tray",
+    "status": "ok"
+  },
+  {
+    "id": 729,
+    "label": "tray",
+    "prompt": "point to the tray.",
+    "filename": "tray_8.jpg",
+    "gt_point": [
+      7.723048472785971,
+      41.98211748976352
+    ],
+    "pred_point": [
+      49.92831802368164,
+      49.83997344970703
+    ],
+    "error": 42.93053272029637,
+    "normalized_error": 0.30356470806472524,
+    "score": 0.6481327414512634,
+    "best_label": "the tray",
+    "status": "ok"
+  },
+  {
+    "id": 731,
+    "label": "tray",
+    "prompt": "point to the tray.",
+    "filename": "tray_10.jpg",
+    "gt_point": [
+      71.15762390385004,
+      77.58084093256873
+    ],
+    "pred_point": [
+      53.20770263671875,
+      49.436851501464844
+    ],
+    "error": 33.380889944346336,
+    "normalized_error": 0.2360385364168913,
+    "score": 0.6849377155303955,
+    "best_label": "tray",
+    "status": "ok"
+  },
+  {
+    "id": 352,
+    "label": "umbrella",
+    "prompt": "point to the umbrella.",
+    "filename": "umbrella_11.jpg",
+    "gt_point": [
+      53.739142503679496,
+      71.95319606591981
+    ],
+    "pred_point": [
+      54.60423278808594,
+      71.85771942138672
+    ],
+    "error": 0.8703419130789498,
+    "normalized_error": 0.006154246686889981,
+    "score": 0.5739068388938904,
+    "best_label": "umbrella",
+    "status": "ok"
+  },
+  {
+    "id": 356,
+    "label": "umbrella",
+    "prompt": "point to the umbrella.",
+    "filename": "umbrella_15.jpg",
+    "gt_point": [
+      40.65871824621353,
+      63.39770120131498
+    ],
+    "pred_point": [
+      48.4332160949707,
+      68.85963439941406
+    ],
+    "error": 9.501343481534681,
+    "normalized_error": 0.06718464406175773,
+    "score": 0.5100418329238892,
+    "best_label": "the umbrella",
+    "status": "ok"
+  },
+  {
+    "id": 361,
+    "label": "umbrella",
+    "prompt": "point to the umbrella.",
+    "filename": "umbrella_20.jpg",
+    "gt_point": [
+      14.404761904761903,
+      55.595238095238095
+    ],
+    "pred_point": [
+      49.93405532836914,
+      49.647274017333984
+    ],
+    "error": 36.02372807435399,
+    "normalized_error": 0.25472622404995915,
+    "score": 0.330903023481369,
+    "best_label": "umbrella",
+    "status": "ok"
+  },
+  {
+    "id": 357,
+    "label": "umbrella",
+    "prompt": "point to the umbrella.",
+    "filename": "umbrella_16.jpg",
+    "gt_point": [
+      68.37301526750838,
+      60.78704515150242
+    ],
+    "pred_point": [
+      73.5419692993164,
+      38.741416931152344
+    ],
+    "error": 22.643493175813774,
+    "normalized_error": 0.1601136757436923,
+    "score": 0.33769088983535767,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 375,
+    "label": "wallet",
+    "prompt": "point to the wallet.",
+    "filename": "wallet_14.jpg",
+    "gt_point": [
+      37.142857142857146,
+      77.1881461061337
+    ],
+    "pred_point": [
+      40.194480895996094,
+      76.02217102050781
+    ],
+    "error": 3.2667897168812825,
+    "normalized_error": 0.023099691615172366,
+    "score": 0.4735106825828552,
+    "best_label": "the wallet",
+    "status": "ok"
+  },
+  {
+    "id": 365,
+    "label": "wallet",
+    "prompt": "point to the wallet.",
+    "filename": "wallet_4.jpg",
+    "gt_point": [
+      67.67996552352852,
+      37.18515896891405
+    ],
+    "pred_point": [
+      61.72323226928711,
+      49.29482650756836
+    ],
+    "error": 13.495432893552358,
+    "normalized_error": 0.09542712114078863,
+    "score": 0.3453401029109955,
+    "best_label": "the wallet",
+    "status": "ok"
+  },
+  {
+    "id": 369,
+    "label": "wallet",
+    "prompt": "point to the wallet.",
+    "filename": "wallet_8.jpg",
+    "gt_point": [
+      13.988910308065567,
+      18.868615593459158
+    ],
+    "pred_point": [
+      50.052947998046875,
+      49.876346588134766
+    ],
+    "error": 47.56147851235546,
+    "normalized_error": 0.3363104397934481,
+    "score": 0.4129927456378937,
+    "best_label": "the wallet",
+    "status": "ok"
+  },
+  {
+    "id": 364,
+    "label": "wallet",
+    "prompt": "point to the wallet.",
+    "filename": "wallet_3.jpg",
+    "gt_point": [
+      54.312281057284906,
+      71.26987016392935
+    ],
+    "pred_point": [
+      49.99555969238281,
+      50.646339416503906
+    ],
+    "error": 21.070452991281712,
+    "normalized_error": 0.14899060192807673,
+    "score": 0.6747145056724548,
+    "best_label": "wallet",
+    "status": "ok"
+  },
+  {
+    "id": 389,
+    "label": "watch",
+    "prompt": "point to the watch.",
+    "filename": "watch_8.jpg",
+    "gt_point": [
+      65.0,
+      74.37749321689705
+    ],
+    "pred_point": [
+      49.73747253417969,
+      73.41143035888672
+    ],
+    "error": 15.29307102057119,
+    "normalized_error": 0.10813834223813364,
+    "score": 0.47127625346183777,
+    "best_label": "the watch",
+    "status": "ok"
+  },
+  {
+    "id": 387,
+    "label": "watch",
+    "prompt": "point to the watch.",
+    "filename": "watch_6.jpg",
+    "gt_point": [
+      43.392857142857146,
+      56.53598014888338
+    ],
+    "pred_point": null,
+    "error": null,
+    "normalized_error": null,
+    "score": null,
+    "best_label": null,
+    "status": "no_detection"
+  },
+  {
+    "id": 384,
+    "label": "watch",
+    "prompt": "point to the watch.",
+    "filename": "watch_3.jpg",
+    "gt_point": [
+      59.6820809248555,
+      92.12082296599513
+    ],
+    "pred_point": [
+      59.961700439453125,
+      90.96675872802734
+    ],
+    "error": 1.1874598446130122,
+    "normalized_error": 0.00839660908512585,
+    "score": 0.46574926376342773,
+    "best_label": "point",
+    "status": "ok"
+  },
+  {
+    "id": 390,
+    "label": "watch",
+    "prompt": "point to the watch.",
+    "filename": "watch_9.jpg",
+    "gt_point": [
+      52.61904761904762,
+      54.172867063492056
+    ],
+    "pred_point": [
+      52.332950592041016,
+      55.2384033203125
+    ],
+    "error": 1.1032770759861208,
+    "normalized_error": 0.007801347019574518,
+    "score": 0.32274898886680603,
+    "best_label": "point",
+    "status": "ok"
+  }
+]
