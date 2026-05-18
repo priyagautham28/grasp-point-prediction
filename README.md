@@ -104,7 +104,7 @@ $$S_{rate} = \frac{1}{N} \sum_{i=1}^{N} \mathbf{1}[E_{pixel, i} < \tau]\tag{3}$$
 where $N$ is the total number of evaluated samples, $\tau$ is the acceptable pixel error threshold (e.g., `SUCCESS_THRESHOLD = 50`), and $\mathbf{1}[\cdot]$ is the indicator function which equals $1$ if the condition is met and $0$ otherwise.
 
 ## Project Architecture
-![Project Architecture](outputs/florence2_inference_outputs/introductory_figure.png)
+![Project Architecture](outputs/grasp_pipeline_diagram_v3.svg)
 
 ## 📊 Preliminary Results
 ![Comparative evaluation of all three models](outputs/evaluation/fig_combined_4panel.png)
