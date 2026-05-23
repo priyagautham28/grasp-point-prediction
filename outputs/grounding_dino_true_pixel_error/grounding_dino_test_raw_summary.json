@@ -1,0 +1,10 @@
+{
+  "split": "test",
+  "prompt_template": "point to the {label}.",
+  "num_samples": 183,
+  "num_valid": 162,
+  "mean_error": 215.3543276734404,
+  "mean_normalized_error": 0.12625134017557813,
+  "success_rate": 0.32786885245901637,
+  "detection_rate": 0.8852459016393442
+}
