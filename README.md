@@ -132,22 +132,36 @@ FLORENCE-2:
 
 ## 📚 Bibliography
 
-[1] M. Hickner, ENGR 521 A SP 26 Machine Learning for Engineering Project. UW Canvas: Course Materials, 2026.
+[1] M. Hickner, *ENGR 521 A SP 26 Machine Learning for Engineering Project*. UW Canvas: Course Materials, 2026.
 
-[2] M. Hickner, ENGR 510 A AU 25 Foundations Of Machine Learning For Engineering. UW Canvas: Course Materials, 2025.
+[2] M. Hickner, *ENGR 510 A AU 25 Foundations Of Machine Learning For Engineering*. UW Canvas: Course Materials, 2025.
 
-[3] S. Fresca, ENGR 515 A Wi 26 Data-Driven Optimization. UW Canvas: Course Materials, 2026.
+[3] S. Fresca, *ENGR 515 A Wi 26 Data-Driven Optimization*. UW Canvas: Course Materials, 2026.
 
-[4] S. Fresca, ENGR 520 A Sp 26 Physics-Informed Machine Learning. UW Canvas: Course Materials, 2026.
+[4] S. Fresca, *ENGR 520 A Sp 26 Physics-Informed Machine Learning*. UW Canvas: Course Materials, 2026.
 
-[5] S. L. Brunton and J. N. Kutz, Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. Cambridge: Cambridge University Press, 2021.
+[5] S. L. Brunton and J. N. Kutz, *Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control*. Cambridge University Press, 2021.
 
-[6] S. L. Brunton. Optimization: A Bootcamp for Machine Learning, Inverse Problems, and Control. Course Manuscript, University of Washington, 2025.
+[6] S. L. Brunton, "Optimization: A Bootcamp for Machine Learning, Inverse Problems, and Control." Course Manuscript, University of Washington, 2025.
 
-[7] S. Brunton, "Physics Informed Machine Learning: High Level Overview of AI and ML in Science and Engineering," 2024. [Online]. Available: https://www.youtube.com/watch?v=JoFW2uSd3Uo.
+[7] AllenAI, "pixmo-points," Hugging Face, 2024. [Online]. Available: [https://huggingface.co/datasets/allenai/pixmo-points](https://huggingface.co/datasets/allenai/pixmo-points)
 
-[8] AllenAI, "pixmo-points," Hugging Face, 2024. [Online]. Available: https://huggingface.co/datasets/allenai/pixmo-points.
+[8] A. Radford et al., "Learning Transferable Visual Models From Natural Language Supervision," in *Proc. ICML*, 2021. [Online]. Available: [https://arxiv.org/abs/2103.00020](https://arxiv.org/abs/2103.00020)
 
-[9] Ultralytics, "How to Run Microsoft Florence-2 with Ultralytics for Visual Reasoning, OCR & Object Detection Tasks," 2025. [Online]. Available: https://www.youtube.com/watch?v=ojoYESWLw5Q | [Colab Notebook](https://github.com/ultralytics/notebooks/blob/main/notebooks/how-to-use-florence-2-for-object-detection-image-captioning-ocr-and-segmentation.ipynb)
+[9] A. Dosovitskiy et al., "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale," in *Proc. ICLR*, 2021. [Online]. Available: [https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
 
-[10] A. Deshpande et al., "GraspMoLMo: Language-Guided Grasp Point Selection with Vision-Language Models," arXiv preprint, 2025. [Online]. Available:https://arxiv.org/abs/2505.13441
+[10] B. K. Rameshbabu, S. S. Balakrishna, B. Flynn, V. Kapoor, A. Norton, H. Yanco, and B. Calli, "A Benchmarking Study of Vision-based Robotic Grasping Algorithms," *arXiv preprint arXiv:2503.11163*, 2025. [Online]. Available: [https://arxiv.org/abs/2503.11163](https://arxiv.org/abs/2503.11163)
+
+[11] S. Liu et al., "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection," *arXiv preprint arXiv:2303.05499*, 2023. [Online]. Available: [https://arxiv.org/abs/2303.05499](https://arxiv.org/abs/2303.05499)
+
+[12] B. Xiao et al., "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks," *arXiv preprint arXiv:2311.06242*, 2023. [Online]. Available: [https://arxiv.org/abs/2311.06242](https://arxiv.org/abs/2311.06242)
+
+[13] Ultralytics, "How to Run Microsoft Florence-2 with Ultralytics for Visual Reasoning, OCR & Object Detection Tasks," 2025. [Online]. Available: [YouTube Video](https://www.youtube.com/watch?v=ojoYESWLw5Q) | [Colab Notebook](https://colab.research.google.com/github/ultralytics/notebooks/blob/main/notebooks/how-to-use-florence-2-for-object-detection-image-captioning-ocr-and-segmentation.ipynb) | [GitHub Repo](https://github.com/ultralytics/notebooks/blob/main/notebooks/how-to-use-florence-2-for-object-detection-image-captioning-ocr-and-segmentation.ipynb)
+
+[14] A. Deshpande et al., "GraspMoLMo: Language-Guided Grasp Point Selection with Vision-Language Models," *arXiv preprint arXiv:2505.13441*, 2025. [Online]. Available: [https://arxiv.org/abs/2505.13441](https://arxiv.org/abs/2505.13441)
+
+[15] G. Tziafas and H. Kasaei, "Towards Open-World Grasping with Large Vision-Language Models," *arXiv preprint arXiv:2406.18722*, 2024. [Online]. Available: [https://arxiv.org/abs/2406.18722](https://arxiv.org/abs/2406.18722)
+
+[16] McKnight's Senior Living, "US healthcare spending for NFs and CCRCs to reach $337.4 billion by 2032, CMS says," [Online]. Available: [https://www.mcknightsseniorliving.com/news/us-healthcare-spending-for-nfs-and-ccrcs-to-reach-337-4-billion-by-2032-cms-says/](https://www.mcknightsseniorliving.com/news/us-healthcare-spending-for-nfs-and-ccrcs-to-reach-337-4-billion-by-2032-cms-says/)
+
+[17] Atlassian, "Git Cheat Sheet," [Online]. Available: [https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
