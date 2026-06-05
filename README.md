@@ -11,7 +11,7 @@ However, the deployment of VLMs in assistive robotics involves critical safety r
 
 This project pursues three concrete objectives:
 
-1. **Benchmark** three vision-language architectures - a supervised [CLIP](https://arxiv.org/abs/2103.00020)-based regression head, and two zero-shot models ([Grounding DINO](https://arxiv.org/abs/2303.05499) and [Florence-2 (https://arxiv.org/abs/2311.06242)) - on the task of predicting precise (x, y) grasp-relevant pixel coordinates from RGB images alone.
+1. **Benchmark** three vision-language architectures - a supervised [CLIP](https://arxiv.org/abs/2103.00020)-based regression head, and two zero-shot models ([Grounding DINO](https://arxiv.org/abs/2303.05499) and [Florence-2] (https://arxiv.org/abs/2311.06242)) - on the task of predicting precise (x, y) grasp-relevant pixel coordinates from RGB images alone.
 2. **Evaluate** whether natural language prompt variation (e.g., *"point to"* versus *"grasp the"*) causes statistically meaningful shifts in predicted interaction points, testing whether these models genuinely understand language or merely respond to visual patterns.
 3. **Establish** a reproducible evaluation framework using pixel error, normalized error, and success rate across 48 object categories that future work can build on as models and datasets improve.
 
