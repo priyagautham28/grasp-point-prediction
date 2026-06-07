@@ -129,19 +129,27 @@ Our final comparative study builds upon the preliminary data, evaluating the zer
 
 ![Final Report Project Architecture](outputs/florence2_final_report/pipeline_diagram.png)
 
+**Figure 1: Unified Evaluation Pipeline.** This diagram illustrates how each input image and natural language label is preprocessed from the PixMo-Points dataset and passed in parallel through all three models, with outputs parsed into a standardized JSON format storing predicted coordinates, pixel error, and derived metrics for comparative analysis.
+
 ### 2. Final Model Architectures
 
 **CLIP Architecture:**
 
 ![CLIP Architecture](outputs/florence2_final_report/clip_arch.png)
 
+**Figure 2: Four CLIP architecture variants evaluated progressively.** The final design (Arch 04, Patch-16) achieves **6.0%** success rate and 267px mean error, selected as the CLIP baseline for comparative evaluation.
+
 **Florence-2 Architecture:**
 
 ![Florence-2 Architecture](outputs/florence2_final_report/florence2_project_architecture.png)
 
+**Figure 3: Architecture and evaluation pipeline for Florence-2 zero-shot grasp point prediction.** The model processes images and text prompts (utilizing the `<CAPTION_TO_PHRASE_GROUNDING>` prefix) into joint embeddings. These are decoded by a sequence-to-sequence transformer into location tokens. Dual-prompting was implemented to evaluate sensitivity. Adapted from Ultralytics [[13]](https://colab.research.google.com/github/ultralytics/notebooks/blob/main/notebooks/how-to-use-florence-2-for-object-detection-image-captioning-ocr-and-segmentation.ipynb).
+
 **Grounding DINO Architecture:**
 
 ![Grounding DINO Architecture](outputs/florence2_final_report/Grounding_DINO_Workflow.png)
+
+**Figure 4: GroundingDINO-based grasp-point prediction pipeline.** The model takes a text prompt and image as input, detects the prompted object with bounding boxes and confidence scores, and uses the center of the highest-confidence box as the predicted grasp point. Performance is evaluated against the ground-truth point using Euclidean distance.
 
 ### 3. Quantitative Evaluation
 
@@ -153,7 +161,11 @@ Grounding DINO achieved a dominant **32.8% success rate** with a best-case media
 
 ![Success Rate](outputs/florence2_final_report/fig1_success_rate.png)
 
+**Figure 5:** Overall grasp point localization success rate for CLIP, Grounding DINO, and Florence-2 on the 183-image test set.
+
 ![Pixel Error](outputs/florence2_final_report/fig4_pixel_error.png)
+
+**Figure 6:** Localization pixel error across best, typical, and worst-case prediction scenarios for all three models.
 
 **Threshold Sweep & Prompt Sensitivity:**
 
@@ -161,13 +173,19 @@ All three models demonstrated stable performance regardless of prompt phrasing (
 
 ![Prompt Sensitivity](outputs/florence2_final_report/fig2_prompt_sensitivity.png)
 
+**Figure 7:** Success rate under two prompt phrasings for each model evaluated on the validation set.
+
 ![Threshold Sweep](outputs/florence2_final_report/fig5_threshold_sweep.png)
+
+**Figure 8:** Success rate as a function of distance threshold for all three models on the test set.
 
 ### 4. Per-Category Breakdown
 
 Per-category analysis revealed a shared limitation across all architectures: **small textureless objects** like earbuds, keys, and tape caused consistent failures. On the other hand, models excelled on large, distinctive geometries, with Grounding DINO demonstrating exceptional category-specific performance (achieving a **100% success rate on bottles**). This suggests object structure, rather than model architecture, is the primary determinant of baseline difficulty.
 
 ![Per Category](outputs/florence2_final_report/fig3_per_category.png)
+
+**Figure 9:** Per-category success rate for the 10 easiest and 8 hardest object categories, ranked by average success rate across all three models.
 
 ## 🎓 Academic Context
 
