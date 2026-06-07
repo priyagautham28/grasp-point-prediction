@@ -11,8 +11,10 @@ However, the deployment of VLMs in assistive robotics involves critical safety r
 
 This project pursues three concrete objectives:
 
-1. **Benchmark** three vision-language architectures - a supervised [CLIP](https://arxiv.org/abs/2103.00020)-based regression head, and two zero-shot models ([Grounding DINO](https://arxiv.org/abs/2303.05499) and [Florence-2] (https://arxiv.org/abs/2311.06242)) - on the task of predicting precise (x, y) grasp-relevant pixel coordinates from RGB images alone.
+1. **Benchmark** three vision-language architectures - a supervised [CLIP](https://arxiv.org/abs/2103.00020)-based regression head, and two zero-shot models ([Grounding DINO](https://arxiv.org/abs/2303.05499) and [Florence-2](https://arxiv.org/abs/2311.06242)) - on the task of predicting precise (x, y) grasp-relevant pixel coordinates from RGB images alone.
+   
 2. **Evaluate** whether natural language prompt variation (e.g., *"point to"* versus *"grasp the"*) causes statistically meaningful shifts in predicted interaction points, testing whether these models genuinely understand language or merely respond to visual patterns.
+
 3. **Establish** a reproducible evaluation framework using pixel error, normalized error, and success rate across 48 object categories that future work can build on as models and datasets improve.
 
 We draw on **GraspMoLMo** ([Deshpande et al., 2025](https://arxiv.org/abs/2505.13441)) as a motivating reference, as it demonstrates that natural language instructions can guide semantically meaningful grasp point selection (e.g., grasping a teapot handle vs. its body). While GraspMoLMo relies on RGB-D (depth) input and a large-scale synthetic dataset, our work investigates how much language-guided grasp localization is achievable from **RGB images alone**, using real-world annotations from [PixMo-Points](https://huggingface.co/datasets/allenai/pixmo-points) a deliberate simplification to isolate the role of visual-language grounding without depth sensing.
@@ -123,7 +125,11 @@ FLORENCE-2:
 
 Our final comparative study builds upon the preliminary data, evaluating the zero-shot spatial localization capabilities of Grounding DINO and Florence-2 against the supervised CLIP baseline across 183 test samples. **Our results demonstrate that spatial pretraining is the fundamental determinant of pixel-precise localization performance.**
 
-### 1. Final Model Architectures
+### 1. Final Project Architecture
+
+![Final Report Project Architecture](outputs/florence2_final_report/pipeline_diagram.png)
+
+### 2. Final Model Architectures
 
 **CLIP Architecture:**
 
@@ -137,7 +143,7 @@ Our final comparative study builds upon the preliminary data, evaluating the zer
 
 ![Grounding DINO Architecture](outputs/florence2_final_report/Grounding_DINO_Workflow.png)
 
-### 2. Quantitative Evaluation
+### 3. Quantitative Evaluation
 
 Our evaluation isolated success rate (at a $\tau = 50$ px threshold), median pixel error, and prompt sensitivity to determine readiness for real-world deployment for robotic manipulation.
 
@@ -157,7 +163,7 @@ All three models demonstrated stable performance regardless of prompt phrasing (
 
 ![Threshold Sweep](outputs/florence2_final_report/fig5_threshold_sweep.png)
 
-### 3. Per-Category Breakdown
+### 4. Per-Category Breakdown
 
 Per-category analysis revealed a shared limitation across all architectures: **small textureless objects** like earbuds, keys, and tape caused consistent failures. On the other hand, models excelled on large, distinctive geometries, with Grounding DINO demonstrating exceptional category-specific performance (achieving a **100% success rate on bottles**). This suggests object structure, rather than model architecture, is the primary determinant of baseline difficulty.
 
