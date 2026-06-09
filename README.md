@@ -121,6 +121,16 @@ CLIP:
 FLORENCE-2:
 ![Data visualization of FLORENCE-2](outputs/florence2_preliminary_results/florence2_data_visualization.png)
 
+**Florence-2 Data Visualization: Outlier Analysis of Prompt Sensitivity**
+
+Task-oriented "Grasp..." phrasing does not globally improve localization accuracy  compared to the baseline “Point to” natural language prompts.
+Instead, phrasing impacted pixel error metrics unevenly - reducing error for specific objects (e.g., bag: 1098.5 px vs. 668.8 px) while worsening it for others (e.g., tape, remote).
+
+The graphic presents an outlier analysis isolating the 10 everyday objects with the highest inter-prompt variance. This uneven performance highlights a core structural limitation in Florence-2's zero-shot pipeline: the centroid bottleneck. 
+
+To predict the grasp point, the model relies on bounding-box centroid extraction. Because of this rigid methodology, it struggles heavily with objects where the natural human grasp affordance (like a bag's handle) is located far from the geometric center.
+While our hypothesis testing demonstrated that Florence-2 is robust to semantic prompt shifts globally, this outlier subset reveals that task-oriented language can improve localized spatial accuracy. However, even when these prompts shift the bounding box closer to the target, the centroid bottleneck still forces the predicted coordinate into empty space on non-convex everyday objects.
+
 ## 📊 Final Report Findings
 
 Our final comparative study builds upon the preliminary data, evaluating the zero-shot spatial localization capabilities of Grounding DINO and Florence-2 against the supervised CLIP baseline across 183 test samples. **Our results demonstrate that spatial pretraining is the fundamental determinant of pixel-precise localization performance.**
